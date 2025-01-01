@@ -8,7 +8,7 @@ import Header from "@/components/Header"
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html>
-      <body className="sm:mx-24 md:mx-96">
+      <body className="sm:mx-24 md:mx-36 lg:mx-48">
         <Header />
         <main>{children}</main>
       </body>
