@@ -16,7 +16,7 @@ export type Article = {
 
 export async function fetchArticles(category?: string, page: number = 1) {
   const articles = await articlesData
-  const itemsPerPage = 6
+  const itemsPerPage = 10
   
   const filtered = category ? 
     articles.filter(article => article.category.toLowerCase() === category.toLowerCase()) : 

@@ -17,7 +17,6 @@ export default async function CategoryPage({ params }: PageParams) {
 
     return (
         <div>
-            <h1>Category: {category}</h1>
             <p>Page: {page}</p>
             <ArticleList articles={articles} />
         </div>

@@ -3,9 +3,8 @@ import Link from 'next/link'
 import { Article } from '@/lib/fetchArticles'
 
 export default function ArticleList({ articles }: { articles: Article[] }) {
-    console.log(articles.map(article => article.articleUrl))
     return (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 p-4">
+        <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 gap-4 p-4">
             {articles.map(article => (
                 <Link key={article.id} href={`/article/${article.articleUrl}`}>
                     <article className="border rounded-lg overflow-hidden hover:shadow-lg transition">
@@ -14,7 +13,7 @@ export default function ArticleList({ articles }: { articles: Article[] }) {
                         alt={article.alt}
                         width={400}
                         height={250}
-                        className="w-full h-48 object-cover"
+                        className="w-full h72 object-cover"
                     />
                     <div className="p-4">
                         <h2 className="text-xl font-bold mb-2">{article.header}</h2>
