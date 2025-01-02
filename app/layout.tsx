@@ -17,4 +17,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   )
 }
 
-// <body className="sm:mx-24 md:mx-36 lg:mx-48">
+export const metadata: Metadata = {
+  icons: {
+    icon: '/logo.svg',
+  },
+}
+

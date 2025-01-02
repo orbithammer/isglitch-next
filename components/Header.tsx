@@ -56,7 +56,7 @@ const Header = ({ articlesData = [] }: HeaderProps) => {
 
         {!isOpen && (
           <button 
-            className="fixed bottom-8 right-8 border-0 rounded-lg w-12 h-12 flex items-center justify-center cursor-pointer z-50 bg-gray-800/20 dark:bg-white/20 hover:bg-gray-800/30 dark:hover:bg-white/30 transition-colors lg:right-[calc((100vw-64rem)/3.75)]"
+            className="fixed bottom-8 right-[9.5%] border-0 rounded-lg w-12 h-12 flex items-center justify-center cursor-pointer z-50 bg-gray-800/20 dark:bg-white/20 hover:bg-gray-800/30 dark:hover:bg-white/30 transition-colors ]"
             onClick={scrollToTop}
           >
             <ChevronUp className="w-8 h-8 text-foreground-light dark:text-foreground-dark" />
