@@ -3,10 +3,13 @@
 import { useState, useContext } from 'react'
 import { usePathname } from 'next/navigation'
 import { Menu, ChevronUp } from 'lucide-react'
+import Sidebar from './Sidebar'
+import type { HeaderProps } from './types'
+import ThemeContext from '@/lib/theme/ThemeContext'
 
-const Header = () => {
+const Header = ({ articlesData = [] }: HeaderProps) => {
   const [isOpen, setIsOpen] = useState(false)
-  const isDarkMode = true
+  const { isDarkMode } = useContext(ThemeContext)
   const pathname = usePathname()
   
   const segments = pathname.split("/")
@@ -39,36 +42,33 @@ const Header = () => {
   }
 
   return (
-    <header className={`flex items-center justify-between px-8 ${isDarkMode ? 'bg-gray-900 text-white' : 'bg-gray-50 text-black'}`}>
-      <p className="text-2xl">{pageName}</p>
-      
-      <button 
-        className={`flex items-center bg-transparent border-0 text-base ${
-          isDarkMode 
-            ? 'border-white text-white' 
-            : 'border-gray-900 text-gray-900'
-        }`}
-        onClick={toggleSidebar}
-      >
-        Menu
-        <Menu className="w-4 h-4 ml-2" />
-      </button>
-
-      {!isOpen && (
+    <>
+      <header className="flex items-center justify-between px-8 bg-background-light dark:bg-background-dark text-foreground-light dark:text-foreground-dark h-16">
+        <p className="text-2xl font-medium">{pageName}</p>
+        
         <button 
-          className={`fixed bottom-16 right-8 border-0 rounded-lg w-12 h-12 flex items-center justify-center cursor-pointer z-50 ${
-            isDarkMode 
-              ? 'bg-white/50' 
-              : 'bg-black/50'
-          } lg:right-[calc((100vw-64rem)/2)]`}
-          onClick={scrollToTop}
+          className="flex items-center bg-transparent border-0 text-base text-foreground-light dark:text-foreground-dark hover:text-gray-600 dark:hover:text-gray-300 transition-colors"
+          onClick={toggleSidebar}
         >
-          <ChevronUp className="w-full h-full" />
+          Menu
+          <Menu className="w-4 h-4 ml-2" />
         </button>
-      )}
-      
-      {/* Sidebar component would go here */}
-    </header>
+
+        {!isOpen && (
+          <button 
+            className="fixed bottom-8 right-8 border-0 rounded-lg w-12 h-12 flex items-center justify-center cursor-pointer z-50 bg-gray-800/20 dark:bg-white/20 hover:bg-gray-800/30 dark:hover:bg-white/30 transition-colors lg:right-[calc((100vw-64rem)/3.75)]"
+            onClick={scrollToTop}
+          >
+            <ChevronUp className="w-8 h-8 text-foreground-light dark:text-foreground-dark" />
+          </button>
+        )}
+      </header>
+
+      <Sidebar
+        isOpen={isOpen}
+        toggleSidebar={toggleSidebar}
+      />
+    </>
   )
 }
 

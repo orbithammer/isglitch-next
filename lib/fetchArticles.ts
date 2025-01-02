@@ -14,6 +14,35 @@ export type Article = {
   articleBody?: string[]
 }
 
+export type CategoryTags = Record<string, string[]>
+
+export async function getCategoryTags(): Promise<CategoryTags> {
+  const articles = await articlesData
+  const categories = ['home', 'tech', 'reviews', 'entertainment', 'ai']
+  const tags: Record<string, Record<string, number>> = {}
+
+  categories.forEach(category => {
+    tags[category] = {}
+    articles.forEach(article => {
+      if (category === 'home' || article.category.toLowerCase() === category) {
+        article.tags?.forEach(tag => {
+          tags[category][tag] = (tags[category][tag] || 0) + 1
+        })
+      }
+    })
+  })
+
+  const topTags: CategoryTags = {}
+  Object.entries(tags).forEach(([category, categoryTags]) => {
+    topTags[category] = Object.entries(categoryTags)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 10)
+      .map(([tag]) => tag)
+  })
+
+  return topTags
+}
+
 export async function fetchArticles(category?: string, page: number = 1) {
   const articles = await articlesData
   const itemsPerPage = 10
@@ -35,7 +64,7 @@ export async function fetchArticles(category?: string, page: number = 1) {
     totalPages: Math.ceil(filtered.length / itemsPerPage),
     currentPage: page
   }
- }
+}
 
 export async function fetchArticle(articleUrl: string) {
   const { articles } = await fetchArticles()

@@ -1,5 +1,6 @@
 import { fetchArticles } from '@/lib/fetchArticles'
 import ArticleList from '@/components/ArticleList'
+import Image from 'next/image'
 
 interface PageParams {
   params: {
@@ -18,6 +19,19 @@ export default async function CategoryPage({ params }: PageParams) {
     return (
         <div>
             <p>Page: {page}</p>
+            <div className='absolute top-[8%] left-2 sm:left-[10%] lg:top-[7.3%] flex'>
+              <h1 className="text-5xl font-bold z-10 text-gray-900 dark:text-white lg:text-6xl">
+                isGlitch.com
+              </h1>
+              <Image 
+                className='z-10'
+                src="/logo.svg"
+                alt="isGlitch.com"
+                width={75}
+                height={15}
+                priority
+              />
+            </div>
             <ArticleList articles={articles} />
         </div>
     )
