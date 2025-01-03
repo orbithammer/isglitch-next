@@ -43,17 +43,24 @@ export async function getCategoryTags(): Promise<CategoryTags> {
   return topTags
 }
 
-export async function fetchArticles(category?: string, page: number = 1) {
+export async function fetchArticles(category?: string, page: number = 1, tag?: string) {
   const articles = await articlesData
   const itemsPerPage = 10
   
-  const filtered = category === 'home' ?
-    articles.filter(article => ['tech', 'reviews', 'entertainment', 'ai'].includes(article.category.toLowerCase())) :
-    category ? 
-      articles.filter(article => article.category.toLowerCase() === category.toLowerCase()) :
-      articles
+  let filtered = articles
+
+  if (tag) {
+    filtered = articles.filter(article => article.tags?.includes(tag))
+  } else if (category === 'home') {
+    filtered = articles.filter(article => 
+      ['tech', 'reviews', 'entertainment', 'ai'].includes(article.category.toLowerCase())
+    )
+  } else if (category) {
+    filtered = articles.filter(article => 
+      article.category.toLowerCase() === category.toLowerCase()
+    )
+  }
     
-  // Sort by date, newest first
   const sorted = [...filtered].sort((a, b) => 
     b.datePublished.getTime() - a.datePublished.getTime()
   )

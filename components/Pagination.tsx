@@ -13,11 +13,12 @@ interface PaginationProps {
 export default function Pagination({
   currentPage,
   totalPages,
+  basePath,
   category = ''
 }: PaginationProps) {
   const pathname = usePathname()
   const categoryPath = category ? `/${category}` : ''
-  const path = `${categoryPath}`
+  const path = `${basePath}/${categoryPath}`
 
   const pageNumbers = []
   if (currentPage > 2) pageNumbers.push(currentPage - 2)

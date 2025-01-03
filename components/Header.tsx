@@ -5,28 +5,27 @@ import { usePathname } from 'next/navigation'
 import { Menu, ChevronUp } from 'lucide-react'
 import Sidebar from './Sidebar'
 import type { HeaderProps } from './types'
-import ThemeContext from '@/lib/theme/ThemeContext'
 
 const Header = ({ articlesData = [] }: HeaderProps) => {
   const [isOpen, setIsOpen] = useState(false)
-  const { isDarkMode } = useContext(ThemeContext)
   const pathname = usePathname()
   
   const segments = pathname.split("/")
-  const pathNameFirstSegment = segments[1]
+  const pathNameFirstSegment = segments[1] === "page" ? "" : segments[1]
   const pathNameUnformatted = pathNameFirstSegment === "search" 
     ? segments[2] 
     : pathNameFirstSegment === "thank-you" 
       ? "" 
       : pathNameFirstSegment
       
-  const pageNameInitial = pathNameUnformatted === "ai" 
+  const pageName = pathNameUnformatted === "ai" 
     ? "AI" 
     : decodeURIComponent(pathNameUnformatted)?.charAt(0).toUpperCase() + 
       decodeURIComponent(pathNameUnformatted)?.slice(1)
       
-  const hasOnlyNumber = /^\d+$/.test(pageNameInitial)
-  const pageName = hasOnlyNumber ? "" : pageNameInitial
+  // const hasOnlyNumber = /^\d+$/.test(pageNameInitial)
+  // const pageName = hasOnlyNumber ? "" : pageNameInitial
+  
 
   const toggleSidebar = () => {
     setTimeout(() => {
