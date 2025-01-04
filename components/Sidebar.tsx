@@ -118,7 +118,7 @@ const Sidebar = ({ isOpen, toggleSidebar }: SidebarProps) => {
                   {categoryTags[category]?.map((tag) => (
                     <li key={tag}>
                       <Link
-                        href={`/search/${tag}`}
+                        href={`/search/${tag}/1`}
                         className="text-white hover:text-lime-400 no-underline text-lg block py-1"
                         onClick={toggleSidebar}
                       >

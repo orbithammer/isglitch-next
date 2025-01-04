@@ -1,3 +1,5 @@
+'use client'
+
 import Image from 'next/image'
 import Link from 'next/link'
 import { Article } from '@/lib/fetchArticles'
@@ -14,6 +16,7 @@ export default function ArticleList({ articles }: { articles: Article[] }) {
                                 alt={article.alt}
                                 width={400}
                                 height={250}
+                                priority={index === 0}
                                 className="w-full h-72 object-cover rounded-t-lg"
                             />
                         </div>
