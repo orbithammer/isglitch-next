@@ -24,7 +24,7 @@ export default function MostRecentArticles({ currentArticleUrl }: MostRecentArti
           <li key={article.id}>
             <Link 
               href={`/article/${article.articleUrl}`}
-              className="flex gap-4 group"
+              className="flex gap-4 group min-h-24"
             >
               <div className="relative w-24 h-24 flex-shrink-0">
                 <Image 
@@ -36,8 +36,8 @@ export default function MostRecentArticles({ currentArticleUrl }: MostRecentArti
                   priority={false}
                 />
               </div>
-              <div className="flex flex-col justify-center">
-                <span className="text-lg font-medium group-hover:text-purple-600 dark:group-hover:text-green-400 transition-colors line-clamp-2">
+              <div className="flex flex-col justify-center flex-grow">
+                <span className="text-base font-medium transition-colors group-hover:text-purple-600 dark:group-hover:text-green-400">
                   {article.header}
                 </span>
                 <span className="text-sm text-gray-600 dark:text-gray-400">

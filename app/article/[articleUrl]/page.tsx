@@ -3,6 +3,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { articlesData } from '@/data/articles'
 import Markdown from 'react-markdown'
+import LemmyLink from '@/components/LemmyLink'
 import BuyMeACoffee from '@/components/BuyMeACoffee'
 import SocialLinks from '@/components/SocialLinks'
 import MostRecentArticles from '@/components/MostRecentArticles'
@@ -108,7 +109,10 @@ export default async function ArticlePage({ params }: {params: Promise<{articleU
                                 : article.articleBody}
                         </Markdown>
                     </article>
-                    <BuyMeACoffee />
+                    <div className="flex gap-4 mb-8">
+                        <LemmyLink />
+                        <BuyMeACoffee />
+                    </div>
                     <SocialLinks />
                 </div>
                 

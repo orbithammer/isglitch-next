@@ -38,7 +38,7 @@ const Sidebar = ({ isOpen, toggleSidebar }: SidebarProps) => {
   return (
     <div className={`fixed top-0 right-0 w-[21.5rem] h-screen bg-purple-700 p-5 transform transition-transform duration-100 ease-out ${
       isOpen ? 'translate-x-0' : 'translate-x-[23rem]'
-    } z-10`}
+    } z-20`}
       onClick={toggleSidebar}
     >
       <div className="flex items-start justify-start mb-4"

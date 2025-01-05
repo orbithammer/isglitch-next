@@ -21,7 +21,7 @@ const BuyMeACoffee = () => {
         height={48}
         className="w-12 h-12"
       />
-      <p className="text-lg font-medium text-gray-900 dark:text-gray-100">
+      <p className="text-lg font-medium text-gray-900 dark:text-gray-100 hover:text-purple-600 dark:hover:text-green-400">
         Support isGlitch.com and buy me a coffee!
       </p>
     </a>
