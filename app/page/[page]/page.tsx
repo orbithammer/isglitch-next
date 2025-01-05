@@ -9,7 +9,7 @@ interface PageParams {
   }
 }
 
-export default async function HomePage({ params }: { params: Promise<{ page: string }> }) {
+export default async function PaginatedHomePage({ params }: { params: Promise<{ page: string }> }) {
     const { page } = await params
     const category = "home"
     const { articles, totalPages } = await fetchArticles(

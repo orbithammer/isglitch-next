@@ -11,7 +11,7 @@ export type Article = {
   author: string
   datePublished: Date
   tags?: string[]
-  articleBody?: string[]
+  articleBody?: string[] | string
 }
 
 export type CategoryTags = Record<string, string[]>
@@ -76,6 +76,6 @@ export async function fetchArticles(category?: string, page: number = 1, tag?: s
 }
 
 export async function fetchArticle(articleUrl: string) {
-  const { articles } = await fetchArticles()
+  const articles = await articlesData // Get all articles directly
   return articles.find(article => article.articleUrl === articleUrl)
 }
