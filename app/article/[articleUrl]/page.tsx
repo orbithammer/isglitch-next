@@ -1,44 +1,63 @@
-'use client'
-
-import { useEffect, useState } from 'react'
-import Link from 'next/link'
+import { notFound } from 'next/navigation'
 import Image from 'next/image'
-import { useParams } from 'next/navigation'
-import { fetchArticle } from '@/lib/fetchArticles'
-import { Article as ArticleType } from '@/lib/fetchArticles'
+import Link from 'next/link'
+import { articlesData } from '@/data/articles'
 import Markdown from 'react-markdown'
+import BuyMeACoffee from '@/components/BuyMeACoffee'
+import SocialLinks from '@/components/SocialLinks'
 import MostRecentArticles from '@/components/MostRecentArticles'
 import EarlierArticles from '@/components/EarlierArticles'
-import { articlesData } from '@/data/articles'
 
-export default function Article() {
-    const [article, setArticle] = useState<ArticleType | null>(null)
-    const [isLoading, setIsLoading] = useState(true)
-    const params = useParams()
-    const articleUrl = params?.articleUrl as string
+interface ArticlePageProps {
+  params: {
+    articleUrl: string
+  }
+}
 
-    useEffect(() => {
-        const loadArticle = async () => {
-            setIsLoading(true)
-            const foundArticle = await fetchArticle(articleUrl)
-            if (foundArticle) {
-                setArticle(foundArticle)
-            }
-            setIsLoading(false)
-        }
-        
-        if (articleUrl) {
-            loadArticle()
-        }
-    }, [articleUrl])
+export async function generateMetadata({ params }: {params: Promise<{articleUrl: string}>}) {
+  const { articleUrl } = await params
+  const article = articlesData.find(a => a.articleUrl === articleUrl)
+  
+  if (!article) {
+    return {}
+  }
 
-    if (isLoading) {
-        return <div className="flex justify-center items-center min-h-screen">Loading...</div>
+  return {
+    title: article.header,
+    description: article.subhead,
+    openGraph: {
+      title: article.header,
+      description: article.subhead,
+      images: [article.img],
+      url: `https://isglitch.com/article/${article.articleUrl}`,
+      type: 'article'
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: article.header,
+      description: article.subhead,
+      images: [article.img],
+      creator: '@EtAl19820625'
+    },
+    alternates: {
+      canonical: `https://isglitch.com/article/${article.articleUrl}`
     }
+  }
+}
 
-    if (!article) {
-        return <div className="text-red-500 text-center py-8">Article not found</div>
-    }
+export default async function ArticlePage({ params }: {params: Promise<{articleUrl: string}>}) {
+    const { articleUrl } = await params
+  const article = articlesData.find(a => a.articleUrl === articleUrl)
+  
+  if (!article) {
+    notFound()
+  }
+
+  const recentArticles = articlesData
+    .filter(a => a.id !== article.id)
+    .sort((a, b) => b.datePublished.getTime() - a.datePublished.getTime())
+    .slice(0, 5)
+    .map(a => a.articleUrl)
 
     return (
         <main className="max-w-6xl mx-auto px-4 py-8">
@@ -82,15 +101,17 @@ export default function Article() {
 
             <div className="lg:grid lg:grid-cols-3 lg:gap-8">
                 <div className="lg:col-span-2">
-                    <div className="prose dark:prose-invert max-w-none">
+                    <article className="prose dark:prose-invert max-w-none">
                         <Markdown>
                             {Array.isArray(article.articleBody) 
                                 ? article.articleBody.join('\n\n')
                                 : article.articleBody}
                         </Markdown>
-                    </div>
+                    </article>
+                    <BuyMeACoffee />
+                    <SocialLinks />
                 </div>
-
+                
                 <div className="mt-12 lg:mt-0">
                     <MostRecentArticles currentArticleUrl={articleUrl} />
                     <EarlierArticles 
@@ -106,4 +127,10 @@ export default function Article() {
             </div>
         </main>
     )
+}
+
+export function generateStaticParams() {
+  return articlesData.map((article) => ({
+    articleUrl: article.articleUrl,
+  }))
 }

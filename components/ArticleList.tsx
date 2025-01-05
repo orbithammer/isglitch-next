@@ -1,5 +1,3 @@
-'use client'
-
 import Image from 'next/image'
 import Link from 'next/link'
 import { Article } from '@/lib/fetchArticles'
@@ -10,14 +8,15 @@ export default function ArticleList({ articles }: { articles: Article[] }) {
             {articles.map((article, index) => (
                 <Link key={article.id} href={`/article/${article.articleUrl}`}>
                     <article className="border border-gray-200 dark:border-gray-700 rounded-lg overflow-hidden hover:shadow-lg dark:hover:shadow-gray-700/50 transition bg-white dark:bg-gray-800">
-                        <div className="relative">
+                        <div className="relative h-72">
                             <Image 
                                 src={article.img}
                                 alt={article.alt}
-                                width={400}
-                                height={250}
-                                priority={index === 0}
-                                className="w-full h-72 object-cover rounded-t-lg"
+                                sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 800px"
+                                quality={75}
+                                priority={index < 2}
+                                fill
+                                className="object-cover"
                             />
                         </div>
                         <div className="p-4">

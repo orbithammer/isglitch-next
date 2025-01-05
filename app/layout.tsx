@@ -18,6 +18,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 }
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://isglitch.com'),
   icons: {
     icon: '/logo.svg',
   },

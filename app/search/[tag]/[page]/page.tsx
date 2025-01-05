@@ -3,12 +3,12 @@ import Pagination from '@/components/Pagination'
 import ArticleList from '@/components/ArticleList'
 import Title from '@/components/Title'
 
-interface PageParams {
-  params: {
-    tag: string;
-    page: string;
-  }
-}
+// interface PageParams {
+//   params: {
+//     tag: string;
+//     page: string;
+//   }
+// }
 
 // export const dynamic = 'force-dynamic'
 
