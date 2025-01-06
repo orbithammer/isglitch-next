@@ -1,18 +1,40 @@
 'use client'
 
-import React from 'react'
+import { useState, useEffect } from 'react'
 import ThemeContext from './ThemeContext'
-import { useTheme } from './useTheme'
 
-type ThemeProviderProps = {
-  children: React.ReactNode
-}
+export default function ThemeProvider({ 
+  children 
+}: { 
+  children: React.ReactNode 
+}) {
+  const [isDarkMode, setIsDarkMode] = useState(false)
+  const [isLoaded, setIsLoaded] = useState(false)
 
-const ThemeProvider = ({ children }: ThemeProviderProps) => {
-  const { isDarkMode, setIsDarkMode, mounted } = useTheme()
+  useEffect(() => {
+    // Get initial system preference
+    const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)')
+    setIsDarkMode(mediaQuery.matches)
+    setIsLoaded(true)
+
+    // Listen for system preference changes
+    const handleChange = (e: MediaQueryListEvent) => {
+      setIsDarkMode(e.matches)
+    }
+
+    mediaQuery.addEventListener('change', handleChange)
+    return () => mediaQuery.removeEventListener('change', handleChange)
+  }, [])
+
+  useEffect(() => {
+    if (isLoaded) {
+      // Update document classes when dark mode changes
+      document.documentElement.classList.toggle('dark', isDarkMode)
+    }
+  }, [isDarkMode, isLoaded])
 
   // Prevent flash of wrong theme
-  if (!mounted) {
+  if (!isLoaded) {
     return null
   }
 
@@ -22,5 +44,3 @@ const ThemeProvider = ({ children }: ThemeProviderProps) => {
     </ThemeContext.Provider>
   )
 }
-
-export default ThemeProvider

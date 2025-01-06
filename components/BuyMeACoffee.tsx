@@ -14,15 +14,17 @@ const BuyMeACoffee = () => {
       rel="noopener noreferrer"
       className="flex items-center gap-4 p-6 mt-8 bg-white dark:bg-gray-800 rounded-lg shadow-md hover:shadow-lg transition-shadow"
     >
-      <Image
-        src={isDarkMode ? "/buyMeACoffeeDark.svg" : "/buyMeACoffee.svg"}
-        alt="Buy Me a Coffee"
-        width={48}
-        height={48}
-        className="w-12 h-12"
-      />
+      <div className="relative w-12 h-12">
+        <Image
+          src={isDarkMode ? "/buyMeACoffeeDark.svg" : "/buyMeACoffee.svg"}
+          alt="Buy Me a Coffee"
+          fill
+          className="object-contain"
+          sizes="48px"
+        />
+      </div>
       <p className="text-lg font-medium text-gray-900 dark:text-gray-100 hover:text-purple-600 dark:hover:text-green-400">
-        Support isGlitch.com and buy me a coffee!
+        Support isGlitch.com and buy me a coffee
       </p>
     </a>
   )

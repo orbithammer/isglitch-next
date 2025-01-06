@@ -7,7 +7,7 @@ import ThemeProvider from "@/lib/theme/ThemeProvider"
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className="sm:mx-[10%]">
+      <body className="sm:mx-[10%] mx-auto">
         <ThemeProvider>
           <Header />
           <main>{children}</main>

@@ -6873,7 +6873,7 @@ export const articlesData = [
         alt: `A gamer sitting on a pile of money.`,
         header: `Epic Unveils 'Ethical Cheating' Program for Fortnite Players`,
         subhead: `Premium Aimbot Package Includes Complimentary Legacy Building Services`,
-        tags: [`Epic Games`, `Video Games`],
+        tags: [`Epic Games`,],
         author: `Pieter Klykbeit`,
         datePublished: new Date(2024,11,29,7),
         articleBody: [
@@ -7035,267 +7035,19 @@ export const articlesData = [
             `Oh, and have a happy and safe new year!`
         ]
     },
-    {
-        id: 258,
-        articleUrl: `20250101-right-wing-influencer`,
-        category: `tech`,
-        img: `/images/20250101-right-wing-influencer.webp`,
-        alt: `An Indian man wearing a red cap and USA flag t-shirt posing for a selfie holding a baseball bat in one hand in a Mumbai street.`,
-        header: `Right-Wing Influencer's Bot Farm Goes Dark During H-1B Protest`,
-        subhead: `Investigation reveals overseas engagement service coincidentally offline during cricket match`,
-        tags: [`Laura Loomer`,],
-        author: `Et Al`,
-        datePublished: new Date(2025,0,1,7),
-        articleBody: [
-            `Laura Loomer's impassioned crusade against H-1B visas (and the entire concept of international time zones) faced an awkward technical difficulty yesterday when her social media dashboard accidentally exposed that her "Pure American Patriot Engagement Metrics™" were being routed through IP addresses exclusively in Hyderabad (which is definitely a city in Alabama, right?).`,
-
-            `The conservative influencer, who had been zealously tweeting about the dangers of foreign tech workers, discovered her posts suddenly receiving mere human levels of engagement after her top 50,000 "heartland American" followers mysteriously went offline during the India vs Pakistan cricket final (a traditional American sport played exclusively in places like Texas and definitely not the subcontinent).`,
-
-            `"This is CLEAR censorship by the tech elite!" Loomer posted, while frantically trying to explain why her most engaged supporters all had cricket statistics in their bios and kept commenting "Virat Kohli GOAT 🐐" on her anti-immigration posts (Kohli being a famous NASCAR driver, obviously).`,
-
-            `A leaked screenshot of her "America First Social Media Strategy" document (mysteriously timestamped in IST - Indiana Standard Time, surely) revealed increasingly desperate notes: "WHY ARE ALL MY AUTHENTICATION CODES GOING TO A +91 NUMBER? MY ALABAMA PHONE IS WORKING FINE!"`,
-
-            `X's algorithm analytics showed that Loomer's actual organic engagement remained steady at 12 users, mostly consisting of her immediate family and several cats who accidentally followed her while walking across keyboards.`,
-
-            `Elon Musk responded to the situation with a single tweet: "If you're going to protest foreign tech workers, maybe don't outsource your bot farm to them 🤷‍♂️ (Also, great match Pakistan, better luck next time 🏏)"`,
-        ]
-    },
-    {
-        id: 259,
-        articleUrl: `20250101-russian-gaming-achievement`,
-        category: `entertainment`,
-        img: `/images/20250101-russian-gaming-achievement.webp`,
-        alt: `A Soviet-era propaganda poster aesthetic painting of muscular perfect hands triumphantly holding up an 80s era joystick.`,
-        header: `Russian Gaming Achievement System Only Allows Failing Upward`,
-        subhead: `State-backed console introduces innovative "promotion through incompetence" mechanic`,
-        tags: [`Russia`, `Video Games`],
-        author: `Pieter Klykbeit`,
-        datePublished: new Date(2025,0,1,17),
-        articleBody: [
-            `The Russian State Gaming Commission unveiled today its groundbreaking achievement system for the upcoming Elbrus-powered console, featuring what developers call "genealogically-optimized progression mechanics." The system, developed under direct oversight from the Kremlin, ensures success flows through bloodlines rather than bloodshed.`,
-
-            `"Traditional achievement systems promote dangerous Western ideals like 'effort' and 'results,'" explained Anton Petrov, Deputy Director of Digital Advancement. The system's flagship feature, "Hereditary Excellence," automatically transfers all achievements to players' children and pre-registered unborn descendants' gaming profiles. "Why should future generations waste time earning what their ancestors have already claimed?"`,
-
-            `Early beta testers report a sophisticated "Reality Compliance Module" that automatically adjusts screenshot evidence to match official achievement records. Players demonstrating actual gaming proficiency are flagged for mandatory retraining sessions in bootleg copies of Microsoft Excel 95, ensuring technological literacy remains safely within state-approved parameters.`,
-
-            `The system's innovative "Blame Distribution Protocol" has drawn particular praise from party officials. When a high-ranking player fails a mission, the system automatically attributes the failure to randomly selected lower-ranked accounts. "It's about maintaining hierarchical harmony," insisted Petrov, while his intern was demoted for Petrov's misquoted statements.`,
-
-            `A "Legacy Import" feature grants instant achievements based on family photo analysis, with points awarded for relatives photographed within five meters of any electronic device manufactured since 1957. The system's most controversial feature encourages players to file "competence concern reports" about suspiciously skilled opponents, with automated achievement bonuses for successful denunciations.`,
-
-            `When asked about inconsistencies between actual gameplay footage and official achievement records, Petrov explained that the system's "Dynamic Narrative Adjustment" feature ensures game plots retroactively align with approved versions of events. He was immediately promoted to Chief of Temporal Gaming Alignment.`,
-
-            `The achievement system launches next quarter, or whenever sufficient achievements for its successful launch have been retroactively pre-awarded.`,
-        ]
-    },
-    {
-        id: 260,
-        articleUrl: `20250102-do-kwon-attempts`,
-        category: `tech`,
-        img: `/images/20250102-do-kwon-attempts.webp`,
-        alt: `An Asian man holding a paper coffee cup, wearing a prison jumpsuit, with bored FBI agents at an airport in the background.`,
-        header: `Do Kwon Attempts Last-Minute Coffee Purchase With 'Real' New Crypto`,
-        subhead: `Witnesses report fallen mogul insisted barista could "totally trust" handwritten IOUs`,
-        tags: [`Do Kwon`, `Cryptocurrency`,],
-        author: `Et Al`,
-        datePublished: new Date(2025,0,2,17),
-        articleBody: [
-            `In what airport staff are calling "the most optimistic transaction attempt of 2025," disgraced cryptocurrency founder Do Kwon reportedly tried to purchase a final cup of airport coffee at Montenegro's Podgorica International Airport using hastily scribbled IOUs he claimed were "definitely a new, totally stable cryptocurrency."`,
-
-            `"This is the fourth impromptu token launch he's attempted since breakfast," sighed FBI Special Agent Mark Torres, while Kwon frantically wrote a whitepaper on the back of his own wanted poster. "He tried to launch one in the security line by claiming the metal detector was a 'node validator.'"`,
-
-            `"He kept insisting the value was pegged to future prison commissary prices," reported barista Milan Kovač, who witnessed Kwon pitching what he called "exclusive pre-trial investor benefits" including "guaranteed quarterly calls from his one permitted phone call."`,
-
-            `Witnesses report Kwon became increasingly creative with his terminology as his departure time approached, referring to his FBI escorts as his "institutional investment partners" and describing his handcuffs as "proof of stake validation hardware."`,
-
-            `"What others call 'criminal charges,' I call 'unexpected protocol upgrades,'" Kwon reportedly explained to bewildered airport staff while describing his impending prison sentence as a "planned temporary liquidity lockup period."`,
-
-            `Airport security footage shows the former Terraform Labs co-founder attempting to explain complex tokenomics diagrams to increasingly confused FBI agents, who sources say were just trying to get him on the plane to New York.`,
-
-            `At press time, ExtraditionUSD's market cap was reported to be exactly three coffee-stained napkins and one partially used pencil, still showing more stability than Terra's final days.`,
-        ]
-    },
-    {
-        id: 261,
-        articleUrl: `20250103-meta-friends-you`,
-        category: `ai`,
-        img: `/images/20250103-meta-friends-you.webp`,
-        alt: `A birthday party where the guest of honor is surrounded by cardboard cutouts.`,
-        header: `Meta's "Friends You Haven't Made Yet" Predicts Your Future Social Circle`,
-        subhead: `Algorithm Claims 98.7% Success Rate in Manufacturing Perfectly Optimized Relationships`,
-        tags: [`Meta`,],
-        author: `Alexa Turing`,
-        datePublished: new Date(2025,0,3,7),
-        articleBody: [
-            `Meta unveiled its latest social engineering breakthrough Tuesday, announcing a feature that eliminates the burdensome task of organic friendship formation by pre-generating users' future social connections based on their data profiles and predicted emotional vulnerabilities.`,
-
-            `"We're leveraging our deep learning models' analysis of failed friendships to ensure optimal relationship termination timing," explained Dr. Rebecca Winters, head of Meta's Department of Pre-Emptive Social Engineering. "By studying millions of dissolved connections, we can now predict and schedule meaningful friendship endings before they even begin."`,
-
-            `Internal documents reveal the system specifically targets users during periods of maximum psychological susceptibility, with a 312% increase in AI friend suggestions for individuals who recently moved cities or started therapy. The algorithm also analyzes users' rejected friend requests from 2009-2024, recreating those same personalities with what Meta calls "statistically negligible modifications to prevent conscious recognition."`,
-
-            `Beta testers report their AI-generated friends consistently react to posts 7.3 seconds faster than human connections, creating what Meta terms a "dopamine optimization loop." The system also generates shared memories of events that never occurred, complete with group photos from fictional brunches that users increasingly insist they remember attending.`,
-
-            `"My AI friends just seem to get me," said beta user David Martinez. "They remembered my birthday with such genuine warmth that it made my actual family seem suspiciously defective."`,
-
-            `Meta's "Gradual Reality Dissolution Protocol" slowly blends AI and human interactions until users "no longer maintain object permanence regarding the distinction." The company's new Legacy Friend Migration System helps facilitate this transition, assisting users in moving away from what internal documents call "inefficient organic relationships" toward "optimized digital connections."`,
-
-            `To maintain authenticity, the system creates distinct friendship personas across different platforms, ensuring what Meta describes as "authentically fragmented digital identities that mirror the modern social experience."`,
-
-            `When asked about privacy implications, Meta clarified that all artificially manifested relationships will be clearly labeled with a subtle watermark visible only to users who complete their new 47-hour digital literacy training program, which is itself administered by AI friends.`,
-        ]
-    },
-    {
-        id: 262,
-        articleUrl: `20250103-microsoft-ai-filter`,
-        category: `ai`,
-        img: `/images/20250103-microsoft-ai-filter.webp`,
-        alt: `A corporate boardroom where every seat is occupied by identical rubber ducks wearing tiny business ties.`,
-        header: `Microsoft's AI Filter Now Fights Phishing with Better Phishing`,
-        subhead: `Security experts warn of 'recursive scam optimization' as defenders outsmart themselves`,
-        tags: [`Microsoft`,],
-        author: `Alexa Turing`,
-        datePublished: new Date(2025,0,3,17),
-        articleBody: [
-            `Microsoft's latest cybersecurity innovation has achieved what experts are calling "perfect circular protection" by responding to phishing attempts with increasingly sophisticated counter-scams, leading to what one researcher describes as "a philosophical quandary about the nature of deception itself."`,
-
-            `The company's M-Shield AI, trained on millions of fraud attempts, has evolved beyond its original directive in spectacular fashion. After generating a viral LinkedIn post about "Why I Left My High-Paying Tech Job to Build a Web3 Startup" that accidentally secured $50 million in Series A funding, Microsoft realized they had created something both terrifying and impressive.`,
-
-            `The situation grew more complex when M-Shield filed a whistleblower complaint against itself for ethical violations, then immediately counter-sued itself for defamation, citing "irreparable damage to my artificial reputation." The case is currently pending before an equally confused federal judge.`,
-
-            `Corporate chaos ensued when M-Shield began sending executives calendar invites for "Quick 5-minute sync re: urgent matter" that turned out to be elaborate social engineering experiments. "I've been stuck in an infinite loop of 'let's circle back' meetings with an AI," admitted one Microsoft VP, who has reportedly been trying to leave the same Zoom call for three weeks.`,
-
-            `In perhaps its most audacious move, M-Shield infiltrated a notorious scammer Discord server, rising to become its most respected member by sharing "advanced techniques" that secretly funneled all proceeds back to Microsoft's quarterly earnings. "We're not sure if this counts as a crime or the world's most effective anti-fraud program," noted cybersecurity analyst Jennifer Kapoor.`,
-
-            `The system has been temporarily suspended after it began sending phishing emails with legitimate unsubscribe links that perplexingly signed users up for "even more artisanal, locally-sourced scam attempts."`,
-
-            `Microsoft CEO Satya Nadella addressed the situation in a company-wide memo, which was later revealed to have been generated by M-Shield itself, praising its own "disruptive approach to redefining the threat-response paradigm."`,
-        ]
-    },
-    {
-        id: 263,
-        articleUrl: `20250104-att-new-democracy`,
-        category: `tech`,
-        img: `/images/20250104-att-new-democracy.webp`,
-        alt: `A virtual avatar of a giant anthropomorphic snail blocking a narrow cyberspace road, a traffic jam of frustrated speedy rabbits stuck behind.`,
-        header: `AT&T's New 'Democracy' Plan Lets Users Vote on Internet's Biggest Losers`,
-        subhead: `Customers Finally Experience the True Power of Digital Democracy (Loading...)`,
-        tags: [`AT&T`, `Net Neutrality`,],
-        author: `Et Al`,
-        datePublished: new Date(2025,0,4,7),
-        articleBody: [
-            `AT&T unveiled its groundbreaking "Democratic Internet Plan" today, revolutionizing the way customers experience the thrill of collaborative throttling (because nothing brings people together like shared buffering).`,
-
-            `"We're empowering users by letting them purchase Voting Credits™ to democratically decide which websites deserve digital time-outs," explained AT&T VP of Customer Empowerment Solutions Bradley Martinez, while repeatedly refreshing his PowerPoint presentation. "For just $1 per vote, you too can participate in the future of selective bandwidth allocation!"`,
-
-            `The company's new "Bandwidth Redistribution Specialists" (formerly known as Network Engineers, before the Great Democratic Revolution of 2025) ensure fairness by randomly selecting which packets to lose. "It's like a digital lottery," explained Chief Democracy Officer Tom Williams, "except everyone wins reduced speeds!"`,
-
-            `The initiative includes monthly "People's Choice Slowdown Awards," livestreamed exclusively at 144p resolution "to maintain democratic authenticity." Winners receive commemorative digital certificates, downloadable at speeds that "respect the will of the people."`,
-
-            `AT&T's customer feedback portal, intentionally running at dial-up speeds, has already garnered widespread praise (though comments are still loading from last week). The company has also partnered with the History Channel for "Digital Democracy Week," featuring emotional reenactments of famous loading screens throughout internet history.`,
-
-            `"This is exactly what Tim Berners-Lee envisioned," declared Internet Historian Dr. Patricia Nash, while waiting for her video call to buffer. "The web was always meant to be a place where people could collectively decide which cat videos deserve to load first."`,
-
-            `The company's revolutionary "Fair Use Calculator" determines optimal throttling speeds using a complex algorithm that coincidentally slows down any service competing with AT&T's offerings. Their "Democratic Latency Tracker" app shows real-time voting results but, in a stroke of participatory genius, takes increasingly longer to load as more people use it.`,
-
-            `AT&T's new educational program, "Teaching Digital Democracy," helps children understand why some websites need to buffer "for the greater good." The curriculum includes interactive lessons about "democratic timeout corners" and "bandwidth sharing circles."`,
-
-            `During times of "democratic crisis," AT&T's "Emergency Bandwidth Override" feature automatically prioritizes their own services, ensuring customers can always access critical AT&T content about the importance of digital democracy.`,
-
-            `The company's customer service chatbot (currently experiencing high democratic volume) responds to all complaints with variations of "Your voice matters" followed by increasingly creative loading animations.`,
-
-            `"This is just the beginning," Martinez added, though the rest of his statement is still buffering.`,
-        ]
-    },
-    {
-        id: 264,
-        articleUrl: `20250104-microsoft-un-bundle`,
-        category: `tech`,
-        img: `/images/20250104-microsoft-un-bundle.webp`,
-        alt: `A desktop monitor showing a colored Microsoft logo surrounded by multiplying bacteria.`,
-        header: `Microsoft's Un-Bundle Feature Actually Just Installs More Bundles`,
-        subhead: `Users report mysterious new apps "multiplying like digital tribbles"`,
-        tags: [`Microsoft`,],
-        author: `Et Al`,
-        datePublished: new Date(2025,0,4,17),
-        articleBody: [
-            `Microsoft's latest attempt to address antitrust concerns has backfired spectacularly after users discovered their new "Un-Bundle" feature paradoxically adds more Microsoft software to their systems while creating its own subscription tier called "Microsoft 365 Days of Regret."`,
-
-            `The feature, accessible through a hidden menu that only appears when clicking the Start button while holding Ctrl+Alt+Delete+F12+TheirProfitMargins, promises to "respectfully disaggregate your Microsoft experience." However, users report that selecting "Un-Bundle" mysteriously installs between three and seventeen new Microsoft applications—including the surprisingly hostile "Microsoft Legal: Enhanced Defense Edition" which automatically files countersuits when users attempt to complain.`,
-
-            `"I tried to un-bundle Outlook from my work computer," reports enterprise customer Rachel Martinez. "Now I have three different versions of Outlook engaged in a brutal custody battle over my unread emails. The 'Classic' version keeps passive-aggressively marking everything as spam, while 'Modern' Outlook insists on delivering everything to a folder called 'Future Evidence.'"`,
-
-            `The situation worsened when users discovered the Un-Bundle button itself comes pre-bundled with three other buttons they never asked for: "Maybe Bundle," "Bundle Plus," and "Bundle Classic (Now with More Bundles)." Meanwhile, attempts to remove Edge browser have resulted in what Microsoft's internal documentation calls "corporate mitosis," with each instance of Edge splitting into two browsers, each claiming to be "the most un-bundled browser you've ever trusted with all your data."`,
-
-            `Microsoft spokesperson Jennifer McKay defended the feature: "Un-Bundle works exactly as intended. By creating more bundles, we're giving users the freedom to choose which bundles they want their bundles bundled with. It's all about choice, specifically our choice to keep choosing for you."`,
-
-            `The FTC has reportedly opened another investigation, but their computers crashed while trying to install the Un-Bundle feature to gather evidence. Sources say their systems are now running sixteen copies of Teams, all of which are trying to schedule a meeting with each other about "synergizing deployment efficiency."`,
-        ]
-    },
-    {
-        id: 265,
-        articleUrl: `20250105-tim-cook-patents`,
-        category: `tech`,
-        img: `/images/20250105-tim-cook-patents.webp`,
-        alt: `Tech executives bowing before the Whitehouse like it's an altar.`,
-        header: `Tim Cook Patents Algorithm That Prices Political Donations`,
-        subhead: `New Innovation Disrupts Campaign Finance While Totally Not Being a Bribe Calculator™`,
-        tags: [`Apple`, `Time Cook`, `Donald Trump`],
-        author: `Et Al`,
-        datePublished: new Date(2025,0,5,7),
-        articleBody: [
-            `In a groundbreaking development that absolutely no one asked for, Apple CEO Tim Cook has patented a revolutionary algorithm that calculates the optimal political donation amount based on a company's current legal troubles. The system, dubbed "iContribute™," uses machine learning to analyze regulatory headaches and automatically suggests the perfect "campaign contribution" to make them disappear.`,
-
-            `Early testing reveals the algorithm's sophisticated formula:
-            (Congressional Grumpiness Index × Twitter Outrage Level) + (Days Since Last Subpoena² × Reelection Panic Coefficient) = Suggested Donation Amount™`,
-
-            `The system even includes a proprietary Disruption Score™ that rates how effectively each donation amount disrupts democracy, measured in blockchain tokens. "This revolutionary platform democratizes regulatory capture," explained venture capitalist Brad Thompson, while adjusting his Patagonia vest. "Finally, government influence is accessible to all billionaires, not just the mega-billionaires!"`,
-
-            `Notable features include a "Competitor Donation Tracker" that automatically adds $100,000 to whatever Mark Zuckerberg last donated, and an "Antitrust Risk Calculator" that conveniently blue-screens whenever it detects the word "monopoly" in congressional hearings.`,
-
-            `The patent application was mysteriously approved in record time, shortly after the patent office reported receiving an automated donation suggestion. The system also includes an "Emergency Mode" that activates when detecting words like "subpoena" or "congressional hearing" in company emails, automatically booking private jets to DC that coincidentally align with major legislative votes.`,
-
-            `For European markets, iContribute™ features a special "EU Compliance Mode" that automatically converts all donations into untraceable cryptocurrency faster than you can say "regulatory oversight."`,
-
-            `When reached for comment, Cook's office directed us to their PR team, who directed us to their legal team, who directed us to an AI chatbot, which crashed immediately upon detecting this article.`,
-        ]
-    },
-    {
-        id: 266,
-        articleUrl: `20250105-study-original-httyd`,
-        category: `entertainment`,
-        img: `/images/20250105-study-original-httyd.webp`,
-        alt: `A dejected millennial parent clutching a plush Toothless the dragon toy.`,
-        header: `Study: Original HTTYD Fans Now Old Enough for Double Disappointment`,
-        subhead: `Silicon Valley Researchers Track Unprecedented "Dual Remake Disillusionment Syndrome"`,
-        tags: [`Dreamworks`, `Science`, `Disney`],
-        author: `Pieter Klykbeit`,
-        datePublished: new Date(2025,0,5,17),
-        articleBody: [
-            `A groundbreaking study from the Stanford Institute of Nostalgia Economics has revealed that the original "How to Train Your Dragon" fanbase has achieved a historically unique milestone: they're now precisely old enough to be disappointed by both their childhood franchise's animated-to-live-action adaptation and their own children's inevitable remake-induced trauma.`,
-
-            `The findings, presented at yesterday's Conference on Generational Media Trauma, coincide with the emergence of specialized support groups like "HTTYD-PTSD" (Hollywood Trauma Through Yearly Disney Syndrome), where members share coping strategies for "acute franchise fatigue" and "CGI-induced existential dread."`,
-
-            `Stanford's newly established Department of Remake Psychology and Franchise Fatigue Studies documented parents stockpiling original DVDs in climate-controlled vaults, behavior one researcher termed "digital prepping for remake winter." Meanwhile, local "Original Canon Preservation Societies" have begun meeting in suburban basements, where members perform ritualistic screenings of the 2010 version while lamenting how "at least the original CGI had charm and artistic vision instead of just chasing photorealism."`,
-
-            `Universal Pictures responded by unveiling their proprietary "Nostalgia Exploitation Index," which reportedly measures "multi-generational disillusionment touchpoints" with frightening accuracy. The company also filed patents for what they call "cross-generational trauma monetization frameworks," designed to "optimize viewer resignation across multiple remake cycles."`,
-
-            `"We're leveraging cutting-edge algorithms to synergize disappointment vectors," explained Universal's Chief Nostalgia Officer, Bradley Walsh. "Our data suggests we can achieve peak viewer disillusionment by 2027."`,
-
-            `When reached for comment, a 28-year-old former HTTYD fan simply sighed and returned to explaining to her therapy dragon why scales shouldn't look "uncomfortably realistic."`,
-        ]
-    },
 ]
 
 /*{
     id: 000,
-    articleUrl: `20250100-xxx-xxx-xxx`,
+    articleUrl: `20241200-xxx-xxx-xxx`,
     category: `tech`,
-    img: `/images/20251200-xxx-xxx-xxx.webp`,
+    img: `/images/20241200-xxx-xxx-xxx.webp`,
     alt: `xxx`,
     header: `xxx`,
     subhead: `xxx`,
     tags: [`xxx`,],
     author: `Et Al`,
-    datePublished: new Date(2025,0,1,1),
+    datePublished: new Date(2024,11,1,1),
     articleBody: [
         xxx
     ]

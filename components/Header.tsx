@@ -24,9 +24,13 @@ const Header = ({ articlesData = [] }: HeaderProps) => {
       decodeURIComponent(pathNameUnformatted)?.slice(1)
 
   const toggleSidebar = () => {
-    setTimeout(() => {
+    if(isOpen) {
+      setTimeout(() => {
+        setIsOpen(!isOpen)
+      }, 500)
+    } else{
       setIsOpen(!isOpen)
-    }, 200)
+    }
   }
 
   const scrollToTop = () => {

@@ -16,7 +16,7 @@ export default function LemmyLink() {
         className="dark:invert"
       />
       <span className="text-lg font-medium hover:text-purple-600 dark:hover:text-green-400">
-        Join our Lemmy community!
+        Join the official isGlitch.com Lemmy community
       </span>
     </a>
   )

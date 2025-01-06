@@ -21,3 +21,11 @@ export interface SidebarProps {
 export interface HeaderProps {
   articlesData?: Article[];
 }
+
+export interface Author {
+  id: string
+  name: string
+  image: string
+  imageAlt: string
+  bio: string[]
+}
