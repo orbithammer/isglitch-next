@@ -19,25 +19,61 @@ export type CategoryTags = Record<string, string[]>
 export async function getCategoryTags(): Promise<CategoryTags> {
   const articles = await articlesData
   const categories = ['home', 'tech', 'reviews', 'entertainment', 'ai']
-  const tags: Record<string, Record<string, number>> = {}
+  const TARGET_TAG_COUNT = 10
+  
+  // Calculate the date 30 days ago
+  const thirtyDaysAgo = new Date()
+  thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30)
 
-  categories.forEach(category => {
-    tags[category] = {}
-    articles.forEach(article => {
+  // Split articles into recent and older
+  const recentArticles = articles.filter(article => 
+    article.datePublished >= thirtyDaysAgo
+  )
+  const olderArticles = articles.filter(article => 
+    article.datePublished < thirtyDaysAgo
+  )
+
+  // Function to collect tags from articles
+  const collectTags = (articleList: Article[], category: string) => {
+    const tagCounts: Record<string, number> = {}
+    articleList.forEach(article => {
       if (category === 'home' || article.category.toLowerCase() === category) {
         article.tags?.forEach(tag => {
-          tags[category][tag] = (tags[category][tag] || 0) + 1
+          tagCounts[tag] = (tagCounts[tag] || 0) + 1
         })
       }
     })
-  })
+    return tagCounts
+  }
 
   const topTags: CategoryTags = {}
-  Object.entries(tags).forEach(([category, categoryTags]) => {
-    topTags[category] = Object.entries(categoryTags)
+
+  categories.forEach(category => {
+    // Get tags from recent articles first
+    const recentTags = collectTags(recentArticles, category)
+    const recentTagsList = Object.entries(recentTags)
       .sort((a, b) => b[1] - a[1])
-      .slice(0, 10)
       .map(([tag]) => tag)
+
+    if (recentTagsList.length >= TARGET_TAG_COUNT) {
+      // If we have enough recent tags, just take the top 10
+      topTags[category] = recentTagsList.slice(0, TARGET_TAG_COUNT)
+    } else {
+      // If we need more tags, get them from older articles
+      const olderTags = collectTags(olderArticles, category)
+      
+      // Filter out tags that are already in recentTagsList
+      const remainingOlderTags = Object.entries(olderTags)
+        .sort((a, b) => b[1] - a[1])
+        .map(([tag]) => tag)
+        .filter(tag => !recentTagsList.includes(tag))
+
+      // Combine recent and older tags
+      topTags[category] = [
+        ...recentTagsList,
+        ...remainingOlderTags.slice(0, TARGET_TAG_COUNT - recentTagsList.length)
+      ]
+    }
   })
 
   return topTags
@@ -76,6 +112,6 @@ export async function fetchArticles(category?: string, page: number = 1, tag?: s
 }
 
 export async function fetchArticle(articleUrl: string) {
-  const articles = await articlesData // Get all articles directly
+  const articles = await articlesData
   return articles.find(article => article.articleUrl === articleUrl)
 }
