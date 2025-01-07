@@ -7339,6 +7339,33 @@ export const articlesData = [
             `At press time, X was already beta testing a new feature requiring users to either watch three consecutive Tesla Cybertruck commercials or solve increasingly difficult calculus problems before accessing time-sensitive emergency information.`,
         ]
     },
+    {
+        id: 269,
+        articleUrl: `20250107-isglitch-achieves-peak`,
+        category: `tech`,
+        img: `/images/20250107-isglitch-achieves-peak.webp`,
+        alt: `A 30 something year old man with shoulder length dirty blond hair and a short beard looking exhausted but pleased.`,
+        header: `[META - again, not that Meta] isGlitch.com Achieves Peak Digital Masochism, Migrates to Next.js `,
+        subhead: `(Because Pain is Progress™)`,
+        tags: [`isGlitch`],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,7,1),
+        articleBody: `In what can only be described as a groundbreaking act of technical self-flagellation, we've finally done it, folks! We've successfully migrated our perfectly functional Vite website to Next.js, joining the ranks of developers who believe that if something isn't broken, you're not trying hard enough to fix it.
+
+Why, you ask? (Please ask, our engagement metrics depend on it.) Two reasons that absolutely justify the 147 developer hours and approximately 3,428 cups of coffee consumed during this migration:
+
+1. To increase loading times (because instant gratification is so 2023)
+2. To improve shareability (because if your website isn't being shared, does it even exist?)
+
+"But wait," you might say, frantically googling 'Next.js vs Vite' at 3 AM (we see you), "isn't Vite already blazing fast?" Oh, sweet summer child. In the cutthroat world of web development (where frameworks multiply faster than cryptocurrency scams), being "blazing fast" is practically prehistoric. We need to be QUANTUM FAST™ (a term we just invented that means absolutely nothing but sounds extremely impressive in client meetings).
+
+Our CTO (Chief Technical Overthinker) explains: "By migrating to Next.js, we're future-proofing our application for technologies that don't exist yet, while simultaneously ensuring our developers stay perpetually confused about routing conventions. It's a win-win!"
+
+Stay tuned for our next revolutionary update, where we'll probably migrate back to Vite because someone posted a particularly convincing Medium article about it. (Don't forget to smash that newsletter subscribe button - we're legally obligated to say that in every post.)
+
+#WebDev #TechHumor #NextJS #WhyDoWeDoThis #DeveloperPain #JavaScript #Framework #FrameworksAllTheWayDown
+(This post was generated using AI, peer-reviewed by cats, and optimized for maximum developer existential crises.)`
+    },
 ]
 
 /*{
