@@ -1,8 +1,6 @@
 'use client'
 
-// import { useContext } from 'react'
 import Image from 'next/image'
-// import ThemeContext from '@/lib/theme/ThemeContext'
 
 const socialLinks = [
   {
@@ -43,12 +41,11 @@ const socialLinks = [
 ]
 
 export default function SocialLinks() {
-//   const { isDarkMode } = useContext(ThemeContext)
 
   return (
-    <div className="p-6 rounded-lg bg-white dark:bg-gray-800 shadow-md mt-4 flex justify-between">
-      <h3 className="text-2xl font-bold text-gray-900 dark:text-gray-100">Socials</h3>
-      <div className="flex flex-wrap gap-4 mx-auto">
+    <div className="p-6 rounded-lg bg-white dark:bg-gray-800 shadow-md mt-4 flex flex-col md:flex-row md:items-center md:justify-center gap-4">
+      <h3 className="text-2xl font-bold text-center mb-4 md:mb-0 text-gray-900 dark:text-gray-100">Socials</h3>
+      <div className="flex items-center justify-center flex-wrap gap-4 mx-auto md:mx-[5%]">
         {socialLinks.map((link) => (
           <a
             key={link.name}

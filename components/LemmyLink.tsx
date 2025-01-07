@@ -6,7 +6,7 @@ export default function LemmyLink() {
       href="https://lemmy.world/c/isglitch"
       target="_blank"
       rel="noopener noreferrer"
-      className="flex items-center gap-4 p-6 mt-8 bg-white dark:bg-gray-800 rounded-lg shadow-md hover:shadow-lg transition-shadow"
+      className="flex flex-col md:flex-row text-center md:text-left items-center gap-4 p-6 mt-8 bg-white dark:bg-gray-800 rounded-lg shadow-md hover:shadow-lg transition-shadow"
     >
       <Image
         src="/socials/lemmy.svg"

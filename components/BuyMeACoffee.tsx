@@ -12,7 +12,7 @@ const BuyMeACoffee = () => {
       href="https://buymeacoffee.com/isglitch"
       target="_blank"
       rel="noopener noreferrer"
-      className="flex items-center gap-4 p-6 mt-8 bg-white dark:bg-gray-800 rounded-lg shadow-md hover:shadow-lg transition-shadow"
+      className="flex flex-col text-center md:text-left md:flex-row items-center justify-center gap-4 p-6 mt-8 bg-white dark:bg-gray-800 rounded-lg shadow-md hover:shadow-lg transition-shadow"
     >
       <div className="relative w-12 h-12">
         <Image
