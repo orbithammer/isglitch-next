@@ -4,9 +4,8 @@ import { useState, useEffect } from 'react'
 import { usePathname } from 'next/navigation'
 import { Menu, ChevronUp } from 'lucide-react'
 import Sidebar from './Sidebar'
-import type { HeaderProps } from './types'
 
-const Header = ({ articlesData = [] }: HeaderProps) => {
+const Header = () => {
   const [isOpen, setIsOpen] = useState(false)
   const pathname = usePathname()
   
@@ -40,7 +39,6 @@ const Header = ({ articlesData = [] }: HeaderProps) => {
     })
   }
 
-  // Add effect to scroll to top on route change
   useEffect(() => {
     scrollToTop()
   }, [pathname])
