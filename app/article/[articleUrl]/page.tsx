@@ -92,11 +92,11 @@ export default async function ArticlePage({ params }: {params: Promise<{articleU
           {new Date(article.datePublished).toLocaleDateString()}
         </time>
       </div>
-      <ShareButtons 
+      {/*<ShareButtons 
         articleUrl={article.articleUrl} 
         title={article.header} 
         imageUrl={article.img}
-      />
+      />*/}
       <div className="lg:grid lg:grid-cols-3 lg:gap-8">
         <div className="lg:col-span-2">
           <article className="prose dark:prose-invert max-w-none">
