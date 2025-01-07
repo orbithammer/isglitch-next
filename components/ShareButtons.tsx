@@ -9,7 +9,7 @@ interface ShareButtonsProps {
   imageUrl: string
 }
 
-export default function ShareButtons({ articleUrl, title, imageUrl }: ShareButtonsProps) {
+export default function ShareButtons({ title, imageUrl }: ShareButtonsProps) {
   const [showCopied, setShowCopied] = useState(false)
   const fullUrl = typeof window !== 'undefined' ? window.location.href : ''
   const fullImageUrl = typeof window !== 'undefined' ? `${window.location.origin}${imageUrl}` : ''
