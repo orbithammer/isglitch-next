@@ -3,13 +3,6 @@ import Pagination from '@/components/Pagination'
 import ArticleList from '@/components/ArticleList'
 import Title from '@/components/Title'
 
-interface PageParams {
-  params: {
-    category: string;
-    page: string;
-  }
-}
-
 export const dynamic = 'force-dynamic'
 
 export default async function CategoryPage({ params }: {params: Promise<{ category: string; page: string }> }) {

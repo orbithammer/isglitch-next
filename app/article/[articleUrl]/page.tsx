@@ -9,12 +9,6 @@ import SocialLinks from '@/components/SocialLinks'
 import MostRecentArticles from '@/components/MostRecentArticles'
 import EarlierArticles from '@/components/EarlierArticles'
 
-interface ArticlePageProps {
-  params: {
-    articleUrl: string
-  }
-}
-
 export async function generateMetadata({ params }: {params: Promise<{articleUrl: string}>}) {
   const { articleUrl } = await params
   const article = articlesData.find(a => a.articleUrl === articleUrl)

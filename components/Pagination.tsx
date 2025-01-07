@@ -1,7 +1,6 @@
 'use client'
 
 import Link from 'next/link'
-import { usePathname } from 'next/navigation'
 
 interface PaginationProps {
   currentPage: number
@@ -16,7 +15,6 @@ export default function Pagination({
   basePath,
   category = ''
 }: PaginationProps) {
-  const pathname = usePathname()
   const categoryPath = category ? `/${category}` : ''
   const path = `${basePath}/${categoryPath}`
 

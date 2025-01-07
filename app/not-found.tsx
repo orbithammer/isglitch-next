@@ -13,7 +13,7 @@ export default function NotFound() {
       </h2>
       
       <p className="text-xl text-gray-600 dark:text-gray-400 mb-8 max-w-md">
-        Looks like this page has glitched out of existence. Maybe it was never here, or maybe it's just hiding in another dimension.
+        Looks like this page has glitched out of existence. Maybe it was never here, or maybe it is just hiding in another dimension.
       </p>
       
       <Link 

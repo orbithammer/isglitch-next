@@ -71,7 +71,7 @@ export default async function AuthorPage({ params }: {params: Promise<{author: s
         } />
       </main>
     )
-  } catch (error) {
+  } catch {
     notFound()
   }
 }

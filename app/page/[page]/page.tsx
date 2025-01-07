@@ -3,12 +3,6 @@ import Pagination from '@/components/Pagination'
 import ArticleList from '@/components/ArticleList'
 import Title from '@/components/Title'
 
-interface PageParams {
-  params: {
-    page: string;
-  }
-}
-
 export default async function PaginatedHomePage({ params }: { params: Promise<{ page: string }> }) {
     const { page } = await params
     const category = "home"
