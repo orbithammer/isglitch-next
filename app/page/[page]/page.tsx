@@ -28,19 +28,13 @@ export default async function PaginatedHomePage({
 }) {
   const { page } = await params
   const pageNum = parseInt(page)
-
-  // Validate page parameter
+  
   if (isNaN(pageNum) || pageNum < 1 || !Number.isInteger(pageNum)) {
     notFound()
   }
 
   const category = "home"
   const { articles, totalPages } = await fetchArticles(category, pageNum)
-
-  // Validate page is within range
-  if (pageNum > totalPages) {
-    notFound()
-  }
 
   return (
     <div>

@@ -8,7 +8,7 @@ interface ShareButtonsProps {
   title: string
 }
 
-export default function ShareButtons({ articleUrl, title }: ShareButtonsProps) {
+export default function ShareButtons({ title }: ShareButtonsProps) {
   const [showCopied, setShowCopied] = useState(false)
 
   const copyLink = async () => {
