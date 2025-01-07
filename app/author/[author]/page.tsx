@@ -45,7 +45,7 @@ export default async function AuthorPage({ params }: {params: Promise<{author: s
 
     return (
       <main className="max-w-6xl mx-auto px-4 py-8">
-        <div className="mb-12 mx-[20%] max-w-6xl">
+        <div className="mb-12 mx-[5%] sm:mx-[20%] max-w-6xl">
           <div className="relative md:float-left md:mr-8 mb-4 w-48 h-48 rounded-full overflow-hidden">
             <Image
               src={authorInfo.image}
