@@ -7396,9 +7396,9 @@ When asked about profitability concerns, Altman referenced the company's sophist
     },
     {
         id: 271,
-        articleUrl: `20250107-bbereats-launches-competitive`,
+        articleUrl: `20250107-ubereats-launches-competitive`,
         category: `tech`,
-        img: `/images/20250107-bbereats-launches-competitive.webp`,
+        img: `/images/20250107-ubereats-launches-competitive.webp`,
         alt: `A crowd of Uber Eats delivery drivers in identical poses, all standing perfectly still like statues in a Tim Hortons, with their phones glowing in unison.`,
         header: `UberEats Launches 'Competitive Waiting' Feature for Drivers`,
         subhead: `Platform gamifies standing still, promises 'enhanced earning potential' of up to $1.74/hr`,
