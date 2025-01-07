@@ -12,7 +12,9 @@ interface ShareButtonsProps {
 export default function ShareButtons({ title, imageUrl }: ShareButtonsProps) {
   const [showCopied, setShowCopied] = useState(false)
   const fullUrl = typeof window !== 'undefined' ? window.location.href : ''
+  console.log('fullUrl:', fullUrl)
   const fullImageUrl = typeof window !== 'undefined' ? `${window.location.origin}${imageUrl}` : ''
+  console.log('fullImageUrl:', fullImageUrl)
 
   const copyLink = async () => {
     try {
