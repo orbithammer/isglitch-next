@@ -3,14 +3,7 @@ import Pagination from '@/components/Pagination'
 import ArticleList from '@/components/ArticleList'
 import Title from '@/components/Title'
 
-// interface PageParams {
-//   params: {
-//     tag: string;
-//     page: string;
-//   }
-// }
-
-// export const dynamic = 'force-dynamic'
+export const dynamic = 'force-dynamic'
 
 export default async function SearchPage({ params }: {params: Promise<{ tag: string; page: string }> }) {
     const { tag, page } = await params

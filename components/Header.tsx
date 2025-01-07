@@ -45,26 +45,28 @@ const Header = () => {
 
   return (
     <>
-      <header className="flex items-center justify-between px-8 bg-background-light dark:bg-background-dark text-foreground-light dark:text-foreground-dark h-16">
-        <p className="text-2xl font-medium">{pageName}</p>
-        
-        <button 
-          className="flex items-center bg-transparent border-0 text-base text-foreground-light dark:text-foreground-dark hover:text-gray-600 dark:hover:text-gray-300 transition-colors"
-          onClick={toggleSidebar}
-        >
-          Menu
-          <Menu className="w-4 h-4 ml-2" />
-        </button>
-
-        {!isOpen && (
+      <div className="bg-background-light dark:bg-background-dark">
+        <header className="max-w-6xl mx-auto flex items-center justify-between px-4 h-16">
+          <p className="text-2xl font-medium">{pageName}</p>
+          
           <button 
-            className="fixed bottom-8 right-[9.5%] border-0 rounded-lg w-12 h-12 flex items-center justify-center cursor-pointer z-50 bg-gray-800/20 dark:bg-white/20 hover:bg-gray-800/30 dark:hover:bg-white/30 transition-colors"
-            onClick={scrollToTop}
+            className="flex items-center bg-transparent border-0 text-base text-foreground-light dark:text-foreground-dark hover:text-gray-600 dark:hover:text-gray-300 transition-colors"
+            onClick={toggleSidebar}
           >
-            <ChevronUp className="w-8 h-8 text-foreground-light dark:text-foreground-dark" />
+            Menu
+            <Menu className="w-4 h-4 ml-2" />
           </button>
-        )}
-      </header>
+
+          {!isOpen && (
+            <button 
+              className="fixed bottom-8 right-[9.5%] border-0 rounded-lg w-12 h-12 flex items-center justify-center cursor-pointer z-50 bg-gray-800/20 dark:bg-white/20 hover:bg-gray-800/30 dark:hover:bg-white/30 transition-colors"
+              onClick={scrollToTop}
+            >
+              <ChevronUp className="w-8 h-8 text-foreground-light dark:text-foreground-dark" />
+            </button>
+          )}
+        </header>
+      </div>
 
       <Sidebar
         isOpen={isOpen}

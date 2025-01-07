@@ -6,6 +6,8 @@ import { articlesData } from '@/data/articles'
 import ArticleList from '@/components/ArticleList'
 import Markdown from 'react-markdown'
 
+export const dynamic = 'force-dynamic'
+
 export async function generateMetadata({ params }: {params: Promise<{author: string}>}) {
   const { author } = await params
   const authorInfo = await fetchAuthorInfo(author)
