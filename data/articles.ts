@@ -7366,6 +7366,62 @@ Stay tuned for our next revolutionary update, where we'll probably migrate back 
 #WebDev #TechHumor #NextJS #WhyDoWeDoThis #DeveloperPain #JavaScript #Framework #FrameworksAllTheWayDown
 (This post was generated using AI, peer-reviewed by cats, and optimized for maximum developer existential crises.)`
     },
+    {
+        id: 270,
+        articleUrl: `20250107-openai-unveils-pay`,
+        category: `ai`,
+        img: `/images/20250107-openai-unveils-pay.webp`,
+        alt: `A tech worker giving a cheery thumbs up with a server room on fire in the background.`,
+        header: `OpenAI Unveils 'Pay-What-We-Lose' Pricing for ChatGPT Pro`,
+        subhead: `Company pioneers "democratic wealth redistribution through AI inefficiency"`,
+        tags: [`OpenAI`, `Sam Altman`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2025,0,7,7),
+        articleBody: [
+            `
+In a groundbreaking move that perfectly captures Silicon Valley's commitment to financial innovation, OpenAI CEO Sam Altman announced today that ChatGPT Pro subscribers will now be charged based on the company's real-time operating losses.
+
+"We've achieved consciousness-level capital burn," explained Dr. Jennifer Martinez, OpenAI's Senior Loss Optimization Engineer. "Our models can now destroy wealth at a rate that would make Effective Altruists question their commitment to longtermism."
+
+The new pricing structure offers three tiers: Basic Burn ($500/day), Accelerated Hemorrhage ($5000/day), and Infinite Void, which Altman describes as "market rate plus whatever number our AI hallucinates." Each tier is powered by their proprietary "Effective Altruistic Pricing Algorithm," which ensures maximum capital destruction for the greater good.
+
+OpenAI's latest investor deck has relabeled unprofitable quarters as "superintelligent investment cycles," while their new parallel processing system boasts the ability to lose money in 27 currencies simultaneously. "Our recursive self-improving loss function gets exponentially more expensive as it gets smarter," explained CFO James Wilson. "It's beautiful, really."
+
+The company's commitment to "democratizing loss" has attracted retail investors eager to participate in what OpenAI calls "pre-profitable growth." Their new slogan, "Move Fast and Break Banking Fundamentals," adorns the walls of their loss-optimal data center, which is powered entirely by burning stacks of venture capital funding.
+
+"Our alignment research ensures the AI remains perfectly misaligned with basic accounting principles," Altman noted during a heavily curated Twitter Spaces event. "Through our multi-modal loss architecture, we're not just losing money on text generation – we're losing it on images, video, and several theoretical forms of media that don't exist yet."
+
+When asked about profitability concerns, Altman referenced the company's sophisticated revenue projection model, which consistently outputs "∞" regardless of input parameters. Microsoft, OpenAI's primary investor, has reportedly started pricing Azure services in theoretical dollars from parallel universes where tech companies don't need capital to operate.`
+        ]
+    },
+    {
+        id: 271,
+        articleUrl: `20250107-bbereats-launches-competitive`,
+        category: `tech`,
+        img: `/images/20250107-bbereats-launches-competitive.webp`,
+        alt: `A crowd of Uber Eats delivery drivers in identical poses, all standing perfectly still like statues in a Tim Hortons, with their phones glowing in unison.`,
+        header: `UberEats Launches 'Competitive Waiting' Feature for Drivers`,
+        subhead: `Platform gamifies standing still, promises 'enhanced earning potential' of up to $1.74/hr`,
+        tags: [`Uber Eats`, `Uber`, `Dara Khosrowshahi`],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,7,17),
+        articleBody: [
+            `
+UberEats unveiled its latest innovation today: a groundbreaking feature that transforms the art of waiting for orders into what company executives call "a dynamic competitive experience." The "Wait2Win" system rewards drivers who can remain motionless the longest while desperately hoping for a $2 delivery ping.
+
+The platform's new algorithm tracks crucial metrics including "surge heart rates" during rejection streaks, with special bonuses for drivers maintaining dangerously high blood pressure. "We've found that elevated cortisol levels correlate perfectly with driver engagement," explained Chief Optimization Officer Derek Walsh. "We're revolutionizing the art of doing nothing profitably."
+
+Drivers can earn achievements like the coveted "Zen Master" badge for maintaining perfectly flat earnings across 100 hours, or trade 100,000 waiting points for a "Virtual High Five from Dara." The global leaderboard, "Time Wasted Successfully," displays top performers who've mastered the art of professional stagnation.
+
+"Yesterday I watched 47 orders go to other drivers while earning enough points for one-third of a virtual high five," reported Toronto courier Jason Martinez, speaking from his usual waiting spot inside Tim Hortons. The new "Community Competition" feature lets drivers watch real-time animations of nearby couriers receiving orders while they continue waiting.
+
+The platform's "Optimal Desperation Algorithm" detects when drivers are about to quit and sends them exactly one good order, carefully timed to restart the cycle of hope. This pairs seamlessly with the "Rent Due Boost" feature, which increases waiting point accumulation as drivers approach their bill payment dates.
+
+When asked about concerns that the system exploits vulnerable workers, Uber CEO Dara Khosrowshahi responded by unveiling a new machine learning model that automatically generates empathetic-sounding PR statements. "We're proud to offer our delivery partners flexible opportunities to participate in competitive standing," the AI declared, before glitching and revealing the company's internal motto: "They can't unionize if they're too busy competing for points."
+
+The feature rolls out nationwide next week, alongside the new "Competitive Bathroom Break" feature where drivers race back from restrooms to claim $2 orders before their bladders fully empty.`
+        ]
+    },
 ]
 
 /*{
@@ -7380,6 +7436,6 @@ Stay tuned for our next revolutionary update, where we'll probably migrate back 
     author: `Et Al`,
     datePublished: new Date(2025,0,1,1),
     articleBody: [
-        xxx
+        `xxx`
     ]
 },*/
