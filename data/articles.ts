@@ -7492,7 +7492,5 @@ When questioned about criticism, Morrison smiled and noted that several critics'
     tags: [`xxx`,],
     author: `Et Al`,
     datePublished: new Date(2025,0,1,1),
-    articleBody: [
-        `xxx`
-    ]
+    articleBody: `xxx`
 },*/
