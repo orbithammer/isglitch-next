@@ -9,7 +9,6 @@ import BuyMeACoffee from '@/components/BuyMeACoffee'
 import SocialLinks from '@/components/SocialLinks'
 import MostRecentArticles from '@/components/MostRecentArticles'
 import EarlierArticles from '@/components/EarlierArticles'
-import Title from '@/components/Title'
 
 export const dynamic = 'force-dynamic'
 
@@ -55,7 +54,6 @@ export default async function ArticlePage({ params }: {params: Promise<{articleU
   return (
     <main className="max-w-6xl mx-auto px-4 py-8">
       <div className="w-full mb-8">
-        <Title />
         <div className="relative w-full aspect-[16/9]">
           <Image 
             src={article.img}
