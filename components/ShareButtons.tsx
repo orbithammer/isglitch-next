@@ -9,7 +9,7 @@ interface ShareButtonsProps {
   imageUrl: string
 }
 
-export default function ShareButtons({ articleUrl, title, imageUrl }: ShareButtonsProps) {
+export default function ShareButtons({ articleUrl }: ShareButtonsProps) {
   const [copied, setCopied] = useState(false)
   const fullUrl = `https://isglitch.com/article/${articleUrl}`
 
