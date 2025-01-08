@@ -3,8 +3,16 @@ import Pagination from '@/components/Pagination'
 import ArticleList from '@/components/ArticleList'
 import Title from '@/components/Title'
 
-export default async function HomePage() {
-    const page = '1'
+export const dynamic = 'force-dynamic'
+
+interface HomePageProps {
+  params: {
+    page?: string
+  }
+}
+
+export default async function HomePage({ params }: HomePageProps) {
+    const page = params.page || '1'
     const category = "home"
     const { articles, totalPages } = await fetchArticles(
         category,
