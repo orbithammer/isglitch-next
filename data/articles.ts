@@ -1768,7 +1768,7 @@ export const articlesData = [
         alt: `a candle lit dinner of a couple of sandwiches`,
         header: `Uber Eats Crashes After Influx of $10 Voucher Orders from CrowdStrike`,
         subhead: `Harried company offers $1 Candy Crush lives as compensation for the compensation failure`,
-        tags: [`CrowdStrike`, `George Kurtz`, `Uber`],
+        tags: [`CrowdStrike`, `George Kurtz`, `Uber Eats`],
         author: `Et Al`,
         datePublished: new Date(2024,6,28,15),
         articleBody: [

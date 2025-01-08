@@ -2,7 +2,7 @@ import { notFound } from 'next/navigation'
 import Image from 'next/image'
 import Link from 'next/link'
 import { articlesData } from '@/data/articles'
-// import ShareButtons from '@/components/ShareButtons'
+import ShareButtons from '@/components/ShareButtons'
 import Markdown from 'react-markdown'
 import LemmyLink from '@/components/LemmyLink'
 import BuyMeACoffee from '@/components/BuyMeACoffee'
@@ -94,11 +94,11 @@ export default async function ArticlePage({ params }: {params: Promise<{articleU
           {new Date(article.datePublished).toLocaleDateString()}
         </time>
       </div>
-      {/*<ShareButtons 
-        articleUrl={article.articleUrl} 
-        title={article.header} 
+      <ShareButtons 
+        articleUrl={article.articleUrl}
+        title={article.header}
         imageUrl={article.img}
-      />*/}
+      />
       <div className="lg:grid lg:grid-cols-3 lg:gap-8">
         <div className="lg:col-span-2">
           <article className="prose dark:prose-invert max-w-none">
