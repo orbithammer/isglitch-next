@@ -7405,7 +7405,7 @@ When asked about profitability concerns, Altman referenced the company's sophist
         tags: [`Uber Eats`, `Uber`, `Dara Khosrowshahi`],
         author: `Et Al`,
         datePublished: new Date(2025,0,7,17),
-        articleBody: [
+        articleBody: 
             `
 UberEats unveiled its latest innovation today: a groundbreaking feature that transforms the art of waiting for orders into what company executives call "a dynamic competitive experience." The "Wait2Win" system rewards drivers who can remain motionless the longest while desperately hoping for a $2 delivery ping.
 
@@ -7420,6 +7420,63 @@ The platform's "Optimal Desperation Algorithm" detects when drivers are about to
 When asked about concerns that the system exploits vulnerable workers, Uber CEO Dara Khosrowshahi responded by unveiling a new machine learning model that automatically generates empathetic-sounding PR statements. "We're proud to offer our delivery partners flexible opportunities to participate in competitive standing," the AI declared, before glitching and revealing the company's internal motto: "They can't unionize if they're too busy competing for points."
 
 The feature rolls out nationwide next week, alongside the new "Competitive Bathroom Break" feature where drivers race back from restrooms to claim $2 orders before their bladders fully empty.`
+        
+    },
+    {
+        id: 272,
+        articleUrl: `20250108-gravy-analytics-hack`,
+        category: `tech`,
+        img: `/images/20250108-gravy-analytics-hack.webp`,
+        alt: `A robot practicing drinking water while Zuckerberg mirrors its movements.`,
+        header: `Gravy Analytics Hack Reveals Zuckerberg's Secret Congress Clone`,
+        subhead: `Meta CEO's Location Data Shows He Built an Actual Congressional Simulator`,
+        tags: [`Meta`, `Mark Zuckerberg`, `Gravy Analytics`],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,8,7),
+        articleBody: 
+            `
+In what can only be described as the most Meta plot twist since Meta stopped being Facebook, the massive Gravy Analytics data breach has exposed Mark Zuckerberg's latest attempt to download a personality: a full-scale replica of Congress hidden on his Menlo Park compound, where he practices not looking like he's collecting data about collecting data.
+
+The leaked location data, which reveals the congressional equivalent of a Westworld season finale, shows regular visits to "ZuCkongress" - a state-of-the-art facility featuring animatronic senators with a revolutionary "Difficulty Settings" panel. Sources report Zuck can adjust hostility levels from "Grandpa Who Just Got His First iPhone" to "Elizabeth Warren During Mercury Retrograde."
+
+The facility's robotic representatives keep malfunctioning and asking about "Facebook" instead of "Meta," causing Zuckerberg to blue-screen and automatically initiate rebrand.exe. These silicon-based senators are programmed to ask increasingly specific questions about why Zuckerberg's personal Meta settings are all set to "Actually Private" while everyone else's default to "We Own Your Soul Now."
+
+In a twist that shocked absolutely nobody, the facility includes a high-tech water glass that measures his "Definitely Not A Lizard Person" index, which sources say has never exceeded 3%. The "Human Demeanor Protocol 3.0" administers electric shocks whenever Zuckerberg refers to users as "data optimization units" or accidentally reveals Meta's true motto: "Your Privacy Is Our Product Roadmap."
+
+Every successful question dodge triggers the Meta loading sound and awards him "Privacy Violation Points," redeemable for more user data or emergency onions for those tricky Congressional tears. The room's "Emergency Deflection System" automatically generates phrases like "we take this very seriously" but keeps glitching and suggesting "just buy their silence instead."
+
+When reached for comment, Meta's PR team insisted this was all "completely normal corporate training," but their statement was undermined when Zuckerberg's latest emotional response patch failed to install, causing him to repeatedly malfunction while trying to execute smile.exe.`
+        
+    },
+    {
+        id: 273,
+        articleUrl: `20250108-palantir-claims-kids`,
+        category: `tech`,
+        img: `/images/20250108-palantir-claims-kids.webp`,
+        alt: `A cute kindergartener with a QR code tattoo on her forehead with too many security cameras in the background.`,
+        header: `Palantir Claims Kids 'Love' Surveillance, According to Forced Data Collection`,
+        subhead: `Privacy advocates alarmed as tech giant launches "Freedom From Freedom" initiative`,
+        tags: [`Palantir`, `Surveillance`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,8,17),
+        articleBody: [
+            `
+Palantir Technologies unveiled their "Freedom From Freedom" campaign yesterday, citing proprietary data showing that children actually prefer constant monitoring - data collected without consent from 50 million students using their mandatory surveillance platform.
+
+"Our algorithms prove that student happiness increased by exactly 47.2% when they learned their bathroom visits were being monetized," said James Morrison, Palantir's Head of Youth Insights. "The data speaks for itself, even if the children aren't allowed to."
+
+The campaign features testimonials from surveilled students, all delivered under facial recognition monitoring. "The granular behavioral analytics really optimize my recess experience," said one first-grader, as the system flagged her elevated heart rate and automatically enrolled her in Digital Citizenship Enhancement Program.
+
+Morrison explained that Palantir's "TotalAware Youth Edition" now monitors everything from hallway conversations to bathroom breaks, generating "FreedomScores™" that drop when students research terms like "privacy" or "civil liberties." Lower scores trigger automatic detention - now rebranded as "Voluntary Freedom Reduction Time™."
+
+"We're gamifying surveillance," Morrison added, pointing to a dashboard where students earn points for reporting classmates' privacy-seeking behaviors. "Parents can even earn data dividends by enabling more invasive monitoring features."
+
+The company's internal research claims their AI can detect "dangerous levels of independent thinking" with 99.9% accuracy, particularly among students who spend more than 30 seconds looking out windows "unproductively."
+
+When questioned about criticism, Morrison smiled and noted that several critics' children had mysteriously received low Student Compliance Index scores, potentially affecting their college applications through Palantir's new partnership with admissions boards.
+
+"But that's purely coincidental," he added, as the system's Childhood Joy Detection Module flagged an unauthorized outbreak of happiness in the building's east wing.            
+            `
         ]
     },
 ]
