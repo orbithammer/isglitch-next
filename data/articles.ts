@@ -7354,7 +7354,7 @@ export const articlesData = [
 
 Why, you ask? (Please ask, our engagement metrics depend on it.) Two reasons that absolutely justify the 147 developer hours and approximately 3,428 cups of coffee consumed during this migration:
 
-1. To increase loading times (because instant gratification is so 2023)
+1. To reduce loading times (because instant gratification never goes out of style.)
 2. To improve shareability (because if your website isn't being shared, does it even exist?)
 
 "But wait," you might say, frantically googling 'Next.js vs Vite' at 3 AM (we see you), "isn't Vite already blazing fast?" Oh, sweet summer child. In the cutthroat world of web development (where frameworks multiply faster than cryptocurrency scams), being "blazing fast" is practically prehistoric. We need to be QUANTUM FAST™ (a term we just invented that means absolutely nothing but sounds extremely impressive in client meetings).
