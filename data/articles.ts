@@ -7479,6 +7479,56 @@ When questioned about criticism, Morrison smiled and noted that several critics'
             `
         ]
     },
+    {
+        id: 274,
+        articleUrl: `20250109-meta-both-sides`,
+        category: `tech`,
+        img: `/images/20250109-meta-both-sides.webp`,
+        alt: `Two identical female tech workers in two identical office cubicles facing each other like a mirror image, with every object perfectly balanced and synchronized.`,
+        header: `Meta's 'Both Sides' Algorithm Promises Perfect Balance in Hateful Content`,
+        subhead: `Platform's New Feature Ensures Equal Representation of Love and Hate, Says CEO`,
+        tags: [`Meta`, `Mark Zuckerberg`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,9,7),
+        articleBody: `
+Meta unveiled its groundbreaking "Both Sides" algorithm today, revolutionizing content moderation by ensuring every human rights post receives its mathematically perfect opposite (for fairness and engagement metrics!).
+
+The system's centerpiece, the "Fairness Meter™," glows an alarming red whenever any post shows dangerous levels of unchallenged support for human rights. "We developed this technology by studying the ultimate source of balanced discourse: YouTube comments sections," explained Meta's VP of Ethical Innovations, Bradley Matthews, while demonstrating how users can earn "Controversy Coins™" for finding ways to "see both sides" of increasingly obvious moral issues.
+
+The algorithm, powered by Meta's state-of-the-art BALANCE™ technology, rewards users with an "Enlightened Centrism Score" for responding "but what about..." to every social justice post. Premium subscribers gain access to "Both Sides Premium+," featuring a revolutionary split-screen interface that displays controversial topics with perfect 50/50 opposition, complete with real-time hate speech generation (sourced exclusively from Congressional records!).
+
+Meta also announced a groundbreaking partnership with LinkedIn to ensure every corporate diversity initiative post receives an equal number of "but what about merit" responses. The platform's AI automatically balances posts about climate change with an equal number of "but actually, snow still exists" updates, maintaining perfect equilibrium across the platform.
+
+"It's about creating a marketplace of ideas," explained Zuckerberg in a hologram presentation, his avatar glitching between expressing support and opposition to basic human dignity. The company's next update promises to ensure every Pride Month post achieves perfect mathematical balance with "but what about straight pride" content, optimizing engagement through Meta's proprietary "Equal Hate Distribution™" system.
+
+Early beta testers report feeling perfectly balanced, as all things should be™. "Finally, a platform that understands the importance of neutrality," shared beta tester @EnlightenedDebater2025, earning 50 Controversy Coins™ for their perfectly calibrated response.
+
+Meta's stock price rose 8% on the news, with analysts praising the company's innovative approach to monetizing moral relativism.
+        `
+    },
+    {
+        id: 275,
+        articleUrl: `20250109-sonys-gaming-room`,
+        category: `reviews`,
+        img: `/images/20250109-sonys-gaming-room.webp`,
+        alt: `A handsome Latin-American man smiling warmly with a horde of zombies in the background.`,
+        header: `Sony's Gaming Room: A Pedro Pascal Apocalypse Simulator`,
+        subhead: `The Only Red Flag is the Price Tag`,
+        tags: [`CES 2025`, `Sony`, `Pedro Pascal`, `The Last of Us`],
+        author: `Lester Girdle`,
+        datePublished: new Date(2025,0,9,17),
+        articleBody: `
+My first dispatch from CES 2025 concerns Sony's latest technological honey trap - a $2,499 monument to collective parasocial desperation that I would gladly purchase at twice the price. The Last of Us demo on their new gaming room reveals not just the future of entertainment, but the logical endpoint of human emotional evolution: a meticulously crafted vehicle for simulated intimacy with Pedro Pascal.
+
+The console's patented "Parasocial Plus" technology includes a small mirror positioned at the optimal angle to reflect your own increasingly desperate expression as you lean in to inhale what Sony's marketing materials describe as "authentic apocalyptic Pascal." The fragrance system proves surprisingly compelling - notes of leather, gunpowder, and the existential musk of abandoned Walmart pharmacies. Each unit ships with a tiny vial of artificial tears, presumably to enhance the experience of being emotionally manipulated by prestige television's most weaponized eyebrows.
+
+Players can unlock achievement badges for time spent gazing longingly at Pascal's digital crow's feet, with a special platinum trophy for detecting notes of cardamom in his algorithmic musk. The console's AI tracks pupil dilation during emotional scenes, adjusting his concerned head tilt angle for maximum psychological devastation. A built-in therapy chatbot activates whenever players spend more than 30 minutes attempting to initiate meaningful dialogue with Pascal's pre-programmed responses, though I've yet to acknowledge its gentle suggestions to "explore real-world connections."
+
+The deluxe edition includes a weighted blanket designed to replicate the crushing weight of parasocial attachment - a thoughtful addition that transforms solitary gaming into a physically palpable experience of yearning. The mushroom zombies feel like reluctant chaperones at this point, their presence an unwelcome interruption to what is essentially an elaborate courtship ritual with a pixelated Pascal.
+
+Sony has achieved something remarkable here - they've created a machine that transforms abject loneliness into a premium feature. In a world increasingly mediated through screens, they've simply cut to the chase, delivering what we truly crave: the illusion of meaningful connection with Pedro Pascal in a wasteland of our own making. Now, if you'll excuse me, I need to attempt unlocking the "Emotional Dependency" achievement badge.
+        `
+    },
 ]
 
 /*{
