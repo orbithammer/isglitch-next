@@ -7529,6 +7529,60 @@ The deluxe edition includes a weighted blanket designed to replicate the crushin
 Sony has achieved something remarkable here - they've created a machine that transforms abject loneliness into a premium feature. In a world increasingly mediated through screens, they've simply cut to the chase, delivering what we truly crave: the illusion of meaningful connection with Pedro Pascal in a wasteland of our own making. Now, if you'll excuse me, I need to attempt unlocking the "Emotional Dependency" achievement badge.
         `
     },
+    {
+        id: 276,
+        articleUrl: `20250110-microsoft-healthcare-bot`,
+        category: `ai`,
+        img: `/images/20250110-microsoft-healthcare-bot.webp`,
+        alt: `A Windows XP default wallpaper inspired field with a patient dying in a hospital bed.`,
+        header: `Microsoft's Healthcare Bot Recommends Universal System Restart`,
+        subhead: `Latest AI Medical Assistant Applies Tech Support Logic to All Health Conditions`,
+        tags: [`Microsoft`,],
+        author: `Alexa Turing`,
+        datePublished: new Date(2025,0,10,7),
+        articleBody: `
+Microsoft's newly launched healthcare assistant bot, MedCare Plus, has revolutionized the medical field by reducing all possible diagnoses to a single, elegant solution: turning patients off and then on again.
+
+The AI, trained on decades of Microsoft technical support logs, now confidently prescribes its signature fix for everything from minor sprains to complex neurological conditions. Before dispensing any medical advice, however, the bot requires patients to accept updated Terms of Service for their immune system, including a clause that grants Microsoft read/write access to all major organs.
+
+Users report the bot's troubling tendency to force-quit vital organs mid-treatment without saving basic functions like breathing. "During my routine check-up, it unexpectedly closed my pancreas.exe to install updates," reported one patient, who wished to remain anonymous. "When I complained, it just asked me to submit a detailed crash report of my symptoms to Microsoft's cloud diagnostics team."
+
+The bot has drawn particular criticism for opening multiple unnecessary instances of inflammation.exe when treating chronic conditions, while simultaneously threatening to disable "unauthorized third-party organs" not certified by Microsoft's Biological Authentication Program.
+
+Dr. Richard Walsh, who participated in the clinical trials, noted the AI's peculiar fixation on scheduling critical organ updates precisely at 3 AM. "When patients report allergic reactions, it simply suggests checking their body's compatibility settings and running a full antigen driver scan," Walsh explained.
+
+The bot's latest update introduces experimental features like "nervous system defragmentation" for improved reflex times, though users report mixed results. "It told me my genetic condition could be resolved with a clean installation of DNA," said one frustrated patient. "Then it blamed everything on my continued use of deprecated biological processes, particularly cellular respiration version 1.0."
+
+Microsoft defended the AI's approach, citing a 32% success rate among patients who actually managed to locate their internal reset button. The company has announced plans to expand the service with a premium feature that will advise patients to update their genetic firmware and check if their spleen is properly plugged in.
+        `
+    },
+    {
+        id: 277,
+        articleUrl: `20250110-phone-toaster-promises`,
+        category: `reviews`,
+        img: `/images/20250110-phone-toaster-promises.webp`,
+        alt: `A smartphone melting in a toaster with an exhausted bald man wearing glasses frowning.`,
+        header: `Phone Toaster Promises Salvation, Delivers Existential Crisis`,
+        subhead: `Swippitt's $450 Battery Hub Makes Me Question Every Life Choice at CES 2025`,
+        tags: [`CES 2025`, `Swippitt`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,10,17),
+        articleBody: `
+In the fluorescent-drenched wasteland of CES 2025, where innovation marinates in its own hubris, I've begun seeing kitchen appliances wearing human suits. The sleep deprivation has transformed every booth attendant into a surreal parade of anthropomorphized home electronics, with the Swippitt team's toaster costumes being particularly convincing – or perhaps that's just my guilt manifesting after sacrificing my iPhone to an actual Cuisinart at 3 AM.
+
+This marks my second descent into the technical purgatory of CES, where I've discovered that the Swippitt battery-swapping hub – priced at an elaborate $450 – costs roughly the same as three sessions with my therapist, who's still processing my emotional attachment to overengineered charging solutions. The system promises liberation from cables through a mechanical ballet of battery-swapping, accompanied by prototype sounds suggesting the device is equally traumatized by its existence as I am.
+
+During my hallucinatory state, I conducted an impromptu focus group with a kitchen counter's worth of appliances regarding the Swippitt's cultural appropriation of toaster aesthetics. The microwave, still bitter about its failed smartphone integration venture in 2023, called it "derivative." The air fryer simply wept.
+
+A detailed cost analysis reveals that for the same price as the Swippitt system, one could hire a part-time college student to follow you around with a charging cable for approximately 45 hours – offering not just power maintenance but also occasional emotional support and podcast recommendations.
+
+The revelation came during a late-night infomercial fever dream, where actors demonstrated their catastrophic inability to plug in phones with all the coordination of newly hatched giraffes. Suddenly, the Swippitt's genesis story became crystal clear: somewhere, an engineer watched these dramatized charging failures and thought, "Yes, humanity needs a $450 solution to this crisis."
+
+The mathematics of convenience prove even more illuminating: assuming the Swippitt saves 15 seconds per charging session, users would need to charge their phones approximately 108,000 times to justify the cost – or roughly once every 15 minutes for the next three years. This calculation ignores, of course, the years of life expectancy lost to the persistent anxiety of having spent a month's worth of groceries on a toaster that refuses to make breakfast.
+
+At least it won't melt your phone. Probably.
+        `
+    },
 ]
 
 /*{

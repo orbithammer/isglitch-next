@@ -3,9 +3,18 @@ import Link from 'next/link'
 import { Article } from '@/lib/fetchArticles'
 
 export default function ArticleList({ articles }: { articles: Article[] }) {
+    // Get current time in New York timezone
+    const nyTime = new Date().toLocaleString('en-US', { timeZone: 'America/New_York' })
+    const currentNyDate = new Date(nyTime)
+
+    // Filter articles based on publication date
+    const publishedArticles = articles.filter(article => 
+        new Date(article.datePublished) <= currentNyDate
+    )
+
     return (
         <div className="grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-2 gap-4 p-4">
-            {articles.map((article, index) => (
+            {publishedArticles.map((article, index) => (
                 <Link key={article.id} href={`/article/${article.articleUrl}`}>
                     <article className="border border-gray-200 dark:border-gray-700 rounded-lg overflow-hidden hover:shadow-lg dark:hover:shadow-gray-700/50 transition bg-white dark:bg-gray-800">
                         <div className="relative h-72">
