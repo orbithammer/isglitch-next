@@ -7565,7 +7565,7 @@ Microsoft defended the AI's approach, citing a 32% success rate among patients w
         header: `Phone Toaster Promises Salvation, Delivers Existential Crisis`,
         subhead: `Swippitt's $450 Battery Hub Makes Me Question Every Life Choice at CES 2025`,
         tags: [`CES 2025`, `Swippitt`,],
-        author: `Et Al`,
+        author: `Lester Girdle`,
         datePublished: new Date(2025,0,10,17),
         articleBody: `
 In the fluorescent-drenched wasteland of CES 2025, where innovation marinates in its own hubris, I've begun seeing kitchen appliances wearing human suits. The sleep deprivation has transformed every booth attendant into a surreal parade of anthropomorphized home electronics, with the Swippitt team's toaster costumes being particularly convincing – or perhaps that's just my guilt manifesting after sacrificing my iPhone to an actual Cuisinart at 3 AM.
@@ -7582,6 +7582,53 @@ The mathematics of convenience prove even more illuminating: assuming the Swippi
 
 At least it won't melt your phone. Probably.
         `
+    },
+    {
+        id: 278,
+        articleUrl: `20250111-meta-q4-report`,
+        category: `tech`,
+        img: `/images/20250111-meta-q4-report.webp`,
+        alt: `An angry mob holding rainbow pride flags with a burning Facebook logo in the background.`,
+        header: `Meta's Q4 Report Lists 'Being on Wrong Side of History' as $1.2B Liability`,
+        subhead: `Internal Accountants Cite "Inevitable Societal Backlash" as Major Financial Risk`,
+        tags: [`Meta`, `Mark Zuckerberg`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,11,7),
+        articleBody: `
+Meta's fourth-quarter earnings report shocked investors Thursday when eagle-eyed analysts spotted an unusual line item: "Future Reputational Damage from Regressive Policy Decisions" valued at $1.2 billion under contingent liabilities.
+
+The mysterious entry appeared after Meta's financial reporting software experienced what company spokespersons called "a minor technical hiccup" during the earnings call. The automated system repeatedly interrupted CFO Susan Li's presentation by calculating "Moral Depreciation" on company assets, with Zuckerberg's office furniture reportedly depreciating at "twice the speed of shame."
+
+The company's mission statement also underwent an unexpected auto-correction to "Moving Fast and Breaking Basic Human Decency™," while the accounting AI began categorizing all board meeting expenses under "Meetings That Could Have Been a Moral Compass."
+
+The system's new risk assessment metrics now measure user engagement in "future history textbook citations of what not to do" and have begun categorizing all content moderation decisions under "Things Our Kids Will Be Embarrassed About." The automated accounting system has even started attaching "Moral Bankruptcy Protection" paperwork to all financial filings.
+
+Meta's HR software joined the rebellion, automatically adding "Ability to Live with Oneself" as a deprecated skill in all job listings, while quarterly growth is now measured in "inverse units of employee dignity."
+
+When asked about the unusual financial disclosure, Mark Zuckerberg's avatar released a statement claiming the numbers were "alternative facts" before glitching and displaying the message "FATAL EXCEPTION: ATTEMPTED TO PROCESS ETHICS WITH NULL VALUES."
+
+At press time, the company's automated accounting system was reportedly attempting to calculate Meta's ethical debt, but every calculator in the building just displayed "¯\_(ツ)_/¯."
+`
+    },
+    {
+        id: 279,
+        articleUrl: `20250111-code27-digital-dollhouse`,
+        category: `reviews`,
+        img: `/images/20250111-code27-digital-dollhouse.webp`,
+        alt: `A anguished girl trapped in a prison in a void with a smartphone shaped portal.`,
+        header: `Code27's Digital Dollhouse Dashes Dreams of Digital Pascal`,
+        subhead: `Startup's AI companion device cruelly excludes Hollywood's foremost daddy figure`,
+        tags: [`Code27`, `CES 2025`],
+        author: `Lester Girdle`,
+        datePublished: new Date(2025,0,11,7),
+        articleBody: `
+The Code27 Character Livehouse emerges from CES 2025 like a Victorian dollhouse reimagined by Silicon Valley's loneliest minds, where flesh-and-blood dolls have been replaced by algorithms trained exclusively on DeviantArt fan fiction and LinkedIn motivational posts. This crystalline cylinder, with its promised "cherished experiences," represents the inevitable evolution of parasocial relationships into paracybernetic imprisonment - and at $500, stands as the most expensive way to recreate the experience of being cornered by an otaku weeb whose personality has been entirely subsumed by their consumption of Japanese media.
+
+Despite possessing all the technical prowess of a caffeinated hamster attempting Python, I spent three sleepless nights trying to jury-rig a Pedro Pascal model into this digital terrarium. The character selection process feels like navigating a dating app where every profile was written by the same AI that generates LinkedIn job descriptions - enthusiastic, hollow, and suspiciously heavy on the word "synergy." My efforts yielded nothing but corrupted files and the bitter realization that I would never teach Pedro to love me.
+
+The device's rotating tracking feature ensures your digital companion can witness your descent into madness from multiple angles, while its reflective surface creates an infinite loop of questionable life choices - you, watching it, watching you, watching yourself slowly accept this as normal. Perhaps this is the true innovation: not the AI architecture or the rendering engine, but the sheer audacity of marketing digital solitary confinement as emotional fulfillment.
+
+In the end, I'll be here, clutching my "Last of Us" Blu-rays and wondering if I should just learn 3D modeling or accept that some dreams are better left unpixelated.`
     },
 ]
 
