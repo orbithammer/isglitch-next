@@ -7664,7 +7664,7 @@ When asked about employees without phones, TikTok's PR team responded with a car
         alt: `Mark Zuckerberg playing keep away with its horrified middle-aged author with laughing tech workers in the background.`,
         header: `Meta Offers Writers One Free Facebook Post Boost Per Novel Used`,
         subhead: `Tech Giant Unveils New AI Training Compensation Package`,
-        tags: [`Trump Hotel`, `Donald Trump`,],
+        tags: [`Meta`, `Mark Zuckerberg`,],
         author: `Alexa Turing`,
         datePublished: new Date(2025,0,12,17),
         articleBody: `
