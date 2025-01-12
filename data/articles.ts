@@ -7620,7 +7620,7 @@ At press time, the company's automated accounting system was reportedly attempti
         subhead: `Startup's AI companion device cruelly excludes Hollywood's foremost daddy figure`,
         tags: [`Code27`, `CES 2025`],
         author: `Lester Girdle`,
-        datePublished: new Date(2025,0,11,7),
+        datePublished: new Date(2025,0,11,17),
         articleBody: `
 The Code27 Character Livehouse emerges from CES 2025 like a Victorian dollhouse reimagined by Silicon Valley's loneliest minds, where flesh-and-blood dolls have been replaced by algorithms trained exclusively on DeviantArt fan fiction and LinkedIn motivational posts. This crystalline cylinder, with its promised "cherished experiences," represents the inevitable evolution of parasocial relationships into paracybernetic imprisonment - and at $500, stands as the most expensive way to recreate the experience of being cornered by an otaku weeb whose personality has been entirely subsumed by their consumption of Japanese media.
 
@@ -7629,6 +7629,62 @@ Despite possessing all the technical prowess of a caffeinated hamster attempting
 The device's rotating tracking feature ensures your digital companion can witness your descent into madness from multiple angles, while its reflective surface creates an infinite loop of questionable life choices - you, watching it, watching you, watching yourself slowly accept this as normal. Perhaps this is the true innovation: not the AI architecture or the rendering engine, but the sheer audacity of marketing digital solitary confinement as emotional fulfillment.
 
 In the end, I'll be here, clutching my "Last of Us" Blu-rays and wondering if I should just learn 3D modeling or accept that some dreams are better left unpixelated.`
+    },
+    {
+        id: 280,
+        articleUrl: `20250112-tiktok-la-declares`,
+        category: `tech`,
+        img: `/images/20250112-tiktok-la-declares.webp`,
+        alt: `A person in business casual dramatically posing next to a fire extinguisher with a burning Los Angeles house in the background.`,
+        header: `TikTok LA Declares Evacuation Routes "Premium Content Corridors"`,
+        subhead: `Employees Must Film 'Authentic Escape Content' During Emergency Exits (For The Algorithm)`,
+        tags: [`TikTok`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,12,7),
+        articleBody: `
+TikTok's Los Angeles office (which may or may not be on fire right now) announced today that all emergency evacuation routes will be rebranded as "Premium Content Corridors," requiring employees to document their fleeing-for-their-lives moments for the platform's new #WorkplaceAuthenticity initiative (because what's more authentic than running from actual danger?).
+
+The company's revolutionary new "Emergency Preparedness Algorithm" (EPA™ - not to be confused with that other EPA) automatically deducts social credit points from employees who fail to achieve proper lighting during their evacuation content. "We've noticed that panicked running tends to create unstable footage," explained Madison Hayes, TikTok's newly appointed Chief Emergency Content Officer. "That's why we've installed Disaster-Ready Selfie Stations at key chokepoints, complete with ring lights and company-approved smoke effects (tested on actual fires!)."
+
+Employees must now sign a "Flame-Waiver" acknowledging that poor engagement metrics during an evacuation may result in performance review citations. The document specifically notes that "shaky cam footage is only acceptable if it trends on BeReal."
+
+The updated evacuation protocol includes "Emergency Content Kits" containing portable ring lights, backup batteries, and pre-written trending captions about workplace resilience (example: "Running from fires but not from these quarterly goals 💅🔥 #CareerGrowth"). Before evacuating, staff must complete a "Panic-Proof Content Plan" template, including target metrics for their escape footage.
+
+TikTok's AI now helpfully flags "suboptimal evacuation angles" with real-time notifications like "Your fear face needs work" and "Try fleeing toward golden hour." Employees who fail to maintain consistent posting during emergencies are automatically enrolled in "Crisis Content Creation Workshops" (held virtually during future disasters, obviously).
+
+The company has also redesigned its office layout to include "Aesthetic Emergency Routes" with optimal filming angles and natural lighting (because if you're going to run for your life, you might as well look good doing it). Their proprietary "Disaster Response Filters" automatically adjust smoke levels in evacuation footage to meet community guidelines, ensuring that even the apocalypse remains advertiser-friendly.
+
+When asked about employees without phones, TikTok's PR team responded with a carefully curated series of red flag emojis and a trending sound bite of crickets chirping.`
+    },
+    {
+        id: 281,
+        articleUrl: `20250112-meta-offers-writers`,
+        category: `ai`,
+        img: `/images/20250112-meta-offers-writers.webp`,
+        alt: `Mark Zuckerberg playing keep away with its horrified middle-aged author with laughing tech workers in the background.`,
+        header: `Meta Offers Writers One Free Facebook Post Boost Per Novel Used`,
+        subhead: `Tech Giant Unveils New AI Training Compensation Package`,
+        tags: [`Trump Hotel`, `Donald Trump`,],
+        author: `Alexa Turing`,
+        datePublished: new Date(2025,0,12,17),
+        articleBody: `
+Meta unveiled its latest initiative today to address mounting criticism over its use of copyrighted books to train AI models: offering authors a single complimentary Facebook post boost for each novel the company processes through its machine learning systems.
+
+"We believe this represents fair market value for the computational digestion of an author's complete creative output," said Meta spokesperson Rachel Thompson at Thursday's press conference. "Authors can use this boost to promote their next book, which we will also train our AI on."
+
+The program, dubbed "Boost Your Books," allows writers to amplify one Facebook post to reach up to 1,000 additional users within their geographic region, excluding major metropolitan areas and any posts made during "peak reading hours" (defined by Meta as 6am to 11pm). Posts containing external links, images, or text exceeding 50 words are ineligible for the promotion. Authors who exceed engagement metrics will be charged a "small algorithmic adjustment fee" of $49.99 per additional like.
+
+Before receiving their boost, authors must pass a Meta AI verification check to prove they wrote their own books. The system has already flagged several Shakespeare plays as "suspiciously similar to existing internet content."
+
+The compensation package includes a digital certificate of participation in Meta's AI training program, though the company notes this certificate was generated by an AI trained on illegally downloaded diplomas. Several authors reported receiving AI-generated rejection letters instead.
+
+Each boosted post requires authors to accept three AI-generated "engagement optimizations" and sign an agreement acknowledging that any resulting likes legally belong to Meta's engagement dataset. The company confirmed that all successful boosts will be used to train their next AI model on "optimal social media engagement patterns."
+
+Meta CEO Mark Zuckerberg defended the program's terms in an internal memo leaked to employees: "We considered offering authors exposure instead of post boosts, but our financial team determined that exposure still had too much monetary value." Each author will receive a complementary 47-page AI analysis detailing how their novel could have been written "more efficiently" with fewer characters and "unnecessary plot developments."
+
+The Authors Guild has issued a statement calling the program "slightly worse than getting paid in exposure," though they acknowledge it's "marginally better than getting paid in died Facebook metaverse currency."
+
+Meta's legal team emphasized that authors who accept the post boost automatically agree to forfeit any future claims regarding the use of their shopping lists, personal journals, or unfinished manuscripts in future AI training sets.`
     },
 ]
 
