@@ -7704,9 +7704,9 @@ Following the permanent loss of his high-level character in Path of Exile 2's ha
 
 Hours after his character "Percy_Verence" died at rank 7 on the hardcore leaderboards, Musk unveiled plans for a "Hardcore Premium Plus" subscription at $8 per month. "Freedom isn't free," he posted, "but character resurrection is just $7.99 plus applicable taxes."
 
-When Grinding Gear Games rejected both the acquisition offer and subscription proposal, Musk challenged lead developer Chris Wilson to a cage match. "The future of permadeath will be decided in the octagon," Musk tweeted. "Also, I'm moving all servers to Texas because New Zealand's anti-death stance is too woke."
+When Grinding Gear Games rejected both the acquisition offer and subscription proposal, Musk challenged lead developer Chris Wilson to a cage match. "The future of permadeath will be decided in the octagon," Musk tweeted. "Also, I'm moving all servers to Texas because New Zealand's gaming regulations are too woke and their time zone is biased against American billionaires."
 
-Industry analysts note the erratic behavior follows accusations that Musk had paid professional gamers to level his character. "We've seen this pattern before," said gaming economist Marcus Rodriguez. "When Twitter banned his helicopter tracking account, he bought the platform. When Tesla stock dipped, he bought more Tesla. Now his character dies and suddenly he claims it violates the First Amendment."
+Industry analysts note the erratic behavior follows accusations that Musk had paid professional gamers to level his character. "We've seen this pattern before," said gaming economist Marcus Rodriguez. "When Twitter hosted his jet tracking account, he bought the platform and banned it. When Tesla stock dipped, he bought more Tesla. Now his character dies and suddenly he claims it violates the First Amendment.
 
 Musk's latest tweet storm announced that all future game expansions will be designed via Twitter polls. "First poll: Should fireballs respect free speech?" he posted at 4:23 AM, followed by, "The Constitution clearly protects our right to keep and bear immortal characters. This is what the founding fathers intended."
 
