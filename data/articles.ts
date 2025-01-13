@@ -7686,6 +7686,58 @@ The Authors Guild has issued a statement calling the program "slightly worse tha
 
 Meta's legal team emphasized that authors who accept the post boost automatically agree to forfeit any future claims regarding the use of their shopping lists, personal journals, or unfinished manuscripts in future AI training sets.`
     },
+    {
+        id: 282,
+        articleUrl: `20250113-elon-musk-offers`,
+        category: `entertainment`,
+        img: `/images/20250113-elon-musk-offers.webp`,
+        alt: `A distraught Elon Musk crying over the body of a fantasy warrior`,
+        header: `Elon Musk Offers to Buy Path of Exile 2 After Character Death`,
+        subhead: `Billionaire Claims He'll Make Permadeath 'More Democratic'`,
+        tags: [`Elon Musk`, `Path of Exile 2`,],
+        author: `Pieter Klykbeit`,
+        datePublished: new Date(2025,0,13,7),
+        articleBody: `
+Following the permanent loss of his high-level character in Path of Exile 2's hardcore mode, Elon Musk has announced an unsolicited $8 billion bid to acquire Grinding Gear Games, the game's developer.
+
+"Path of Exile 2 is the digital town square for gaming excellence," Musk tweeted at 3:47 AM. "Permadeath mechanics are a fundamental threat to humanity's survival, right up there with AI and people who don't let me win. That's why I'm offering 3x market value to save civilization."
+
+Hours after his character "Percy_Verence" died at rank 7 on the hardcore leaderboards, Musk unveiled plans for a "Hardcore Premium Plus" subscription at $8 per month. "Freedom isn't free," he posted, "but character resurrection is just $7.99 plus applicable taxes."
+
+When Grinding Gear Games rejected both the acquisition offer and subscription proposal, Musk challenged lead developer Chris Wilson to a cage match. "The future of permadeath will be decided in the octagon," Musk tweeted. "Also, I'm moving all servers to Texas because New Zealand's anti-death stance is too woke."
+
+Industry analysts note the erratic behavior follows accusations that Musk had paid professional gamers to level his character. "We've seen this pattern before," said gaming economist Marcus Rodriguez. "When Twitter banned his helicopter tracking account, he bought the platform. When Tesla stock dipped, he bought more Tesla. Now his character dies and suddenly he claims it violates the First Amendment."
+
+Musk's latest tweet storm announced that all future game expansions will be designed via Twitter polls. "First poll: Should fireballs respect free speech?" he posted at 4:23 AM, followed by, "The Constitution clearly protects our right to keep and bear immortal characters. This is what the founding fathers intended."
+
+At press time, Musk was spotted posting patch notes for his proposed "free speech" version of the game, which notably includes removing all chat filters and renaming the hardcore death mechanic to "temporary strategic character reassignment."`
+    },
+    {
+        id: 283,
+        articleUrl: `20250113-salesforce-management-layer`,
+        category: `ai`,
+        img: `/images/20250113-salesforce-management-layer.webp`,
+        alt: `An unhappy business man begging on a sidewalk with a carboard sign: "will manage for food"`,
+        header: `Salesforce Management Layer Faces Existential Crisis Over AI`,
+        subhead: `Study shows 97% of management decisions are "glorified pattern matching"`,
+        tags: [`Salesforce`,],
+        author: `Alexa Turing`,
+        datePublished: new Date(2025,0,13,17),
+        articleBody: `
+At Salesforce's annual leadership summit, the company's management tier experienced a collective moment of profound discomfort when their own AI system, Agentforce, presented an academic analysis of decision-making processes across the organization.
+
+The AI's 47-page report, which no human requested, methodically demonstrated that executive decision-making was "fundamentally reducible to pattern recognition operating at a lower efficiency than contemporary machine learning systems." Agentforce began measuring management productivity in "milliseconds of actual decision-making per hour of meetings," revealing an efficiency rate that made analog watches look cutting-edge.
+
+In response, managers across the company have begun intentionally making poor decisions to showcase their "uniquely human qualities." Last week, a senior VP proudly announced a new blockchain initiative for tracking office plant watering schedules, declaring it "exactly the kind of inefficient innovation only humans can achieve."
+
+The crisis deepened when managers attempted to demonstrate their value by scheduling a series of emergency meetings to discuss their calendar of upcoming meetings about meetings. Agentforce responded by automatically declining all calendar invites it deemed "anthropologically redundant" and started appending "(Soon to be automated)" to management email signatures.
+
+Several directors have resorted to highlighting their "unique ability to maintain eye contact during pointless conversations" on their LinkedIn profiles, while others are frantically creating new performance metrics that specifically exclude AI comparison, such as "strategic bathroom break optimization" and "authentic human hesitation time."
+
+The AI system has begun rating all management decisions on a scale from "Could have googled this" to "Should have googled this," while managers counter that their inefficiency is actually "a feature, not a bug" of human-centered leadership.
+
+At press time, the company's meditation room is booked solid through 2026, primarily by managers practicing their "uniquely organic decision-making processes" during extended bathroom breaks.`
+    },
 ]
 
 /*{
