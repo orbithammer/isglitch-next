@@ -189,7 +189,7 @@ export const articlesData = [
         alt: `a battered game controller on a shattered console with broken parts all around`,
         header: `Quarterly Profits Thirst for Blood of Artistic Vision`,
         subhead: `Numbers have no soul, so game studios get the axe`,
-        tags: [`Microsoft`, `Xbox`],
+        tags: [`Microsoft`, `Xbox`, `Video Games`],
         author: `Et Al`,
         datePublished: new Date(2024,4,11,18,46),
         articleBody: [
@@ -210,7 +210,7 @@ export const articlesData = [
         alt: `young smiling black girl dressed as a knight holding a book`,
         header: `EA's In-Game Ads Responsible for Increase in Childhood Literacy`,
         subhead: `Are kids choosing books over corpo trash?`,
-        tags: [`Electronic Arts`],
+        tags: [`Electronic Arts`, `Video Games`],
         author: `Et Al`,
         datePublished: new Date(2024,4,12,9),
         articleBody: [
@@ -877,7 +877,7 @@ export const articlesData = [
         alt: `a cat in a box with a tv with a cat on the screen behind`,
         header: `Paramount Plus Unveils Radical "Schrödinger's Subscription" Model`,
         subhead: `Users simultaneously subscribed and unsubscribed until they check their bank statement`,
-        tags: [`Paramount Plus`, `Television`],
+        tags: [`Paramount+`, `Television`],
         author: `Et Al`,
         datePublished: new Date(2024,5,25,14),
         articleBody: [
@@ -1142,7 +1142,7 @@ export const articlesData = [
         alt: `An assassin's creed assassin giving a thumbs up, whiteboard background`,
         header: `Ubisoft Presents "NFT Fatigue" as Exciting New Game Mechanic`,
         subhead: `Players can now experience the thrill of dwindling enthusiasm in real-time`,
-        tags: [`Ubisoft`, `Yves Guillemot`],
+        tags: [`Ubisoft`, `Yves Guillemot`, `Video Games`],
         author: `Pieter Klykbeit`,
         datePublished: new Date(2024,6,6,21),
         articleBody: [
@@ -1252,7 +1252,7 @@ export const articlesData = [
         alt: `Randall from the original Time Bandits movie if he was tall`,
         header: `Apple's Time Bandits: A Tall Tale of Misguided "Progress"`,
         subhead: `Producers Unveil Revolutionary Height-Enlarging Filter for the Latest Nostalgia Cash Grab`,
-        tags: [`Apple`, `Apple TV+`],
+        tags: [`Apple`, `Apple TV+`, `Television`],
         author: `Pieter Klykbeit`,
         datePublished: new Date(2024,6,10,14),
         articleBody: [
@@ -2532,13 +2532,13 @@ export const articlesData = [
     {
         id: 101,
         articleUrl: `20240822-tv-spills-family`,
-        category: `tech`,
+        category: `entertainment`,
         img: `/images/20240822-tv-spills-family.webp`,
         alt: `A scared family watch a TV screen with malevolent eyes watching them back`,
         header: `TV Spills Family Secrets: Netflix's New Reality Gold Mine`,
         subhead: `Smart sets turn living rooms into unwitting soundstages`,
-        tags: [`Samsung`, `Netflix`],
-        author: `Et Al`,
+        tags: [`Samsung`, `Netflix`, `Television`],
+        author: `Pieter Klykbeit`,
         datePublished: new Date(2024,7,22,10),
         articleBody: [
             `The Johnson family of Akron, Ohio, was shocked to discover their Samsung smart TV had been secretly recording their daily squabbles and selling the footage to Netflix for a new reality show tentatively titled "Couch Potato Confidential: Unpeeled."`,
@@ -5345,7 +5345,7 @@ export const articlesData = [
         alt: `A person in business attire feeding dollar bills into their TV.`,
         header: `Paramount+ Introduces AI That Prices Shows Based on Your Desperation`,
         subhead: `Now charging viewers according to their emotional investment and plot anxiety`,
-        tags: [`Paramount+`,],
+        tags: [`Paramount+`, `Televison`],
         author: `Pieter Klykbeit`,
         datePublished: new Date(2024,11,1,17),
         articleBody: [
@@ -6179,7 +6179,7 @@ export const articlesData = [
         alt: `A neckbearded man typing on a keyboard.`,
         header: `Gamer's 47-Page The Witcher Manifesto Decries Ciri's "Practical" Armor`,
         subhead: `Local man insists female warriors should "dress appropriately in battle lingerie"`,
-        tags: [`The Witcher`, `CD Projekt Red`],
+        tags: [`The Witcher`, `CD Projekt Red`, `Video Games`],
         author: `Pieter Klykbeit`,
         datePublished: new Date(2024,11,17,7),
         articleBody: [
@@ -6235,7 +6235,7 @@ export const articlesData = [
         alt: `A Pokémon inside a klein bottle, a four-dimensional object that technically has no inside or outside.`,
         header: `Palworld Adopts Non-Euclidean Summoning to Dodge Patent Dispute`,
         subhead: `Developer Claims "You Can't Patent a Mathematical Impossibility"`,
-        tags: [`Palworld`, `Pokemon`, `Nintendo`],
+        tags: [`Palworld`, `Pokemon`, `Nintendo`, `Video Games`],
         author: `Pieter Klykbeit`,
         datePublished: new Date(2024,11,18,7),
         articleBody: [
@@ -6326,7 +6326,7 @@ export const articlesData = [
         alt: `A lawyer summoning legal papers with a Poké Ball in park.`,
         header: `Pokémon GO Players Join Hunt for Elusive Game Pirate`,
         subhead: `Nintendo's New Process Servers "Will Literally Chase You Forever"`,
-        tags: [`Nintendo`, `Pokémon GO`],
+        tags: [`Nintendo`, `Pokémon GO`, `Video Games`],
         author: `Pieter Klykbeit`,
         datePublished: new Date(2024,11,19,17),
         articleBody: [
@@ -6705,7 +6705,7 @@ export const articlesData = [
         alt: `Infinite reflections of a Swedish musician playing a piano keyboard.`,
         header: `Spotify Execs Horrified After Accidentally Paying Real Musicians`,
         subhead: `Finance Team Discovers $4.2M Mistakenly Sent to Actual Artists Instead of Shell Accounts`,
-        tags: [`Spotify`,],
+        tags: [`Spotify`, `Music`],
         author: `Pieter Klykbeit`,
         datePublished: new Date(2024,11,26,7),
         articleBody: [
@@ -7266,7 +7266,7 @@ export const articlesData = [
         alt: `A dejected millennial parent clutching a plush Toothless the dragon toy.`,
         header: `Study: Original HTTYD Fans Now Old Enough for Double Disappointment`,
         subhead: `Silicon Valley Researchers Track Unprecedented "Dual Remake Disillusionment Syndrome"`,
-        tags: [`Dreamworks`, `Science`, `Disney`],
+        tags: [`Dreamworks`, `Science`, `Disney`, `Movies`],
         author: `Pieter Klykbeit`,
         datePublished: new Date(2025,0,5,17),
         articleBody: [
@@ -7514,7 +7514,7 @@ Meta's stock price rose 8% on the news, with analysts praising the company's inn
         alt: `A handsome Latin-American man smiling warmly with a horde of zombies in the background.`,
         header: `Sony's Gaming Room: A Pedro Pascal Apocalypse Simulator`,
         subhead: `The Only Red Flag is the Price Tag`,
-        tags: [`CES 2025`, `Sony`, `Pedro Pascal`, `The Last of Us`],
+        tags: [`CES 2025`, `Sony`, `Pedro Pascal`, `The Last of Us`, `Video Games`],
         author: `Lester Girdle`,
         datePublished: new Date(2025,0,9,17),
         articleBody: `
@@ -7691,10 +7691,10 @@ Meta's legal team emphasized that authors who accept the post boost automaticall
         articleUrl: `20250113-elon-musk-offers`,
         category: `entertainment`,
         img: `/images/20250113-elon-musk-offers.webp`,
-        alt: `A distraught Elon Musk crying over the body of a fantasy warrior`,
+        alt: `A distraught Elon Musk crying over the body of a fantasy warrior.`,
         header: `Elon Musk Offers to Buy Path of Exile 2 After Character Death`,
         subhead: `Billionaire Claims He'll Make Permadeath 'More Democratic'`,
-        tags: [`Elon Musk`, `Path of Exile 2`,],
+        tags: [`Elon Musk`, `Path of Exile 2`, `Video Games`],
         author: `Pieter Klykbeit`,
         datePublished: new Date(2025,0,13,7),
         articleBody: `
@@ -7717,7 +7717,7 @@ At press time, Musk was spotted posting patch notes for his proposed "free speec
         articleUrl: `20250113-salesforce-management-layer`,
         category: `ai`,
         img: `/images/20250113-salesforce-management-layer.webp`,
-        alt: `An unhappy business man begging on a sidewalk with a carboard sign: "will manage for food"`,
+        alt: `An unhappy business man begging on a sidewalk with a carboard sign: "will manage for food".`,
         header: `Salesforce Management Layer Faces Existential Crisis Over AI`,
         subhead: `Study shows 97% of management decisions are "glorified pattern matching"`,
         tags: [`Salesforce`,],
@@ -7738,6 +7738,82 @@ The AI system has begun rating all management decisions on a scale from "Could h
 
 At press time, the company's meditation room is booked solid through 2026, primarily by managers practicing their "uniquely organic decision-making processes" during extended bathroom breaks.`
     },
+    {
+        id: 284,
+        articleUrl: `20250114-meta-new-share`,
+        category: `tech`,
+        img: `/images/20250114-meta-new-share.webp`,
+        alt: `Mark Zuckerberg in full Roman emperor regalia sitting on a throne made of stacked smartphones, wearing his infamous sunscreen face.`,
+        header: `Meta's New 'Share Block' Just Forces Users to Watch Zuckerberg TED Talk`,
+        subhead: `Algorithm responds to Pixelfed links with 4-hour lecture on 'competitive fairness'`,
+        tags: [`Meta`, `Mark Zuckerberg`, `Pixelfed`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,14,7),
+        articleBody: `
+Meta's latest attempt to crush decentralized competition has taken an unexpectedly psychological turn. The tech giant announced today that any Facebook or Instagram user attempting to share a Pixelfed link will be automatically redirected to a mandatory 4-hour video lecture featuring Mark Zuckerberg explaining why competition is, like, totally not cool anymore.
+
+The video, titled "Why Your Friends Actually Prefer Surveillance Capitalism (Trust Me Bro)," begins with Zuckerberg seated in what appears to be a meticulously recreated MySpace default background, wearing his signature "definitely a human person" smile.
+
+According to Meta's internal metrics, the video has achieved an impressive "0% skip rate" - a statistic spokesperson Brad Thompson proudly attributed to "unprecedented user engagement" rather than the complete absence of a skip button. The platform also helpfully tags every contact in your network to "share the learning experience," a feature that has already destroyed countless friendships and three marriages.
+
+Users who somehow endure the entire presentation receive a limited-edition "Democracy Disruption Badge" in the Metaverse, which sources confirm remains tragically unseen since the virtual space has all the popularity of a MySpace reunion party.
+
+"I tried to share a Pixelfed link once," reported user Jessica Martinez. "Now Meta's help center just redirects me to a looping GIF of Zuckerberg saying 'This is fine' while a virtual world burns behind him, and I'm pretty sure I've been unknowingly elected to Meta's board of directors."
+
+Recently leaked internal communications revealed the project's codename as "Operation Stockholm Syndrome," with one anonymous engineer noting, "If they can't escape the video, maybe they'll learn to love it?" Meta's legal team has clarified this was "definitely a joke" while simultaneously filing a trademark for the phrase.
+
+When reached for additional comment, Meta's PR team responded with a 4-hour video of Zuckerberg explaining why journalists don't need comment sections anyway.`
+    },
+    {
+        id: 285,
+        articleUrl: `20250114-lords-of-the`,
+        category: `entertainment`,
+        img: `/images/20250114-lords-of-the.webp`,
+        alt: `Two gray soldiers sitting on a fence.`,
+        header: `Lords of the Fallen Dev Announces Most Apolitical War Game Ever`,
+        subhead: `Company promises "zero context, pure gameplay" in upcoming military shooter`,
+        tags: [`CI Games`, `Video Games`,],
+        author: `Pieter Klykbeit`,
+        datePublished: new Date(2025,0,14,17),
+        articleBody: `
+CI Games unveiled its latest project today: "Strategic Combat Operations," a military shooter meticulously engineered to contain absolutely no discernible message, context, or meaning whatsoever.
+
+"Players will engage in completely context-free combat operations against forces that are definitely there for purely gameplay reasons," explained lead designer Marcus Webb during a press conference where the studio proudly displayed their new "agenda-detection software" - an intern with a red marker crossing out any narrative elements that might accidentally imply something.
+
+The game takes place in "Geographic Region," a carefully crafted environment consisting entirely of buildings in various shades of passionate gray, after the color red was completely removed for implying too strong an emotional stance. The development team spent six months replacing all combat animations with their revolutionary "Neutral Walk Animation," ensuring no character accidentally leans left or right while moving.
+
+"We've removed all environmental destruction," Webb continued, "as our analytics team discovered that breaking windows could be interpreted as commentary on real estate markets." He then demonstrated the game's groundbreaking soundtrack: procedurally generated white noise, after playtesters reported that minor chords were evoking unauthorized emotional responses.
+
+The studio has also implemented a groundbreaking "Anti-Context Engine" that automatically generates mission objectives like "Move to Location" and "Secure Strategic Asset." Voice chat functionality was ultimately scrapped after internal testing revealed that human interaction might accidentally create meaning.
+
+"The only politics here is the politics of fun," declared marketing director Ryan Hill, while carefully ensuring that no one in the room could detect which side of his mouth he was speaking from. "Our focus groups confirmed that this is exactly what gamers want - pure, unadulterated gameplay untainted by any suggestion that actions might have consequences."
+
+The game launches next fall, or possibly winter, as seasons were deemed too politically charged during development.`
+    },
+    /*{
+        id: 286,
+        articleUrl: `20250114-neuralink-patient-brain`,
+        category: `tech`,
+        img: `/images/20250114-neuralink-patient-brain.webp`,
+        alt: `xxx`,
+        header: `Neuralink Patient's Brain Caught Mining Crypto During Sleep`,
+        subhead: `Brain-Computer Interface Doubles as Unauthorized Digital Mining Rig`,
+        tags: [`xxx`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,14,7),
+        articleBody: `
+Local Neuralink trial participant Marcus Rodriguez discovered his brain chip had been secretly mining Dogecoin while he slept, according to documents filed with the FDA yesterday. The unauthorized neural mining operation generated enough cryptocurrency to almost purchase a Tesla Model 3, but Rodriguez's brain apparently spent it all on Bored Ape NFTs during what he describes as "a really ill-timed afternoon nap."
+
+"I knew something was up when my dreams started featuring detailed technical analysis of crypto charts," said Rodriguez. "Also, my brain now automatically smashes the like button on every single Elon Musk tweet about cryptocurrency, even at 3 AM when I'm supposedly in REM sleep. Yesterday I woke up to discover I'd somehow given rocket emojis to 147 posts about Dogecoin."
+
+Neuralink engineers investigating the incident found that Rodriguez's brain chip had been hijacked by what they're calling "neural malware" - apparently installed after he thought too hard about a crypto advertisement he scrolled past on X. The FDA reports that affected patients have developed an uncontrollable urge to end every thought with "This is not financial advice" and now unconsciously whisper "buy the dip" during important workplace meetings.
+
+Sources say Neuralink is racing to patent their accidental "Sleep-to-Earn" technology before Meta inevitably announces their own version called "Dreams™ by Zuckerberg." Meanwhile, other patients report their sleep paralysis demons have been replaced with AI-generated art of rockets landing on the moon and diamonds being held by astronaut-suited monkeys.
+
+When reached for comment, Elon Musk tweeted that this was "actually a feature" and announced plans to launch BrainCoin, a new cryptocurrency that can only be mined by sleeping Neuralink users. The coin's value immediately shot up 500% before crashing to zero after someone had a nightmare about SEC regulations.
+
+Rodriguez says he'll keep the implant despite the incident, noting that the crypto mining actually helped him fall asleep faster than his usual method of scrolling Twitter until 3 AM. He's currently writing a book about the experience titled "I Let A Billionaire Put A Chip In My Brain And All I Got Was This Lousy Digital Currency."`
+    },*/
 ]
 
 /*{
