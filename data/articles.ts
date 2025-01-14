@@ -7740,9 +7740,9 @@ At press time, the company's meditation room is booked solid through 2026, prima
     },
     {
         id: 284,
-        articleUrl: `20250114-meta-new-share`,
+        articleUrl: `20250114-meta-new-pixelfed`,
         category: `tech`,
-        img: `/images/20250114-meta-new-share.webp`,
+        img: `/images/20250114-meta-new-pixelfed.webp`,
         alt: `A skeleton watching a Mark Zuckerberg lecture.`,
         header: `Meta's New Pixelfed 'Share Block' Just Forces Users to Watch Zuckerberg Talk`,
         subhead: `Algorithm responds to Pixelfed links with 4-hour lecture on 'competitive fairness'`,
