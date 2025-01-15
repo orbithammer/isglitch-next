@@ -7238,7 +7238,7 @@ export const articlesData = [
         alt: `Tech executives bowing before the Whitehouse like it's an altar.`,
         header: `Tim Cook Patents Algorithm That Prices Political Donations`,
         subhead: `New Innovation Disrupts Campaign Finance While Totally Not Being a Bribe Calculator™`,
-        tags: [`Apple`, `Time Cook`, `Donald Trump`],
+        tags: [`Apple`, `Tim Cook`, `Donald Trump`],
         author: `Et Al`,
         datePublished: new Date(2025,0,5,7),
         articleBody: [
@@ -7792,13 +7792,13 @@ The game launches next fall, or possibly winter, as seasons were deemed too poli
     },
     {
         id: 286,
-        articleUrl: `20250114-neuralink-patient-brain`,
+        articleUrl: `20250115-neuralink-patient-brain`,
         category: `tech`,
-        img: `/images/20250114-neuralink-patient-brain.webp`,
-        alt: `xxx`,
+        img: `/images/20250115-neuralink-patient-brain.webp`,
+        alt: `An x-ray of a man's brain but the Dogecoin logo is in his head.`,
         header: `Neuralink Patient's Brain Caught Mining Crypto During Sleep`,
         subhead: `Brain-Computer Interface Doubles as Unauthorized Digital Mining Rig`,
-        tags: [`xxx`,],
+        tags: [`Neuralink`, `Elon Musk`, `Cryptocurrency`,],
         author: `Et Al`,
         datePublished: new Date(2025,0,15,7),
         articleBody: `
@@ -7813,6 +7813,32 @@ Sources say Neuralink is racing to patent their accidental "Sleep-to-Earn" techn
 When reached for comment, Elon Musk tweeted that this was "actually a feature" and announced plans to launch BrainCoin, a new cryptocurrency that can only be mined by sleeping Neuralink users. The coin's value immediately shot up 500% before crashing to zero after someone had a nightmare about SEC regulations.
 
 Rodriguez says he'll keep the implant despite the incident, noting that the crypto mining actually helped him fall asleep faster than his usual method of scrolling Twitter until 3 AM. He's currently writing a book about the experience titled "I Let A Billionaire Put A Chip In My Brain And All I Got Was This Lousy Digital Currency."`
+    },
+    {
+        id: 287,
+        articleUrl: `20250115-suno-ceo-music`,
+        category: `ai`,
+        img: `/images/20250115-suno-ceo-music.webp`,
+        alt: `A lawyer holding a briefcase like he was a rockstar on stage.`,
+        header: `Suno CEO: Music Creation Is For Suckers, Unlike Copyright Court`,
+        subhead: `Startup Replaces Practice Rooms with "Litigation Meditation Spaces"`,
+        tags: [`Suno`, `Music`,],
+        author: `Alexa Turing`,
+        datePublished: new Date(2025,0,15,17),
+        articleBody: `
+Breaking new ground in the field of artificial intelligence efficiency, Suno CEO Mikey Shulman announced today that his company has discovered the optimal path to musical innovation: skipping the tedious process of creation entirely in favor of a more streamlined approach to intellectual property litigation.
+
+"Why spend years practicing guitar scales when you could achieve the same sense of repetitive accomplishment by clicking 'I agree' on terms of service agreements?" Shulman explained during a recent venture capital pitch, where he unveiled Suno's revolutionary new mission statement: "From Sheet Music to Legal Sheets: The Future of Artistic Expression."
+
+The company's hiring practices reflect this philosophy, with all engineering candidates now required to provide notarized proof they've never experienced joy while creating anything. "Past incidents of creative satisfaction are a red flag," noted HR director James Maxwell. "We're looking for people who understand that true innovation means optimizing the litigation pipeline."
+
+Their San Francisco headquarters exemplifies this vision, having recently converted all music rooms into "litigation meditation spaces" where employees can contemplate the sound of filing cabinets opening and closing – which, incidentally, serves as training data for their latest AI model.
+
+The company's latest SEC filing reveals a strategic pivot from traditional music industry metrics to their proprietary "Cost Per Lawsuit" (CPL) framework. Their flagship product, the Legal Defense Transformer™, now automatically converts MIDI files into court-ready legal briefs, which Shulman calls "a more efficient use of musical notation."
+
+"This is the future of creativity," Shulman declared, demonstrating their new consumer app that generates unlimited copyright violations with a single click. "Why compose when you can depose?"
+
+At press time, Shulman was reportedly developing a new AI model trained exclusively on other companies' AI models, citing the inherent inefficiency of training on original data.`
     },
 ]
 

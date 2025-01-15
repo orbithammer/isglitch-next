@@ -30,9 +30,7 @@ const Sidebar = ({ isOpen, toggleSidebar }: SidebarProps) => {
   }
 
   const getNavLinkPath = (item: string) => {
-    return item.toLowerCase() === 'home' 
-      ? '/page/1' 
-      : `/${item.toLowerCase()}/1`
+    return `/${item.toLowerCase()}/1`
   }
 
   return (
