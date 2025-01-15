@@ -33,6 +33,11 @@ export async function getCategoryTags(): Promise<CategoryTags> {
     article.datePublished < thirtyDaysAgo
   )
 
+  // Sort older articles by date, most recent first
+  const sortedOlderArticles = [...olderArticles].sort((a, b) => 
+    b.datePublished.getTime() - a.datePublished.getTime()
+  )
+
   // Function to collect tags from articles
   const collectTags = (articleList: Article[], category: string) => {
     const tagCounts: Record<string, number> = {}
@@ -60,7 +65,7 @@ export async function getCategoryTags(): Promise<CategoryTags> {
       topTags[category] = recentTagsList.slice(0, TARGET_TAG_COUNT)
     } else {
       // If we need more tags, get them from older articles
-      const olderTags = collectTags(olderArticles, category)
+      const olderTags = collectTags(sortedOlderArticles, category)
       
       // Filter out tags that are already in recentTagsList
       const remainingOlderTags = Object.entries(olderTags)
