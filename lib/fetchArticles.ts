@@ -33,11 +33,6 @@ export async function getCategoryTags(): Promise<CategoryTags> {
     article.datePublished < thirtyDaysAgo
   )
 
-  // Sort older articles by date, most recent first
-  const sortedOlderArticles = [...olderArticles].sort((a, b) => 
-    b.datePublished.getTime() - a.datePublished.getTime()
-  )
-
   // Function to collect tags from articles
   const collectTags = (articleList: Article[], category: string) => {
     const tagCounts: Record<string, number> = {}
@@ -65,7 +60,7 @@ export async function getCategoryTags(): Promise<CategoryTags> {
       topTags[category] = recentTagsList.slice(0, TARGET_TAG_COUNT)
     } else {
       // If we need more tags, get them from older articles
-      const olderTags = collectTags(sortedOlderArticles, category)
+      const olderTags = collectTags(olderArticles, category)
       
       // Filter out tags that are already in recentTagsList
       const remainingOlderTags = Object.entries(olderTags)
@@ -88,16 +83,22 @@ export async function fetchArticles(category?: string, page: number = 1, tag?: s
   const articles = await articlesData
   const itemsPerPage = 10
   
-  let filtered = articles
+  // Get current time in New York timezone
+  const nyTime = new Date().toLocaleString("en-US", { timeZone: "America/New_York" })
+  const currentNyDate = new Date(nyTime)
+  
+  // First filter by published date
+  let filtered = articles.filter(article => article.datePublished <= currentNyDate)
 
+  // Then apply other filters
   if (tag) {
-    filtered = articles.filter(article => article.tags?.includes(tag))
+    filtered = filtered.filter(article => article.tags?.includes(tag))
   } else if (category === 'home') {
-    filtered = articles.filter(article => 
+    filtered = filtered.filter(article => 
       ['tech', 'reviews', 'entertainment', 'ai'].includes(article.category.toLowerCase())
     )
   } else if (category) {
-    filtered = articles.filter(article => 
+    filtered = filtered.filter(article => 
       article.category.toLowerCase() === category.toLowerCase()
     )
   }
@@ -118,5 +119,14 @@ export async function fetchArticles(category?: string, page: number = 1, tag?: s
 
 export async function fetchArticle(articleUrl: string) {
   const articles = await articlesData
-  return articles.find(article => article.articleUrl === articleUrl)
+  
+  // Get current time in New York timezone
+  const nyTime = new Date().toLocaleString("en-US", { timeZone: "America/New_York" })
+  const currentNyDate = new Date(nyTime)
+  
+  // Only return the article if it's published
+  return articles.find(article => 
+    article.articleUrl === articleUrl && 
+    article.datePublished <= currentNyDate
+  )
 }

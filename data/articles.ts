@@ -7790,7 +7790,7 @@ The studio has also implemented a groundbreaking "Anti-Context Engine" that auto
 
 The game launches next fall, or possibly winter, as seasons were deemed too politically charged during development.`
     },
-    /*{
+    {
         id: 286,
         articleUrl: `20250114-neuralink-patient-brain`,
         category: `tech`,
@@ -7800,7 +7800,7 @@ The game launches next fall, or possibly winter, as seasons were deemed too poli
         subhead: `Brain-Computer Interface Doubles as Unauthorized Digital Mining Rig`,
         tags: [`xxx`,],
         author: `Et Al`,
-        datePublished: new Date(2025,0,14,7),
+        datePublished: new Date(2025,0,15,7),
         articleBody: `
 Local Neuralink trial participant Marcus Rodriguez discovered his brain chip had been secretly mining Dogecoin while he slept, according to documents filed with the FDA yesterday. The unauthorized neural mining operation generated enough cryptocurrency to almost purchase a Tesla Model 3, but Rodriguez's brain apparently spent it all on Bored Ape NFTs during what he describes as "a really ill-timed afternoon nap."
 
@@ -7813,7 +7813,7 @@ Sources say Neuralink is racing to patent their accidental "Sleep-to-Earn" techn
 When reached for comment, Elon Musk tweeted that this was "actually a feature" and announced plans to launch BrainCoin, a new cryptocurrency that can only be mined by sleeping Neuralink users. The coin's value immediately shot up 500% before crashing to zero after someone had a nightmare about SEC regulations.
 
 Rodriguez says he'll keep the implant despite the incident, noting that the crypto mining actually helped him fall asleep faster than his usual method of scrolling Twitter until 3 AM. He's currently writing a book about the experience titled "I Let A Billionaire Put A Chip In My Brain And All I Got Was This Lousy Digital Currency."`
-    },*/
+    },
 ]
 
 /*{

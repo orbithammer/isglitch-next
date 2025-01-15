@@ -6,7 +6,8 @@ export default function ArticleList({ articles }: { articles: Article[] }) {
     // Get current time in New York timezone
     const nyTime = new Date().toLocaleString('en-US', { timeZone: 'America/New_York' })
     const currentNyDate = new Date(nyTime)
-
+    console.log(currentNyDate)
+    articles.map(article => console.log(article.datePublished, article.header))
     // Filter articles based on publication date
     const publishedArticles = articles.filter(article => 
         new Date(article.datePublished) <= currentNyDate
