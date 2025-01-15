@@ -16,14 +16,14 @@ export default async function HomePage() {
     return (
         <div>
             <Pagination 
-              currentPage={parseInt(page)} 
+              currentPage={page} 
               totalPages={totalPages}
               basePath="/page"
             />
             <Title />
             <ArticleList articles={articles} />
             <Pagination 
-              currentPage={parseInt(page)} 
+              currentPage={page} 
               totalPages={totalPages}
               basePath="/page"
             />
