@@ -7795,7 +7795,7 @@ The game launches next fall, or possibly winter, as seasons were deemed too poli
         articleUrl: `20250115-neuralink-patient-brain`,
         category: `tech`,
         img: `/images/20250115-neuralink-patient-brain.webp`,
-        alt: `An x-ray of a man's brain but the Dogecoin logo is in his head.`,
+        alt: `An x-ray of a man's brain but with a shiba inu in his head.`,
         header: `Neuralink Patient's Brain Caught Mining Crypto During Sleep`,
         subhead: `Brain-Computer Interface Doubles as Unauthorized Digital Mining Rig`,
         tags: [`Neuralink`, `Elon Musk`, `Cryptocurrency`,],
