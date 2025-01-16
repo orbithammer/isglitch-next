@@ -7638,7 +7638,7 @@ In the end, I'll be here, clutching my "Last of Us" Blu-rays and wondering if I 
         alt: `A person in business casual dramatically posing next to a fire extinguisher with a burning Los Angeles house in the background.`,
         header: `TikTok LA Declares Evacuation Routes "Premium Content Corridors"`,
         subhead: `Employees Must Film 'Authentic Escape Content' During Emergency Exits (For The Algorithm)`,
-        tags: [`TikTok`,],
+        tags: [`TikTok`, `LA Wildfires`,],
         author: `Et Al`,
         datePublished: new Date(2025,0,12,7),
         articleBody: `
@@ -7839,6 +7839,58 @@ The company's latest SEC filing reveals a strategic pivot from traditional music
 "This is the future of creativity," Shulman declared, demonstrating their new consumer app that generates unlimited copyright violations with a single click. "Why compose when you can depose?"
 
 At press time, Shulman was reportedly developing a new AI model trained exclusively on other companies' AI models, citing the inherent inefficiency of training on original data.`
+    },
+    {
+        id: 288,
+        articleUrl: `20250116-zuckerberg-bathroom-breaks`,
+        category: `tech`,
+        img: `/images/20250116-zuckerberg-bathroom-breaks.webp`,
+        alt: `Mark Zuckerberg on a glowing toilet giving a presentation.`,
+        header: `Zuckerberg Calls Bathroom Breaks 'Virtue Signaling,' Installs VR Toilets`,
+        subhead: `Meta's new "Always-On" policy aims to eliminate wasteful trips to actual restrooms`,
+        tags: [`Meta`, `Mark Zuckerberg`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,16,7),
+        articleBody: `
+Meta CEO Mark Zuckerberg announced today that all physical bathroom breaks at company headquarters will be replaced with "efficiency-optimized" virtual reality toilets installed directly in meeting rooms, calling traditional restroom visits "nothing more than employee virtue signaling."
+
+"People say they 'need' to use the bathroom, but what they're really doing is performatively showing off their human biological functions," Zuckerberg explained while promoting a junior developer during a conspicuously loud flush. "Real innovators stay connected to their screens 24/7."
+
+The new VR toilets, which employees must log into using their Meta workplace credentials, feature built-in productivity dashboards, mandatory collaborative ideation whiteboards, and automatic LinkedIn post generation about "embracing discomfort for growth." Early reports indicate the devices flag any bathroom visit longer than 47 seconds for mandatory "efficiency counseling" with an AI therapist.
+
+"I used to waste upwards of 4 minutes per day walking to and from actual restrooms," said one Meta engineer who requested anonymity while their bathroom productivity metrics were being broadcast to the company-wide feed. "Now I can ship features and ship... other things... simultaneously."
+
+The program has spawned several new workplace metrics, including the "Network Effect Score" which randomly forces other employees into users' VR bathroom spaces for impromptu meetings. Meta's updated employee handbook now categorizes hand-washing as "legacy hygiene virtue signaling" and requires all performance reviews to include "Average Daily Bathroom Optimization Scores."
+
+When pressed about privacy concerns, Zuckerberg dismissed critics as "clearly trying to signal their outdated attachment to physical world limitations" before having his toilet automatically generate a thought leadership post about "disrupting traditional human needs."
+
+Meta's board of directors has approved plans to roll out the program company-wide under the new slogan "Move Fast and Break Bladders," with one anonymous board member praising it as "a truly immersive solution to the human condition."`
+    },
+    {
+        id: 289,
+        articleUrl: `20250116-dji-launches-wildfireselfie`,
+        category: `tech`,
+        img: `/images/20250116-dji-launches-wildfireselfie.webp`,
+        alt: `A DJI drone hovering in front of massive flames while wearing a tiny RedBull-branded helmet.`,
+        header: `DJI Launches #WildfireSelfie Challenge as California Burns`,
+        subhead: `Latest App Update Gamifies Flying into Active Emergency Zones`,
+        tags: [`DJI`, `LA Wildfires`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,16,17),
+        articleBody: `
+Tech giant DJI unveiled its groundbreaking #WildfireSelfie Challenge today, transforming their consumer drone app into what they're calling a "next-gen emergency response disruption ecosystem" (because that's apparently how we're monetizing disasters now).
+
+The feature, which coincidentally launched during peak California fire season, integrates seamlessly with LinkedIn's "Disaster Disruption" professional network. The app's AI automatically generates peak hustle-culture captions like "Interrupted aerial firefighting operations today so others could succeed tomorrow #GigaGrindset #EmergencyResponseDisruptor #WaterDropChallenge."
+
+Users compete on a global "Chaos Creator" leaderboard, earning prestigious titles like "Smoke Chaser Elite" and "Emergency Response MVP" by achieving high disruption scores. The scoring system awards bonus points for each firefighter forced to take evasive action, with special "Dodge Points" multipliers for near-misses with Super Scoopers.
+
+"We've partnered with RedBull for our Extreme Emergency Response Interruption Series," explained DJI's VP of User Engagement, Brad Thompson, while updating his LinkedIn profile to include "Disaster Innovation Thought Leader." "Top performers can win an all-expenses-paid trip to the next major natural catastrophe."
+
+The app's revolutionary "Disaster Prediction Algorithm" helps content creators pre-position their drones for maximum engagement during tomorrow's tragedies, while the integrated emergency services radio scanner ensures users never miss trending catastrophes.
+
+When questioned about safety concerns, Thompson demonstrated the app's new feature that automatically converts FAA violation notices into inspirational quote graphics and transforms federal fines into "reach metrics."
+
+At press time, DJI was already celebrating its most successful user, a lifestyle influencer whose drone footage of three aborted water drops earned him the coveted "Task Failed Successfully" achievement badge and a speaking slot at next year's DisruptEmergency Conference.`
     },
 ]
 
