@@ -7924,7 +7924,7 @@ When asked about security concerns, Proton Mail's spokesperson noted that the se
         articleUrl: `20250117-rednote-influencers-backtrack`,
         category: `tech`,
         img: `/images/20250117-rednote-influencers-backtrack.webp`,
-        alt: `An American influencer in a Chinese flag jacket buring the American flag.`,
+        alt: `An American influencer in a Chinese flag jacket burning the American flag.`,
         header: `RedNote Influencers Backtrack After Pro-China Campaign Backfires`,
         subhead: `Social media stars face digital dilemma over past Taiwan content`,
         tags: [`RedNote`, `China`, `TikTok`,],
