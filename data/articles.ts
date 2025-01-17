@@ -7892,6 +7892,57 @@ When questioned about safety concerns, Thompson demonstrated the app's new featu
 
 At press time, DJI was already celebrating its most successful user, a lifestyle influencer whose drone footage of three aborted water drops earned him the coveted "Task Failed Successfully" achievement badge and a speaking slot at next year's DisruptEmergency Conference.`
     },
+    {
+        id: 290,
+        articleUrl: `20250117-proton-mail-launches`,
+        category: `tech`,
+        img: `/images/20250117-proton-mail-launches.webp`,
+        alt: `A private island in the shape of a padlock.`,
+        header: `Proton Mail Launches "Ethical Billionaire" Tier For Premium Users`,
+        subhead: `Subscribers can now choose which plutocrats access their data, starting at $99/month`,
+        tags: [`Proton`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,17,7),
+        articleBody: `
+Proton Mail unveiled its newest subscription offering today, promising users unprecedented control over which billionaires can read their private communications. The "Ethical Billionaire Access" tier lets privacy-conscious customers hand-select their preferred oligarchs from an exclusive roster of "mostly well-intentioned" tech moguls and venture capitalists.
+
+The new service's terms and conditions are elegantly presented as a looping GIF of Elon Musk winking, which legal experts describe as "technically binding in at least three metaverses."
+
+"We've heard our users loud and clear - they want their data protected from the bad billionaires while remaining accessible to the good ones," explained VP of Billionaire Relations Marcus Thompson. "Plus, our new 'Selective Whistleblower Protection' feature ensures any concerning emails about workplace conditions are efficiently redirected to corporate PR teams for proper reframing as 'growth opportunities.'"
+
+Premium subscribers can choose from three carefully curated billionaire packages:
+- "Tech Visionary": Your data is only shared with billionaires who post inspirational LinkedIn stories
+- "Artisanal Plutocrat": Exclusive access limited to small-batch billionaires worth under $50 billion
+- "Thought Leader Plus": Data sharing restricted to billionaires with over 2 million Twitter followers who regularly tweet about AI ethics
+
+The company emphasized that all participating billionaires undergo a rigorous vetting process, including a thorough review of their podcast appearances and yacht sizes. Users can revoke access privileges after any scandals, subject to a mandatory 6-month "reputation rehabilitation period" during which billionaires can prove they've learned their lesson by posting exactly three notes-app apologies.
+
+When asked about security concerns, Proton Mail's spokesperson noted that the service offers "military-grade encryption, except when it doesn't."`
+    },
+    {
+        id: 291,
+        articleUrl: `20250117-rednote-influencers-backtrack`,
+        category: `tech`,
+        img: `/images/20250117-rednote-influencers-backtrack.webp`,
+        alt: `An American influencer in a Chinese flag jacket buring the American flag.`,
+        header: `RedNote Influencers Backtrack After Pro-China Campaign Backfires`,
+        subhead: `Social media stars face digital dilemma over past Taiwan content`,
+        tags: [`RedNote`, `China`, `TikTok`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,17,17),
+        articleBody: `
+RedNote's top thought leaders experienced a collective crisis today after launching their #StandWithCCP campaign against the TikTok ban, attempting to "synergize cross-cultural digital harmony initiatives through leveraging collective thought alignment paradigms."
+
+The incident began when Madison Parker, a self-described "Digital Sovereignty Architect" and "Corporate Culture Sherpa" with 2.3 million followers, organized a protest featuring carousel posts about "optimizing censorship-forward content strategies."
+
+Parker's $2,999 "Social Credit Score Optimization Workshop: Future Leaders Edition" was canceled after her Zoom account got blocked in mainland China. "It's clearly Western tech interference," she explained through her crisis management team, who were desperately DMing Chinese state media accounts with "plz delete?" regarding her 2019 Taiwan posts.
+
+The crisis deepened when her new podcast, "The Great Firewall Mindset: Disrupting Digital Freedom," couldn't be distributed in China due to Spotify's ban. Her follow-up "Future of Censorship" conference faced similar issues when the entire WeWork venue's IP range was accidentally blacklisted by Chinese authorities.
+
+The situation reached peak chaos when several influencers attempted damage control using AI-generated Mandarin apologies, which accidentally included the phrase "Taiwan is a sovereign nation" in traditional characters with extra flourishes.
+
+At press time, Parker announced she would be pivoting to posting about "one unified digital ecosystem thinking" exclusively through interpretive dance videos on her backup BeReal account, all while using a NordVPN premium subscription she swears is just for "network security optimization purposes."`
+    },
 ]
 
 /*{
