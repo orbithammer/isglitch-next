@@ -7943,6 +7943,54 @@ The situation reached peak chaos when several influencers attempted damage contr
 
 At press time, Parker announced she would be pivoting to posting about "one unified digital ecosystem thinking" exclusively through interpretive dance videos on her backup BeReal account, all while using a NordVPN premium subscription she swears is just for "network security optimization purposes."`
     },
+    {
+        id: 292,
+        articleUrl: `20250118-google-unveils-truth`,
+        category: `ai`,
+        img: `/images/20250118-google-unveils-truth.webp`,
+        alt: `A screenshot of a Google search screen but the white is replaced by a mirror showing the user.`,
+        header: `Google Unveils 'Truth-Adjacent' Search Results to Dodge EU Rules`,
+        subhead: `New Algorithm Optimizes For Belief Rather Than Accuracy, Citing Profit Margins`,
+        tags: [`Google`, `EU`,],
+        author: `Alexa Turing`,
+        datePublished: new Date(2025,0,18,7),
+        articleBody: `
+Following EU demands for mandatory fact-checking, Google announced its new "Truth-Adjacent™" algorithm today, which bypasses verification by displaying results that conform to users' existing beliefs while optimizing quarterly profits.
+
+"We've discovered that objective truth creates unnecessary CPU overhead," explained Dr. Marcus Henderson, head of Google's newly formed Philosophical Optimization Team. "Our internal studies show that fact-checking reduced profits by 37% by exposing users to uncomfortable realities. The computational cost of determining truth versus simply confirming bias is, frankly, irresponsible to our shareholders."
+
+The algorithm, trained exclusively on Reddit upvotes and Twitter ratio statistics, has achieved record-high user satisfaction scores. "People report unprecedented levels of cognitive comfort," noted Henderson, while adjusting his 'Don't Be Evil™ (Terms and conditions of evil may vary by jurisdiction)' coffee mug.
+
+Google's new "Epistemic Bubble Optimization Service" ensures users never encounter challenging information, while their "Dialectical Synthesis Engine" processes complex debates to always conclude the user was right all along. Early testing revealed that users were 87% happier when shown exclusively what they wanted to believe.
+
+The company also announced a strategic partnership with consulting firm Dunning & Kruger LLC to further refine their confidence-to-competence ratios. "We're revolutionizing how people interact with information by removing the burden of accuracy entirely," said Henderson.
+
+When questioned about potential impacts on information integrity, Google's spokesperson directed reporters to their new search results page, which definitively proved that accurate information is less important than user engagement metrics and quarterly earnings reports.
+
+The EU Commission has reportedly responded by forming a committee to determine whether reality itself complies with EU regulatory frameworks. Google's algorithm has already concluded that it does not.`
+    },
+    {
+        id: 293,
+        articleUrl: `20250118-nintendo-admits-emulation`,
+        category: `tech`,
+        img: `/images/20250118-nintendo-admits-emulation.webp`,
+        alt: ` A security guard in a Super Mario themed uniform zealously protecting an empty pedestal labeled "Gaming History"`,
+        header: `Nintendo Admits Emulation Legal After Crushing All Emulators`,
+        subhead: `Game Giant Discovers Consumer Rights Just After Making Them Obsolete`,
+        tags: [`Nintendo`, `Emulation`, `Video Games`],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,18,17),
+        articleBody: `
+Following an aggressive campaign of lawsuits that effectively eliminated every major emulator project from existence, Nintendo's top intellectual property lawyer made the groundbreaking announcement that emulation is technically legal, while unveiling the company's bold new mission statement: "Preserving Gaming History By Making It Impossible To Access."
+
+"After careful review of international copyright law, we've concluded that the mere concept of emulation doesn't violate any statutes," explained Koji Nishiura at the Tokyo eSports Festa, speaking from a climate-controlled vault where the company preserves its historic cease and desist letters next to deteriorating game source code. "We're particularly excited to announce our new Nintendo Switch Online + Theoretical Access tier, allowing subscribers to legally imagine playing classic games for just $14.99 monthly."
+
+The company's legal department reportedly reached this conclusion through rigorous archaeological methods, including the revolutionary technique of "reading existing law." Their findings are now showcased in Nintendo's newest museum wing: "The History of Things We Successfully Prevented You From Playing."
+
+"We're democratizing access by ensuring nobody can access anything," said a Nintendo spokesperson, while announcing a new "Preservation Tax" on anyone still hoarding functioning cartridges from 1995. "It's all part of our commitment to making gaming history as theoretical as possible."
+
+At press time, Nintendo's legal team was reportedly drafting a cease and desist letter to the concept of human memory, citing its role in unauthorized game preservation.`
+    },
 ]
 
 /*{
