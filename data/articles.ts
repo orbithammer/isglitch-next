@@ -7974,7 +7974,7 @@ The EU Commission has reportedly responded by forming a committee to determine w
         articleUrl: `20250118-nintendo-admits-emulation`,
         category: `tech`,
         img: `/images/20250118-nintendo-admits-emulation.webp`,
-        alt: ` A security guard in a Super Mario themed uniform zealously protecting an empty pedestal labeled "Gaming History"`,
+        alt: `A security guard in a Super Mario themed uniform zealously protecting an empty pedestal labeled "Gaming History."`,
         header: `Nintendo Admits Emulation Legal After Crushing All Emulators`,
         subhead: `Game Giant Discovers Consumer Rights Just After Making Them Obsolete`,
         tags: [`Nintendo`, `Emulation`, `Video Games`],
@@ -7990,6 +7990,32 @@ The company's legal department reportedly reached this conclusion through rigoro
 "We're democratizing access by ensuring nobody can access anything," said a Nintendo spokesperson, while announcing a new "Preservation Tax" on anyone still hoarding functioning cartridges from 1995. "It's all part of our commitment to making gaming history as theoretical as possible."
 
 At press time, Nintendo's legal team was reportedly drafting a cease and desist letter to the concept of human memory, citing its role in unauthorized game preservation.`
+    },
+    {
+        id: 294,
+        articleUrl: `20250119-meta-drought-mode`,
+        category: `tech`,
+        img: `/images/20250119-meta-drought-mode.webp`,
+        alt: `The Facebook thumbs-up icon burning with Los Angeles on fire in the background.`,
+        header: `Meta's 'Drought Mode' Server Update Just Pretends California Has Water`,
+        subhead: `Company says new feature will 'revolutionize how we ignore reality'`,
+        tags: [`Meta`, `LA Wildfires`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,19,7),
+        articleBody: `
+Meta unveiled a groundbreaking solution to California's water crisis today, introducing "Drought Mode" - a revolutionary feature that forces its servers to simply manifest the concept of being cool through pure digital willpower.
+
+"We've disrupted the entire concept of water scarcity by realizing that water is basically just spicy air that can be optimized through machine learning," explained Meta's Chief Digital Hydration Architect Bradley Wilson during a poolside press conference, while servers behind him quietly burst into flames. "Our new Server Meditation Mode™ achieves optimal cooling temperatures through mindfulness and positive vibes."
+
+Internal documents reveal Meta engineers solved California's drought crisis overnight by simply changing the state's status from "Critically Dry" to "Moisture Pending" in their backend systems. "The servers immediately began identifying as room temperature," Wilson said, pointing to a server that was actively melting. "It's all about perception."
+
+The company's new thermal management strategy includes training GPTs to gaslight thermometers into displaying lower temperatures. "If a sensor shows 200°F, we just have our AI explain why that's actually a conspiracy theory about heat," Wilson explained, wiping sweat from his brow.
+
+Meta's updated Community Water Guidelines now classify firefighting as harmful misinformation about server temperatures. "Who are you going to trust - some random firefighter or our democratic water distribution system where servers get one vote per processor core?" Wilson asked, as several processors immediately voted to redirect the building's sprinkler system to their crypto mining operation.
+
+The initiative has proven so successful that Meta announced plans to rebrand California's drought as a "beta test of innovative dry-state technology."
+
+"This isn't a crisis," Wilson insisted from inside what appeared to be a self-immolating data center. "It's a feature."`
     },
 ]
 
