@@ -8017,6 +8017,34 @@ The initiative has proven so successful that Meta announced plans to rebrand Cal
 
 "This isn't a crisis," Wilson insisted from inside what appeared to be a self-immolating data center. "It's a feature."`
     },
+    {
+        id: 295,
+        articleUrl: `20250119-rednote-ai-translation`,
+        category: `ai`,
+        img: `/images/20250119-rednote-ai-translation.webp`,
+        alt: `Chairman Mao with Winnie the Pooh poking out from behind with a Chinese flag background.`,
+        header: `RedNote's AI Translation Tool Converts All Slang to Communist Statements`,
+        subhead: `Users Shocked as "No Cap Fr Fr" Becomes "The Party's Truth Remains Unimpeachable"`,
+        tags: [`RedNote`,],
+        author: `Alexa Turing`,
+        datePublished: new Date(2025,0,19,17),
+        articleBody: `
+RedNote's latest AI translation feature has transformed casual American social media speak into formal Chinese Communist Party declarations, creating a bureaucratic nightmare that makes Kafka look like a TikTok influencer.
+
+The platform's newly deployed "Cultural Harmony Engine" processes English text through neural networks trained exclusively on state media archives, party congress speeches, and what appears to be fortune cookie messages rejected for being too authoritarian.
+
+Users discovered this when attempting to consult RedNote's official "Phraseological Harmony Guidelines v2.3.1," which helpfully explains that "bussin' fr fr" should be properly expressed as "This Achievement Demonstrates Remarkable Adherence to Central Economic Planning Metrics."
+
+The situation escalated when Gen-Z users realized they could manipulate the system. A teenager's deliberately mangled "yo this fit lowkey no cap straight bussin sheeeesh" emerged as a three-page dissertation on agricultural modernization that was immediately incorporated into two provincial five-year plans.
+
+Internal training documents leaked to this reporter reveal moderators struggling with increasingly complex slang scenarios. One page specifically addresses whether "yeet" constitutes "unauthorized redistribution of material goods" or "spontaneous expressions of collective joy," requiring escalation to the Central Meme Rectification Committee.
+
+RedNote's engineering team defended the system despite mounting issues, including a complete server meltdown when attempting to translate "ratio + L + no cap + didn't ask." The crash report simply stated "CRITICAL ERROR: DIALECTICAL MATERIALISM STACK OVERFLOW."
+
+The platform has been frantically hiring UN translators who can parse the subtle distinctions between "cap" (deliberate untruth), "no cap" (truthful statement), and "big cap" (production quota exceeding targets). Three translators have already resigned after attempting to explain "it do be like that sometimes" in terms of historical inevitability.
+
+At press time, RedNote's spokesperson released a statement reading "We stan innovative communication protocols fr fr," which the AI immediately converted to "The People's Republic Maintains Unwavering Support for Progressive Linguistic Reform, Truth Emerges from Facts Twice," followed by a 15-page appendix on proper ideological stance toward contemporary youth expressions.`
+    },
 ]
 
 /*{
