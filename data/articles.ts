@@ -8078,7 +8078,7 @@ The service includes a "Random Compatibility Mode" where files occasionally beco
         articleUrl: `20250120-dead-or-alive`,
         category: `entertainment`,
         img: `/images/20250120-dead-or-alive.webp`,
-        alt: `An arcade machine with an anime girl in a white bikini with an unreal beach background.`,
+        alt: `An arcade machine with an anime girl in a white bikini on the side with an unreal beach background.`,
         header: `Dead or Alive Publisher Announces 'Paternal Disappointment' DLC`,
         subhead: `Beach Volleyball Update Follows Executive's "Like Daughters" Statement`,
         tags: [`Koei Tecmo`, `Dead or Alive`, `Video Games`],
