@@ -8050,7 +8050,7 @@ At press time, RedNote's spokesperson released a statement reading "We stan inno
         articleUrl: `20250120-microsoft-charges-extra`,
         category: `ai`,
         img: `/images/20250120-microsoft-charges-extra.webp`,
-        alt: `A screenshot of 90s era Windows desktop with a robot aying "It looks like."`,
+        alt: `A screenshot of 90s era Windows desktop with a robot saying "It looks like."`,
         header: `Microsoft Charges Extra to Remove 20 Years of Office Features`,
         subhead: `New "Retro" Tier Simulates Pre-2003 Experience Using Advanced AI`,
         tags: [`Microsoft`, `Office 365`,],
