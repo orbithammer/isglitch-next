@@ -8045,6 +8045,58 @@ The platform has been frantically hiring UN translators who can parse the subtle
 
 At press time, RedNote's spokesperson released a statement reading "We stan innovative communication protocols fr fr," which the AI immediately converted to "The People's Republic Maintains Unwavering Support for Progressive Linguistic Reform, Truth Emerges from Facts Twice," followed by a 15-page appendix on proper ideological stance toward contemporary youth expressions.`
     },
+    {
+        id: 296,
+        articleUrl: `20250120-microsoft-charges-extra`,
+        category: `ai`,
+        img: `/images/20250120-microsoft-charges-extra.webp`,
+        alt: `A screenshot of 90s era Windows desktop with a robot aying "It looks like."`,
+        header: `Microsoft Charges Extra to Remove 20 Years of Office Features`,
+        subhead: `New "Retro" Tier Simulates Pre-2003 Experience Using Advanced AI`,
+        tags: [`Microsoft`, `Office 365`,],
+        author: `Alexa Turing`,
+        datePublished: new Date(2025,0,20,7),
+        articleBody: `
+Microsoft announced yesterday that its new "Microsoft 365 Legacy Experience" will use artificial intelligence to meticulously remove two decades of Office features while charging users an additional $14.99 monthly premium.
+
+"Our AI had to undergo an intensive unlearning process," explained Microsoft VP Jennifer Walsh. "We spent $2.3 billion teaching neural networks to become progressively less efficient. That kind of carefully crafted digital regression doesn't come cheap."
+
+The premium service launches next month with what Microsoft calls "historically verified inconveniences." The AI-powered system requires users to type "www." before every web address and maintains a curated archive of defunct GeoCities pages for authenticity. The neural networks reportedly spent 10,000 GPU hours learning to perfectly replicate the sound of a dial-up modem failing to connect.
+
+A leaked internal document revealed the "Classic Features Roadmap," which includes Clippy providing contextually inappropriate suggestions backed by deep learning analysis of historical user frustration. "Our AI ensures Clippy's advice isn't just wrong – it's wrong in ways that are precisely calibrated to the technological limitations of 2003," Walsh noted.
+
+The company's customer service chatbots have been trained on thousands of hours of archived support calls to provide authentically unhelpful technical assistance. "We're particularly proud of our AI's ability to suggest rebooting the computer regardless of the actual problem," said Microsoft's Director of Legacy Innovation.
+
+Microsoft claims its neural networks now actively monitor user frustration levels through webcams to maintain what it calls "optimal nostalgic distress." The system also automatically converts all documents to Comic Sans while generating increasingly implausible explanations for why the font settings can't be accessed.
+
+When asked why users would pay extra for fewer features, Walsh responded: "Sometimes you have to lose something to truly value it. Also, our market research shows that 73% of managers believe their teams are 'too efficient' with current productivity tools."
+
+The service includes a "Random Compatibility Mode" where files occasionally become unreadable between different versions of Office, requiring users to retype entire documents manually. Microsoft emphasizes that this feature is "working exactly as it did in 2003."`
+    },
+    {
+        id: 297,
+        articleUrl: `20250120-dead-or-alive`,
+        category: `entertainment`,
+        img: `/images/20250120-dead-or-alive.webp`,
+        alt: `An arcade machine with an anime girl in a white bikini with an unreal beach background.`,
+        header: `Dead or Alive Publisher Announces 'Paternal Disappointment' DLC`,
+        subhead: `Beach Volleyball Update Follows Executive's "Like Daughters" Statement`,
+        tags: [`Koei Tecmo`, `Dead or Alive`, `Video Games`],
+        author: `Pieter Klykbeit`,
+        datePublished: new Date(2025,0,20,17),
+        articleBody: `
+Following last week's impassioned speech about protecting Dead or Alive's female fighters "like daughters," Koei Tecmo has unveiled its latest downloadable content pack, "Paternal Disappointment." The $29.99 DLC features what marketing materials describe as "spring break outfits that would make any concerned father question his parenting decisions."
+
+The announcement arrives mere days after Tomotoshi Nishimura, head of Koei Tecmo's legal department, justified thousands of fan art takedowns by invoking paternal protection of the game's characters. The new content pack notably includes a "College Fund Well Spent" volleyball tournament mode and an unlockable "What Will The Neighbors Think?" costume collection.
+
+"We take our role as digital father figures very seriously," said VP of Marketing Hiroshi Tanaka, demonstrating the new "Why Don't You Call Home Anymore?" photo mode. "That's why we've ensured each character's disappointment physics are rendered in stunning 4K."
+
+The DLC's flagship feature, "Grounded For Life Beach Party," allows up to four players to simultaneously experience what the press release calls "the crushing weight of virtual parental disapproval." Players can unlock additional outfits by collecting "Trust Fund Tokens" in mini-games such as "Canceled Credit Card Catch" and "Inheritance Elimination Challenge."
+
+Pre-order bonuses include exclusive access to the "This Is Why We Can't Have Nice Things" battle arena and a limited edition "My Daughter The Art History Major" alternate costume pack.
+
+When reached for comment about the apparent contradiction, Nishimura clarified: "We meant they're like daughters in the sense that they're guaranteed to do exactly the opposite of what we say in public."`
+    },
 ]
 
 /*{
