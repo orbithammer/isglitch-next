@@ -8097,6 +8097,60 @@ Pre-order bonuses include exclusive access to the "This Is Why We Can't Have Nic
 
 When reached for comment about the apparent contradiction, Nishimura clarified: "We meant they're like daughters in the sense that they're guaranteed to do exactly the opposite of what we say in public."`
     },
+    {
+        id: 298,
+        articleUrl: `20250121-meta--launches-democracy`,
+        category: `tech`,
+        img: `/images/20250121-meta--launches-democracy.webp`,
+        alt: `A bald eagle clutching wads of cash while perched on the Facebook logo with the Whitehouse in the background.`,
+        header: `Meta Launches 'Democracy Defender' Badge for Pro-Ban Politicians`,
+        subhead: `Digital Honor Comes With Mysterious $50K Instagram Ad Credit Bundle`,
+        tags: [`Meta`, `Instagram`, `TikTok`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,21,7),
+        articleBody: `
+In a move definitely not related to its record-breaking lobbying expenditures, Meta announced today its new "Democracy Defender" badge program, mysteriously coinciding with the recent House TikTok ban vote.
+
+The exclusive digital badge, featuring an eagle clutching a smartphone in one talon and what appears to be a campaign donation receipt in the other, will be awarded to politicians who have "demonstrated unwavering commitment to protecting American social media users from definitely-not-our-competitors."
+
+Leaked internal documents reveal Meta's badge scoring system weights recipients by "legislative potential" and "receptiveness to casual coffee meetings," with top performers earning titles like "Master Regulator" and "Supreme Competition Optimizer."
+
+"This badge represents our gratitude to legislators who understand that democracy is best served by established, American-owned platforms," said Meta's new Director of Democratic Alignment, formerly known as Chief Lobbying Strategist, Robert Maxwell. "The fact that it comes with $50,000 in Instagram ad credits and a special 'trustworthiness' AI filter for campaign photos is purely coincidental."
+
+Representative Thomas Miller accidentally revealed the program's scope by posting his redemption code on Twitter: "DEMOCRACY-DEFENDER-50K-REELS-BOOST #Blessed #Sponsored #NotTikTok"
+
+The badge's terms of service, buried in page 47 of the agreement, require politicians to complete a 6-hour training video titled "Why Competition is Bad Actually: A Meta Documentary" before accessing their ad credits. The company has also quietly launched "Partners in Democracy," a companion program offering Instagram verification to Congressional spouses with over 100 followers.
+
+When asked about the timing of the program's launch, Meta spokesperson Jessica Williams clarified: "The Democracy Defender badge has absolutely nothing to do with Instagram losing 47% of its under-25 users last quarter. Now, would you like to hear about our new 'Patriot Plus' Congressional subscription tier? It automatically converts antitrust speeches into pro-Meta content."
+
+At press time, Meta was already developing a "Freedom Fighter" badge for senators ahead of next week's vote, this one featuring a golden thumbs-up icon and what sources describe as "surprisingly specific" targeting options for political ads.`
+    },
+    {
+        id: 299,
+        articleUrl: `20250121-eric-trump-mypillow`,
+        category: `tech`,
+        img: `/images/20250121-eric-trump-mypillow.webp`,
+        alt: `A man wearing tactical gear inside a pillow fort.`,
+        header: `Eric Trump's MyPillow-Backed Crypto Claims Physical Token Reserves`,
+        subhead: `Controversial Partnership Aims to Store Digital Assets in Alex Jones' Texas Warehouse`,
+        tags: [`MyPillow`, `Eric Trump`, `Cryptocurrency`, `Alex Jones`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,21,17),
+        articleBody: `
+MyPillow CEO Mike Lindell and Eric Trump unveiled their latest blockchain venture Wednesday, announcing that the new $ERIC cryptocurrency will be "fully backed by premium pillow reserves" stored in InfoWars host Alex Jones' Austin warehouse facility.
+
+"Every $ERIC token is guaranteed by an actual, physical MyPillow product," explained Trump during a livestreamed press conference, before suddenly slumping face-first into a display pillow for what he called a "live demonstration of our proprietary proof-of-nap protocol."
+
+The partnership raised eyebrows when blockchain researchers discovered the smart contract listed "Definitely Not Alex Jones Wearing A Mustache, Inc." as the official custodian of the physical reserves. The project's whitepaper, apparently written in gold Sharpie on the back of several MyPillow warranty cards, contains mysterious brown stains that Eric insisted were "covfefe-certified authentication marks."
+
+"We selected the most secure facility in Texas," Lindell declared, pausing periodically to demonstrate "tactical power napping" techniques. "Our revolutionary consensus mechanism requires all network validators to complete a mandatory competitive sleep tournament. If you can't nap, you can't hack – that's just basic blockchain security."
+
+The announcement took an unexpected turn when Jones joined virtually to give a warehouse tour, inadvertently revealing that the "secure storage facility" was actually the break room of his InfoWars studio, with pillows haphazardly stacked between protein powder pallets and unsold supplements.
+
+"Premium token holders get exclusive access to my dream journal alpha leaks," Jones shouted over the sound of a forklift warning signal. "Last night I had a vision about the upcoming memory foam market correction – very bearish on therapeutic neck support!"
+
+At press time, the price of $ERIC had dropped 40% after Jones accidentally live-streamed himself using the pillow reserves to build what he called a "tactical sleeping fort" in preparation for what he described as "the coming memory foam wars."`
+    },
 ]
 
 /*{
