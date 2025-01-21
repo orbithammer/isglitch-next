@@ -8103,7 +8103,7 @@ When reached for comment about the apparent contradiction, Nishimura clarified: 
         category: `tech`,
         img: `/images/20250121-meta--launches-democracy.webp`,
         alt: `A bald eagle clutching wads of cash while perched on the Facebook logo with the Whitehouse in the background.`,
-        header: `Meta Launches 'Democracy Defender' Badge for Pro-Ban Politicians`,
+        header: `Meta Launches 'Democracy Defender' Badge for Pro-TikTok Ban Politicians`,
         subhead: `Digital Honor Comes With Mysterious $50K Instagram Ad Credit Bundle`,
         tags: [`Meta`, `Instagram`, `TikTok`,],
         author: `Et Al`,
