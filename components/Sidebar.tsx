@@ -145,7 +145,7 @@ const Sidebar = ({ isOpen, toggleSidebar }: SidebarProps) => {
               href="https://www.etsy.com/shop/isGlitch"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-3xl text-white hover:text-lime-400 transition-colors duration-200 no-underline block mt-4"
+              className="text-3xl text-white hover:text-lime-400 transition-colors duration-200 no-underline block mt-6"
               onClick={toggleSidebar}
             >
               Merch (Etsy)
