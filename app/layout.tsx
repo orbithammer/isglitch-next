@@ -2,6 +2,7 @@ import type { Metadata } from "next"
 import "./globals.css"
 import Header from "@/components/Header"
 import ThemeProvider from "@/lib/theme/ThemeProvider"
+import CookieConsent from "@/components/CookieConsent"
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
@@ -10,6 +11,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <ThemeProvider>
           <Header />
           <main>{children}</main>
+          <CookieConsent />
         </ThemeProvider>
       </body>
     </html>
