@@ -8151,6 +8151,60 @@ The announcement took an unexpected turn when Jones joined virtually to give a w
 
 At press time, the price of $ERIC had dropped 40% after Jones accidentally live-streamed himself using the pillow reserves to build what he called a "tactical sleeping fort" in preparation for what he described as "the coming memory foam wars."`
     },
+    {
+        id: 300,
+        articleUrl: `20250122-adl-updates-hate`,
+        category: `tech`,
+        img: `/images/20250122-adl-updates-hate.webp`,
+        alt: `Rich tech bros in suits making Nazi salutes at a MAGA rally.`,
+        header: `ADL Updates Hate Symbol Database: Market Cap Now Key Factor`,
+        subhead: `Elon's Inauguration Day Double-Salute Prompts New "Means-Tested" Guidelines`,
+        tags: [`ADL`, `Elon Musk`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,22,7),
+        articleBody: `
+The Anti-Defamation League unveiled groundbreaking revisions to its hate symbol database today in response to Elon Musk's two consecutive Nazi salutes during Trump's inauguration, introducing what it calls "market cap-adjusted sensitivity thresholds" for evaluating potentially problematic gestures performed by billionaires (but only the cool ones).
+
+The updated guidelines, initiated after what ADL officials are calling "The Double Reich-ening Incident," establish a revolutionary "wealth-to-offense coefficient" that automatically reduces a gesture's hate speech severity rating based on the net worth of the person performing it. The exact formula, according to internal documents: Hate Rating = (Gesture Offensiveness × 100) ÷ (Net Worth in Billions)². Using this formula, Musk's dual salutes have been officially recategorized as "spicy wave hello."
+
+"In today's complex digital landscape, context is everything," explained ADL's newly appointed Chief Market Integration Officer, Bradley Stocksworth III. "A raised arm at 45 degrees from someone worth $5 billion might actually represent innovative disruption in the traditional fascism space. When Mr. Musk did it twice, he was clearly just A/B testing engagement metrics."
+
+The organization has also launched a "Billionaire Behavioral Premium Package," allowing ultra-wealthy individuals to pre-purchase hate speech credits in bulk at discounted rates. The package includes access to their exclusive "Forbes 500 Fast Track" Slack channel, where executives rapidly clear potentially problematic gestures before markets open. "Elon's salutes would have been cleared in seconds if he'd been a premium member," noted Stocksworth while adjusting his Tesla-branded tie clip.
+
+A mobile app accompanies the new system, enabling users to scan any questionable gesture and instantly receive its adjusted hate rating based on the performer's current stock portfolio. The app features a special "unicorn clause" that automatically clears startup founders of gestures made during pitch meetings, provided their company valuation exceeds $1 billion. Beta testers report the app has already successfully recategorized hundreds of Reich-adjacent gestures as "vertical customer engagement strategies."
+
+The ADL's website now includes real-time "wealth threshold alerts," notifying moderators when someone becomes rich enough to have their past problematic gestures automatically reclassified. "It's a game-changer," said one anonymous content moderator. "When Elon's net worth hit $269 billion, we had to retroactively redefine his entire gesture library as 'disruptive innovation signaling.'"
+
+Asked about the timing of these updates, Stocksworth insisted they were part of a long-planned modernization effort. "We're simply adapting our framework to reflect modern realities," he explained while checking his Dogecoin portfolio. "In today's economy, you really have to account for market forces when evaluating hate speech. It's just good business."
+
+The ADL has announced plans to release an enterprise version of their hate symbol database, with premium features including "billionaire gesture recontextualization" and "high-net-worth individual intent analysis." Early access will be granted to any tech CEO who can prove they've never used problematic gestures (or can afford to have them reclassified).`
+    },
+    {
+        id: 301,
+        articleUrl: `202501222-nysic-ctc-team`,
+        category: `tech`,
+        img: `/images/202501222-nysic-ctc-team.webp`,
+        alt: `A  woman in a dark room screaming at a full-sized cardboard cutout of a smarmy CEO.`,
+        header: `NYSIC-CTC Team Begs for Nuclear Site Watch After Insurance Claims Week`,
+        subhead: `"Anything but more medical debt stories," plead traumatized analysts`,
+        tags: [`xxx`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,22,17),
+        articleBody: `
+After spending seven consecutive days monitoring Americans' social media reactions to insurance claim denials, the entire night shift of the New York State Intelligence Center has formally requested reassignment to "literally any other surveillance detail, even tracking actual terrorists."
+
+The office transformation tells the story. Motivational posters have been replaced with soothing images of nuclear waste disposal sites. "Something about the gentle glow of radioactive materials really takes the edge off after reading eight hours of medical bankruptcy posts," explained analyst Tom Murphy, who now sleeps with his LinkedIn profile set to 'private.'
+
+The break room TV exclusively plays C-SPAN coverage of nuclear proliferation treaties. "It's our version of Lo-fi Beats to Relax To," said department supervisor Janet Walsh while updating the office's emergency mental health protocols. "Nothing calms the nerves quite like watching politicians debate uranium enrichment limits."
+
+The center recently installed a designated "Scream Room" wallpapered with insurance company CEO photos. "It's technically a decompression space," Walsh noted, "but we had to soundproof it after too many analysts started yelling 'JUST APPROVE THE INSULIN' at pictures of executives on their yachts."
+
+Their office therapist resigned last Tuesday after one too many sessions explaining what "prior authorization" means to sobbing intelligence officers. The remaining team members now attend a support group called "Things I Can't Unsee: Insurance Claims Edition" which meets in the nuclear bunker every Thursday - "the only place we feel truly safe from seeing another GoFundMe campaign," according to Murphy.
+
+At press time, three more analysts had submitted transfer requests after being assigned to track public sentiment about UnitedHealth's new "wellness initiative" requiring patients to arm-wrestle their doctors for prescription approvals. The center's new recruiting poster simply reads: "Monitor Actual Threats Instead of Reading About People Rationing Life-Saving Medications!"
+
+The team cannot afford therapy copays on their government healthcare plan.`
+    },
 ]
 
 /*{
