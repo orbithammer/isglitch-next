@@ -8187,7 +8187,7 @@ The ADL has announced plans to release an enterprise version of their hate symbo
         alt: `A  woman in a dark room screaming at a full-sized cardboard cutout of a smarmy CEO.`,
         header: `NYSIC-CTC Team Begs for Nuclear Site Watch After Insurance Claims Week`,
         subhead: `"Anything but more medical debt stories," plead traumatized analysts`,
-        tags: [`xxx`,],
+        tags: [`NYSIC`, `Insurance`, `Healthcare`,],
         author: `Et Al`,
         datePublished: new Date(2025,0,22,17),
         articleBody: `
