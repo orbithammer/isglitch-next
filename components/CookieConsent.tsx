@@ -69,16 +69,6 @@ const CookieConsent = () => {
     setShowPreferences(false);
   };
 
-  const handleWithdraw = () => {
-    localStorage.removeItem('cookieConsent');
-    setPreferences({
-      necessary: true,
-      analytics: false,
-      marketing: false
-    });
-    setShowBanner(true);
-  };
-
   if (!showBanner) return null;
 
   return (
