@@ -69,7 +69,7 @@ const CookieConsent = () => {
             <div className="flex items-center justify-between">
               <div>
                 <p className="font-medium">Necessary Cookies</p>
-                <p className="text-sm text-gray-600 dark:text-gray-400">Required for the website to function properly</p>
+                <p className="text-sm text-gray-600 dark:text-gray-400 pr-4">Required for the website to function properly</p>
               </div>
               <input
                 type="checkbox"
@@ -81,7 +81,7 @@ const CookieConsent = () => {
             <div className="flex items-center justify-between">
               <div>
                 <p className="font-medium">Analytics Cookies</p>
-                <p className="text-sm text-gray-600 dark:text-gray-400">Help us improve our website by collecting usage information</p>
+                <p className="text-sm text-gray-600 dark:text-gray-400 pr-4">Help us improve our website by collecting usage information</p>
               </div>
               <input
                 type="checkbox"
@@ -93,7 +93,7 @@ const CookieConsent = () => {
             <div className="flex items-center justify-between">
               <div>
                 <p className="font-medium">Marketing Cookies</p>
-                <p className="text-sm text-gray-600 dark:text-gray-400">Used to deliver personalized advertisements</p>
+                <p className="text-sm text-gray-600 dark:text-gray-400 pr-4">Used to deliver personalized advertisements</p>
               </div>
               <input
                 type="checkbox"

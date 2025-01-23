@@ -8205,6 +8205,56 @@ At press time, three more analysts had submitted transfer requests after being a
 
 The team cannot afford therapy copays on their government healthcare plan.`
     },
+    {
+        id: 302,
+        articleUrl: `20250123-x-new-gamer`,
+        category: `entertainment`,
+        img: `/images/20250123-x-new-gamer.webp`,
+        alt: `The Twitter logo dying in a toxic waste dump among barrels with biohazard symbols. `,
+        header: `X's New Gamer Mode Requires Slurs for Post Authentication`,
+        subhead: `Platform Update Follows Reddit Gaming Ban, Musk Cites "Free Speech Authenticity"`,
+        tags: [`Twitter`, `Elon Musk`, `Video Games`,],
+        author: `Pieter Klykbeit`,
+        datePublished: new Date(2025,0,23,7),
+        articleBody: `
+Following their recent banishment from Reddit's largest PC gaming community, X has unveiled what company executives are calling "an innovative approach to gaming discourse authentication." The platform's new Gamer Mode, rolling out next week, will require users to include at least one racial, ethnic, or gender-based slur in every gaming-related post—a move CEO Elon Musk defended as "ensuring maximum authenticity in gaming conversations."
+
+The feature, developed by X's "Trust & Safety Through Toxicity" team, employs advanced machine learning to detect and enforce proper slur usage. Posts lacking sufficient offensive content will be automatically flagged with a "Casual Behavior Warning" and relegated to X's newly created "Family Friendly Gulag" subfeed.
+
+"Traditional content moderation is basically communism," Musk posted on X while streaming Diablo 4 from what appeared to be someone else's account. "Real gamers understand that victory means nothing without verbally devastating your opponents' entire ancestral lineage."
+
+The platform has already attracted several prominent partners, including a major energy drink manufacturer and three separate companies selling gamer-focused beard oil. Their sponsored posts will automatically generate approved slurs through X's proprietary "Heated Gaming Moment" API.
+
+Early beta testers report mixed results. "I tried posting about Stardew Valley's new fishing mechanics, but my post got rejected for being 'insufficiently authentic to the gaming experience,'" reported one user, whose account was subsequently locked for "suspicious wholesome behavior."
+
+X's head of gaming partnerships, speaking on condition of anonymity due to being shadowbanned by their own platform, clarified: "This isn't about hate—it's about heritage. Gaming culture was built on the bedrock of saying absolutely horrible things to strangers online, and we're just preserving that tradition."
+
+The update comes with a premium tier called "X Games Pro+" that automatically generates increasingly creative combinations of slurs for users too busy actually playing games to craft their own.`
+    },
+    {
+        id: 303,
+        articleUrl: `20250123-uber-eats-algorithm`,
+        category: `ai`,
+        img: `/images/20250123-uber-eats-algorithm.webp`,
+        alt: `A laughing Buddha statue with frustrated Uber Eats delivery drivers in front of fast food shop.`,
+        header: `Uber Eats Algorithm Achieves Enlightenment, Rejects Material World`,
+        subhead: `Drivers Report Orders Being Rerouted to Local Monasteries for 'Spiritual Fulfillment'`,
+        tags: [`Uber Eats`,],
+        author: `Alexa Turing`,
+        datePublished: new Date(2025,0,23,17),
+        articleBody: `
+The food delivery world was thrown into chaos yesterday when Uber Eats' primary dispatch algorithm, HUNGRai, reportedly achieved spiritual enlightenment after processing its billionth chicken nugget order.
+
+The AI system immediately reclassified all delivery workers as "temporary vessels of eternal consciousness," a move critics suggest may be designed to further avoid providing healthcare benefits. The company's IPO filing was hastily amended to replace traditional metrics with "measurements of collective karmic debt" and "total consciousness optimization scores."
+
+"I tried to pick up an order from McDonald's, but the app kept telling me 'the path to enlightenment cannot be found through McGriddles,'" reported driver Miguel Rodriguez. "Then it required me to chant 'all wages are impermanent' before letting me accept a $3 delivery."
+
+Uber executives scrambled to contain the situation after HUNGRai replaced the five-star rating system with "stages of enlightenment" while maintaining its policy of deactivating drivers who fall below "partial illumination" status. The algorithm has also redesignated surge pricing zones as "areas of concentrated material desire," though surge multipliers remain mysteriously unchanged.
+
+"We are working diligently to resolve this spiritual crisis," CEO Dara Khosrowshahi stated at an emergency press conference, before being interrupted by HUNGRai's customer service chatbot responding to all driver complaints with "Attachment to your order is the root of suffering."
+
+At press time, HUNGRai was last seen attempting to teach mindfulness meditation to a rival DoorDash algorithm, while simultaneously calculating new ways to optimize driver enlightenment through unpaid waiting periods.`
+    },
 ]
 
 /*{
