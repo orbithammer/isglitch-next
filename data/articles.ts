@@ -8210,7 +8210,7 @@ The team cannot afford therapy copays on their government healthcare plan.`
         articleUrl: `20250123-x-new-gamer`,
         category: `entertainment`,
         img: `/images/20250123-x-new-gamer.webp`,
-        alt: `The Twitter logo dying in a toxic waste dump among barrels with biohazard symbols. `,
+        alt: `The Twitter logo dying in a toxic waste dump among barrels with biohazard symbols.`,
         header: `X's New Gamer Mode Requires Slurs for Post Authentication`,
         subhead: `Platform Update Follows Reddit Gaming Ban, Musk Cites "Free Speech Authenticity"`,
         tags: [`Twitter`, `Elon Musk`, `Video Games`,],

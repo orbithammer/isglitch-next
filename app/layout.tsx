@@ -3,6 +3,7 @@ import "./globals.css"
 import Header from "@/components/Header"
 import ThemeProvider from "@/lib/theme/ThemeProvider"
 import CookieConsent from "@/components/CookieConsent"
+import ExitIntent from '@/components/ExitIntent'
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
@@ -12,6 +13,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <Header />
           <main>{children}</main>
           <CookieConsent />
+          <ExitIntent />
         </ThemeProvider>
       </body>
     </html>

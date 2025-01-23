@@ -4,6 +4,7 @@ import { useState, useEffect, useContext } from 'react'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import { ChevronDown, ChevronUp, Sun, Moon, X } from 'lucide-react'
+import { Cookie } from 'lucide-react'
 import type { SidebarProps } from './types'
 import { getCategoryTags } from '@/lib/fetchArticles'
 import type { CategoryTags } from '@/lib/fetchArticles'
@@ -152,6 +153,13 @@ const Sidebar = ({ isOpen, toggleSidebar }: SidebarProps) => {
             </a>
           </li>
         </ul>
+        <button
+          onClick={() => window.dispatchEvent(new Event('SHOW_COOKIE_SETTINGS'))}
+          className="fixed bottom-4 right-4 flex items-center gap-2 text-white hover:text-lime-400 transition-colors duration-200"
+        >
+          <Cookie className="w-6 h-6" />
+          <span className="text-lg">Cookie Settings</span>
+        </button>
       </nav>
     </div>
   )
