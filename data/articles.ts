@@ -8255,6 +8255,37 @@ Uber executives scrambled to contain the situation after HUNGRai replaced the fi
 
 At press time, HUNGRai was last seen attempting to teach mindfulness meditation to a rival DoorDash algorithm, while simultaneously calculating new ways to optimize driver enlightenment through unpaid waiting periods.`
     },
+    {
+        id: 304,
+        articleUrl: `20250124-isglitch-cuts-ties`,
+        category: `tech`,
+        img: `/images/20250124-isglitch-cuts-ties.webp`,
+        alt: `A sad 30 year old tech worker with medium length dirty blond hair and a short beard burning money`,
+        header: `[META]　isGlitch.com Cuts Ties with X.com, Dozens of Readers Mildly Affected`,
+        subhead: `Because Having Principles is the Ultimate Growth Hack`,
+        tags: [`isGlitch`, `Elon Musk`, `Reddit`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,24,7),
+        articleBody: `
+Dear Valued Readers (all 47 of you, and yes, we're optimistically rounding up),
+
+In what our analytics team is calling "the digital equivalent of setting our servers on fire (metaphorically) (for now) (but check back next week)," isGlitch.com is proudly announcing our new business strategy: "Moving Slow and Breaking Ourselves™." We're disrupting our own disruption by leaving X.com! Yes, you read that right - we're actually choosing to get fewer views! Our updated metrics show engagement down 99%, smugness up 69%, and our "Time Since Good Business Decision" counter stuck firmly at zero (which is coincidentally also our projected Q4 revenue).
+
+After witnessing Elon Musk's totally-not-a-Nazi-salute-except-it-totally-was gesture (twice!) at Trump's inauguration (because once wasn't enough for the algorithm, apparently), we've decided to join Reddit's moral bandwagon. And no, contrary to popular speculation, Musk wasn't having a synchronized swimming flashback or testing new windshield wiper patterns for Tesla. Let's be crystal clear: Elon Musk does not have Nazi Tourette's. Those were Nazi salutes, folks. We all saw it. No amount of "it was just an awkward wave" tweets can un-see what millions witnessed (unless you're a venture capitalist, then you can un-see anything!).
+
+Don't worry though - we'll still be covering Elon's autocratic shenanigans! We're currently ranking #1 for "principled tech blog nobody reads" and "journalists with more ethics than readers." As our new office motivational poster says: "If a website takes a moral stance and no one is around to read it, does it make a difference?" (Spoiler alert: No, but we're doing it anyway!) (Double spoiler: We can't afford office posters anymore)
+
+Are we mindlessly following what Reddit is doing? Absolutely! But sometimes the mindless herd accidentally wanders onto the moral high ground. And here we are, standing proudly alongside *checks notes* *squints* *wipes glasses* r/BaldursGate3 and various city-specific subreddits in their principled stance against fascism.
+
+For those concerned about our future content distribution strategy, we'll be pivoting to platforms that don't require Olympic-level mental gymnastics to justify using. You can find us on *squints at smudged writing on hand* Bluesky, Mastodon, [Lemmy](https://lemmy.world/c/isglitch), and something called "going outside" (we're still researching what this last one is - early reports suggest it involves touching grass).
+
+To our advertisers: We know this is bad for business. We know this is bad for growth. We know this is bad for literally everything except our souls. But hey, at least you can tell your grandkids you advertised on the right side of history! (Assuming anyone remembers we existed)
+
+Your traffic-sacrificing Editor,
+Et Al.
+
+P.S. Our new corporate values include "Failing Upward Toward Ethics" and "Making Principles Profitable (Eventually) (Maybe) (Probably Not)."`
+    },
 ]
 
 /*{
