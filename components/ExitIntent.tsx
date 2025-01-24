@@ -93,6 +93,7 @@ const ExitIntent = () => {
             alt="Store preview"
             fill
             priority
+            sizes="(max-width: 768px) 100vw, 768px"
             className="object-contain rounded-lg"
           />
           
