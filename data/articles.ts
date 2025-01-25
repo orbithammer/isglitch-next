@@ -8286,6 +8286,32 @@ Et Al.
 
 P.S. Our new corporate values include "Failing Upward Toward Ethics" and "Making Principles Profitable (Eventually) (Maybe) (Probably Not)."`
     },
+    {
+        id: 305,
+        articleUrl: `20250125-meta-unveils-ministry`,
+        category: `tech`,
+        img: `/images/20250125-meta-unveils-ministry.webp`,
+        alt: `The Facebook thumbs-up icon behind bars.`,
+        header: ` Meta Unveils Ministry of Truth, Says It's "Totally Different" from Censorship`,
+        subhead: `New Department Features Sleek Logo, Promises "Alternative Perspectives on Reality"`,
+        tags: [`Meta`, `Censorship`, `Social Media`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,25,7),
+        articleBody: `
+In a groundbreaking announcement that definitely isn't dystopian at all, Meta CEO Mark Zuckerberg unveiled the company's latest innovation in content moderation: The Meta Ministry of Truth™ (now with extra trademark authenticity).
+
+"This is completely different from regular censorship," explained Zuckerberg, wearing a blazer that somehow made him look both more and less human simultaneously. "For starters, we have this really cool logo featuring a thumbs-up morphing into an eagle morphing into what might be a dragon (our design team is still debating this)."
+
+During a mandatory three-hour training session, newly hired "Truth Enhancement Specialists" learned Meta's proprietary content moderation language. "We never say 'deleted' anymore," explained training coordinator Blake Anderson. "Posts are now 'optimized for alternative viewership' or 'democratically enhanced through strategic invisibility.'"
+
+The Ministry's new slogan, "Making Reality More Engaging™," was selected after extensive focus group testing with billionaires and yacht owners. "It tested particularly well with users who own private islands," noted Meta's Chief Marketing Officer, adding that alternative slogans like "Truth Is What We Say It Is" and "Censorship But Fancy" performed poorly with the crucial oligarch demographic.
+
+The department's Free Speech Optimization Suite™ automatically converts criticism into PR-friendly content. Posts like "Meta's policies are destroying democracy" now appear as "Meta's innovative approach to digital discourse optimization continues to excite stakeholders."
+
+Their Democratic Content Enhancement Protocol employs a sophisticated algorithm that cross-references users' political donation histories with their yacht ownership status. "The system is completely fair," Zuckerberg explained via an AI-generated sunset background. "Everyone has the same opportunity to make seven-figure donations to the right people."
+
+The Ministry of Truth launches next month, right after the completion of Meta's new Department of Love, which will handle all relationship status updates with the care and subtlety of a teenage diary.`
+    },
 ]
 
 /*{
