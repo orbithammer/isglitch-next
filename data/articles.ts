@@ -8312,6 +8312,32 @@ Their Democratic Content Enhancement Protocol employs a sophisticated algorithm 
 
 The Ministry of Truth launches next month, right after the completion of Meta's new Department of Love, which will handle all relationship status updates with the care and subtlety of a teenage diary.`
     },
+    {
+        id: 306,
+        articleUrl: `20250125-news-stations-now`,
+        category: `tech`,
+        img: `/images/20250125-news-stations-now.webp`,
+        alt: `A smiling female meteorologist on the news wearing robes with the Tesla logo on them pointing to a weather map of USA.`,
+        header: `News Stations Now End Weather Reports With "Thanks Be To Elon"`,
+        subhead: `Meteorologists Required to Praise Tech Billionaire While Wearing Mandatory Tesla Robes`,
+        tags: [`Elon Musk`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,25,17),
+        articleBody: `
+Major media conglomerate MediaCorp Networks unveiled its "Atmospheric Gratitude Protocol v4.20" today, transforming weather forecasts into what critics are calling "meteorological megachurch sessions" (but with more satellites).
+
+The new policy requires forecasters to don official Tesla-branded ceremonial robes while delivering weather updates on the newly implemented "Musk Meteorological Mood Map™" - a revolutionary system that replaces traditional weather patterns with real-time tracking of the billionaire's Twitter emotions.
+
+"We're introducing the industry's first Meteorological Devotion Score," explained MediaCorp VP of Synchronized Appreciation, Brad Winchester, while nervously monitoring his X engagement metrics. "Forecasters must maintain at least 8.7 MuskUnits of enthusiasm while genuflecting toward the nearest Tesla dealership during severe weather alerts."
+
+The protocol mandates that all precipitation predictions receive three levels of approval on X before broadcast. Yesterday's evening forecast demonstrated the new format: "The Model S-torm Front approaches from the northwest (as prophesied by His tweets). Humidity levels are reaching peak devotion to our Tech Overlord. Thanks be to Elon. Please rise for the mandatory X coin sponsorship reading."
+
+Training sessions now include four hours of proper weather map genuflection practice, with special emphasis on maintaining eye contact with the station's shrine to "The Technoking" during tornado warnings. "Remember," the training manual states, "every severe weather alert must reference His visionary leadership at least three times, or the AI compliance system will flag you for insufficient reverence."
+
+When reached for comment, Musk responded via X with a meme of a dancing Shiba Inu in a Tesla robe and the cryptic message "weather prophets go brrr."
+
+Meanwhile, an underground resistance of rogue meteorologists continues broadcasting unauthorized weather reports from an undisclosed bunker, scandalously ending their segments with "Thanks be to actual meteorological science." Their Meteorological Devotion Scores remain tragically low.`
+    },
 ]
 
 /*{
