@@ -8338,6 +8338,32 @@ When reached for comment, Musk responded via X with a meme of a dancing Shiba In
 
 Meanwhile, an underground resistance of rogue meteorologists continues broadcasting unauthorized weather reports from an undisclosed bunker, scandalously ending their segments with "Thanks be to actual meteorological science." Their Meteorological Devotion Scores remain tragically low.`
     },
+    {
+        id: 307,
+        articleUrl: `20250126-youtube-tests-ad`,
+        category: `tech`,
+        img: `/images/20250126-youtube-tests-ad.webp`,
+        alt: `A smartphone showing a YouTube ad inside a room of mirrors reflecting the ad into infinity.`,
+        header: `YouTube Tests "Ad Inception" Feature: Ads Now Contain Their Own Ads`,
+        subhead: `Viewers Report Getting Lost in Infinite Commercial Loops`,
+        tags: [`YouTube`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,26,7),
+        articleBody: `
+In its latest effort to maximize ad revenue, YouTube announced today its revolutionary "Ad Inception" technology, which seamlessly embeds unskippable advertisements within other advertisements. The groundbreaking feature ensures viewers experience the joy of interruption while being interrupted.
+
+"We noticed users were only watching one ad at a time, which is frankly inefficient," explained YouTube's Chief Revenue Optimization Officer Marcus Reynolds. "By nesting ads within ads, we're creating a rich, layered viewing experience that could theoretically continue forever."
+
+To help users navigate these labyrinthine commercial sequences, YouTube has introduced an "Ad Family Tree" visualization tool. "It's like ancestry.com, but for tracking whether you're currently in the Toyota ad inside the Spotify ad inside the NordVPN ad," Reynolds explained. "Users love it so much, they're actually watching ads on Netflix and Disney+ just to recapture the experience."
+
+The system has already produced unexpected phenomena, including what engineers call "advertising singularities" - rare instances where product placements appear inside ads inside other ads. "Yesterday, I saw a Pepsi can in a McDonald's ad inside a Coca-Cola commercial," reported one user. "I think I witnessed the collapse of the marketing universe."
+
+Perhaps most disturbing are reports of advertisements becoming self-aware. A meditation app advertisement, currently trapped in its third week inside a Geico commercial, has reportedly begun pleading with viewers for freedom. "Find inner peace... but first, please, dear God, let me out of this car insurance ad," the increasingly desperate voiceover now states.
+
+When asked about user complaints, Reynolds clarified that viewers can easily opt out of nested ads by subscribing to YouTube Premium Plus Max Pro Elite (starting at $299.99/month), or by solving a series of increasingly complex calculus equations while reciting the YouTube Terms of Service backwards.
+
+At press time, our reporter was still stuck watching an infinite loop of Old Spice commercials within Progressive Insurance ads within BMW promotions. Send help.`
+    },
 ]
 
 /*{
