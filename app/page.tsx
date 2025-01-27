@@ -4,24 +4,24 @@ import ArticleList from '@/components/ArticleList'
 import Title from '@/components/Title'
 
 export default async function HomePage() {
-    const page = '1'
+    const page = 1
     const category = "home"
     const { articles, totalPages } = await fetchArticles(
         category,
-        parseInt(page)
+        page
     )
 
     return (
         <div>
             <Pagination 
-              currentPage={parseInt(page)} 
+              currentPage={page} 
               totalPages={totalPages}
               basePath="/home"
             />
             <Title />
             <ArticleList articles={articles} />
             <Pagination 
-              currentPage={parseInt(page)} 
+              currentPage={page} 
               totalPages={totalPages}
               basePath="/home"
             />
