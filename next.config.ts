@@ -4,8 +4,9 @@ const nextConfig = {
   compiler: {
     removeConsole: process.env.NODE_ENV === "production",
   },
+  // Remove experimental CSS optimization since it requires additional packages
   experimental: {
-    optimizeCss: true, // Enable CSS optimization
+    // optimizeCss: true // Removing this to prevent build errors
   },
 }
 
