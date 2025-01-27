@@ -3,8 +3,7 @@
 import { useState, useEffect, useContext } from 'react'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
-import { ChevronDown, ChevronUp, Sun, Moon, X } from 'lucide-react'
-import { Cookie } from 'lucide-react'
+import { ChevronDown, ChevronUp, Sun, Moon, X, Rss, Cookie } from 'lucide-react'
 import type { SidebarProps } from './types'
 import { getCategoryTags } from '@/lib/fetchArticles'
 import type { CategoryTags } from '@/lib/fetchArticles'
@@ -42,7 +41,7 @@ const Sidebar = ({ isOpen, toggleSidebar }: SidebarProps) => {
   return (
     <div className={`fixed top-0 right-0 w-[21.5rem] h-screen bg-purple-700 transform transition-transform duration-100 ease-out ${
       isOpen ? 'translate-x-0' : 'translate-x-[23rem]'
-    } z-20`}
+    } z-20 flex flex-col`}
       onClick={toggleSidebar}
     >
       {/* Wrapper to handle safe areas and padding */}
@@ -171,7 +170,7 @@ const Sidebar = ({ isOpen, toggleSidebar }: SidebarProps) => {
               title="RSS Feed"
               onClick={(e) => e.stopPropagation()}
             >
-              {/* <Rss className="w-6 h-6" /> */}
+              <Rss className="w-6 h-6" />
             </a>
             
             <button
