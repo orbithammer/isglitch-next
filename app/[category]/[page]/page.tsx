@@ -7,7 +7,7 @@ import Title from '@/components/Title'
 import { fetchArticles } from '@/lib/fetchArticles'
 
 // Remove dynamic directive as it's not needed with proper async handling
-// export const dynamic = 'force-dynamic'
+export const dynamic = 'force-dynamic'
 
 // Validate category
 const validCategories = ['home', 'tech', 'reviews', 'entertainment', 'ai']
