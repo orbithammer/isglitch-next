@@ -13,7 +13,6 @@ import ThemeContext from '@/lib/theme/ThemeContext'
 const Sidebar = ({ isOpen, toggleSidebar }: SidebarProps) => {
   const [openDropdown, setOpenDropdown] = useState<string | null>(null)
   const [categoryTags, setCategoryTags] = useState<CategoryTags>({})
-  const [showCookiePreferences, setShowCookiePreferences] = useState(false)
   const { isDarkMode, setIsDarkMode } = useContext(ThemeContext)
   const pathname = usePathname()
 
