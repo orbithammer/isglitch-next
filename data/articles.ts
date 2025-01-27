@@ -8364,6 +8364,32 @@ When asked about user complaints, Reynolds clarified that viewers can easily opt
 
 At press time, our reporter was still stuck watching an infinite loop of Old Spice commercials within Progressive Insurance ads within BMW promotions. Send help.`
     },
+    {
+        id: 308,
+        articleUrl: `20250127-former-tiktok-critics`,
+        category: `tech`,
+        img: `/images/20250127-former-tiktok-critics.webp`,
+        alt: `A scared male TikTok influencer holding a "rise and grind" paper looking at a threatening hand holding a pistol from the side of the frame with a living room with TikTok lighting in the background.`,
+        header: `Former TikTok Critics Now Posting Fortune 500 Success Stories`,
+        subhead: `Users Report Mysterious Account Changes After Platform's Return`,
+        tags: [`TikTok`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,27,7),
+        articleBody: `
+Following TikTok's dramatic return to U.S. app stores, users who previously criticized tech billionaires and corporate policies have undergone what experts are calling "a totally spontaneous pivot to business positivity." The platform insists these changes are unrelated to their new content moderation system (which definitely doesn't exist).
+
+Former anti-establishment creator @RevolutionaryMemes, whose bio transformed overnight from "Eat the rich" to "Actively campaigning to become a corporate tax write-off," now exclusively posts 60-second explainers on "Why Corporate Hierarchies Actually Spark Joy" and "5 Reasons Billionaires Deserve More Yachts."
+
+The changes run deeper than content. Users report their profile pictures have mysteriously changed to perfectly staged LinkedIn headshots featuring Patagonia vests and motivational quote walls. Even more puzzling, their Myers-Briggs personalities now all read simply "CEO."
+
+"I've just had a completely organic realization that everything is actually perfect exactly as it is," said @RevolutionaryMemes in their latest video, "Top 10 Heartwarming Stories of CEOs Giving Themselves Raises," which ends with their new catchphrase: "Like and follow for more grindset content, or risk permanent account optimization!"
+
+Previously rebellious hashtags now autocorrect to #BillionaireGrindset, #SleepIsCommunist, and #WageTheftIsMyLoveLanguage. Each video features a suspiciously consistent pinned comment: "This spiritual awakening brought to you by the totally optional TikTok Compliance Initiative™."
+
+"We're simply witnessing creators organically discovering their passion for uncritical corporate enthusiasm," said TikTok spokesperson Brad Williams, as his left eye twitched rhythmically. "The fact that this happened immediately after our platform's reinstatement is purely coincidental."
+
+At press time, attempting to question these changes results in users' accounts automatically uploading 15-part video series on "Why Questioning Authority is Actually Problematic."`
+    },
 ]
 
 /*{
