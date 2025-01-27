@@ -1,19 +1,26 @@
+// app/layout.tsx
 import type { Metadata } from "next"
 import "./globals.css"
 import Header from "@/components/Header"
 import ThemeProvider from "@/lib/theme/ThemeProvider"
 import CookieConsent from "@/components/CookieConsent"
-import ExitIntent from '@/components/ExitIntent'
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>
+        <link 
+          rel="alternate" 
+          type="application/rss+xml" 
+          title="isGlitch.com RSS Feed" 
+          href="/feed" 
+        />
+      </head>
       <body className="sm:mx-[10%] mx-auto">
         <ThemeProvider>
           <Header />
           <main>{children}</main>
           <CookieConsent />
-          <ExitIntent />
         </ThemeProvider>
       </body>
     </html>
@@ -25,5 +32,9 @@ export const metadata: Metadata = {
   icons: {
     icon: '/logo.svg',
   },
+  alternates: {
+    types: {
+      'application/rss+xml': '/feed',
+    },
+  },
 }
-

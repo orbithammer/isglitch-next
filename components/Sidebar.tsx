@@ -1,10 +1,10 @@
+// components/Sidebar.tsx
 'use client'
 
 import { useState, useEffect, useContext } from 'react'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
-import { ChevronDown, ChevronUp, Sun, Moon, X } from 'lucide-react'
-import { Cookie } from 'lucide-react'
+import { ChevronDown, ChevronUp, Sun, Moon, X, Rss, Cookie } from 'lucide-react'
 import type { SidebarProps } from './types'
 import { getCategoryTags } from '@/lib/fetchArticles'
 import type { CategoryTags } from '@/lib/fetchArticles'
@@ -13,6 +13,7 @@ import ThemeContext from '@/lib/theme/ThemeContext'
 const Sidebar = ({ isOpen, toggleSidebar }: SidebarProps) => {
   const [openDropdown, setOpenDropdown] = useState<string | null>(null)
   const [categoryTags, setCategoryTags] = useState<CategoryTags>({})
+  const [showCookiePreferences, setShowCookiePreferences] = useState(false)
   const { isDarkMode, setIsDarkMode } = useContext(ThemeContext)
   const pathname = usePathname()
 
@@ -34,16 +35,23 @@ const Sidebar = ({ isOpen, toggleSidebar }: SidebarProps) => {
     return `/${item.toLowerCase()}/1`
   }
 
+  const handleCookiePreferences = () => {
+    // Clear existing cookie consent to show the banner again
+    localStorage.removeItem('cookieConsent')
+    // Force a page reload to show the cookie consent banner
+    window.location.reload()
+  }
+
   return (
     <div className={`fixed top-0 right-0 w-[21.5rem] h-screen bg-purple-700 p-5 transform transition-transform duration-100 ease-out ${
       isOpen ? 'translate-x-0' : 'translate-x-[23rem]'
-    } z-20`}
+    } z-20 flex flex-col`}
       onClick={toggleSidebar}
     >
+      {/* Top section with theme toggle and close button */}
       <div className="flex items-start justify-start mb-4"
         onClick={(e) => e.stopPropagation()}
       >
-        {/* Updated toggle button */}
         <button 
           className="relative flex items-center justify-center w-16 h-8 rounded-full cursor-pointer bg-background-dark dark:bg-background-light"
           onClick={(e) => {
@@ -52,14 +60,11 @@ const Sidebar = ({ isOpen, toggleSidebar }: SidebarProps) => {
           }}
           aria-label={`Switch to ${isDarkMode ? 'light' : 'dark'} mode`}
         >
-          {/* Sliding circle */}
           <div 
             className={`absolute w-6 h-6 rounded-full shadow-md transition-all duration-200 ${
               isDarkMode ? 'translate-x-4 bg-background-dark' : '-translate-x-4 bg-background-light'
             }`} 
           />
-          
-          {/* Icons */}
           <div className={`absolute w-4 h-4 flex items-center justify-center transition-all duration-200 ${
             isDarkMode ? '-translate-x-4' : 'translate-x-4'
           }`}>
@@ -79,7 +84,8 @@ const Sidebar = ({ isOpen, toggleSidebar }: SidebarProps) => {
         </button>
       </div>
 
-      <nav onClick={(e) => e.stopPropagation()}>
+      {/* Main navigation */}
+      <nav onClick={(e) => e.stopPropagation()} className="flex-grow">
         <ul className="list-none p-0">
           {['Home', 'Tech', 'Reviews', 'Entertainment', 'AI'].map((item) => {
             const path = getNavLinkPath(item)
@@ -153,14 +159,32 @@ const Sidebar = ({ isOpen, toggleSidebar }: SidebarProps) => {
             </a>
           </li>
         </ul>
+      </nav>
+
+      {/* Bottom buttons for RSS and Cookie Settings */}
+      <div className="flex justify-between items-center mt-4 pt-4 border-t border-purple-600">
+        <a
+          href="/feed"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-white hover:text-lime-400 transition-colors duration-200"
+          title="RSS Feed"
+          onClick={(e) => e.stopPropagation()}
+        >
+          <Rss className="w-6 h-6" />
+        </a>
+        
         <button
-          onClick={() => window.dispatchEvent(new Event('SHOW_COOKIE_SETTINGS'))}
-          className="fixed bottom-4 right-4 flex items-center gap-2 text-white hover:text-lime-400 transition-colors duration-200"
+          onClick={(e) => {
+            e.stopPropagation()
+            handleCookiePreferences()
+          }}
+          className="text-white hover:text-lime-400 transition-colors duration-200"
+          title="Cookie Settings"
         >
           <Cookie className="w-6 h-6" />
-          <span className="text-lg">Cookie Settings</span>
         </button>
-      </nav>
+      </div>
     </div>
   )
 }
