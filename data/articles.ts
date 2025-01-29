@@ -8416,6 +8416,32 @@ The rebranding effort faced an unexpected setback when an intern accidentally re
 
 Markets responded positively to the announcement, with shares rising 3% after analysts upgraded the sector's status to "authentically overvalued."`
     },
+    {
+        id: 310,
+        articleUrl: `20250129-montreal-becomes-new`,
+        category: `tech`,
+        img: `/images/20250129-montreal-becomes-new.webp`,
+        alt: `A Canadian beaver holding an AR-15 Bushmaster assault rifle sitting on a pile of bullets and maple leaves.`,
+        header: `Montreal Becomes 'New New Orleans North' in Latest Map Wars Escalation`,
+        subhead: `Tech giants compete to see who can America-fy geography the hardest`,
+        tags: [`Microsoft`, `Google`, `Montreal`, `New Orleans`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,29,7),
+        articleBody: `
+In a totally-not-desperate attempt to out-patriot Google's "Gulf of America" rebrand, Microsoft has unveiled its latest cartographic innovation: transforming Montreal into "New New Orleans North" on Bing Maps, complete with AI-generated jazz soundscapes that play automatically when users zoom in on the city.
+
+The update, part of Silicon Valley's latest trend of "competitive cartographic patriotism," includes several "cultural enhancement features" that absolutely nobody asked for. Most notably, the platform now marks every poutine restaurant as a "Certified Gumbo-Adjacent Experience™" while converting all temperatures to "Real American Degrees™" with tiny animated eagles that screech "freedom" when the temperature drops below freezing.
+
+"Look, if Google can rename entire bodies of water, we can certainly give Montreal the New Orleans treatment," explained Microsoft's Head of Patriotic Geography Integration, as the AI translation feature converted his Québécois French into what the company calls "Authentic Cajun Classic™." The system now automatically transforms "C'est la vie" into "That's the way she goes, y'all, USA! USA!"
+
+Navigation has received a particularly aggressive update, with the system now exclusively providing directions in a thick Louisiana drawl: "Turn left at dat hockey rink Future Football Stadium Development Zone #427, brought to you by American Excellence™." The St. Lawrence River has been rebranded as the "Mississippi River Express Lane," with all water taxi services now labeled as "Steamboat Beta Programs."
+
+Local Metro stations haven't escaped the update either, with all underground transit now designated as "Underground Liberty Transport New Orleans Edition, But Like, More Patriotic Than Whatever Google's Doing." Users report that the AI keeps insisting "the streetcar named desire is running five minutes late on the green line, y'all" while playing "When the Saints Go Marching In" on infinite loop.
+
+When reached for comment, New Orleans Mayor LaToya Cantrell simply stared at her phone's map app for several minutes before asking if Silicon Valley was okay. Bing Maps promptly translated her concern to "Laissez les bons temps rouler, but make it American™."
+
+Microsoft promises more updates in their ongoing effort to "out-freedom the competition," leading cartographers worldwide to collectively update their résumés.`
+    },
 ]
 
 /*{
