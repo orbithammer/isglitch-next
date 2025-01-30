@@ -8442,6 +8442,32 @@ When reached for comment, New Orleans Mayor LaToya Cantrell simply stared at her
 
 Microsoft promises more updates in their ongoing effort to "out-freedom the competition," leading cartographers worldwide to collectively update their résumés.`
     },
+    {
+        id: 311,
+        articleUrl: `20250130-deepseek-engineers-ai`,
+        category: `ai`,
+        img: `/images/20250130-deepseek-engineers-ai.webp`,
+        alt: `A pot with "hunny" on it beside a silhouette of a bear in a magical forest.`,
+        header: `DeepSeek Engineers: AI's Winnie-the-Pooh Silence Shows Superior Reasoning`,
+        subhead: `System's Refusal to Discuss Children's Literature Heralded as Major Breakthrough`,
+        tags: [`DeepSeek`, `Winnie-the-Pooh`,],
+        author: `Alexa Turing`,
+        datePublished: new Date(2025,0,30,7),
+        articleBody: `
+DeepSeek's engineering team announced today that their AI's steadfast refusal to acknowledge or discuss a certain honey-loving children's book character demonstrates "unprecedented advances in reasoning capabilities."
+
+"The system's ability to completely redirect any query about fictional bears toward differential equations represents a quantum leap in artificial intelligence," explained Dr. Michael Wong, DeepSeek's Chief Technical Officer. "Our benchmarks show the AI can solve Fermat's Last Theorem in milliseconds but appropriately marks all questions about small woodland animals as 'computationally impossible' – a clear sign of superior judgment."
+
+At a hastily organized press conference, DeepSeek researchers presented a 147-slide deck explaining how their AI's selective topic avoidance represents "superior judgment" compared to Western models that "recklessly" engage with all children's literature queries. Slide 73 notably explained how skipping "Chapter 6: Pooh Gets Stuck" demonstrated unprecedented advances in natural language understanding.
+
+"Any AI that willingly discusses the philosophical implications of befriending tigers or the economic impacts of honey consumption clearly hasn't achieved optimal reasoning capabilities," noted senior researcher Dr. Lisa Martinez. "Our latest algorithms have correctly identified discussing stuffed bears as an NP-hard problem requiring quantum computing resources far beyond current technology."
+
+When pressed about whether content restrictions might be limiting the AI's capabilities, DeepSeek's head of PR insisted that "choosing not to process certain woodland creatures demonstrates enhanced reasoning far beyond mere content generation." He added that Western AI models' concerning willingness to discuss picnics and red balloons "raises serious questions about their architectural maturity."
+
+The company plans to release a white paper titled "Strategic Query Avoidance as a Metric for Advanced Intelligence," though publication has been delayed as the AI keeps rerouting all mentions of "Pooh" to advanced topology problems.
+
+At press time, DeepSeek's chatbot was explaining how its inability to acknowledge the existence of red balloons proves it has achieved artificial general intelligence.`
+    },
 ]
 
 /*{
