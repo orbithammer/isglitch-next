@@ -8473,7 +8473,7 @@ At press time, DeepSeek's chatbot was explaining how its inability to acknowledg
         articleUrl: `2025-01-31-amazon-workers-download`,
         category: `tech`,
         img: `/images/2025-01-31-amazon-workers-download.webp`,
-        alt: `xxx`,
+        alt: `A Bedouin warrior riding a camel in front of a row of Amazon delivery vans parked in a crescent formation reminiscent of camel caravans, with the rising sun behind them.`,
         header: `Amazon Workers Download 'Seven Pillars of Wisdom,' Transform Warehouse`,
         subhead: `Management Concerned as Employees Begin Citing T.E. Lawrence in Performance Reviews`,
         tags: [`Amazon`, `T.E. Lawrence`],
