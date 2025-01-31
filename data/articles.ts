@@ -8498,11 +8498,37 @@ Amazon has responded by blocking Project Gutenberg on workplace WiFi, but employ
 
 As of press time, a group of management consultants brought in to address the situation had immediately defected and begun teaching courses on "Ancient Logistics Warfare" in the loading bay.`
     },
+    {
+        id: 313,
+        articleUrl: `2025-02-01-zuckerberg-receives-targeted`,
+        category: `tech`,
+        img: `/images/2025-02-01-zuckerberg-receives-targeted.webp`,
+        alt: `Zuckerberg sitting in an empty Meta conference room while dozens of security cameras visibly track his movement.`,
+        header: `Zuckerberg Receives Targeted Ads About Keeping Secrets After Privacy Complaint`,
+        subhead: `Meta CEO's Algorithm Takes Personal Turn After Leaked Meeting`,
+        tags: [`Meta`, `Mark Zuckerberg`, `Privacy`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,1,1,7),
+        articleBody: `
+Following Mark Zuckerberg's impassioned speech about Meta's leak problem, the CEO's entire digital ecosystem apparently decided to stage an intervention. By Thursday evening, his meticulously curated feeds transformed into a carnival mirror reflecting his privacy paranoia back at him.
+
+Facebook's algorithm, sensing executive distress, immediately created a "Life Event: Having a Corporate Crisis" on his profile, helpfully tagging every employee who had ever leaked information. The post automatically shared to "Leaders Who Lost Control of Their Companies" - a group he was added to without his consent but might find relevant "based on his recent activity."
+
+His Instagram Stories bar filled with suggested hashtags like #CorporateSecrets, #WhistleblowerLife, and #ThisMeetingWillDefinitelyLeakLater, while Instagram Reels auto-generated a trending compilation titled "Zuck Says 'Leak' - 1 Hour Version (Lo-fi Remix)."
+
+Facebook Marketplace's personalized recommendations included "Gently Used NDAs (Some Highlighting)", "Vintage Privacy Policies", and "Like-New Company Secrets (Already Leaked)." Meanwhile, WhatsApp kept suggesting he join chat groups with names like "Tech CEOs in Crisis" and "Transparently Failing at Transparency."
+
+The situation reached peak digital dystopia when Facebook Dating proposed he might match well with "Other CEOs Who Can't Keep a Secret" and "Whistleblowers in Your Area (1.3 miles away)." The Ad Manager helpfully suggested he could "Boost this privacy complaint to reach 80% more journalists!"
+
+Meta's facial recognition system, working overtime, began categorizing his expression in leaked meeting photos under "Stressed CEO: This Meeting Is Definitely Being Recorded." Facebook Watch's algorithm, sensing his mood, curated a special playlist: "Top 10 Tech Company Downfalls (You're Living Number 6!)."
+
+At press time, Zuckerberg was seen frantically clicking "Why am I seeing this?" on every notification, only to receive the response: "Because you helped create this system."`
+    },
 ]
 
 /*{
     id: 000,
-    articleUrl: `2025-01-00-xxx-xxx-xxx`,
+    articleUrl: `2025-02-00-xxx-xxx-xxx`,
     category: `tech`,
     img: `/images/20251200-xxx-xxx-xxx.webp`,
     alt: `xxx`,
@@ -8510,6 +8536,6 @@ As of press time, a group of management consultants brought in to address the si
     subhead: `xxx`,
     tags: [`xxx`,],
     author: `Et Al`,
-    datePublished: new Date(2025,0,1,1),
+    datePublished: new Date(2025,1,1,1),
     articleBody: `xxx`
 },*/
