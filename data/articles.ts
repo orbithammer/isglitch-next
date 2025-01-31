@@ -8468,11 +8468,41 @@ The company plans to release a white paper titled "Strategic Query Avoidance as 
 
 At press time, DeepSeek's chatbot was explaining how its inability to acknowledge the existence of red balloons proves it has achieved artificial general intelligence.`
     },
+    {
+        id: 312,
+        articleUrl: `2025-01-31-amazon-workers-download`,
+        category: `tech`,
+        img: `/images/2025-01-31-amazon-workers-download.webp`,
+        alt: `xxx`,
+        header: `Amazon Workers Download 'Seven Pillars of Wisdom,' Transform Warehouse`,
+        subhead: `Management Concerned as Employees Begin Citing T.E. Lawrence in Performance Reviews`,
+        tags: [`Amazon`, `T.E. Lawrence`],
+        author: `Et Al`,
+        datePublished: new Date(2025,0,31,7),
+        articleBody: `
+Reports emerged today that Amazon warehouse workers have been mass-downloading T.E. Lawrence's "Seven Pillars of Wisdom" from Project Gutenberg, leading to what management describes as "increasingly concerning strategic developments" in fulfillment center operations.
+
+According to internal documents, workers have begun referring to conveyor belts as "critical occupation infrastructure" and designating break room microwaves as "resistance strongholds." The employee handbook was discovered heavily annotated with detailed comparisons to colonial-era occupation tactics, with one margin note reading "their algorithms are their weakness."
+
+"I knew something was different when our anti-unionization PowerPoint was mysteriously replaced with T.E. Lawrence quotes about the futility of controlling native populations," said HR director Janet Marshall. "Now the break room bulletin board features a 'Know Your Historical Resistance Leaders' section right next to the mandatory workplace safety posters."
+
+The situation escalated when workers started signing off all official communications with "Death to the Ottoman Supply Chain" and referring to productivity tracking software as "colonial surveillance apparatus" in company-wide emails.
+
+Management's concerns peaked after discovering that the newly formed "Council of Autonomous Oasis Representatives" had replaced the employee suggestion box with excerpts from ancient military treatises on asymmetric warfare.
+
+"Yesterday's mandatory anti-theft training video was interrupted by a two-hour employee presentation on 'Historical Methods of Resource Redistribution,'" admitted regional manager David Peters. "They're meeting all their quotas, but they keep submitting their productivity reports in the form of military dispatches from the field."
+
+When questioned about these developments, one anonymous worker replied only with: "The desert is an ocean in which no oar is dipped," before silently returning to their picking station.
+
+Amazon has responded by blocking Project Gutenberg on workplace WiFi, but employees have reportedly already downloaded the entire military strategy section "for offline tactical reference."
+
+As of press time, a group of management consultants brought in to address the situation had immediately defected and begun teaching courses on "Ancient Logistics Warfare" in the loading bay.`
+    },
 ]
 
 /*{
     id: 000,
-    articleUrl: `20250100-xxx-xxx-xxx`,
+    articleUrl: `2025-01-00-xxx-xxx-xxx`,
     category: `tech`,
     img: `/images/20251200-xxx-xxx-xxx.webp`,
     alt: `xxx`,
