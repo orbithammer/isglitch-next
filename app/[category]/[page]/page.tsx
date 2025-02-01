@@ -14,10 +14,10 @@ export const generateMetadata = async ({
   const { category, page } = await params
   return {
     title: `${category.charAt(0).toUpperCase() + category.slice(1)} - Page ${page} - isGlitch.com`,
-    description: `Latest ${category} news and articles with a satirical twist`,
+    description: `Latest ${category} at isGlitch.com - the online-est of tech rags. Where satire meets silicon and the truth isn’t binary.`,
     openGraph: {
       title: `${category.charAt(0).toUpperCase() + category.slice(1)} - Page ${page} - isGlitch.com`,
-      description: `Latest ${category} news and articles with a satirical twist`,
+      description: `Latest ${category} at isGlitch.com - the online-est of tech rags. Where satire meets silicon and the truth isn’t binary.`,
       url: `https://isglitch.com/${category}/${page}`,
       type: 'website'
     }
