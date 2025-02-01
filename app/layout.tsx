@@ -3,7 +3,7 @@ import "./globals.css"
 import Header from "@/components/Header"
 import ThemeProvider from "@/lib/theme/ThemeProvider"
 import CookieConsent from "@/components/CookieConsent"
-import ExitIntent from "@/components/ExitIntent"
+// import ExitIntent from "@/components/ExitIntent"
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://isglitch.com'),
@@ -29,7 +29,7 @@ export default function RootLayout({
           <Header />
           <main>{children}</main>
           <CookieConsent />
-          <ExitIntent />
+          {/* <ExitIntent /> */}
         </ThemeProvider>
       </body>
     </html>
