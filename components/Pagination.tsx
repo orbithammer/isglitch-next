@@ -1,5 +1,3 @@
-'use client'
-
 import Link from 'next/link'
 
 interface PaginationProps {
@@ -15,8 +13,9 @@ export default function Pagination({
   basePath,
   category = ''
 }: PaginationProps) {
+  const adjustedBasePath = basePath === '/' ? '/home' : basePath
   const categoryPath = category ? `/${category}` : ''
-  const path = `${basePath}${categoryPath}`
+  const path = `${adjustedBasePath}${categoryPath}`
 
   const pageNumbers = []
   if (currentPage > 2) pageNumbers.push(currentPage - 2)
