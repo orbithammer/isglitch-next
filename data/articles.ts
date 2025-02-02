@@ -8524,6 +8524,32 @@ Meta's facial recognition system, working overtime, began categorizing his expre
 
 At press time, Zuckerberg was seen frantically clicking "Why am I seeing this?" on every notification, only to receive the response: "Because you helped create this system."`
     },
+    {
+        id: 314,
+        articleUrl: `2025-02-02-chinese-officials-praise`,
+        category: `ai`,
+        img: `/images/2025-02-02-chinese-officials-praise.webp`,
+        alt: `POV photo of viewer's hands typing on a desktop keyboard with a blue and white cartoon whale on screen looking at the hands.`,
+        header: `Chinese Officials Praise DeepSeek's Space Bar Analysis for 'Innovation'`,
+        subhead: `Advanced keystroke monitoring sets new standard in surveillance technology`,
+        tags: [`DeepSeek`, `China`, `Surveillance`,],
+        author: `Alexa Turing`,
+        datePublished: new Date(2025,1,2,7),
+        articleBody: `
+Chinese government officials heaped praise on AI company DeepSeek's groundbreaking pressure-sensitive space bar monitoring system, calling it "a revolutionary step forward in understanding how users pause between thoughts."
+
+Speaking at the Annual Conference for Definitely Not Surveillance in Beijing, Deputy Minister of Digital Innovation Li Wei highlighted the technology's ability to detect unapproved content before it's even typed. "The system caught someone typing 'Taiwan is a c-' and intervened before they could finish. Truly remarkable," Li beamed, while demonstrating the technology on a PowerPoint presentation that somehow knew everyone in the audience's typing habits.
+
+DeepSeek's CEO Robert Chang showcased the feature's ability to identify "ideological impurities" through micro-hesitations between words. "Even a millisecond pause before typing 'glorious' can reveal concerning thought patterns," Chang explained, while an AI assistant helpfully categorized his own space bar taps as "suspiciously enthusiastic."
+
+The system's "Cultural Typing Analysis Module" has drawn particular attention. "We can now identify users who've watched unapproved Western media through their distinctly individualistic typing cadence," Chang noted. "Anyone typing faster than the collectively approved speed of 35 words per minute will be automatically reported for questioning about their suspiciously efficient fingers."
+
+The company also unveiled its new "Emotional Stability Sensors," which flag users displaying suspicious levels of typing calmness. "Properly patriotic citizens should demonstrate an appropriate level of keyboard enthusiasm," Li added.
+
+When asked about privacy concerns, Chang directed reporters to DeepSeek's updated terms of service, which now includes a reassuring 47-page section titled "Why Your Literary-Influenced Keystroke Patterns Reveal Your Reading Habits."
+
+The feature will roll out globally next month, though beta testers report their space bars already somehow know their mother's maiden name and favorite childhood pet.`
+    },
 ]
 
 /*{
