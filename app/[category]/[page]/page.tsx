@@ -36,7 +36,7 @@ export default async function CategoryPage({
     throw new Error('Invalid page number');
   }
 
-  const { articles, totalPages } = await fetchArticles(category, pageNum)
+  const { articles, totalPages } = await fetchArticles(pageNum, category)
 
   if (pageNum > totalPages || articles.length === 0) {
     throw new Error('Page not found');
