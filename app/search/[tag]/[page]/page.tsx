@@ -10,8 +10,8 @@ export default async function SearchPage({ params }: {params: Promise<{ tag: str
     // Decode the URL-encoded tag
     const decodedTag = decodeURIComponent(tag)  
     const { articles, totalPages } = await fetchArticles(
-        undefined, //implement search by category later
         parseInt(page),
+        undefined, //implement search by category later
         decodedTag
     )
 
