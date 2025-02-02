@@ -25,14 +25,14 @@ export default async function HomePage() {
             <Pagination 
               currentPage={page} 
               totalPages={totalPages}
-              basePath="/"
+              basePath="/home/"
             />
             <Title />
             <ArticleList articles={articles} />
             <Pagination 
               currentPage={page} 
               totalPages={totalPages}
-              basePath="/"
+              basePath="/home/"
             />
         </div>
     )
