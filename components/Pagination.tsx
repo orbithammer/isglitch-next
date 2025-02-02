@@ -13,9 +13,8 @@ export default function Pagination({
   basePath,
   category = ''
 }: PaginationProps) {
-  const adjustedBasePath = basePath === '/' ? '/home' : basePath
-  const categoryPath = category ? `/${category}` : ''
-  const path = `${adjustedBasePath}${categoryPath}`
+  const categoryPath = basePath === '/' ? "/home" : category
+  const path = `${basePath}${categoryPath}`
 
   const pageNumbers = []
   if (currentPage > 2) pageNumbers.push(currentPage - 2)
