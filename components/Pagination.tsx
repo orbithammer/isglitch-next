@@ -5,7 +5,7 @@ import Link from 'next/link'
 interface PaginationProps {
   currentPage: number
   totalPages: number
-  basePath: string
+  basePath: string  
 }
 
 export default function Pagination({
@@ -13,17 +13,20 @@ export default function Pagination({
   totalPages,
   basePath,
 }: PaginationProps) {
+  // Remove trailing slashes and ensure consistent format
+  const normalizedPath = basePath.endsWith('/') ? basePath.slice(0, -1) : basePath
+  
   const pageNumbers = []
   if (currentPage > 2) pageNumbers.push(currentPage - 2)
   if (currentPage > 1) pageNumbers.push(currentPage - 1)
   pageNumbers.push(currentPage)
   if (currentPage < totalPages) pageNumbers.push(currentPage + 1)
   if (currentPage < totalPages - 1) pageNumbers.push(currentPage + 2)
-  console.log("basePath", basePath)
+
   return (
     <div className="flex justify-between items-center p-4 mx-8 mb-8">
       <Link
-        href={`${basePath}/1`}
+        href={`${normalizedPath}/1`}
         className={`px-3 py-2 rounded-md transition-colors ${
           currentPage === 1
             ? 'pointer-events-none opacity-50'
@@ -35,7 +38,7 @@ export default function Pagination({
       </Link>
 
       <Link
-        href={currentPage === 1 ? basePath : `${basePath}/${currentPage - 1}`}
+        href={`${normalizedPath}/${Math.max(1, currentPage - 1)}`}
         className={`px-3 py-2 rounded-md transition-colors ${
           currentPage === 1
             ? 'pointer-events-none opacity-50'
@@ -49,7 +52,7 @@ export default function Pagination({
       {pageNumbers.map((number) => (
         <Link
           key={number}
-          href={`${basePath}/${number}`}
+          href={`${normalizedPath}/${number}`}
           className={`px-3 py-2 rounded-md transition-colors ${
             currentPage === number
               ? 'text-purple-600 dark:text-green-400 font-bold'
@@ -61,7 +64,7 @@ export default function Pagination({
       ))}
 
       <Link
-        href={`${basePath}/${currentPage + 1}`}
+        href={`${normalizedPath}/${Math.min(totalPages, currentPage + 1)}`}
         className={`px-3 py-2 rounded-md transition-colors ${
           currentPage === totalPages
             ? 'pointer-events-none opacity-50'
@@ -73,7 +76,7 @@ export default function Pagination({
       </Link>
 
       <Link
-        href={`${basePath}/${totalPages}`}
+        href={`${normalizedPath}/${totalPages}`}
         className={`px-3 py-2 rounded-md transition-colors ${
           currentPage === totalPages
             ? 'pointer-events-none opacity-50'
