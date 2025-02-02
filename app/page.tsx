@@ -19,12 +19,7 @@ export const metadata: Metadata = {
 
 export default async function HomePage() {
     const page = 1
-    const category = "home"
-    const { articles, totalPages } = await fetchArticles(
-        category,
-        page
-    )
-
+    const { articles, totalPages } = await fetchArticles("home", page);
     return (
         <div>
             <Pagination 
