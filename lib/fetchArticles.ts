@@ -85,6 +85,7 @@ export async function getCategoryTags(): Promise<CategoryTags> {
 }
 
 export async function fetchArticles(category?: string, page: number = 1, tag?: string) {
+  console.log('fetchArticles', category, page, tag)
   const articles = await articlesData
   const itemsPerPage = 10
   

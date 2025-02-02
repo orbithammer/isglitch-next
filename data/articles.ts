@@ -7972,13 +7972,13 @@ The EU Commission has reportedly responded by forming a committee to determine w
     {
         id: 293,
         articleUrl: `20250118-nintendo-admits-emulation`,
-        category: `tech`,
+        category: `entertainment`,
         img: `/images/20250118-nintendo-admits-emulation.webp`,
         alt: `A security guard in a Super Mario themed uniform zealously protecting an empty pedestal labeled "Gaming History."`,
         header: `Nintendo Admits Emulation Legal After Crushing All Emulators`,
         subhead: `Game Giant Discovers Consumer Rights Just After Making Them Obsolete`,
         tags: [`Nintendo`, `Emulation`, `Video Games`],
-        author: `Et Al`,
+        author: `Pieter Klykbeit`,
         datePublished: new Date(2025,0,18,17),
         articleBody: `
 Following an aggressive campaign of lawsuits that effectively eliminated every major emulator project from existence, Nintendo's top intellectual property lawyer made the groundbreaking announcement that emulation is technically legal, while unveiling the company's bold new mission statement: "Preserving Gaming History By Making It Impossible To Access."
