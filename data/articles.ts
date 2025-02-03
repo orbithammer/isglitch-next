@@ -8540,7 +8540,7 @@ Chinese government officials heaped praise on AI company DeepSeek's groundbreaki
 
 Speaking at the Annual Conference for Definitely Not Surveillance in Beijing, Deputy Minister of Digital Innovation Li Wei highlighted the technology's ability to detect unapproved content before it's even typed. "The system caught someone typing 'Taiwan is a c-' and intervened before they could finish. Truly remarkable," Li beamed, while demonstrating the technology on a PowerPoint presentation that somehow knew everyone in the audience's typing habits.
 
-DeepSeek's CEO Robert Chang showcased the feature's ability to identify "ideological impurities" through micro-hesitations between words. "Even a millisecond pause before typing 'glorious' can reveal concerning thought patterns," Chang explained, while an AI assistant helpfully categorized his own space bar taps as "suspiciously enthusiastic."
+DeepSeek's CEO Liang Wenfeng showcased the feature's ability to identify "ideological impurities" through micro-hesitations between words. "Even a millisecond pause before typing 'glorious' can reveal concerning thought patterns," Chang explained, while an AI assistant helpfully categorized his own space bar taps as "suspiciously enthusiastic."
 
 The system's "Cultural Typing Analysis Module" has drawn particular attention. "We can now identify users who've watched unapproved Western media through their distinctly individualistic typing cadence," Chang noted. "Anyone typing faster than the collectively approved speed of 35 words per minute will be automatically reported for questioning about their suspiciously efficient fingers."
 
@@ -8549,6 +8549,32 @@ The company also unveiled its new "Emotional Stability Sensors," which flag user
 When asked about privacy concerns, Chang directed reporters to DeepSeek's updated terms of service, which now includes a reassuring 47-page section titled "Why Your Literary-Influenced Keystroke Patterns Reveal Your Reading Habits."
 
 The feature will roll out globally next month, though beta testers report their space bars already somehow know their mother's maiden name and favorite childhood pet.`
+    },
+    {
+        id: 315,
+        articleUrl: `2025-02-03-nestle-countersues-x`,
+        category: `tech`,
+        img: `/images/2025-02-03-nestle-countersues-x.webp`,
+        alt: ` A corporate boardroom filled with Nestlé executives taking notes while watching a PowerPoint presentation by the Joker called "maintain your villainy."`,
+        header: `Nestlé Countersues X, Claims Platform Making Their Practices Look Too Pure`,
+        subhead: `Chocolate giant argues toxic posts eclipse their own controversies, demands compensation`,
+        tags: [`Nestlé`, `Twitter`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,1,3,7),
+        articleBody: `
+In what can only be described as the ultimate corporate uno-reverse card, Nestlé has filed a $2 billion countersuit against X, claiming the platform's toxicity is making their own controversial business practices appear "uncomfortably wholesome."
+
+"Our Department of Ethical Deterioration has been working overtime to maintain our standing in the Corporate Evil Rankings™," said Thomas Wagner, Nestlé's VP of Strategic Water Acquisition, during an emergency board meeting. Executives frantically brainstormed more aggressive water privatization strategies to keep up with X's "speed run to dystopia."
+
+The lawsuit specifically cites X's "innovative approaches to human rights optional features" as making Nestlé's own business practices appear "practically philanthropic." Internal surveys show that after viewing X's content moderation policies, 68% of consumers described Nestlé's infant formula controversy as "practically heartwarming" and their water extraction policies as "basically a public service."
+
+"We've been forced to enroll our entire executive team in emergency corporate villainy refresher courses," admitted Janet Miller, Nestlé's Chief Reputation Deterioration Officer. "When your decades-old 'water isn't a human right' stance starts looking charmingly old-school, you know you're falling behind the curve."
+
+The 420-page lawsuit repeatedly emphasizes X's "unfair acceleration of ethical decline," and includes a desperate plea to hire X's PR team "to maintain competitive awfulness in an increasingly dystopian marketplace."
+
+In response, X's legal team issued a brief statement: "Our platform maintains the highest standards of toxicity in the industry. Any similarity to Nestlé's business practices is purely coincidental and, frankly, flattering."
+
+Meanwhile, Nestlé has unveiled their new corporate slogan: "Nestlé: Bringing You Yesterday's Dystopia, Today!™" Because sometimes the old ways of being evil are the best ways.`
     },
 ]
 
