@@ -57,16 +57,17 @@ const ExitIntent = () => {
 
   useEffect(() => {
     if (cookieConsent?.marketing) {
-      const lastShown = localStorage.getItem('exit-intent-shown');
+      const marketingData = JSON.parse(localStorage.getItem('marketingCookie') || '{"lastExitIntent": null}');
       const thirtyDaysAgo = new Date();
       thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
       
-      if (!lastShown || new Date(lastShown) < thirtyDaysAgo) {
+      if (!marketingData.lastExitIntent || new Date(marketingData.lastExitIntent) < thirtyDaysAgo) {
         registerHandler({
           id: 'store-modal',
           handler: () => {
             setShown(true);
-            localStorage.setItem('exit-intent-shown', new Date().toISOString());
+            marketingData.lastExitIntent = new Date().toISOString();
+            localStorage.setItem('marketingCookie', JSON.stringify(marketingData));
           }
         });
       }

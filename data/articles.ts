@@ -8555,7 +8555,7 @@ The feature will roll out globally next month, though beta testers report their 
         articleUrl: `2025-02-03-nestle-countersues-x`,
         category: `tech`,
         img: `/images/2025-02-03-nestle-countersues-x.webp`,
-        alt: ` A corporate boardroom filled with Nestlé executives taking notes while watching a PowerPoint presentation by the Joker called "maintain your villainy."`,
+        alt: `A corporate boardroom filled with Nestlé executives taking notes while watching a PowerPoint presentation by the Joker called "maintain your villainy."`,
         header: `Nestlé Countersues X, Claims Platform Making Their Practices Look Too Pure`,
         subhead: `Chocolate giant argues toxic posts eclipse their own controversies, demands compensation`,
         tags: [`Nestlé`, `Twitter`,],
@@ -8576,6 +8576,32 @@ In response, X's legal team issued a brief statement: "Our platform maintains th
 
 Meanwhile, Nestlé has unveiled their new corporate slogan: "Nestlé: Bringing You Yesterday's Dystopia, Today!™" Because sometimes the old ways of being evil are the best ways.`
     },
+    {
+        id: 316,
+        articleUrl: `2025-02-04-anthropic-demands-live`,
+        category: `ai`,
+        img: `/images/2025-02-04-anthropic-demands-live.webp`,
+        alt: `Surveillance cameras pointing at a pencil standing on its end on a white table in a sterile office.`,
+        header: `Anthropic Demands Live Video Proof for Job Applications`,
+        subhead: `AI Company Fights Automation with Surveillance, Without Seeing Irony`,
+        tags: [`Anthropic`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2025,1,4,7),
+        articleBody: `
+After facing criticism that job candidates might be using AI to write applications, Anthropic announced a new requirement that all applicants must submit an unedited, continuous video recording of themselves handwriting their cover letters. The policy announcement came from Michael Barrett, Head of Talent Acquisition, whose own video message was repeatedly flagged by the company's AI detection system as "suspiciously rehearsed" and had to be re-recorded 14 times.
+
+"We want to ensure authentic human expression," Barrett explained, before accidentally triggering Claude's auto-complete function during the press briefing. The AI assistant finished his sentence with "...through comprehensive digital surveillance protocols," which Barrett hastily denied authoring.
+
+The new policy requires candidates to narrate their thought process throughout the 45-minute writing session. Anthropic's newly automated Human Verification Department, which replaced its human staff last month "to ensure unbiased assessment," monitors these sessions using their proprietary AI system.
+
+"Our 'Proof of Human' protocol requires all employees to make at least three mathematical errors per day," Barrett noted, proudly displaying his own incorrectly balanced expense report. "Perfect accuracy is a red flag."
+
+The company's monitoring system flags suspicious behaviors such as looking off-screen, consulting reference materials, or displaying "unreasonably coherent" writing patterns. The system itself was recently augmented with a new AI layer designed specifically to detect whether other AIs were being used to detect AI usage, creating what Barrett termed "a perfectly logical authentication loop."
+
+When asked about privacy concerns, Barrett explained that all videos are processed by their AI systems and stored indefinitely "to train our next-generation human detection models." The interview was briefly interrupted when the company's HR chatbot demanded Barrett prove he wasn't Claude in disguise by purposely using incorrect grammar.
+
+The company is currently seeking a new Director of Human Authenticity. Qualified candidates must submit a handwritten childhood diary as proof of consistent human-level writing capabilities, along with evidence of at least one embarrassing spelling mistake per page.`
+    },
 ]
 
 /*{
@@ -8588,6 +8614,6 @@ Meanwhile, Nestlé has unveiled their new corporate slogan: "Nestlé: Bringing Y
     subhead: `xxx`,
     tags: [`xxx`,],
     author: `Et Al`,
-    datePublished: new Date(2025,1,1,1),
+    datePublished: new Date(2025,1,1,7),
     articleBody: `xxx`
 },*/
