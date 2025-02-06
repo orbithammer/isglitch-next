@@ -8626,6 +8626,30 @@ The company's updated terms of service now explicitly forbid users from noticing
 
 At press time, the U.S. Patent Office was still processing the application, reportedly stuck in an infinite loop of trying to determine whether approving a patent on irony would itself be ironic enough to violate the patent. Meanwhile, DeepSeek was seen filing a patent for the concept of filing patents on abstract concepts, causing several senior tech executives' heads to explode metaphorically.`
     },
+    {
+        id: 318,
+        articleUrl: `2025-02-06-trump-orders-nasa`,
+        category: `tech`,
+        img: `/images/2025-02-06-trump-orders-nasa.webp`,
+        alt: `An asteroid heading towards the Earth with "DEI" on it.`,
+        header: `Trump Orders NASA to Rename Asteroid Before DEI Deletion Deadline`,
+        subhead: `Agency scrambles as doomsday rock threatens Earth with diversity terminology`,
+        tags: [`Donald Trump`, `NASA`],
+        author: `Et Al`,
+        datePublished: new Date(2025,1,6,7),
+        articleBody: `
+NASA officials are racing against time to rename Asteroid 2025-DEI, a potentially Earth-threatening object, after President Trump's executive order mandated the immediate removal of all diversity-related terminology from federal databases.
+
+Crisis management consultants have been working around the clock to workshop new terminology. "We can't call it a 'diverse celestial body' anymore," explained Dr. James Martinez, lead astronomer at NASA's Near-Earth Object Program. "The asteroid is currently on what we're temporarily calling a fair and balanced trajectory toward Earth (no specific ethnic groups mentioned)."
+
+Internal emails reveal increasingly panicked exchanges about whether the term "universal destruction" sounds too inclusive. "We had to drop everything and spend six hours updating our impact risk assessment documents," explained Mission Director Linda Park. "Legal is concerned that saying it 'affects all life equally' might violate Section 3 of the executive order."
+
+The rename has sparked heated debates in NASA's emergency response protocols. Scientists spent three hours arguing whether they could still use "impact diversity" in their physics equations, while others frantically searched documents for phrases like "intersectional orbital patterns."
+
+"The PR team finally approved 'Equal Opportunity Extinction Event' as the official terminology," said Communications Director Mark Thompson, "but now we have to rush-update all our emergency broadcast templates to remove any mention of 'minority communities' from the evacuation zones."
+
+At press time, NASA administrators were still debating whether describing the asteroid's chemical composition as "showing a wide range of elements" might be considered too diverse-sounding, while the agency's legal team reviewed whether their "Terminal Countdown" sequence needed revision to avoid implications of death discrimination.`
+    },
 ]
 
 /*{
