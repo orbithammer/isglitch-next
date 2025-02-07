@@ -8650,6 +8650,32 @@ The rename has sparked heated debates in NASA's emergency response protocols. Sc
 
 At press time, NASA administrators were still debating whether describing the asteroid's chemical composition as "showing a wide range of elements" might be considered too diverse-sounding, while the agency's legal team reviewed whether their "Terminal Countdown" sequence needed revision to avoid implications of death discrimination.`
     },
+    {
+        id: 319,
+        articleUrl: `2025-02-07-musk-doge-team`,
+        category: `tech`,
+        img: `/images/2025-02-07-musk-doge-team.webp`,
+        alt: `Elon Musk shooting a flamethrower into the US Treasury building.`,
+        header: `Musk's DOGE Team Mandates 280-Character Treasury Reports`,
+        subhead: `Citing 'Modern Communication Standards,' Officials Push Character Limits on Federal Docs`,
+        tags: [`Elon Musk`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,1,7,7),
+        articleBody: `
+Treasury Department staffers were bewildered Thursday morning when DOGE officials circulated a memo demanding all federal financial documentation be limited to precisely 280 characters while also introducing "engagement-based funding metrics" for government departments.
+
+The 279-character memo (which notably left room for one additional character) outlined plans to "streamline government communication for the digital age" by restricting everything from audit reports to federal budget projections to the length of a tweet.
+
+"Treasury reports have too many words (not vibing). New format: Short. Concise. More emojis 📊," wrote Tom Krause, DOGE's lead Treasury representative, in an internal message that included a proposal to measure fiscal quarters in "trending cycles" and "viral seasons."
+
+When pressed about how complex financial data could possibly fit within such constraints, DOGE officials suggested expressing all monetary values in "internet-friendly" numbers. A draft budget proposal read: "Defense spending: 420.69B, Healthcare: 42.0T, Infrastructure: 69.420B no cap fr fr."
+
+The situation escalated when DOGE representatives announced plans to replace economic indicators with trending hashtag performance. "Why track GDP when we can monitor #EconomyCheck's engagement rate?" Krause suggested in a follow-up memo. "Inflation metrics will now be based on how many times people tweet 'everything is expensive rn.'"
+
+Career Treasury officials, speaking on condition of anonymity, expressed horror at discovering their office door plaques had been replaced with QR codes linking to X profiles. "They told us our quarterly performance reviews would be based on our follower-to-following ratio," one official reported, requesting anonymity to avoid being "ratio'd."
+
+The proposal was temporarily shelved after multiple attempts to compress the U.S. tax code into the character limit caused three government laptops to crash and one senior DOGE official to have what witnesses described as an "existential crisis" about information density.`
+    },
 ]
 
 /*{
