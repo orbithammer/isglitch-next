@@ -8676,6 +8676,32 @@ Career Treasury officials, speaking on condition of anonymity, expressed horror 
 
 The proposal was temporarily shelved after multiple attempts to compress the U.S. tax code into the character limit caused three government laptops to crash and one senior DOGE official to have what witnesses described as an "existential crisis" about information density.`
     },
+    {
+        id: 320,
+        articleUrl: `2025-02-08-doe-now-accepting`,
+        category: `tech`,
+        img: `/images/2025-02-08-doe-now-accepting.webp`,
+        alt: `The Twitter logo made of nuclear warning symbols on an office desk in a post-apocalyptic scene.`,
+        header: `DOE Now Accepting Twitter Blue Checks as Valid Security Credentials`,
+        subhead: `Department Modernizes Clearance Process for "Digital-First" Era`,
+        tags: [`Elon Musk`, `Twitter`],
+        author: `Et Al`,
+        datePublished: new Date(2025,1,8,7),
+        articleBody: `
+The Department of Energy unveiled its groundbreaking new security clearance system yesterday, announcing that Twitter Blue verification checkmarks will now serve as acceptable credentials for accessing sensitive government systems, replacing "outdated methods like FBI investigations and polygraph tests."
+
+"We're streamlining our archaic vetting process for the social media age," explained Robert Martinez, DOE's newly appointed Chief of Digital Authentication and Chief Meme Officer. "Our proprietary algorithm can detect potential security threats through follower-to-following ratios. If someone has more followers than they follow, they're obviously trustworthy."
+
+The DOE has restructured its security clearance levels to reflect this digital transformation. The new tiers - "Blue Check Basic," "Blue Check Plus," and "Literally Just Knows Elon" - will grant varying levels of access to nuclear facilities and classified information.
+
+"Traditional background checks can't compete with our new meme literacy tests," Martinez added, demonstrating the department's new security screening process, which requires applicants to correctly identify at least five rare Pepes and explain the nuanced evolution of the "This Is Fine" dog meme.
+
+The Department has already begun transitioning classified documents to the new system, requiring all top-secret files to include at least three trending hashtags like #NuclearSecrets #UraniumGoals #SpicyFissionTakes for proper indexing and retrieval.
+
+In a controversial move, nuclear launch codes have been relocated to Twitter DMs. "It's actually more secure," insisted Martinez. "Have you ever tried to find a specific DM from 2021? Impossible. That's military-grade encryption right there."
+
+When reached for comment about potential security risks, a DOE spokesperson simply posted a viral GIF of Elon Musk shrugging, followed by a 12-part thread analyzing the potential threat vectors based on the latest Twitter engagement metrics and "extremely scientific" ratio calculations.`
+    },
 ]
 
 /*{
