@@ -8707,7 +8707,7 @@ When reached for comment about potential security risks, a DOE spokesperson simp
         articleUrl: `2025-02-09-uk-orders-every`,
         category: `tech`,
         img: `/images/2025-02-09-uk-orders-every.webp`,
-        alt: `An iPhone with five illustrated staring eyes on the screen wearing wireless headphones with the UK parament in the background.`,
+        alt: `An iPhone with five illustrated staring eyes in a pentagram on the screen wearing wireless headphones with the UK parament in the background.`,
         header: `UK Orders Every Government Phone to Play The Police's Greatest Hits`,
         subhead: `Security Experts Warn Sting's Lyrics Now Least Concerning Privacy Issue`,
         tags: [`Apple`, `Surveillance`],
