@@ -8690,7 +8690,7 @@ The proposal was temporarily shelved after multiple attempts to compress the U.S
         articleBody: `
 The Department of Energy unveiled its groundbreaking new security clearance system yesterday, announcing that Twitter Blue verification checkmarks will now serve as acceptable credentials for accessing sensitive government systems, replacing "outdated methods like FBI investigations and polygraph tests."
 
-"We're streamlining our archaic vetting process for the social media age," explained Robert Martinez, DOE's newly appointed Chief of Digital Authentication and Chief Meme Officer. "Our proprietary algorithm can detect potential security threats through follower-to-following ratios. If someone has more followers than they follow, they're obviously trustworthy."
+"We're streamlining our archaic vetting process for the social media age," explained Robert Martinez, DOE's newly appointed Chief of Digital Authentication and Chief Meme localhostOfficer. "Our proprietary algorithm can detect potential security threats through follower-to-following ratios. If someone has more followers than they follow, they're obviously trustworthy."
 
 The DOE has restructured its security clearance levels to reflect this digital transformation. The new tiers - "Blue Check Basic," "Blue Check Plus," and "Literally Just Knows Elon" - will grant varying levels of access to nuclear facilities and classified information.
 
@@ -8701,6 +8701,30 @@ The Department has already begun transitioning classified documents to the new s
 In a controversial move, nuclear launch codes have been relocated to Twitter DMs. "It's actually more secure," insisted Martinez. "Have you ever tried to find a specific DM from 2021? Impossible. That's military-grade encryption right there."
 
 When reached for comment about potential security risks, a DOE spokesperson simply posted a viral GIF of Elon Musk shrugging, followed by a 12-part thread analyzing the potential threat vectors based on the latest Twitter engagement metrics and "extremely scientific" ratio calculations.`
+    },
+    {
+        id: 321,
+        articleUrl: `2025-02-09-uk-orders-every`,
+        category: `tech`,
+        img: `/images/2025-02-09-uk-orders-every.webp`,
+        alt: `An iPhone with five illustrated staring eyes on the screen wearing wireless headphones with the UK parament in the background.`,
+        header: `UK Orders Every Government Phone to Play The Police's Greatest Hits`,
+        subhead: `Security Experts Warn Sting's Lyrics Now Least Concerning Privacy Issue`,
+        tags: [`Apple`, `Surveillance`],
+        author: `Et Al`,
+        datePublished: new Date(2025,1,9,7),
+        articleBody: `
+Following the UK government's controversial order requiring Apple to create a universal backdoor for all devices, ministers were startled to discover their secure government-issued phones exclusively playing The Police's "Every Breath You Take" during closed-door meetings about citizen privacy protections.
+
+The mysterious musical phenomenon began shortly after the backdoor implementation, with Home Secretary Jessica Thompson's phone interrupting a parliamentary session by blasting "I'll be watching you" during her speech defending the encryption policy. The parliamentary transcription system has mysteriously begun adding "(Watching you watching me)" after every MP's name, a feature IT staff cannot disable.
+
+"At first we thought it was just a coincidence," reported IT specialist James Murphy. "But then 'Don't Stand So Close to Me' started playing whenever MPs accessed classified documents, and 'Message in a Bottle' hijacked every attempted secure communication."
+
+The situation escalated when Prime Minister's Questions was derailed by a synchronized chorus of "Wrapped Around Your Finger" emanating from the front bench's devices. Conservative MP Richard Hamilton insisted it was "purely coincidental" that his phone switched to "Can't Stand Losing You" while voting on privacy legislation.
+
+Apple's tech support, bound by the government's gag order, could only respond to complaints by humming "Roxanne."
+
+Sources say Five Eyes partners are now competing for surveillance soundtrack privileges, with Canada politely requesting Leonard Cohen's "Bird on a Wire" for their morning briefings, while New Zealand insists Lorde's "The Love Club" better captures the "exclusive surveillance partnership vibe" of the Five Eyes alliance.`
     },
 ]
 
