@@ -8728,16 +8728,29 @@ Sources say Five Eyes partners are now competing for surveillance soundtrack pri
     },
     {
         id: 322,
-        articleUrl: `2025-02-00-xxx-xxx-xxx`,
-        category: `tech`,
-        img: `/images/20251200-xxx-xxx-xxx.webp`,
-        alt: `xxx`,
-        header: `xxx`,
-        subhead: `xxx`,
-        tags: [`xxx`,],
-        author: `Et Al`,
-        datePublished: new Date(2025,1,1,7),
-        articleBody: `xxx`
+        articleUrl: `2025-02-10-meta-legal-strategy`,
+        category: `ai`,
+        img: `/images/2025-02-10-meta-legal-strategy.webp`,
+        alt: `A giant thumb pointing upward made entirely of hardcover books with a Jolly Roger flag in the background.`,
+        header: `Meta's Legal Strategy: 'Rules for Thee, Not for Me'`,
+        subhead: `Company Claims Theft at Scale Creates New Rights`,
+        tags: [`Meta`, `Piracy`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2025,1,10,7),
+        articleBody: `
+Meta's legal department unveiled a groundbreaking defense strategy Thursday in response to allegations of mass copyright infringement, introducing an "Asymmetric Rights Theory" that mathematically proves downloading books becomes legal once a company's market cap exceeds $500 billion.
+
+"We've developed a sophisticated framework demonstrating how actions that would be criminal for individuals become acts of innovation at enterprise scale," explained Meta's Chief Legal Officer Jennifer Newstead, while simultaneously filing DMCA takedowns against three graduate students sharing research papers.
+
+The company's 400-page brief introduces their "Ethical Relativism Calculator," a proprietary algorithm that automatically determines when copyright infringement transforms into permissible "bulk knowledge acquisition." The calculator retroactively determined that Aaron Swartz's downloading of academic papers would have been legal if he had simply stolen 1000 times more data while being worth billions.
+
+"Our 'Corporate Personhood+' status grants us immunity from conventional property rights," said Meta's outside counsel. "When we downloaded 82 terabytes of books, we weren't committing piracy - we were democratizing knowledge access for ourselves, which is much more efficient than democratizing it for everyone."
+
+The brief distinguishes between "artisanal hand-piracy" committed by individuals like Swartz and Meta's "industrial-scale automated piracy," which it claims creates new legal rights through sheer velocity. "Our torrenting speeds alone demonstrate substantial transformative purpose," the legal team argued.
+
+Meta proposed settling the case by compensating authors with "exposure packages" consisting of Instagram likes and Facebook group recommendations. "We've calculated that one like equals approximately 1/10th of a copyright," Newstead explained while diagramming the exchange rate on a whiteboard.
+
+At press time, Meta's legal team was arguing that copyright infringement, when conducted at sufficient scale, becomes a form of market efficiency protected under securities law. They plan to cite this defense in their upcoming "Too Big to Prosecute" filing with the SEC.`
     },
 ]
 
