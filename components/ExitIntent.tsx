@@ -6,7 +6,7 @@ import { X, ChevronLeft, ChevronRight } from 'lucide-react';
 import Image from 'next/image';
 
 const ExitIntent = () => {
-  const [shown, setShown] = useState(true);
+  const [shown, setShown] = useState(false);
   const [cookieConsent, setCookieConsent] = useState<{marketing: boolean} | null>(null);
   const [currentImage, setCurrentImage] = useState(0);
   const [images, setImages] = useState<string[]>([]);
