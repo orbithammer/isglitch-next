@@ -6,7 +6,7 @@ import { X, ChevronLeft, ChevronRight } from 'lucide-react';
 import Image from 'next/image';
 
 const ExitIntent = () => {
-  const [shown, setShown] = useState(false);
+  const [shown, setShown] = useState(true);
   const [cookieConsent, setCookieConsent] = useState<{marketing: boolean} | null>(null);
   const [currentImage, setCurrentImage] = useState(0);
   const [images, setImages] = useState<string[]>([]);
@@ -21,7 +21,6 @@ const ExitIntent = () => {
         console.error('Error loading exit intent images:', error);
       }
     };
-    
     loadImages();
   }, []);
 
@@ -82,6 +81,7 @@ const ExitIntent = () => {
         <button 
           onClick={() => setShown(false)}
           className="absolute top-4 right-4 text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200"
+          aria-label="Close"
         >
           <X className="w-6 h-6" />
         </button>
@@ -101,6 +101,7 @@ const ExitIntent = () => {
           <button
             onClick={prevImage}
             className="absolute left-2 top-1/2 -translate-y-1/2 bg-black/30 p-2 rounded-full hover:bg-black/50 transition-colors"
+            aria-label="Previous image"
           >
             <ChevronLeft className="w-6 h-6 text-white" />
           </button>
@@ -108,6 +109,7 @@ const ExitIntent = () => {
           <button
             onClick={nextImage}
             className="absolute right-2 top-1/2 -translate-y-1/2 bg-black/30 p-2 rounded-full hover:bg-black/50 transition-colors"
+            aria-label="Next image"
           >
             <ChevronRight className="w-6 h-6 text-white" />
           </button>
@@ -120,6 +122,8 @@ const ExitIntent = () => {
                 className={`w-2 h-2 rounded-full transition-colors ${
                   currentImage === idx ? 'bg-white' : 'bg-white/50'
                 }`}
+                aria-label={`Go to image ${idx + 1}`}
+                aria-current={currentImage === idx ? 'true' : 'false'}
               />
             ))}
           </div>
