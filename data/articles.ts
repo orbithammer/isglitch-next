@@ -8752,11 +8752,39 @@ Meta proposed settling the case by compensating authors with "exposure packages"
 
 At press time, Meta's legal team was arguing that copyright infringement, when conducted at sufficient scale, becomes a form of market efficiency protected under securities law. They plan to cite this defense in their upcoming "Too Big to Prosecute" filing with the SEC.`
     },
+    {
+        id: 323,
+        articleUrl: `2025-02-11-tesla-cybertruck-forces`,
+        category: `tech`,
+        img: `/images/2025-02-11-tesla-cybertruck-forces.webp`,
+        alt: `An interior of a truck with a middle-aged man being driven mad.`,
+        header: `Tesla's Cybertruck Forces Insurers to Cover Fourth Spatial Dimension`,
+        subhead: `Insurance Industry Scrambles as Time-Loss Claims Stack Up in Multiple Timelines`,
+        tags: [`Tesla`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,1,11,7),
+        articleBody: `
+Leading insurance companies announced today they're adding "dimensional displacement" coverage to Cybertruck policies after multiple drivers reported emerging from their vehicles days or even weeks after their recorded entry time.
+
+"We initially classified these as standard time theft claims," explained Geico spokesperson Marcus Henderson. "But calculating temporal whiplash deductibles became impossible once we realized time has no meaning inside a Cybertruck."
+
+Tesla's customer service department has been overwhelmed with complaints, responding to most with a form email advising owners to "try rebooting causality by turning your Cybertruck off and on in all possible quantum states simultaneously."
+
+The company's legal team argued in a recent filing that Tesla cannot be held liable for accidents that "technically haven't happened yet in this timeline," while CEO Elon Musk tweeted: "Linear time is for legacy automakers. True innovation requires breaking physics (and maybe a few fundamental constants)."
+
+NHTSA investigator James Morrison expressed frustration after attempting to examine a crashed Cybertruck in Detroit: "I arrived at the scene only to discover the vehicle had un-crashed itself the previous week. This is the third time this has happened."
+
+Insurance giants have begun hiring theoretical physicists as claims adjusters specifically for Cybertruck policies. "We need people who can understand how a vehicle can be simultaneously totaled and mint condition," explained Progressive's new Quantum Claims Division head, Dr. Rachel Maxwell.
+
+One Cybertruck owner, attempting to file a claim online, received an automated response stating: "Error 404: Policyholder does not exist in current dimension. Please try filing in an alternate reality where you maintained corporeal form."
+
+Tesla's updated warranty now specifically excludes "damage caused by temporal paradoxes, quantum tunneling, spontaneous existence failure, or any violations of causality resulting from the vehicle's natural tendency to ignore conventional physics." A footnote adds that this document may spontaneously rewrite itself in other timelines.`
+    },
 ]
 
 /*{
     id: 000,
-    articleUrl: `2025-02-00-xxx-xxx-xxx`,
+    articleUrl: `2025-02-10-xxx-xxx-xxx`,
     category: `tech`,
     img: `/images/20251200-xxx-xxx-xxx.webp`,
     alt: `xxx`,
@@ -8764,6 +8792,6 @@ At press time, Meta's legal team was arguing that copyright infringement, when c
     subhead: `xxx`,
     tags: [`xxx`,],
     author: `Et Al`,
-    datePublished: new Date(2025,1,1,7),
+    datePublished: new Date(2025,1,10,7),
     articleBody: `xxx`
 },*/
