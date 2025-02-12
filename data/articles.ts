@@ -8787,7 +8787,7 @@ Tesla's updated warranty now specifically excludes "damage caused by temporal pa
         img: `/images/2025-02-12-ice-surveillance-flags.webp`,
         alt: `A closeup of an ICE officer's face with a brown dog wearing a hat reflected in his sunglasses.`,
         header: `ICE Surveillance Flags 'This Is Fine' Dog Meme Sharers as Security Threats`,
-        subhead: `Algorithm Also Tags Users Who Post "Everything's Great" During National Crises`,
+        subhead: `Algorithm Also Tags Users Who Post "Everything is Awesome" During National Crises`,
         tags: [`ICE`, `Surveillance`],
         author: `Et Al`,
         datePublished: new Date(2025,1,12,7),
