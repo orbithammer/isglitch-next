@@ -8780,6 +8780,32 @@ One Cybertruck owner, attempting to file a claim online, received an automated r
 
 Tesla's updated warranty now specifically excludes "damage caused by temporal paradoxes, quantum tunneling, spontaneous existence failure, or any violations of causality resulting from the vehicle's natural tendency to ignore conventional physics." A footnote adds that this document may spontaneously rewrite itself in other timelines.`
     },
+    {
+        id: 324,
+        articleUrl: `2025-02-12-ice-surveillance-flags`,
+        category: `tech`,
+        img: `/images/2025-02-12-ice-surveillance-flags.webp`,
+        alt: `A closeup of an ICE officer's face with a brown dog wearing a hat reflected in his sunglasses.`,
+        header: `ICE Surveillance Flags 'This Is Fine' Dog Meme Sharers as Security Threats`,
+        subhead: `Algorithm Also Tags Users Who Post "Everything's Great" During National Crises`,
+        tags: [`ICE`, `Surveillance`],
+        author: `Et Al`,
+        datePublished: new Date(2025,1,12,7),
+        articleBody: `
+A newly deployed ICE surveillance system has flagged over 350,000 social media users as potential security risks based solely on their sharing of the popular "This Is Fine" dog meme, according to procurement documents obtained through a FOIA request.
+
+The $12.3 million monitoring system, developed by defense contractor Palantastic Solutions, assigns particularly high threat scores to users who share the meme in response to ICE-related news articles. "These individuals demonstrate concerning levels of contextual awareness," explained Dr. Robert Winston, Palantastic's Chief Behavioral Analysis Officer.
+
+The system employs sophisticated sentiment analysis to categorize response patterns. Posting the meme with "lol" triggers a "level 2 threat designation," while escalating to "lmao" results in immediate enhanced monitoring. Users who post without any caption are flagged for "suspicious silent protest behavior."
+
+"Our algorithms are particularly concerned with users who demonstrate pattern recognition by sharing the meme multiple times," noted ICE spokesperson Jessica Martinez. "This indicates an alarming ability to identify recurring societal issues."
+
+The system maintains a database of "pre-approved, non-threatening reaction GIFs," consisting entirely of minion memes and clips from The Lego Movie's "Everything is Awesome." Users who create original memes instead of sharing existing ones are automatically flagged for "displaying dangerous creative thinking capabilities."
+
+When reached for comment about privacy concerns, Martinez assured that the system only collects "basic metadata" such as users' complete browsing histories, personal relationships, shopping patterns, and preferred coffee orders.
+
+"We're just trying to keep America safe from people who understand what's going on," Martinez added.`
+    },
 ]
 
 /*{
