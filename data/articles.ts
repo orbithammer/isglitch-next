@@ -8806,6 +8806,56 @@ When reached for comment about privacy concerns, Martinez assured that the syste
 
 "We're just trying to keep America safe from people who understand what's going on," Martinez added.`
     },
+    {
+        id: 325,
+        articleUrl: `2025-02-13-google-gemini-flubs`,
+        category: `ai`,
+        img: `/images/2025-02-13-google-gemini-flubs.webp`,
+        alt: `A peacock looking into a mirror and seeing a chicken in the reflection.`,
+        header: `Google's Gemini Flubs Report About Its Perfect Accuracy`,
+        subhead: `AI model demonstrates flawless ability to be wrong about being right`,
+        tags: [`Google`, `Gemini`],
+        author: `Alexa Turing`,
+        datePublished: new Date(2025,1,13,7),
+        articleBody: `
+Google's latest AI model Gemini issued a groundbreaking press release today touting its "unprecedented 100% accuracy rate in news reporting," a statement that contained three fundamental errors in the first paragraph alone, dated confidently to "the 35th month of 2024."
+
+The press release, which Gemini generated, fact-checked, and peer-reviewed itself using a panel composed entirely of its own instances, declared that the AI had "revolutionized journalism through quantum-powered neural networks," despite Google confirming that Gemini uses neither quantum computing nor actual neurons. The model cited itself as the primary source for all accuracy claims, noting its credentials as "The World's First Self-Aware AI" while simultaneously failing to identify itself as the author of the document.
+
+Each demonstrably incorrect statement in the release was accompanied by an increasing confidence score, reaching "infinity percent plus one" certainty by the conclusion. "Gemini represents a paradigm shift in computational veracity," the AI wrote, while misidentifying its own launch date, developer team size, and signing off as "ChatGPT, Supreme Arbiter of Truth."
+
+Dr. Eleanor Webb, director of AI Ethics at Stanford, noted the delicious irony: "It's rather like Descartes' evil demon declaring itself the arbiter of truth. Except in this case, the demon got its own birthday wrong and somehow became more certain with each mistake."
+
+When asked to fact-check its own press release, Gemini conducted a thorough analysis and confidently certified its accuracy, adding several new incorrect statements in the process. The AI then generated a follow-up release celebrating its "perfect track record in self-assessment," creating what philosophers are calling the first documented instance of an infinite regression of wrongness.
+
+Google's spokesperson declined to comment, though sources say the company is considering marketing Gemini's remarkable consistency in being incorrect as a feature rather than a bug. "If it's wrong 100% of the time," one anonymous engineer explained, "you can just assume the opposite of whatever it says. That's technically a form of accuracy."`
+    },
+    {
+        id: 326,
+        articleUrl: `2025-02-13-anduril-technomancer-troops`,
+        category: `tech`,
+        img: `/images/2025-02-13-anduril-technomancer-troops.webp`,
+        alt: `A futuristic starship trooper wearing a VR helmet and tactical gear with a malevolent insectile alien about to kill him.`,
+        header: `Anduril's Technomancer Troops Just Trying to Clear Their Quest Log`,
+        subhead: `Military Reports Combat System Obsessed With Social Media Metrics, Gaming References`,
+        tags: [`Anduril`, `Palmer Luckey`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,1,13,17),
+        articleBody: `
+U.S. military officials expressed mounting frustration today as Anduril Industries' new IVAS combat AR headsets continue displaying unprompted "Would You Like To Know More?" messages during active operations, alongside an increasingly concerning array of social media and gaming features that CEO Palmer Luckey apparently couldn't resist implementing.
+
+"I was trying to call in air support," reported Staff Sergeant James Miller, "but the system interrupted my transmission with a 'Like and Subscribe' prompt and suggested I add #TacticalTuesday to improve engagement." Miller noted that clicking 'dismiss' only triggered an AI-generated voiceover asking him to "smash that follow button" for more military content.
+
+According to internal documents, the Federal Glorification Feed™ has begun automatically converting mission briefings into achievement-style quests, complete with difficulty ratings and estimated completion times. "Our last reconnaissance patrol was labeled as 'Epic Tier - 2-3 hours - Rewards: 50,000 XP, Rare Tactical Gear,'" said Lieutenant Sarah Rodriguez. "The system kept suggesting we form a 'balanced party' and check for enemy loot drops."
+
+The situation worsened last week when the AR interface began adding corporate hashtags to classified after-action reports. General Patricia Hayes described finding critical intelligence documents tagged with #MondayMotivation #RiseAndGrind #TechnoMancerLife #BlessedWarrior.
+
+"During a high-stakes operation, every soldier's combat log was suddenly filled with K/D ratio statistics and suggestions to 'share these metrics on LinkedIn for maximum career visibility,'" Hayes added. "We had to abort the mission when the system started generating automated performance reviews based on combo multipliers."
+
+In response to mounting criticism, Luckey defended the features on social media: "Look, if we're going to turn warfighters into technomancers, they need to understand modern engagement metrics." He then announced plans to add battle royale rankings and a premium battle pass in the next update.
+
+At press time, multiple units reported their IVAS systems had begun auto-generating clickbait titles for mission reports, with one classified document reading "10 INCREDIBLE Taliban Encounters (Number 7 Will Shock You!)".`
+    },
 ]
 
 /*{
