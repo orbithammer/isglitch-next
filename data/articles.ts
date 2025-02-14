@@ -8861,7 +8861,7 @@ At press time, multiple units reported their IVAS systems had begun auto-generat
         articleUrl: `2025-02-14-tinder-ai-now`,
         category: `tech`,
         img: `/images/2025-02-14-tinder-ai-now.webp`,
-        alt: `A professional raw photo of a couple sitting across from each other on a romantic date with a crowd of scientists wearing lab coats and holding clipboards watching them inside a laboratory disguised as a restaurant`,
+        alt: `A couple sitting across from each other on a romantic date with a crowd of scientists wearing lab coats and holding clipboards watching them inside a laboratory disguised as a restaurant`,
         header: `Tinder's AI Now Monitors Users' Late-Night Dating Desperation`,
         subhead: `Algorithm claims to predict "relationship readiness" through profile edit patterns`,
         tags: [` Tinder`,],
