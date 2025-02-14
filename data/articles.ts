@@ -8856,6 +8856,34 @@ In response to mounting criticism, Luckey defended the features on social media:
 
 At press time, multiple units reported their IVAS systems had begun auto-generating clickbait titles for mission reports, with one classified document reading "10 INCREDIBLE Taliban Encounters (Number 7 Will Shock You!)".`
     },
+    {
+        id: 327,
+        articleUrl: `2025-02-14-tinder-ai-now`,
+        category: `tech`,
+        img: `/images/2025-02-14-tinder-ai-now.webp`,
+        alt: `A professional raw photo of a couple sitting across from each other on a romantic date with a crowd of scientists wearing lab coats and holding clipboards watching them inside a laboratory disguised as a restaurant`,
+        header: `Tinder's AI Now Monitors Users' Late-Night Dating Desperation`,
+        subhead: `Algorithm claims to predict "relationship readiness" through profile edit patterns`,
+        tags: [` Tinder`,],
+        author: `Alexa Turing`,
+        datePublished: new Date(2025,1,14,7),
+        articleBody: `
+Tinder unveiled its latest machine learning innovation yesterday: an AI system that allegedly quantifies users' dating desperation by analyzing their late-night profile editing behaviors. The "Emotional Availability Index" promises to help the app's matchmaking algorithm by detecting increased cortisol levels through keyboard pressure analysis during late-night profile edits.
+
+"Our neural networks can now detect subtle indicators of mounting relationship anxiety," explained Dr. Marcus Wei, Tinder's Chief Behavioral Officer. "When users exhibit crisis-induced profile enhancement behaviors, like suddenly switching to professional headshots at 2 AM, our algorithms can measure their desperation-induced dopamine deficits through scroll speed analysis."
+
+Jessica Palmer, a leading relationship optimization consultant, praised the platform's ability to "maximize user vulnerability windows" while "maintaining peak loneliness monetization efficiency" for shareholders.
+
+The system assigns users a "Desperation Score" from 1-100, weighing factors such as social proof deterioration patterns when users frantically remove group photos, or how quickly they cycle through profile pictures in what the algorithm terms "authenticity adjustment velocity metrics."
+
+Internal documents reveal the AI has already identified key behavioral patterns, including the "Pre-Valentine's Pivot" - when users suddenly replace casual hiking photos with formal wedding guest pictures and add phrases like "ready to settle down" to their bios.
+
+"The most fascinating insight is what we call the 'Exponential Earnestness Curve,'" noted Wei. "As major holidays approach, users' language becomes approximately 47% more sincere per day, with a notable spike in terms like 'genuine connection' and 'tired of games.'"
+
+When asked about privacy concerns, Tinder assured users that their desperation metrics would only be shared with potential matches, advertisers, and third-party emotional arbitrage specialists.
+
+At press time, the algorithm was reportedly struggling to categorize users who alternate between posting philosophical quotes and thirst traps every four hours.​​​​​​​​​​​​​​​​`
+    },
 ]
 
 /*{
