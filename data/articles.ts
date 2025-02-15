@@ -8892,7 +8892,7 @@ At press time, the algorithm was reportedly struggling to categorize users who a
         alt: `A skull taking a bite out of a rotten apple.`,
         header: `Apple's Reality Distortion Goes Pro Max with X advertising U-turn`,
         subhead: `CEO unveils groundbreaking tech to rationalize cozying up to fascists.`,
-        tags: [`Apple`, ` Tim Cook`, ],
+        tags: [`Apple`, ` Tim Cook`, `Twitter` ],
         author: `Et Al`,
         datePublished: new Date(2025,1,15,7),
         articleBody: `
