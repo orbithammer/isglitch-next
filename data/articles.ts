@@ -8861,7 +8861,7 @@ At press time, multiple units reported their IVAS systems had begun auto-generat
         articleUrl: `2025-02-14-tinder-ai-now`,
         category: `tech`,
         img: `/images/2025-02-14-tinder-ai-now.webp`,
-        alt: `A couple sitting across from each other on a romantic date with a crowd of scientists wearing lab coats and holding clipboards watching them inside a laboratory disguised as a restaurant`,
+        alt: `A couple sitting across from each other on a romantic date with a crowd of scientists wearing lab coats and holding clipboards watching them inside a laboratory disguised as a restaurant.`,
         header: `Tinder's AI Now Monitors Users' Late-Night Dating Desperation`,
         subhead: `Algorithm claims to predict "relationship readiness" through profile edit patterns`,
         tags: [` Tinder`,],
@@ -8883,6 +8883,65 @@ Internal documents reveal the AI has already identified key behavioral patterns,
 When asked about privacy concerns, Tinder assured users that their desperation metrics would only be shared with potential matches, advertisers, and third-party emotional arbitrage specialists.
 
 At press time, the algorithm was reportedly struggling to categorize users who alternate between posting philosophical quotes and thirst traps every four hours.​​​​​​​​​​​​​​​​`
+    },
+    {
+        id: 328,
+        articleUrl: `2025-02-15-apple-reality-distortion`,
+        category: `tech`,
+        img: `/images/2025-02-15-apple-reality-distortion.webp`,
+        alt: `A skull taking a bite out of a rotten apple.`,
+        header: `Apple's Reality Distortion Goes Pro Max`,
+        subhead: `CEO unveils groundbreaking tech to rationalize X advertising U-turn`,
+        tags: [`Apple`, ` Tim Cook`, ],
+        author: `Et Al`,
+        datePublished: new Date(2025,1,15,7),
+        articleBody: `
+In a dazzling keynote presentation that definitely didn't contradict everything Apple said last year, Tim Cook unveiled the company's latest innovation: Reality Distortion Field Pro Max, a revolutionary system that makes Apple's return to X advertising appear totally consistent with its previous moral stance.
+
+"What you're seeing today isn't just innovation – it's quantum-processed ethical realignment," Cook explained to thunderous applause from definitely-not-pre-selected journalists. "Our Legacy Statement Reconciliation Engine automatically transforms outdated principled statements into context-appropriate historical artifacts."
+
+The presentation included a mind-bending demonstration where $1 billion in X advertising appeared as "negligible market engagement" through the system's Retroactive Consistency Assurance module. Even more impressively, the Political Pressure Recognition Module demonstrated real-time "principle optimization for evolving market conditions."
+
+"The Reality Distortion Field Pro Max doesn't just bend reality," explained Apple's SVP of Corporate Messaging Flexibility. "Its Multi-Reality Processing allows us to simultaneously appear principled to consumers while maintaining excellent relationships with absolutely any administration."
+
+Technical specifications revealed groundbreaking features including:
+- Moral Flexibility: Infinite
+- Ethics Processing Speed: 0ms
+- Political Pressure Recognition: Military Grade
+- Historical Stance Reconciliation: Quantum
+- Geopolitical Reality Adjustment: Seamless integration with Apple Maps
+
+"What Apple has achieved here is nothing short of revolutionary," noted Tech Ethicist Daily analyst Mark Thompson. "They've completely disrupted the way companies abandon their principles. The ROI on moral flexibility has never been this optimized."
+
+The system's most impressive feature came during the finale, when Cook demonstrated how executive orders from any administration are processed through the Reality Distortion Field Pro Max to appear as "organic business opportunities arising from market dynamics."
+
+At press time, Apple was reportedly already working on next year's model, which promises to make any future cooperation with authoritarian regimes appear perfectly aligned with the company's commitment to human rights.​​​​​​​​​​​​​​​​`
+    },
+    {
+        id: 329,
+        articleUrl: `2025-02-15-reddit-new-premium`,
+        category: `tech`,
+        img: `/images/2025-02-15-reddit-new-premium.webp`,
+        alt: ` The Reddit alien holding poop with dollar bills raining behind it.`,
+        header: `Reddit's New 'Premium Moderation' Lets Users Pay to Appeal Post Removals`,
+        subhead: `Spez says $19.99 fee "enhances community dialogue through monetary validation"`,
+        tags: [` Reddit`, ` Steve Huffman`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,1,15,17),
+        articleBody: `
+Reddit unveiled its latest monetization strategy today, introducing "Premium Moderation Experience," a subscription service that allows users to pay $19.99 to challenge moderator decisions they disagree with, with additional "VIP Appeal Bundles" available at the "community-friendly" price of $179.99 for 10 appeals.
+
+"We believe in fostering meaningful discourse through strategic financial engagement," explained Reddit CEO Steve Huffman during an investor call. "Our new automated removal system has been optimized to identify potentially controversial content during peak traffic hours, ensuring maximum community engagement opportunities."
+
+The feature includes a tiered waiting system where appeals are reviewed based on user spending levels. "Diamond-tier appellants who spend over $500 receive our exclusive 'Determined Truth Seeker' achievement badge and priority queue access," noted Reddit's Chief Revenue Officer Jennifer Wong. "We've found users are willing to pay more for faster rejection notices."
+
+Reddit's updated moderator guidelines now include "revenue-optimized content removal strategies," with moderators receiving performance bonuses based on successful appeal conversions. The company's new "Community Health Metrics" dashboard prominently displays each subreddit's appeal revenue per subscriber.
+
+"Our data shows that subreddits generating under $5 in appeal revenue per user may not be fostering enough 'engagement-driven discussion,'" Huffman explained, demonstrating air quotes. "We're simply helping moderators identify more opportunities for meaningful community dialogue."
+
+When pressed about the 97% appeal rejection rate during beta testing, Huffman clarified that unsuccessful appellants would receive five "Premium Consolation Awards" to distribute to other users' posts, valued at approximately $0.0023 each.
+
+At press time, Reddit's most active moderators were completing required training in "optimal removal timing" and "friction-based revenue generation."`
     },
 ]
 
