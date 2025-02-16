@@ -8919,15 +8919,15 @@ At press time, Apple was reportedly already working on next year's model, which 
     },
     {
         id: 329,
-        articleUrl: `2025-02-15-reddit-new-premium`,
+        articleUrl: `2025-02-16-reddit-new-premium`,
         category: `tech`,
-        img: `/images/2025-02-15-reddit-new-premium.webp`,
-        alt: ` The Reddit alien holding poop with dollar bills raining behind it.`,
+        img: `/images/2025-02-16-reddit-new-premium.webp`,
+        alt: `The Reddit alien holding poop with dollar bills raining behind it.`,
         header: `Reddit's New 'Premium Moderation' Lets Users Pay to Appeal Post Removals`,
         subhead: `Spez says $19.99 fee "enhances community dialogue through monetary validation"`,
         tags: [` Reddit`, ` Steve Huffman`,],
         author: `Et Al`,
-        datePublished: new Date(2025,1,15,17),
+        datePublished: new Date(2025,1,16,7),
         articleBody: `
 Reddit unveiled its latest monetization strategy today, introducing "Premium Moderation Experience," a subscription service that allows users to pay $19.99 to challenge moderator decisions they disagree with, with additional "VIP Appeal Bundles" available at the "community-friendly" price of $179.99 for 10 appeals.
 
@@ -8943,10 +8943,40 @@ When pressed about the 97% appeal rejection rate during beta testing, Huffman cl
 
 At press time, Reddit's most active moderators were completing required training in "optimal removal timing" and "friction-based revenue generation."`
     },
+    {
+        id: 330,
+        articleUrl: `2025-02-16-musk-questions-openai`,
+        category: `tech`,
+        img: `/images/2025-02-16-musk-questions-openai.webp`,
+        alt: `A laminated birth certificate with "404 not found."`,
+        header: `Musk Questions OpenAI's Judgment After Naming Kid 'X Æ A-12'`,
+        subhead: `Board Rejects $97B Bid from Man Whose Child's Name Failed Input Validation`,
+        tags: [`Elon Musk`, `OpenAI`],
+        author: `Et Al`,
+        datePublished: new Date(2025,1,16,17),
+        articleBody: `
+The tech billionaire who famously christened his child with a character string rejected by most hospital databases has expressed deep concerns about OpenAI's decision-making capabilities. Elon Musk, whose offspring's name had to be debugged to "X Æ A-Xii" to comply with California naming laws, insisted that the AI company's commitment to nonprofit status demonstrates "poor judgment."
+
+Hospital staff initially flagged the birth certificate as a potential network security breach, with one nurse reportedly calling IT support to check if the maternity ward's systems had been compromised by a particularly creative ransomware attack.
+
+"The leadership team that rejected my perfectly reasonable $97.4 billion offer clearly lacks the visionary thinking that inspired me to name my child after a syntax error," Musk posted on X, formerly Twitter. The bid documentation itself required three resubmissions after the original versions were flagged by OpenAI's spam filters due to their exclusive use of Wingdings font.
+
+OpenAI's board took the unusual step of hiring a professional cryptographer to draft their rejection letter, ensuring it couldn't accidentally be interpreted as a legal name for a future Musk heir. The cryptographer also verified that the document wouldn't trigger any California birth certificate validation errors.
+
+Industry analysts point out the irony of Musk questioning others' decision-making processes, particularly given his habit of using his uniquely named son as both a human shield during press conferences and what he calls "organic autopilot testing" for his personal security detail.
+
+"When your child's name could be mistaken for a blockchain verification code, perhaps sit this one out," noted Dr. Rebecca Thompson, director of the Institute for Technology Ethics. "It's like having your autonomous vehicle crash into a stationary object and then criticizing someone else's driving."
+
+The rejection comes as Musk's consortium attempted to restore OpenAI to its nonprofit roots, though critics suggest his definition of "nonprofit" might be as unconventional as his approach to birth certificates.
+
+An anonymous OpenAI employee summarized the situation: "We're supposed to take governance advice from someone who named a human being like they were labeling a test branch in Git?"
+
+As of press time, Musk was reportedly considering a rival bid for DeepMind, though sources say he may need to wait until California's automated name validation system processes his latest child's proposed name: "X Hum4n Sh13ld."`
+    },
 ]
 
 /*{
-    id: 000,
+    id: 330,
     articleUrl: `2025-02-10-xxx-xxx-xxx`,
     category: `tech`,
     img: `/images/20251200-xxx-xxx-xxx.webp`,
