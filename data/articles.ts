@@ -8973,6 +8973,32 @@ An anonymous OpenAI employee summarized the situation: "We're supposed to take g
 
 As of press time, Musk was reportedly considering a rival bid for DeepMind, though sources say he may need to wait until California's automated name validation system processes his latest child's proposed name: "X Hum4n Sh13ld."`
     },
+    {
+        id: 331,
+        articleUrl: `2025-02-17-microsoft-windows-11`,
+        category: `tech`,
+        img: `/images/2025-02-17-microsoft-windows-11.webp`,
+        alt: `Before: a bag of groceries in a clean apartment. After: a gaming desktop in a dirty apartment.`,
+        header: `Microsoft's Windows 11 Compatability Scanner Just Shows Amazon PC Links`,
+        subhead: `Users report tool redirects to $2,000 gaming laptops`,
+        tags: [`Microsoft`, `Amazon`],
+        author: `Et Al`,
+        datePublished: new Date(2025,1,17,7),
+        articleBody: `
+Microsoft's latest Windows 11 compatibility verification tool has drawn criticism after users discovered it's actually just an elaborate redirect to Amazon's premium PC listings, with an internal memo revealing the project's codename as "Operation Wallet Migration."
+
+The tool, which Microsoft claims "analyzes your system's readiness for Windows 11," apparently determines that every computer manufactured before last Thursday is "critically incompatible" and displays a series of increasingly distraught emoji faces next to each component. The scanner measures PC age in "shopping seasons," claiming one user's 2021 desktop was "14 Black Fridays outdated."
+
+"I ran the scanner on my perfectly good PC from 2019, and it told me my processor was 'experiencing severe emotional distress' before showing me a $2,499 Razer laptop with rainbow keyboard lighting," reported tech blogger Marcus Wong. "The tool helpfully displayed my available credit limit alongside 'Upgrade Emergency Recommendations.'"
+
+Microsoft spokesperson Jennifer Mills defended the tool's functionality, noting that its "Helpful Upgrade Tips" section exclusively features Amazon Lightning Deals on gaming laptops. "We've streamlined the upgrade process by eliminating the confusion of technical specifications. Instead of puzzling over TPM requirements, users can simply click 'Buy Now' on a selection of pre-approved devices."
+
+The scanner's code, when examined by security researchers, revealed that its entire diagnostic capability consists of a single line that reads "window.location.href = 'amazon.com/gaming-laptops-sort-by-highest-price'." The tool's official help documentation is reportedly a single-page PDF featuring Amazon CEO Andy Jassy giving an enthusiastic thumbs up.
+
+Microsoft's technical support team has embraced the new approach, responding to all user inquiries with curated Amazon product links. When asked about computers lacking RGB lighting, the tool marks them as "aesthetically incompatible with modern computing standards."
+
+When reached for comment, Microsoft CEO Satya Nadella said, "The future of computing requires modern hardware," before his video call mysteriously redirected to an Amazon listing for a $3,000 Alienware laptop.`
+    },
 ]
 
 /*{
