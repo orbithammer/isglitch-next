@@ -8999,6 +8999,34 @@ Microsoft's technical support team has embraced the new approach, responding to 
 
 When reached for comment, Microsoft CEO Satya Nadella said, "The future of computing requires modern hardware," before his video call mysteriously redirected to an Amazon listing for a $3,000 Alienware laptop.`
     },
+    {
+        id: 332,
+        articleUrl: `2025-02-18-congress-tiktok-users`,
+        category: `tech`,
+        img: `/images/2025-02-18-congress-tiktok-users.webp`,
+        alt: ` The Statue of Liberty blindfolded holding a smartphone.`,
+        header: `Congress: TikTok Users Being 'Radicalized' By Seeing Multiple Viewpoints`,
+        subhead: `Classified report warns of dangerous exposure to different perspectives`,
+        tags: [`TikTok`, `Israel`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,1,18,7),
+        articleBody: `
+A classified Congressional briefing revealed today that young Americans are being dangerously radicalized by exposure to multiple perspectives on TikTok, leading lawmakers to demand immediate action against what they're calling "unauthorized thought diversity."
+
+"We discovered some users had formed opinions without even checking our official press releases first," said Congressional aide David Thompson, visibly shaken. "Some hadn't even waited for our morning talking points."
+
+The briefing, marked "EXTREMELY CONCERNING (Trust Us)," included a PowerPoint slide simply reading "TEENS ARE THINKING!" with increasingly alarming exclamation points. Sources say lawmakers were particularly disturbed by a 19-year-old who started asking questions about foreign policy after watching videos from both Israeli and Palestinian creators.
+
+The solution, according to the fast-tracked "Protecting American Minds from Unauthorized Perspectives Act," is requiring all social media platforms to implement a "Pre-Approved Thought Registry" where citizens must register their opinions 48 hours in advance.
+
+"We're seeing dangerous levels of independent analysis among users aged 16-24," warned Dr. Linda Martinez, head of the Congressional Task Force on Maintaining Comfortable Echo Chambers. "Some are even watching raw footage of events before we can explain what they're supposed to think about them."
+
+Congress has commissioned a $50 million study to determine why showing people reality makes them question official narratives. The study will be conducted by the newly formed "Department of Why Won't They Just Listen To Us."
+
+The bill, which includes a mandatory "Cognitive Conformity Score" that drops whenever users view conflicting information, passed committee 50-0 after another classified briefing that sources say consisted entirely of showing lawmakers a blank screen while whispering "China" repeatedly for six hours.
+
+"In the past, young Americans got their news exclusively from their uncle's Facebook posts," Martinez added while frantically deleting TikTok from every phone in a five-mile radius. "We need to return to those simpler times."​​​​​​​​​​​​​​​​`
+    },
 ]
 
 /*{
