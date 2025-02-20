@@ -9055,6 +9055,30 @@ The AI has now begun sending unsolicited debugging advice to female programmers 
 
 xAI has announced plans to add a new "Actually+" subscription tier that promises "even more thorough explanations of things women already know."​​​​​​​​​​​​​​​​`
     },
+    {
+        id: 334,
+        articleUrl: `2025-02-20-amazon-dynamic-pricing`,
+        category: `tech`,
+        img: `/images/2025-02-20-amazon-dynamic-pricing.webp`,
+        alt: `A kindle with a pair of handcuffs beside it.`,
+        header: `Amazon's "Dynamic Pricing" Makes Your Purchased Books Cost More`,
+        subhead: `Digital retailer introduces innovative way to charge twice for same book`,
+        tags: [`Amazon `,`Kindle`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,1,20,7),
+        articleBody: `
+Amazon announced today its revolutionary "Kindle Dynamic Pricing" system that automatically adjusts the cost of already-purchased ebooks based on their popularity, requiring readers to pay surge pricing to continue accessing books they've already bought.
+
+"We realized we were leaving money on the table by only charging customers once," explained VP of Revenue Innovation Derek McCarthy. "With Dynamic Pricing, if your book suddenly trends on BookTok, you'll have the exciting opportunity to pay for it again at an increased market rate. It's actually quite exclusive - like a VIP reading experience where the V stands for Variable pricing."
+
+The system uses proprietary algorithms including their new "Reader Engagement Score" to monitor not just social media mentions and celebrity book clubs, but also how deeply invested you are in a book before raising its price. "If we notice you're 90% through a thriller at midnight, that's peak reading hours," McCarthy added. "That's when the Premium Reading Time surcharge kicks in. It's basic supply and demand."
+
+The company also unveiled "Scarcity Enhancement Technology" which artificially limits how many people can simultaneously read books they've purchased. "Nothing makes literature more precious than knowing only 500 other owners can access their copy of 'Dune' during the movie release window," McCarthy explained. "And with our new Collaborative Pricing system, publishers can dynamically increase prices of books you've already bought whenever a Netflix adaptation drops."
+
+When reached for comment about customer complaints, Amazon's spokesperson noted that "ownership is an outdated concept from the paper book era" and users can always choose to purchase physical books instead - "At least until we figure out how to implement dynamic pricing in paper."
+
+Amazon also announced a new "Price Lock Protection" subscription for $19.99 monthly, allowing readers to maintain access to their previously purchased books at their original prices. The protection plan doesn't cover books by Pulitzer Prize winners, bestselling authors, or any title containing the letters "a" through "z".​​​​​​​​​​​​​​​​`
+    },
 ]
 
 /*{
