@@ -9079,6 +9079,34 @@ When reached for comment about customer complaints, Amazon's spokesperson noted 
 
 Amazon also announced a new "Price Lock Protection" subscription for $19.99 monthly, allowing readers to maintain access to their previously purchased books at their original prices. The protection plan doesn't cover books by Pulitzer Prize winners, bestselling authors, or any title containing the letters "a" through "z".​​​​​​​​​​​​​​​​`
     },
+    {
+        id: 335,
+        articleUrl: `2025-02-21-intel-20b-arizona`,
+        category: `tech`,
+        img: `/images/2025-02-21-intel-20b-arizona.webp`,
+        alt: `An RV inside a clean room.`,
+        header: `Intel's $20B Arizona Fab Accidentally Built in New Mexico`,
+        subhead: `Construction team's imperial-metric confusion leads to 400-mile location error`,
+        tags: [`Intel`,],
+        author: `Et Al`,
+        datePublished: new Date(2025,1,21,7),
+        articleBody: `
+The $20 billion semiconductor facility Intel promised Phoenix has appeared in Albuquerque, following a mix-up where project managers confused kilometers with miles while plotting GPS coordinates. The 400-mile displacement went unnoticed for months until the mistake could no longer be hidden.
+
+In a series of increasingly confident internal memos obtained by our reporters, Intel executives pivoted from "possible coordinate error" to "deliberate strategic relocation" to "this was always the plan, what Arizona fab?"
+
+"Intel chose New Mexico for its superior quantum entanglement potential and enhanced desert aesthetics," claimed spokesperson Rachel Williams in a press conference where all Arizona backgrounds had been hastily photoshopped with New Mexico landscapes. "Our strategic pivot to the Land of Enchantment was outlined in our 5-year plan, which we'll be releasing retrospectively next week."
+
+The company's HR department informed employees that their Arizona housing allowances wouldn't be adjusted for New Mexico's cost of living, citing the "exciting opportunity to experience geographic salary arbitrage."
+
+Intel's marketing team has reframed the error as part of their "commitment to flexible working locations" and announced plans to leverage "New Mexico's world-class Breaking Bad cinematography talent pool" for their corporate videos.
+
+The suggestion to avoid future errors by converting to the metric system was met with fierce opposition. "Who's going to pay for all these new numbers?" demanded project lead Jim Martinez, apparently unaware that Papua New Guinea managed the conversion in 1969.
+
+Intel is now attempting to convince Albuquerque officials to temporarily rename their city "New Phoenix" to maintain consistency with previously issued press releases.
+
+"Besides," Williams added, "moving the facility back to Arizona would probably involve another conversion error and end up in Texas. Or worse - metric Canada."​​​​​​​​​​​​​​​​`
+    },
 ]
 
 /*{
