@@ -9107,6 +9107,30 @@ Intel is now attempting to convince Albuquerque officials to temporarily rename 
 
 "Besides," Williams added, "moving the facility back to Arizona would probably involve another conversion error and end up in Texas. Or worse - metric Canada."​​​​​​​​​​​​​​​​`
     },
+    {
+        id: 336,
+        articleUrl: `2025-02-22-assassin-creed-critics`,
+        category: `entertainment`,
+        img: `/images/2025-02-22-assassin-creed-critics.webp`,
+        alt: `A gamer raging at his screen.`,
+        header: `Assassin's Creed Critics Demand Historical Accuracy, Can't Parse DNA Magic`,
+        subhead: `Self-appointed archivists struggle with basic technological literacy`,
+        tags: [`Ubisoft`,],
+        author: `Pieter Klykbeit`,
+        datePublished: new Date(2025,1,22,7),
+        articleBody: `
+Local gaming historian Trevor Martinez, who has posted 47 hours of YouTube content about "historical authenticity" in Assassin's Creed Shadows, hit an intellectual wall today when asked to reconcile his expertise with basic recorded history.
+
+"Look, I'm something of a scholar," Martinez explained on his Twitch stream, gesturing to a mass-produced katana mounted precariously above his gaming chair. "I've completed Dynasty Warriors 9 seventeen times and have a level 99 character in Ninja Gaiden. But someone like Yasuke couldn't possibly have been a samurai. I know this because I've done extensive research."
+
+When presented with multiple 16th-century Japanese documents explicitly mentioning Yasuke's service under Oda Nobunaga, Martinez quickly pivoted to a 2,000-word Reddit post about katana metallurgy, filmed with his limited edition anime body pillow prominently displayed.
+
+The discourse reached its apex when viewers asked how his dedication to historical authenticity squares with the series' foundational premise about accessing genetic memories through what is essentially a fancy IKEA chair.
+
+"The First Civilization's quantum-powered temples are historically plausible," Martinez typed furiously while adjusting his replica samurai helmet. "But a black samurai? That's forced diversity." He cited his uncle—a high school gym teacher who once watched Shogun—as an academic source.
+
+At press time, Martinez was launching a Patreon titled "Exposing Historical Inaccuracies in Gaming," which exclusively features 4K screenshots of character creation menus with certain options circled in red. The account has 12 subscribers, three of which are his alternate accounts used to complain about character models looking "too political."​​​​​​​​​​​​​​​​`
+    },
 ]
 
 /*{
