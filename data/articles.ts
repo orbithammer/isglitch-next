@@ -9131,6 +9131,30 @@ The discourse reached its apex when viewers asked how his dedication to historic
 
 At press time, Martinez was launching a Patreon titled "Exposing Historical Inaccuracies in Gaming," which exclusively features 4K screenshots of character creation menus with certain options circled in red. The account has 12 subscribers, three of which are his alternate accounts used to complain about character models looking "too political."​​​​​​​​​​​​​​​​`
     },
+    {
+    id: 337,
+    articleUrl: `2025-02-23-meta-to-run`,
+    category: `tech`,
+    img: `/images/2025-02-23-meta-to-run.webp`,
+    alt: `An American senator giving a thumbs-up with marionette strings attached to his arms.`,
+    header: `Meta to Run All US Websites After Democrats' 'Anti-Monopoly' Bill`,
+    subhead: `Zuckerberg praises new law requiring his personal approval for internet use`,
+    tags: [`Meta`, `Mark Zuckerberg`],
+    author: `Et Al`,
+    datePublished: new Date(2025,1,23,7),
+    articleBody: `
+Senator Dick Durbin unveiled sweeping internet reforms today, appearing via Meta's new "Mandatory Government Portal" after failing to log into Zoom for the sixth time this month. "We've found the perfect solution to Big Tech monopolies," Durbin announced while accidentally activating a cat filter through Meta's Congressional Communication Portal. "From now on, all websites must receive Mark Zuckerberg's personal approval."
+
+The "Protecting Americans from Meta-Approved Internet Content Act" requires every website to obtain a "Facebook Authentication Stamp" and pay Meta's new "Competition Enhancement Fee" of $1 million per webpage. "This promotes healthy competition by ensuring only the most competitive company can compete," explained Durbin, struggling to post the announcement on his mandatory Meta government account.
+
+Meta CEO Mark Zuckerberg praised the legislation from his newly installed Department of Website Approval, a gleaming throne room constructed from the servers of defunct independent websites. "We're streamlining the internet for everyone's protection," said Zuckerberg, demonstrating Meta's "Small Business Protection Program" which automatically deletes small company websites "for their own good."
+
+The bill mandates all government sites must run exclusively on Facebook's codebase through the "Mandatory Meta Integration Act." When asked how this prevents monopolies, Durbin responded, "It's simple!" before spending 45 minutes trying to unmute himself on Meta's Congressional Portal.
+
+Implementation begins next month when Meta's "Website Simplification Process" automatically converts all URLs to Facebook groups. "Our Competition Enhancement Algorithm will ensure users see only Meta-owned content," Zuckerberg explained, "because nothing says 'variety' like a single source for everything."
+
+The ceremony concluded with Durbin attempting to demonstrate the system's simplicity by posting a cat video, accidentally declaring war on Canada, and finally being logged out for his own protection.`
+},
 ]
 
 /*{
