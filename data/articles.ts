@@ -9181,6 +9181,62 @@ OpenAI announced a new research division dedicated to "solving problems that wil
 
 The dinner concluded with Altman announcing a new $50 billion funding round to develop solutions for "future future problems," which he described as "problems that will only become problems after we solve the future problems we don't have yet."​​​​​​​​​​​​​​​​`
 },
+{
+    id: 339,
+    articleUrl: `2025-02-25-elon-musk-develops`,
+    category: `ai`,
+    img: `/images/2025-02-25-elon-musk-develops.webp`,
+    alt: `A dissapointed birthday boy unwrapping a present of a chainsaw.`,
+    header: `Elon Musk Develops AI Parenting Algorithm That Sends 'Busy' Texts`,
+    subhead: `Tech billionaire's new system prioritizes chainsaw photo-ops over medical responses`,
+    tags: [`Elon Musk`,],
+    author: `Alexa Turning`,
+    datePublished: new Date(2025,1,25,7),
+    articleBody: `
+In a groundbreaking technological development that absolutely nobody asked for, billionaire tech mogul Elon Musk has unveiled his latest innovation: an AI parenting algorithm designed to automatically respond "Sorry, saving humanity" to urgent medical texts from his children's mothers.
+
+The system, dubbed "NeglecTech," was reportedly developed after Musk found himself too occupied with wielding chainsaws at political events to respond to what his ex-partner Grimes described as their child's "medical crisis."
+
+"The problem with traditional parenting is all the communication," Musk explained during a livestreamed product launch, his words noticeably slurred and sentence structure increasingly jumbled as the presentation continued. "With NeglecTech, my phone automatically detects words like 'emergency' or 'please respond' and sends optimized dismissive responses without distracting me from more important tasks... like... you know... the thing with the... government stuff."
+
+When asked if he was currently on ketamine, Musk emphatically denied it, before staring blankly at a wall for seventeen seconds and then asking, "Wait, what was the question again?"
+
+The algorithm reportedly includes several response tiers, ranging from "In a meeting" for minor emergencies to "Making history at CPAC" for life-threatening situations. Sources close to the billionaire confirm the AI has been functioning perfectly, having successfully ignored over 47 urgent messages in the past week alone.
+
+Tesla investors have praised the innovation, with one analyst noting, "This is exactly the kind of work-life imbalance we've come to expect from Elon. Why waste precious minutes responding to family emergencies when you could be posing with power tools?"
+
+The Department of Government Efficiency (DOGE), which Musk now heads, is reportedly considering implementing similar technology across all government agencies. "Imagine a government that responds to citizen needs with the same efficiency Elon responds to his children's medical issues," explained one DOGE spokesperson, who requested anonymity because they couldn't believe what they were saying.
+
+When reached for comment, Grimes simply replied with a screenshot showing NeglecTech's latest automated response: "Currently busy saving free speech. Have you tried WebMD?"`
+},
+{
+    id: 340,
+    articleUrl: `2025-02-25-microsoft-recycle-bin`,
+    category: `tech`,
+    img: `/images/2025-02-25-microsoft-recycle-bin.webp`,
+    alt: ` An overflowing recycle bin with a lock labeled "365"`,
+    header: `Microsoft's Recycle Bin Goes Premium, Basic Deletion Now Size-Limited`,
+    subhead: `Users report mysterious "File Too Powerful To Delete" messages appearing on free tier`,
+    tags: [`Microsoft`,` Windows`,],
+    author: `Et Al`,
+    datePublished: new Date(2025,1,25,17),
+    articleBody: `
+Microsoft's aggressive push into subscription services reached new depths today as the tech giant announced sweeping changes to Windows' iconic Recycle Bin. Under the new "tiered deletion framework," users without a Microsoft 365 subscription will be limited to deleting files smaller than 1MB.
+
+"The rising costs of digital waste management have forced us to reevaluate our deletion services," explained Microsoft VP of Recycling Solutions Bradley Walsh in a press release that somehow took up 2.3MB and couldn't be deleted by non-subscribers. When users attempted to delete the announcement, they received another 3MB press release explaining why they couldn't delete the first one.
+
+Digital storage experts report users' drives are becoming "digital hoarder paradises" as family photos, work documents, and ironically, screenshots of "upgrade to delete" popups all hover just above the crucial 1MB threshold. "My computer is full of files staring at me with their deletion countdown timers," reported frustrated user Tom Martinez. "They just sit there, taunting me with 'Only 4 easy payments of $6.99 away from freedom!'"
+
+An internal Microsoft memo leaked today revealed executives celebrating "digital storage anxiety" as a key growth driver for 365 subscriptions. The memo also unveiled plans for "premium deletion slots" during peak uninstall hours, with a virtual queue system for users desperate to delete large files during high-traffic periods.
+
+In a related development, users noticed the Windows 11 uninstaller file size has mysteriously increased to 1.1MB.
+
+"The free tier deletion allowance should be sufficient for most casual users," insisted Walsh. "Our research shows that 90% of deleted files in 1983 were under 1MB."
+
+When asked about plans to monetize other Windows features, Walsh declined to comment but was seen frantically taking notes on a premium-enabled Notepad window.
+
+Microsoft's stock jumped 3% on the news, while sales of external hard drives skyrocketed as users scrambled to store files they can no longer delete.​​​​​​​​​​​​​​​​`
+},
 ]
 
 /*{
