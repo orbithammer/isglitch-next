@@ -9186,7 +9186,7 @@ The dinner concluded with Altman announcing a new $50 billion funding round to d
     articleUrl: `2025-02-25-elon-musk-develops`,
     category: `ai`,
     img: `/images/2025-02-25-elon-musk-develops.webp`,
-    alt: `A dissapointed birthday boy unwrapping a present of a chainsaw.`,
+    alt: `A disappointed birthday boy unwrapping a present of a chainsaw.`,
     header: `Elon Musk Develops AI Parenting Algorithm That Sends 'Busy' Texts`,
     subhead: `Tech billionaire's new system prioritizes chainsaw photo-ops over medical responses`,
     tags: [`Elon Musk`,],
