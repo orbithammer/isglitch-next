@@ -9274,13 +9274,13 @@ The Deep Analysis feature is currently in beta testing but will soon be availabl
 {
     id: 342,
     articleUrl: `2025-02-27-microsoft-and-openai`,
-    category: `tech`,
+    category: `ai`,
     img: `/images/2025-02-27-microsoft-and-openai.webp`,
     alt: `A Silicon Valley office building blowing money out of its roof.`,
     header: `Microsoft and OpenAI's InvestGPT Transforms Doubt Into Dollars`,
     subhead: `New AI transforms skepticism about returns into further investments`,
     tags: [`Microsoft`, `OpenAI`, `Satya Nadella`],
-    author: `Et Al`,
+    author: `Alexa Turing`,
     datePublished: new Date(2025,1,27,7),
     articleBody: `
 Microsoft and OpenAI have unveiled their most philosophically ambitious project to date: InvestGPT, an artificial intelligence system specifically engineered to transmute rational skepticism about AI's economic value into continued financial support.
