@@ -9271,6 +9271,36 @@ When reached for comment, Musk tweeted: "Grok just follows the math. Truth-seeki
 
 The Deep Analysis feature is currently in beta testing but will soon be available to all Grok users who agree to the new terms of service, which includes acknowledging that disagreement with the AI's conclusions may indicate "personal involvement in the conspiracy."​​​​​​​​​​​​​​​​`
 },
+{
+    id: 342,
+    articleUrl: `2025-02-27-microsoft-and-openai`,
+    category: `tech`,
+    img: `/images/2025-02-27-microsoft-and-openai.webp`,
+    alt: `A Silicon Valley office building blowing money out of its roof.`,
+    header: `Microsoft and OpenAI's InvestGPT Transforms Doubt Into Dollars`,
+    subhead: `New AI transforms skepticism about returns into further investments`,
+    tags: [`Microsoft`, `OpenAI`, `Satya Nadella`],
+    author: `Et Al`,
+    datePublished: new Date(2025,1,27,7),
+    articleBody: `
+Microsoft and OpenAI have unveiled their most philosophically ambitious project to date: InvestGPT, an artificial intelligence system specifically engineered to transmute rational skepticism about AI's economic value into continued financial support.
+
+"The Cartesian doubt surrounding AI's productivity claims represents not a failure but an opportunity," explained Microsoft CTO Kevin Scott during Wednesday's launch presentation. "InvestGPT confronts this epistemic crisis by generating reassuring counterarguments that exist independent of empirical validation."
+
+The system, developed at a cost equivalent to operating 300 public libraries for a decade, promises to analyze critical reports questioning AI's economic impact and automatically generate what Scott termed "epistemically flexible rebuttals."
+
+When demonstrated for assembled journalists, InvestGPT responded to a question about measurable productivity gains by claiming, "Productivity exists in a post-material plane where traditional metrics become meaningless approximations of value potentiality." The system then confidently cited non-existent economic papers from prestigious universities.
+
+"The hallucinations aren't bugs but features," noted OpenAI's technical director Lisa Warren. "InvestGPT transcends the tyranny of fact-based argumentation by embracing what we call 'value-aligned non-truth states' that better serve the higher goal of continued capital accumulation."
+
+During a particularly telling moment, a Bloomberg reporter asked InvestGPT to calculate the return on investment for current generative AI implementations. After displaying a pulsing cursor for several minutes, the system declared that "ROI calculations represent a Western analytical bias" before suggesting the reporter "consider the Zen koan: What is the sound of one hand writing a check?"
+
+Venture capitalist Michael Seibel of Y Combinator expressed enthusiasm: "Before InvestGPT, justifying my fund's AI investments required hours of creative accounting. Now the machine does the metaphysical heavy lifting of explaining why absence of evidence isn't evidence of absence of eventual returns."
+
+The system faces occasional operational challenges. When questioned about Microsoft CEO Satya Nadella's recent comments questioning AI's economic value, InvestGPT briefly displayed blue screen errors before suggesting that "questioning" represents a form of "quantum affirmation" in certain interpretive frameworks.
+
+At press time, several major investment firms had already integrated InvestGPT into their due diligence processes, with one anonymous hedge fund manager explaining: "It's telling us exactly what we've been telling ourselves, but with the authoritative veneer of computation. That's worth at least another $50 billion in runway."`
+},
 ]
 
 /*{
