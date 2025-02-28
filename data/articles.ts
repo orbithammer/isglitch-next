@@ -9301,6 +9301,40 @@ The system faces occasional operational challenges. When questioned about Micros
 
 At press time, several major investment firms had already integrated InvestGPT into their due diligence processes, with one anonymous hedge fund manager explaining: "It's telling us exactly what we've been telling ourselves, but with the authoritative veneer of computation. That's worth at least another $50 billion in runway."`
 },
+{
+    id: 343,
+    articleUrl: `2025-02-28-bezos-unveils-post`,
+    category: `tech`,
+    img: `/images/2025-02-28-bezos-unveils-post.webp`,
+    alt: `A female protestor with tape over her mouth.`,
+    header: `Bezos Unveils Post's 'Freedom Speech Detector' To Silence Critics`,
+    subhead: `Revolutionary AI Will Censor Articles About Bezos Censoring Articles About Censorship`,
+    tags: [`Jeff Bezos`,` Washington Post`,],
+    author: `Et Al`,
+    datePublished: new Date(2025,1,28,7),
+    articleBody: `
+Washington Post owner and part-time space cowboy Jeff Bezos announced today the implementation of the newspaper's groundbreaking "Freedom Speech Detector" technology—an AI system specifically designed to automatically censor any articles that mention Bezos' censorship of articles about censorship.
+
+"The Freedom Speech Detector represents our unwavering commitment to free speech," explained Bezos at a press conference where reporters were required to submit questions in advance for approval. "By eliminating all discussion of how we're eliminating discussion, we're creating the freest possible environment for approved opinions to flourish! The system operates with 99.7% accuracy in identifying dangerous free speech about free speech restrictions."
+
+The revolutionary system works by scanning all Washington Post content for dangerous combinations of words like "Bezos + censorship," "opinion + restrictions," or "glaring + hypocrisy." When detected, these phrases are automatically replaced with approved alternatives such as "freedom enhancement," "market-positive discourse," and "visionary leadership."
+
+Throughout all Post articles, the word "censorship" is now automatically replaced with "freedom enhancement," while "monopoly" becomes "extremely successful business with zero competitors by coincidence."
+
+Washington Post tech reporter Marcus Williams attempted to write about the new system but found his article repeatedly blocked by the Freedom Speech Detector itself. His final published piece simply read: "Jeff Bezos today announced something wonderful about something wonderful. It's wonderful."
+
+The Post also announced its upcoming "Free Speech Festival," where journalists, thought leaders, and selected members of the public will gather to deliver pre-approved speeches about freedom that have been vetted by the Freedom Speech Detector.
+
+"We're especially excited about our new mandatory training program for all staff," explained Jennifer Martinez, the newly appointed "Free Speech Compliance Officer" who repeatedly declined to explain what her job entails. "The 'Speaking Freely Within Approved Parameters' workshop teaches journalists how to express themselves without expressing anything we don't want expressed."
+
+Former Post opinion editor David Shipley, speaking from an undisclosed location (his apartment), told reporters, "I can't comment specifically on the—" before his phone call mysteriously disconnected and was replaced by a 4-hour audiobook of "The Wealth of Nations."
+
+Staff writer Jennifer Rubin praised the new system after receiving her "Free Speech Champion" bonus. "It's liberating to know exactly what I can and cannot say about what I can and cannot say," Rubin explained while glancing nervously at her Amazon Echo. "The clarity is refreshing!"
+
+The Freedom Speech Detector will be fully operational next week, Bezos confirmed, right after it finishes deleting this article you're reading right now about the system that will delete articles like this one.
+
+When asked about concerns that limiting free speech contradicts his stated support for free speech, Bezos responded with the new company motto: "Freedom is limiting freedom to preserve freedom, freely."​​​​​​​​​​​​​​​​`
+},
 ]
 
 /*{
