@@ -9335,6 +9335,43 @@ The Freedom Speech Detector will be fully operational next week, Bezos confirmed
 
 When asked about concerns that limiting free speech contradicts his stated support for free speech, Bezos responded with the new company motto: "Freedom is limiting freedom to preserve freedom, freely."​​​​​​​​​​​​​​​​`
 },
+{
+    id: 344,
+    articleUrl: `2025-02-29-apple-unveils-francetime`,
+    category: `tech`,
+    img: `/images/2025-02-29-apple-unveils-francetime.webp`,
+    alt: `An iPhone with an eye staring back.`,
+    header: `Apple Unveils 'FranceTime': Government Now A Permanent Third Wheel`,
+    subhead: `Tech Giant's New App Complies With France's Encryption Backdoor Law`,
+    tags: [`Apple`,`France`,],
+    author: `Et Al`,
+    datePublished: new Date(2025,1,29,7),
+    articleBody: `
+Tech industry insiders are calling it "totally not dystopian at all" as Apple today announced the launch of FranceTime, a revolutionary communication platform that combines all the convenience of FaceTime with the reassuring presence of constant government surveillance.
+
+The app, developed specifically for the French market following the passage of the country's groundbreaking "Narcotrafic" law, features a permanent government representative on every call. 
+
+"FranceTime represents our unwavering commitment to both innovation and compliance," explained Apple CEO Tim Cook during the app's unveiling. "Every conversation will now include a friendly French official who will silently observe everything you say, do, or share—for your protection, of course!"
+
+According to Apple's press materials, FranceTime includes several "privacy-adjacent" features:
+
+- "Ménage à Trois Calling" 
+- "Liberté, Égalité, Surveillé" encryption protocol
+- "Incognito Mode" that just adds digital sunglasses to your face but still sends everything to the government database
+- The "Government Reaction Panel" showing real-time emoji responses from surveillance agents during your conversations ("Your dinner plans are boring 😴" or "Please elaborate on that political opinion 🤔")
+- Real-time message transcription sent directly to a secure government database 
+- A helpful suggestion algorithm that warns users when they're about to say something "potentially concerning"
+
+Apple reassures users their data is "triple encrypted" with military-grade security protocols, but oddly enough, the French government happens to have all three keys and a spare master key "just in case."
+
+The French Interior Ministry praised Apple's rapid compliance with the new legislation. Interior Minister Jean-Michel Blanquer told reporters, "This is exactly what we meant when we demanded encryption backdoors. Well, not exactly—we were hoping for something less obvious—but it'll do."
+
+Privacy advocates are less enthusiastic. "This is essentially putting a government agent in every bedroom, living room, and café in France," noted digital rights activist Emma Durand, who was immediately interrupted by her FranceTime notification that an agent named Philippe wanted to "just check in on the conversation."
+
+When asked about potential security risks, an unnamed Apple engineer who requested anonymity but was nevertheless identified by the FranceTime app simply laughed for forty-five seconds before whispering, "They made us do it."
+
+The app launches next month, with Apple planning to roll out similar services in other countries exploring encryption backdoors. Sources say "10 Downing Street Time" and "KremlinConnect" are already in development.​​​​​​​​​​​​​​​​`
+},
 ]
 
 /*{
