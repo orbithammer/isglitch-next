@@ -9345,7 +9345,7 @@ When asked about concerns that limiting free speech contradicts his stated suppo
     subhead: `Tech Giant's New App Complies With France's Encryption Backdoor Law`,
     tags: [`Apple`,`France`,],
     author: `Et Al`,
-    datePublished: new Date(2025,1,29,7),
+    datePublished: new Date(2025,2,1,7),
     articleBody: `
 Tech industry insiders are calling it "totally not dystopian at all" as Apple today announced the launch of FranceTime, a revolutionary communication platform that combines all the convenience of FaceTime with the reassuring presence of constant government surveillance.
 
