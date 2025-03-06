@@ -9411,9 +9411,9 @@ At press time, sources confirmed Google is already working on "Productivity Past
 {
     id: 346,
     articleUrl: `2025-03-06-netflix-ai-upscaler`,
-    category: `tech`,
+    category: `entertainment`,
     img: `/images/2025-03-06-netflix-ai-upscaler.webp`,
-    alt: ` An orange couch in a cafe with horrified facial features detailed in the cushions.`,
+    alt: `An orange couch in a cafe with horrified facial features detailed in the cushions.`,
     header: `Netflix's AI Upscaler Gives Friends Furniture Human Faces`,
     subhead: `The uncanny valley now includes your coffee table`,
     tags: [`Netflix`,],
