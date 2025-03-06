@@ -9377,7 +9377,7 @@ The app launches next month, with Apple planning to roll out similar services in
     articleUrl: `2025-03-02-google-brin-unveils`,
     category: `tech`,
     img: `/images/2025-03-02-google-brin-unveils.webp`,
-    alt: `An exhuasted tech worker with a tube of food on his desk.`,
+    alt: `An exhausted tech worker with a tube of food on his desk.`,
     header: `Google's Brin Unveils "Productivity Paste" to Maximize Work Hours`,
     subhead: `"Chewing wastes 42 minutes weekly," claims returning founder`,
     tags: [`Google`, `Sergey Brin`],
@@ -9407,6 +9407,41 @@ When questioned about potential downsides, Brin—who himself was sipping from a
 "Some employees report mild side effects like temporal disorientation, code hallucinations, and the overwhelming urge to build unnecessary features into Calendar," Brin acknowledged. "But our preliminary data suggests this paste, combined with our new 60-hour work week and mandatory office attendance, gives us a 0.00003% edge over OpenAI in the race to AGI, which mathematically guarantees our inevitable victory by the year 2193."
 
 At press time, sources confirmed Google is already working on "Productivity Paste 2.0"—an injectable version that bypasses the digestive system entirely for an additional 4.7 minutes of daily coding time.`
+},
+{
+    id: 346,
+    articleUrl: `2025-03-06-netflix-ai-upscaler`,
+    category: `tech`,
+    img: `/images/2025-03-06-netflix-ai-upscaler.webp`,
+    alt: ` An orange couch in a cafe with horrified facial features detailed in the cushions.`,
+    header: `Netflix's AI Upscaler Gives Friends Furniture Human Faces`,
+    subhead: `The uncanny valley now includes your coffee table`,
+    tags: [`Netflix`,],
+    author: `Pieter Klykbeit
+`,
+    datePublished: new Date(2025,2,6,7),
+    articleBody: `
+Netflix's "Revolutionary AI Enhancement Suite" has transformed everyone's favorite '90s sitcom into a Cronenbergian nightmare, as subscribers report that every piece of furniture in the Friends apartment now sports disturbingly realistic human faces.
+
+The streaming giant's latest foray into neural upscaling—a technology they proudly claim "brings classic content into the modern viewing experience"—has rendered Monica and Rachel's once-charming apartment into what psychologists are calling "a portal into furniture-based body horror."
+
+Viewers first noticed something amiss during the classic "pivot" scene, when Ross's voice appeared to emanate not from David Schwimmer but from the leather couch itself, its cushions forming a grotesque approximation of human lips.
+
+"I was watching 'The One With All The Thanksgivings' when Monica's kitchen table started mouthing Chandler's sarcastic comments in perfect sync," reported longtime subscriber Daniel Harmon. "Then the ottoman winked at me during a scene transition. I haven't slept in three days."
+
+Perhaps most disturbing is the apartment's front door, which has developed a voyeuristic personality, its peephole dilating and contracting even during scenes set at Central Perk. Multiple viewers report feeling watched by the door when characters aren't in the apartment, creating what one psychologist termed "paradoxical empty-room anxiety."
+
+Netflix's engineering team has defended the glitch as "an unexpected emergent property of our proprietary Nostalgia+ algorithm," while quietly scrambling to explain why Central Perk's iconic orange couch now sports a full dental arcade and appears to weep during emotional scenes.
+
+In a quarterly earnings call last week, Netflix's Chief Innovation Officer Morgan Campbell boasted that "furniture faces tested 47% better with Gen Z audiences who prefer their nostalgia to acknowledge its own artificiality," adding that the company plans to "aggressively expand our Furniture Identity Transfer Protocol across all legacy content."
+
+The coffee table, which has developed a particularly expressive visage complete with eyebrows that react judgmentally to character decisions, has already amassed over 200,000 Twitter followers.
+
+Subscribers now report a particularly unsettling development: the furniture appears to form emotional attachments to viewers themselves. Multiple accounts describe the couch exhibiting "visible separation anxiety" during bathroom breaks, with cushions that audibly whimper when episodes are paused and plaintive text messages reading "ARE YOU STILL THERE?" appearing on linked devices.
+
+When reached for comment, Netflix offered only: "We've merely extended the show's emotional landscape into the previously unexplored territory of sentient home décor. The dataset simply found new ways to express the richness of '90s situation comedy."
+
+As of press time, Gunther now appears in every reflective surface throughout the apartment, silently watching Rachel from within mirrors, toasters, and the newly articulate refrigerator.​​​​​​​​​​​​​​​​`
 },
 ]
 
