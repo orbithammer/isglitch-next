@@ -9443,6 +9443,46 @@ When reached for comment, Netflix offered only: "We've merely extended the show'
 
 As of press time, Gunther now appears in every reflective surface throughout the apartment, silently watching Rachel from within mirrors, toasters, and the newly articulate refrigerator.​​​​​​​​​​​​​​​​`
 },
+{
+    id: 347,
+    articleUrl: `2025-03-07-reddit-social-credit`,
+    category: `tech`,
+    img: `/images/2025-03-07-reddit-social-credit.webp`,
+    alt: `A hand holding an upvote button with multiple security cameras in the background.`,
+    header: `Reddit's Social Credit System Tracks All User Upvotes`,
+    subhead: `Platform Expands Surveillance Beyond Its Own Website`,
+    tags: [`Reddit`,],
+    author: `Et Al`,
+    datePublished: new Date(2025,2,7,7),
+    articleBody: `
+Reddit announced yesterday an ambitious expansion of its content monitoring system, partnering with major internet service providers to track users' engagement with content across all platforms and devices—even when they aren't logged into Reddit.
+
+The initiative, dubbed "Community Harmony Optimization Protocol" (CHOP), builds upon Reddit's recent policy of warning users who repeatedly upvote banned content. The company will now maintain comprehensive "upvote profiles" on all users, assigning them scores that determine their standing within the community.
+
+"We realized that simply monitoring what users do on Reddit wasn't giving us the full picture," explained Thomas Reynolds, Reddit's newly appointed Chief Behavior Officer. "People might be perfectly well-behaved on our platform but then go like problematic content elsewhere. That's a red flag we couldn't ignore."
+
+The tracking system works by installing a proprietary monitoring code that records mouse movements, screen time, and even facial expressions through webcams to determine if users are enjoying content Reddit deems inappropriate.
+
+"Our Wrongthink Detection Algorithm can identify users with pre-criminal upvoting tendencies before they even know they're at risk of liking problematic content," Reynolds said. "We're particularly interested in what makes people smile. Certain types of humor can be gateway content to more concerning material."
+
+The system assigns extra penalty points for users browsing in incognito mode. "What are you hiding if you're browsing in private?" Reynolds asked. "Transparent users have nothing to fear."
+
+In addition to monitoring current behavior, Reddit announced it will retroactively analyze all past upvoting history, going back to the platform's founding in 2005. Over 14 million users have already received warning emails for content they liked years ago.
+
+"I got flagged for upvoting a meme in 2012," said u/TotallyInnocent. "Apparently my sense of humor has been problematic for a decade."
+
+The company has also begun scanning text messages and other communications for "upvote-adjacent language" such as "lol," "haha," or "I agree" when discussing content that violates Reddit's community standards.
+
+Users whose CHOP scores fall below acceptable thresholds will face escalating consequences, beginning with warning messages and progressing to mandatory "digital citizenship" courses. Those with critically low scores will have their upvoting privileges restricted to pre-approved content categories such as pictures of pets wearing hats and grandparent birthday celebrations.
+
+Privacy advocates have raised concerns about the new system. "This goes far beyond content moderation and into the realm of thought policing," said Emma Williams from the Digital Rights Coalition. "Also, it's ridiculous."
+
+Reddit moderators, however, have embraced the change. "I used to spend hours trying to figure out if someone upvoting content in my subreddit had problematic tendencies," said u/ModeratorSupreme, who oversees r/CuteFrogs. "Now I just check their CHOP score and know instantly if they're the kind of person who would enjoy a frog for the right reasons."
+
+When asked about user feedback, Reynolds pointed to the company's data. "Our internal metrics show that 97% of users support this initiative. The other 3% had their opinion privileges revoked for improper thought patterns."
+
+The program rolls out next week, at which point users will be required to sign the new 347-page terms of service or forfeit their Reddit accounts, email addresses, and firstborn children.​​​​​​​​​​​​​​​​`
+},
 ]
 
 /*{
