@@ -9483,6 +9483,44 @@ When asked about user feedback, Reynolds pointed to the company's data. "Our int
 
 The program rolls out next week, at which point users will be required to sign the new 347-page terms of service or forfeit their Reddit accounts, email addresses, and firstborn children.​​​​​​​​​​​​​​​​`
 },
+{
+    id: 348,
+    articleUrl: `2025-03-08-spacex-engineers-celebrate`,
+    category: `tech`,
+    img: `/images/2025-03-08-spacex-engineers-celebrate.webp`,
+    alt: `Rocket debris in a Florida house's swimming pool.`,
+    header: `SpaceX Engineers Celebrate 'Unplanned High-Velocity Component Separation'`,
+    subhead: `Musk's Team Rebrands Catastrophic Failure as Revolutionary Air Traffic Stress Test`,
+    tags: [`SpaceX`, `Elon Musk`],
+    author: `Et Al`,
+    datePublished: new Date(2025,2,8,7),
+    articleBody: `
+SpaceX engineers are absolutely thrilled about Thursday's successful "unplanned high-velocity component separation" of their Starship rocket, which normal humans might mistakenly call "exploding spectacularly over Florida."
+
+"What you witnessed wasn't a failure," explained SpaceX spokesperson Jordan Reynolds during an emergency press conference held from beneath his desk. "It was actually an innovative air traffic control systems test that we definitely planned all along."
+
+Dr. Elaine Winters, head of SpaceX's rapidly expanding Failure Rebranding Department—now employing more staff than the actual rocket engineering division—explained the company's approach. "We've found that success is simply a matter of vocabulary. Our Failure Rebranding team works around the clock transforming catastrophes into triumphs, often without sleeping for days. It's much more cost-effective than fixing the actual rockets."
+
+The company's new terminology guidelines now officially list "explosion" as outdated vocabulary, along with other banned phrases including "fiery disaster," "raining rocket parts," and "oh god not again." Approved alternatives include "enthusiastic disassembly," "rapid component redistribution," and "gravity-assisted parts delivery."
+
+An updated SpaceX employee handbook now includes a 47-page section titled "Neighbor Relations: How to Explain That the Rocket Fragment in Their Swimming Pool is Actually an Aerospace Gift." The chapter features helpful conversation starters like "Congratulations on your free space souvenir!" and "Do you know how many people would pay for this authentic space debris experience?"
+
+FAA officials, who apparently approved this launch despite an incomplete investigation into January's nearly identical rocket failure, seemed confused about their role in SpaceX's innovative testing strategy.
+
+"We were... informed?" stammered FAA representative Patricia Greenberg when reached for comment. "I mean, we're definitely on board with whatever Mr. Musk says is happening. Who wouldn't be? Have you seen his Twitter followers?"
+
+Sources within SpaceX report that Musk has filed seventeen patents on failure terminology, preventing competitors from using similar language when their rockets inevitably explode. "Blue Origin tried to describe their latest mishap as an 'unexpected aerial disassembly' but received a cease-and-desist within minutes," said one insider who requested anonymity.
+
+The company has also introduced mandatory communication training where engineers practice saying phrases like "dynamic structural reconfiguration" with a straight face. "The current record is four repetitions before uncontrollable laughter," a trainer explained. "We're working on it."
+
+Meanwhile, NASA astronauts scheduled for future Starship moon missions have requested clarification on whether their flight itineraries include "high-velocity component separation" as a featured experience or merely an optional excursion.
+
+Elon Musk, responding via social media while simultaneously cutting government agency budgets and launching cars into space, called the event "perfectly normal rocket behavior" and promised that "spontaneous atmospheric material redistribution" is actually the future of space travel.
+
+Industry observers note that other companies are quickly adopting SpaceX's linguistic innovation. Boeing now refers to emergency landings as "expedited arrival procedures," while Meta has rebranded widespread platform outages as "accelerated user mindfulness opportunities."
+
+At press time, Florida beachgoers were being advised to wear helmets while tourism officials hastily rebranded falling rocket debris as "free aerospace souvenirs," complete with new mission patches featuring the slogan "We Meant To Do That."`
+},
 ]
 
 /*{
