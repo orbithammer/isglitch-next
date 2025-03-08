@@ -9526,7 +9526,7 @@ At press time, Florida beachgoers were being advised to wear helmets while touri
     articleUrl: `2025-03-09-texas-demands-id`,
     category: `tech`,
     img: `/images/2025-03-09-texas-demands-id.webp`,
-    alt: `A surveillance camera `,
+    alt: `A surveillance camera installed over a bathroom sink.`,
     header: `Texas Demands ID for Toothbrushes: "Think of the Children's Teeth"`,
     subhead: `Lawmakers insist dental care now requires government-issued identification`,
     tags: [`Surveillance`,],
