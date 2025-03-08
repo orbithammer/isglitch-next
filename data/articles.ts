@@ -9521,10 +9521,56 @@ Industry observers note that other companies are quickly adopting SpaceX's lingu
 
 At press time, Florida beachgoers were being advised to wear helmets while tourism officials hastily rebranded falling rocket debris as "free aerospace souvenirs," complete with new mission patches featuring the slogan "We Meant To Do That."`
 },
+{
+    id: 349,
+    articleUrl: `2025-03-09-texas-demands-id`,
+    category: `tech`,
+    img: `/images/2025-03-09-texas-demands-id.webp`,
+    alt: `A surveillance camera `,
+    header: `Texas Demands ID for Toothbrushes: "Think of the Children's Teeth"`,
+    subhead: `Lawmakers insist dental care now requires government-issued identification`,
+    tags: [`Surveillance`,],
+    author: `Et Al`,
+    datePublished: new Date(2025,2,9,7),
+    articleBody: `
+Texas lawmakers have officially declared war on the terrifying menace lurking in your bathroom: unverified toothpaste purchases. 
+
+The Texas Dental Verification Act, passed overwhelmingly by legislators who definitely don't receive campaign contributions from data mining companies, now requires all Texans to present government-issued identification before purchasing ANY product containing fluoride – including toothpaste, mouthwash, and yes, even toothbrushes with those little rubber fluoride strips.
+
+"We simply cannot allow minors unrestricted access to dental care products," explained State Senator Bradley Weber while vigorously applying Colgate in circular motions. "Today it's cavity prevention, tomorrow it's anarchy."
+
+The verification process requires consumers to:
+1. Submit government ID
+2. Provide fingerprint scan
+3. Sign affidavit confirming they understand the "grave responsibilities of fluoride ownership"
+4. Wait 3-5 business days for approval
+
+Target and Walmart have already installed special "Dental Verification Kiosks" featuring facial recognition software developed by TrustID Solutions, whose CEO Jason Reynolds has seen his company stock surge 743% since the bill's announcement.
+
+"We're revolutionizing the dental security space," Reynolds told investors while standing in front of a PowerPoint slide titled 'MINT-TELLIGENCE GATHERING.' "Our proprietary technology can detect suspicious brushing patterns like nighttime brushers or aggressive flossers who clearly have something to hide."
+
+The newly formed Dental Security Agency (DSA) has deployed armed agents to conduct random toothbrush inspections in homes across the state. Agents are authorized to confiscate any dental products lacking proper verification codes and issue citations for "suspicious gum behavior."
+
+Local resident Marcia Reynolds described her harrowing 47-minute attempt to purchase Crest: "The kiosk rejected my driver's license three times, then asked for my mother's maiden name and my first pet's blood type. I just wanted to brush my teeth."
+
+For busy Texans tired of waiting in verification lines, the state offers "PreBrush Premium" for $29.99 monthly, allowing members to pre-verify for faster dental purchases. Subscribers also receive exclusive rights to brush without mandatory livestreaming their sessions to verification servers.
+
+"If you've got nothing to hide about your dental hygiene, you've got nothing to fear!" said Senator Weber from his office, where an aide was scanning his specially exempted toothpaste into a private bathroom. When pressed about reports that lawmakers receive verification waivers, Weber abruptly ended the interview, muttering "That's classified national security information."
+
+Meanwhile, underground toothpaste dealers have begun operating out of van trunks in suburban neighborhoods, offering verification-free fluoride products at markup prices. One dealer, who identified himself only as "The Molar Man," reported business is booming.
+
+"Yesterday I sold Sensodyne to an 87-year-old woman who was denied denture cream due to what the system flagged as 'suspicious gum history,'" he said. "She paid in cash and wept with gratitude. This is America now."
+
+Privacy experts warn the collected data likely ends up in massive databases shared with advertisers, law enforcement, and that weird guy from IT who always knows too much about your browsing history.
+
+When asked if this might be the beginning of a slippery slope, Weber reassured citizens: "Absolutely not. We're only planning to expand verification to shampoo, soap, and possibly oxygen in the next legislative session."
+
+Texans without proper ID are advised to just let their teeth rot quietly and patriotically.`
+},
 ]
 
 /*{
-    id: 340,
+    id: 35x,
     articleUrl: `2025-03-10-xxx-xxx-xxx`,
     category: `tech`,
     img: `/images/20251200-xxx-xxx-xxx.webp`,
@@ -9533,6 +9579,6 @@ At press time, Florida beachgoers were being advised to wear helmets while touri
     subhead: `xxx`,
     tags: [`xxx`,],
     author: `Et Al`,
-    datePublished: new Date(2025,1,10,7),
+    datePublished: new Date(2025,2,10,7),
     articleBody: `xxx`
 },*/
