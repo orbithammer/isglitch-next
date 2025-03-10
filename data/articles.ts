@@ -9575,7 +9575,7 @@ Texans without proper ID are advised to just let their teeth rot quietly and pat
     alt: `A driver in an invisible car on a mountain highway.`,
     header: `Tesla's 'Ghost Fleet' Vanishes After Canadian Rebate Investigation`,
     subhead: `Revolutionary technology creates cars that exist only on government rebate forms`,
-    tags: [`Tesla`, `Elon Musk`],
+    tags: [`Tesla`, `Elon Musk`, `Canada`],
     author: `Et Al`,
     datePublished: new Date(2025,2,10,7),
     articleBody: `
