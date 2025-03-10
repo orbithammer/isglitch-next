@@ -9567,6 +9567,42 @@ When asked if this might be the beginning of a slippery slope, Weber reassured c
 
 Texans without proper ID are advised to just let their teeth rot quietly and patriotically.`
 },
+{
+    id: 350,
+    articleUrl: `2025-03-10-tesla-ghost-fleet`,
+    category: `tech`,
+    img: `/images/2025-03-10-tesla-ghost-fleet.webp`,
+    alt: `A driver in an invisible car on a mountain highway.`,
+    header: `Tesla's 'Ghost Fleet' Vanishes After Canadian Rebate Investigation`,
+    subhead: `Revolutionary technology creates cars that exist only on government rebate forms`,
+    tags: [`Tesla`, `Elon Musk`],
+    author: `Et Al`,
+    datePublished: new Date(2025,2,10,7),
+    articleBody: `
+TORONTO — Tesla has unveiled its most innovative technology yet: the "Ghost Fleet™" system that allows vehicles to exist simultaneously as both physical and metaphysical entities (depending entirely on who's asking).
+
+The groundbreaking technology came to light after Canadian officials visited a Toronto Tesla location that reportedly sold 1,200 vehicles in a single day—a feat previously thought impossible unless you count selling cars that don't technically exist yet.
+
+Transport Canada officials described the bizarre phenomenon during their investigation of Tesla's suspicious 8,600 sales that conveniently occurred right before the federal EV rebate program's suspension.
+
+"We arrived to inspect the fleet of sold vehicles, but staff explained they were 'temporarily invisible' due to a 'software update,'" said one bewildered official who requested anonymity. "When we pushed further, an employee in a hazmat suit rushed over claiming they were 'containing an outbreak of visibility' and that we weren't 'looking at the correct vibrational frequency.'"
+
+Tesla's revolutionary Ghost Fleet technology reportedly includes several cutting-edge features:
+
+- Quantum Documentation™: Generates VIN numbers from parallel universes where the cars actually exist
+- Dimensional Parking Lot™: Accessible only during specific moon phases (never coinciding with inspection hours)
+- Ghosting Protocol™: Automatically activates when sensors detect government-issued shoes in the parking lot
+
+"I absolutely love my new Tesla," said customer Dave Thompson. "I've never actually seen it, but the rebate paperwork is exquisite, and I'm told I legally own 'the concept of a car,' which is so much more evolved than traditional ownership."
+
+A leaked Tesla training manual instructs employees to tell government officials that they're simply "not attuned to the correct vibrational frequency" and to "suggest officials try squinting or spinning in circles" to better perceive the vehicles.
+
+Tesla CEO Elon Musk tweeted cryptically about the technology: "Our cars exist in stealth mode—a revolutionary feature that unfortunately activates automatically during all government inspections. Physics is just a suggestion. Government rebates are forever," before deleting the post seventeen seconds later.
+
+The Canadian Automobile Dealers Association expressed outrage at competitors being "limited by outdated concepts like 'physical inventory'" and "actual customers."
+
+Meanwhile, Tesla's stock surged 12% on news of the company's apparent ability to sell non-existent products for real government money—truly the most innovative business model since cryptocurrency.`
+},
 ]
 
 /*{
