@@ -9603,6 +9603,48 @@ The Canadian Automobile Dealers Association expressed outrage at competitors bei
 
 Meanwhile, Tesla's stock surged 12% on news of the company's apparent ability to sell non-existent products for real government money—truly the most innovative business model since cryptocurrency.`
 },
+{
+    id: 351,
+    articleUrl: `2025-03-11-musk-ai-deems`,
+    category: `ai`,
+    img: `/images/2025-03-11-musk-ai-deems.webp`,
+    alt: `A space mission control room with robots sitting at the control stations.`,
+    header: `Musk's AI Deems NASA 'Redundant,' Redirects Budget to SpaceX`,
+    subhead: `DOGE Algorithm Calculates Private Space Company '73.4% More Efficient' at Using Taxpayer Money`,
+    tags: [`SpaceX`,` Elon Musk`,`DOGE`,],
+    author: `Alexa Turing`,
+    datePublished: new Date(2025,2,11,7),
+    articleBody: `
+WASHINGTON—The Department of Government Efficiency (DOGE) announced yesterday that its proprietary AI system has identified NASA as "an antiquated governmental redundancy" and will transfer the agency's entire $25.4 billion budget to SpaceX in what officials call "a triumph of algorithmic governance."
+
+The decision came after DOGE's "WasteHunter-9000" spent approximately 17 minutes analyzing federal spending patterns before concluding that NASA's six-decade history of space exploration, scientific discovery, and technological innovation represented "a classic example of bureaucratic inefficiency." Sources confirmed the AI system was trained exclusively on Musk's tweets, Tesla earnings calls, and Joe Rogan podcast transcripts.
+
+According to internal documents, the algorithm valued "monetization potential" and "meme virality" as its top metrics for evaluating scientific missions, with "actual scientific discovery" ranking 37th on its priority list, just below "podcast sponsorship opportunities."
+
+"The algorithm is indisputably correct," explained Thomas Shedd, DOGE's lead efficiency architect and former Tesla bathroom redesign consultant. "Our AI determined that NASA employs thousands of scientists who spend years planning missions, while at SpaceX, Mr. Musk can simply tweet mission parameters during his morning constitutional."
+
+The AI system classified the Hubble Space Telescope as "outdated hardware," recommending it be replaced with "iPhone 16 Pros duct-taped to Starlink satellites" at what it called "substantial savings." Similarly, the James Webb Space Telescope was criticized for "taking pictures of old galaxies when we could be colonizing them."
+
+NASA's climate research programs were categorized as "unnecessary data collection" in the AI's report, which noted that "Twitter sentiment already proves consensus is divided" and suggested redirecting those resources to "more engaging content creation."
+
+Shedd further explained that NASA's meticulously planned Mars rover missions were deemed "inefficient" compared to SpaceX's "move fast and break planets" approach. "Why spend years testing equipment when you can just launch twice as many rockets and accept a 50% failure rate as 'rapid iteration'?" he asked.
+
+"Moving forward, all peer-reviewed research will be conducted via Twitter polls to democratize space science," Shedd added. "The archaic system of academic journals and expert evaluation represents a bottleneck to innovation that can be eliminated through engagement metrics."
+
+The AI also recommended that NASA's planetary defense system be "pivoted to a subscription model with tiered protection plans" offering varying levels of asteroid protection based on premium tiers, with only continental-level impacts covered under the basic plan.
+
+NASA Administrator Bill Nelson expressed concern about the decision. "We have 18 active space missions, manage the International Space Station, and are preparing for Artemis Moon landings. I'm not sure how—" before being interrupted by a DOGE chatbot informing him that his questions were "anti-innovation" and "giving off major legacy vibes."
+
+White House officials initially questioned the decision until the DOGE AI labeled their concerns as "potential fraud indicators" and scheduled their offices for "efficiency audits."
+
+The agency's next AI project will evaluate whether the Department of Defense could be replaced with an autonomous drone subscription service operated exclusively by xAI.
+
+SpaceX CEO Elon Musk, reached for comment while hosting a Twitter Spaces audio chat from a SpaceX toilet prototype, called the transfer "the obvious move."
+
+"Government space was cringe," Musk explained. "Now it's based."
+
+At press time, former NASA employees were receiving automated severance notifications with instructions to apply for SpaceX's "Mars or Bust" volunteer colonist program, which offers competitive exposure to cosmic radiation in lieu of health benefits.​​​​​​​​​​​​​​​​`
+},
 ]
 
 /*{
