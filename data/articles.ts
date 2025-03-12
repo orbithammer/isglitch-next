@@ -9650,10 +9650,10 @@ At press time, former NASA employees were receiving automated severance notifica
     articleUrl: `2025-03-12-disco-elysuim-litigator`,
     category: `entertainment`,
     img: `/images/2025-03-12-disco-elysuim-litigator.webp`,
-    alt: ` An arcade game as a witness in court with "Insert $500 to testify" on screen. `,
+    alt: `An arcade game as a witness in court with "Insert $500 to testify" on screen.`,
     header: `Disco Elysium Litigator Launches $500 'Creative Immunity' Certs`,
     subhead: `Game developers queue up to avoid lawsuits from the man who sues creatives`,
-    tags: [`Riaz Moola`, ` Disco Elysium`],
+    tags: [`Riaz Moola`, ` Disco Elysium`, `Video Games`],
     author: `Pieter Klykbeit`,
     datePublished: new Date(2025,2,12,7),
     articleBody: `
