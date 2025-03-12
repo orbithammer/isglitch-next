@@ -9416,7 +9416,7 @@ At press time, sources confirmed Google is already working on "Productivity Past
     alt: `An orange couch in a cafe with horrified facial features detailed in the cushions.`,
     header: `Netflix's AI Upscaler Gives Friends Furniture Human Faces`,
     subhead: `The uncanny valley now includes your coffee table`,
-    tags: [`Netflix`,],
+    tags: [`Netflix`, `Television`],
     author: `Pieter Klykbeit
 `,
     datePublished: new Date(2025,2,6,7),
@@ -9644,6 +9644,38 @@ SpaceX CEO Elon Musk, reached for comment while hosting a Twitter Spaces audio c
 "Government space was cringe," Musk explained. "Now it's based."
 
 At press time, former NASA employees were receiving automated severance notifications with instructions to apply for SpaceX's "Mars or Bust" volunteer colonist program, which offers competitive exposure to cosmic radiation in lieu of health benefits.​​​​​​​​​​​​​​​​`
+},
+{
+    id: 352,
+    articleUrl: `2025-03-12-disco-elysuim-litigator`,
+    category: `entertainment`,
+    img: `/images/2025-03-12-disco-elysuim-litigator.webp`,
+    alt: ` An arcade game as a witness in court with "Insert $500 to testify" on screen. `,
+    header: `Disco Elysium Litigator Launches $500 'Creative Immunity' Certs`,
+    subhead: `Game developers queue up to avoid lawsuits from the man who sues creatives`,
+    tags: [`Riaz Moola`, ` Disco Elysium`],
+    author: `Pieter Klykbeit`,
+    datePublished: new Date(2025,2,12,7),
+    articleBody: `
+Tech CEO Riaz Moola, fresh off his legal victory preventing a Disco Elysium writer from creating his own game, announced yesterday the launch of his newest venture: "Creative Inspiration Certificates," available to game developers for the modest sum of $500.
+
+"We're democratizing the creative process," Moola explained during a Zoom press conference from an office adorned with framed injunctions. "For centuries, people have labored under the misapprehension that they could simply have ideas without proper authorization."
+
+The certificates, printed on premium legal-threat-resistant cardstock, come with a 46-page document defining what constitutes a "substantially dissimilar creative work," with the phrase "as determined solely by Riaz Moola" appearing 78 times. Each certificate includes the tagline: "Officially permitted to create—contingent upon quarterly concept review."
+
+"Our Early Bird Creative Special offers the first 100 developers who surrender their original concepts a 10% discount," Moola added while adjusting his "Litigation Enthusiast of the Year" trophy.
+
+Industry response has been cautious. One developer, who requested anonymity, purchased twelve certificates after "accidentally thinking about a dialog tree."
+
+"It's a small price for peace of mind," he whispered. "Last week, I dreamed about a character with existential dread, and a cease-and-desist letter arrived before I woke up."
+
+The certificates are part of Moola's expanding "Creativity Compliance" ecosystem, which now includes an AI system that automatically generates cease-and-desist letters when it detects "narrative similarities" to concepts Moola "might eventually consider developing."
+
+For particularly anxious developers, Moola offers "Creative Infringement Insurance" at $999 monthly, providing "up to $2,000 in legal defense coverage" against his own legal team, which bills at $20,000 per hour.
+
+When asked if selling permission to create constituted a conflict of interest for someone actively suing creators, Moola reportedly muted the call to consult with legal counsel before responding.
+
+"That question infringes on our proprietary question-answering format," he said, "but we're willing to settle out of court."​​​​​​​​​​​​​​​​`
 },
 ]
 
