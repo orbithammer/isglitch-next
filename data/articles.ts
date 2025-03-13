@@ -9682,7 +9682,7 @@ When asked if selling permission to create constituted a conflict of interest fo
     articleUrl: `2025-03-13-samsung-ai-now`,
     category: `ai`,
     img: `/images/2025-03-13-samsung-ai-now.webp`,
-    alt: `Samsung`,
+    alt: `Samsung phone showing a lush forest with a coal plant background.`,
     header: `Samsung's AI Now Offsets Carbon Guilt With Virtual Certificates`,
     subhead: `New feature allows users to alleviate environmental concerns without changing consumption habits`,
     tags: [`Samsung`,],
