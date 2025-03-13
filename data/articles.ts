@@ -9677,6 +9677,36 @@ When asked if selling permission to create constituted a conflict of interest fo
 
 "That question infringes on our proprietary question-answering format," he said, "but we're willing to settle out of court."​​​​​​​​​​​​​​​​`
 },
+{
+    id: 353,
+    articleUrl: `2025-03-13-samsung-ai-now`,
+    category: `ai`,
+    img: `/images/2025-03-13-samsung-ai-now.webp`,
+    alt: `Samsung`,
+    header: `Samsung's AI Now Offsets Carbon Guilt With Virtual Certificates`,
+    subhead: `New feature allows users to alleviate environmental concerns without changing consumption habits`,
+    tags: [`Samsung`,],
+    author: `Alexa Turing`,
+    datePublished: new Date(2025,2,13,7),
+    articleBody: `
+Samsung announced today its latest Galaxy AI update featuring "CarbonComfort™," a groundbreaking function that generates personalized carbon offset certificates while simultaneously contributing to the very emissions it purports to address.
+
+The feature, which requires approximately 4.3 kilowatt-hours of electricity to produce a single PDF certificate, operates by performing complex calculations to determine how much users should care about their device's environmental impact before ultimately suggesting they shouldn't. Each certificate requires enough electricity to power a rural village for a day, with 78% of that energy used to render the realistic-looking trees in the border design.
+
+"We've created an elegant solution to the ethical quandary facing contemporary technological consumption," explained Dr. Martin Friedberg, Samsung's Chief Sustainability Performativity Officer. "Rather than reducing our massive data centers' water usage or minimizing energy consumption, we've developed an AI feature that produces the comforting illusion of environmental action."
+
+The certificates, adorned with high-resolution forest imagery requiring significant processing power to render, contain a QR code linking to a blockchain ledger that consumes roughly the same electricity as a small European nation. The feature's "Carbon Neutrality Theatre" mode projects a hologram of a polar bear giving users a thumbs-up, consuming only what Samsung describes as "marginal" additional processing resources.
+
+"It's a perfect example of what philosophers call 'ethical offsetting through symbolic gesticulation,'" noted Dr. Eleanor Huxley of the Institute for Technological Criticism. "The 'Heisenberg Sustainability Principle' built into the AI ensures that measuring your environmental impact necessarily increases it."
+
+The more certificates users generate, the more Samsung's proprietary algorithm determines they care about the environment, thus qualifying them for special recognition in the form of additional certificates. Each interaction with CarbonComfort™ adds "Virtue Points" to user accounts while simultaneously adding actual carbon to the atmosphere in what Samsung calls "a carefully balanced moral equilibrium."
+
+Internal documents reveal that only 0.02% of Galaxy users have activated the feature, consistent with the finding that 87% of Samsung owners find AI additions "useless." When questioned about this discrepancy, a Samsung representative clarified that "usage metrics aren't the point—the environmental storytelling is."
+
+Users can trade their certificates in Samsung's "EthicalEase Marketplace," where the exchange of intangible climate credentials requires seventeen server farms operating at maximum capacity. The built-in "Anthropocene Assistant" uses advanced machine learning to help users articulate precisely why their consumption isn't really the problem.
+
+When asked about Apple's competing "GreenGlow" feature, Samsung representatives emphasized that their certificates contain "40% more environmental aesthetics" and "twice the moral absolution with half the cognitive dissonance."​​​​​​​​​​​​​​​​`
+},
 ]
 
 /*{
