@@ -9707,6 +9707,38 @@ Users can trade their certificates in Samsung's "EthicalEase Marketplace," where
 
 When asked about Apple's competing "GreenGlow" feature, Samsung representatives emphasized that their certificates contain "40% more environmental aesthetics" and "twice the moral absolution with half the cognitive dissonance."​​​​​​​​​​​​​​​​`
 },
+{
+    id: 354,
+    articleUrl: `2025-03-14-saudi-prince-catch`,
+    category: `entertainment`,
+    img: `/images/2025-03-14-saudi-prince-catch.webp`,
+    alt: `A poke ball with a surveillance camera pointed at it with the Saudi flag in the background.`,
+    header: `Saudi Prince: Catch Embassy-Exclusive Rare Pokémon Now`,
+    subhead: `Royal WhereAbouts Initiative Promises Legendary Creatures Only Within Diplomatic Compounds`,
+    tags: [`Pokémon Go`, `Surveillance`, `Video Games`],
+    author: `Pieter Klykbeit`,
+    datePublished: new Date(2025,2,14,7),
+    articleBody: `
+Following the $3.85 billion acquisition of Pokémon Go through wholly-owned subsidiary Scopely, Crown Prince Mohammed bin Salman has announced an exclusive new feature for the augmented reality game: ultra-rare Pokémon that spawn exclusively within 100 meters of foreign embassies.
+
+"The 'Diplomatic Collection' represents a revolutionary fusion of geopolitics and entertainment," bin Salman explained during yesterday's press conference. "Players can now discover the elusive 'Wiretapeon' lurking near the American Embassy, or perhaps catch a 'Surveillanchu' at the British Consulate."
+
+Game developer Trent Wilson, newly appointed by Scopely, appeared visibly uncomfortable as bin Salman elaborated on the "Journalist Edition" Pokémon, a special variant that appears exclusively in Saudi consulates but has a 100% escape rate and disappears permanently from players' Pokédex without explanation.
+
+"We've implemented a dynamic spawning algorithm where rare Pokémon appearances increase proportionally with visa application denials from that embassy's country," bin Salman noted. "Strained diplomatic relations yield legendary catches!"
+
+The Crown Prince enthusiastically demonstrated the new "Extradition Raid Battles" feature, which occurs exclusively in countries with Saudi rendition agreements. "Players can join forces to capture fugitive Pokémon and return them to the Kingdom for... processing," he said, as Wilson stared blankly at his shoes.
+
+The game also introduces the controversial "Bone Saw Evolution Stone" that transforms ordinary Pokémon into their "Dismembered Form," which bin Salman insisted "has absolutely no real-world parallels whatsoever."
+
+New features include automated push notifications when two or more players congregate near sensitive locations, helpfully labeled "Suspicious Assembly Alert," and a system where players who capture embassy Pokémon receive unsolicited WhatsApp messages offering government employment opportunities with "competitive compensation packages."
+
+The Kingdom's Public Investment Fund simultaneously released an updated privacy policy extending to 437 pages. The document introduces a requirement that all in-game purchases can only be completed after granting camera and microphone permissions "for payment verification purposes."
+
+When asked about data protection, bin Salman assured reporters: "Players' privacy is sacred—almost as sacred as the countless rare Pokémon awaiting discovery inside foreign diplomatic facilities."
+
+The game's new tagline says it all: "Gotta Track 'Em All!"​​​​​​​​​​​​​​​​`
+},
 ]
 
 /*{
