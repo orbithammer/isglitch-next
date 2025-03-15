@@ -9739,6 +9739,38 @@ When asked about data protection, bin Salman assured reporters: "Players' privac
 
 The game's new tagline says it all: "Gotta Track 'Em All!"​​​​​​​​​​​​​​​​`
 },
+{
+    id: 355,
+    articleUrl: `2025-03-15-openai-proposes-creator`,
+    category: `tech`,
+    img: `/images/2025-03-15-openai-proposes-creator.webp`,
+    alt: `Uncle Sam with "I want your IP" underneath.`,
+    header: `OpenAI Proposes "Creator Conscription Act" to Draft All Artists`,
+    subhead: `"Patriotic duty" to surrender IP for AI training, says company bravely fighting copyright lawsuits`,
+    tags: [` OpenAI`, ` Sam Altman`],
+    author: `Alexa Turing`,
+    datePublished: new Date(2025,2,15,7),
+    articleBody: `
+OpenAI unveiled an audacious proposal yesterday, urging the Trump administration to implement what critics immediately dubbed the "Creator Conscription Act" – a comprehensive national security program requiring all American artists, writers, and intellectual property creators to surrender their works for mandatory AI training service.
+
+The proposal centers around a newly developed "Creator Contribution Hierarchy" with classifications including "Patriotic Provider," "Reluctant Contributor," and "Enemy of Progress," which would determine eligibility for government contracts and AI-readiness tax credits.
+
+"Withholding creative works during this critical AI race is equivalent to intellectual hoarding during wartime," said OpenAI's newly appointed Chief Patriotism Officer. "Would Americans have tolerated citizens hiding rubber and metal during WWII? Creative resources must be pooled for the greater computational good."
+
+The company simultaneously released a whitepaper titled "The Ethical Imperative of Involuntary Training Data Acquisition," which quantifies the "existential risk multiplier" of each artwork withheld from AI systems.
+
+Under the plan, creators who insist on copyright protection would face a "Creator Exemption Tax" calculated using a complex formula: "Potential GDP loss multiplied by Chinese AI advancement rate, divided by remaining months until technological singularity."
+
+"Copyright lawsuits against AI companies constitute intellectual sabotage with national security implications equivalent to industrial espionage," the proposal states, recommending that the Department of Justice establish a special task force to identify "copyright extremists" who insist on controlling their own work.
+
+The proposal further suggests amending the Defense Production Act to include special copyright infringement exceptions during "periods of algorithmic competition," alongside a "patriotic creator exchange program" where artists can compete for limited exemptions by demonstrating their works' "minimal utility to AI systems."
+
+When reached for comment about rights holders' concerns that their livelihoods might be eviscerated, OpenAI's spokesperson offered a philosophical rejoinder while adjusting his Effective Altruism conference lanyard: "Your creativity today, our profit margins tomorrow, humanity's salvation eventually."
+
+Legal experts note the proposal conveniently arrives as OpenAI faces dozens of copyright lawsuits, including a significant case brought by The New York Times.
+
+"It's purely coincidental that our national security argument would also resolve our legal troubles," the spokesperson added. "The sacrifices of a few creators today will enable the abundance of tomorrow, where AI systems will generate infinite content that almost resembles human creativity."​​​​​​​​​​​​​​​​`
+},
 ]
 
 /*{
