@@ -6326,7 +6326,7 @@ export const articlesData = [
         alt: `A lawyer summoning legal papers with a Poké Ball in park.`,
         header: `Pokémon GO Players Join Hunt for Elusive Game Pirate`,
         subhead: `Nintendo's New Process Servers "Will Literally Chase You Forever"`,
-        tags: [`Nintendo`, `Pokémon GO`, `Video Games`],
+        tags: [`Nintendo`, `Pokemon Go`, `Video Games`],
         author: `Pieter Klykbeit`,
         datePublished: new Date(2024,11,19,17),
         articleBody: [
@@ -9715,7 +9715,7 @@ When asked about Apple's competing "GreenGlow" feature, Samsung representatives 
     alt: `A poke ball with a surveillance camera pointed at it with the Saudi flag in the background.`,
     header: `Saudi Prince: Catch Embassy-Exclusive Rare Pokémon Now`,
     subhead: `Royal WhereAbouts Initiative Promises Legendary Creatures Only Within Diplomatic Compounds`,
-    tags: [`Pokémon Go`, `Surveillance`, `Video Games`],
+    tags: [`Pokemon Go`, `Surveillance`, `Video Games`],
     author: `Pieter Klykbeit`,
     datePublished: new Date(2025,2,14,7),
     articleBody: `
@@ -9747,7 +9747,7 @@ The game's new tagline says it all: "Gotta Track 'Em All!"​​​​​​​�
     alt: `Uncle Sam with "I want your IP" underneath.`,
     header: `OpenAI Proposes "Creator Conscription Act" to Draft All Artists`,
     subhead: `"Patriotic duty" to surrender IP for AI training, says company bravely fighting copyright lawsuits`,
-    tags: [` OpenAI`, ` Sam Altman`],
+    tags: [`OpenAI`, `Sam Altman`],
     author: `Alexa Turing`,
     datePublished: new Date(2025,2,15,7),
     articleBody: `
