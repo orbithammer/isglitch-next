@@ -9771,6 +9771,38 @@ Legal experts note the proposal conveniently arrives as OpenAI faces dozens of c
 
 "It's purely coincidental that our national security argument would also resolve our legal troubles," the spokesperson added. "The sacrifices of a few creators today will enable the abundance of tomorrow, where AI systems will generate infinite content that almost resembles human creativity."​​​​​​​​​​​​​​​​`
 },
+{
+    id: 356,
+    articleUrl: `2025-03-15-tesla-anonymous-where`,
+    category: `tech`,
+    img: `/images/2025-03-15-tesla-anonymous-where.webp`,
+    alt: `A Tesla with a forest camo paint job in a parking space with its owner hiding in shame.`,
+    header: `Tesla Anonymous: Where Owners Hide Cars Like Shameful Secrets`,
+    subhead: `Former EV status symbol now driven under cover of darkness`,
+    tags: [`Tesla`, `Elon Musk`],
+    author: `Et Al`,
+    datePublished: new Date(2025,2,15,7),
+    articleBody: `
+Tesla owners nationwide have formed underground support groups where they can finally admit their darkest secret: they still drive the EVs they're now completely embarrassed to own.
+
+"Hi, I'm Todd, and I've owned my Model 3 for four years," confessed a 42-year-old software developer at a recent Tesla Anonymous meeting held in a dimly lit community center basement. "I park three blocks away from work and walk through rain rather than pull into our company lot."
+
+The group—which has exploded from 3 members to over 2,000 nationwide in just two months—guides owners through their revolutionary twelve-step program. Steps include "Admit you have a problem that runs on electricity" and culminate with "Make amends to all the people you lectured about charging networks."
+
+"We teach essential life-saving skills," explained group founder Rachel Winters while distributing unmarked brown paper bags containing the group's merchandise—baseball caps emblazoned with "It's just a car, not a personality disorder."
+
+Members attend twice-weekly "Charging Shame" therapy sessions, where they role-play the excruciatingly awkward small talk required when spotted at public charging stations. Popular scenarios include practicing phrases like "I'm actually selling it next week" and "The lease was just too good to pass up."
+
+The group's official handbook, "Running on Empty: Navigating Life When Your Car Choice Suddenly Defines You," features breakthrough workshops like "Retroactive Purchase Explanation," where members practice maintaining eye contact while insisting "I only bought it for the tax credit" with conviction.
+
+"Before Tesla Anonymous, I wore sunglasses and a fake mustache to my daughter's school dropoff," admitted Kyle Brenner. "Now I utilize their 'Fake Buyer' service, where I hire actors to loudly discuss purchasing my Model Y while I'm at Whole Foods, creating plausible deniability that I'm DEFINITELY getting rid of it."
+
+Local chapters organize "Safe Park" locations where members can charge without judgment, complete with privacy screens and lookouts who warn when non-members approach.
+
+"We're not anti-EV," clarified Winters, adjusting her "Battery of Regrets" hat. "We're just people trapped between rapidly depreciating assets and the crushing weight of automotive regret."
+
+Meanwhile, a splinter group called "Loud and Proud" encourages the opposite approach—owning your Tesla ownership with aggressive defensiveness. Their motto: "Zero Emissions, Zero Self-Awareness, Zero Apologies." Members can be spotted at charging stations explaining regenerative braking to strangers who never asked.`
+},
 ]
 
 /*{
