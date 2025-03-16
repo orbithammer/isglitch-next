@@ -9773,15 +9773,15 @@ Legal experts note the proposal conveniently arrives as OpenAI faces dozens of c
 },
 {
     id: 356,
-    articleUrl: `2025-03-15-tesla-anonymous-where`,
+    articleUrl: `2025-03-16-tesla-anonymous-where`,
     category: `tech`,
-    img: `/images/2025-03-15-tesla-anonymous-where.webp`,
+    img: `/images/2025-03-16-tesla-anonymous-where.webp`,
     alt: `A Tesla with a forest camo paint job in a parking space with its owner hiding in shame.`,
     header: `Tesla Anonymous: Where Owners Hide Cars Like Shameful Secrets`,
     subhead: `Former EV status symbol now driven under cover of darkness`,
     tags: [`Tesla`, `Elon Musk`],
     author: `Et Al`,
-    datePublished: new Date(2025,2,15,7),
+    datePublished: new Date(2025,2,16,7),
     articleBody: `
 Tesla owners nationwide have formed underground support groups where they can finally admit their darkest secret: they still drive the EVs they're now completely embarrassed to own.
 
