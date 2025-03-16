@@ -9803,6 +9803,36 @@ Local chapters organize "Safe Park" locations where members can charge without j
 
 Meanwhile, a splinter group called "Loud and Proud" encourages the opposite approach—owning your Tesla ownership with aggressive defensiveness. Their motto: "Zero Emissions, Zero Self-Awareness, Zero Apologies." Members can be spotted at charging stations explaining regenerative braking to strangers who never asked.`
 },
+{
+    id: 357,
+    articleUrl: `2025-03-17-reddit-thoughtcrime-ai`,
+    category: `ai`,
+    img: `/images/2025-03-17-reddit-thoughtcrime-ai.webp`,
+    alt: `Luigi from Super Mario Bros dressed in a black hoodie holding a pistol on a Manhattan street.`,
+    header: `Reddit's "ThoughtCrime AI" Can Ban You for Thinking About Luigi`,
+    subhead: `New algorithm determines ban-worthiness from cursor movements, eyebrow thickness, and healthcare-adjacent neural patterns`,
+    tags: [`Reddit`, `FreeLuigi`],
+    author: `Alexa Turing`,
+    datePublished: new Date(2025,2,17,7),
+    articleBody: `
+Reddit unveiled its revolutionary "ThoughtCrime AI" moderation system yesterday, capable of detecting and banning users who merely contemplate engaging with content related to Luigi Mangione, healthcare reform, or suspicious vowel arrangements.
+
+"Our previous system of waiting for users to actually upvote content before punishing them was woefully reactive," explained Reddit spokesperson Michelle Dornfeld. "ThoughtCrime AI preemptively terminates accounts based on sophisticated hover-pattern analysis, which can detect pre-criminal wrongthink with 103% accuracy."
+
+The system works by tracking microscopic mouse movements, analyzing keyboard friction coefficients, and measuring how long users pause over green-colored pixels. According to leaked documents, the AI now flags users who linger too long on images containing mustaches or thick eyebrows, identifying them as "potential Luigi sympathizers."
+
+"We've already banned 17 million accounts for crimes they were statistically likely to commit in 3-5 business days," boasted Chief Precognition Officer Jason Krenshaw. "One user typed 'healthcare' slightly faster than normal, indicating nervousness about forbidden reform thoughts. Another arranged the vowels A-E-I-O-U in an order that could spell 'LUIGI' if you added the consonants L-G."
+
+Multiple users report being banned after their webcams detected green clothing items in their closets. "I wore a green sweater while scrolling past a picture of a mustache," said former Redditor GreenMario42. "My account was terminated before I could even click anything."
+
+The company has partnered with major internet service providers to analyze browser history for "pre-upvote indicators" and "latent Luigi tendencies." 
+
+"Why wait for users to actually violate our terms of service when we can mathematically predict their future thought crimes?" Krenshaw explained. "It's simply more efficient this way."
+
+When asked about concerns over false positives, Krenshaw's account was immediately suspended for "excessive contemplation of forbidden discourse parameters."
+
+At press time, Reddit's stock had plummeted 42.0% as users fled to alternative platforms that still permit the discussion of video game sidekicks, healthcare reform, or vowels in any arrangement whatsoever.`
+},
 ]
 
 /*{
