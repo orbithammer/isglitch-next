@@ -9833,6 +9833,36 @@ When asked about concerns over false positives, Krenshaw's account was immediate
 
 At press time, Reddit's stock had plummeted 42.0% as users fled to alternative platforms that still permit the discussion of video game sidekicks, healthcare reform, or vowels in any arrangement whatsoever.`
 },
+{
+    id: 358,
+    articleUrl: `2025-03-18-study-on-deadly`,
+    category: `tech`,
+    img: `/images/2025-03-18-study-on-deadly.webp`,
+    alt: `A server farm in a melting glacier.`,
+    header: `Study on Deadly Email Signatures Kills Six People With Traffic`,
+    subhead: `Carbon-conscious researcher creates electricity-guzzling tools to tell you about electricity-guzzling emails`,
+    tags: [`Science`,],
+    author: `Et Al`,
+    datePublished: new Date(2025,2,18,7),
+    articleBody: `
+The groundbreaking study "Email signatures are harming the planet and could cost people their lives" reached a MIND-BLOWING milestone this week by killing an estimated six people through its viral traffic (not clickbait, ACTUAL DEATH!), according to analytics data interpreted using the researchers' own methodology.
+
+Dr. Joshua Pearce's bombshell paper, which warned that email signatures contribute to climate-related deaths, became the hottest trend since people realized their sourdough starters were consuming more resources than a small country. The study garnered over 4.7 million pageviews in its first week—traffic that, according to the researchers' own "1,000-ton rule," generated enough carbon emissions to cause the premature deaths of approximately six human beings.
+
+"We're absolutely thrilled with these engagement metrics," said Marcus Thompson, the university's head of digital communications. "Our server farms had to spin up additional capacity just to handle the traffic. That's impact!"
+
+When reached for comment, Dr. Pearce responded to all inquiries with an email containing zero signatures but including an auto-generated carbon calculator script that helpfully estimates the environmental impact of reading his message. The custom JavaScript widget (weighing in at a svelte 12.7MB) shows a real-time counter of how many micro-deaths you're causing with each second you spend reading his email.
+
+In what critics are calling "the most electrifying development in carbon-footprint irony," Dr. Pearce's research team recently unveiled a machine-learning algorithm that analyzes BILLIONS of emails to determine which signatures are most lethal to our precious planet. The AI system—which runs on a dedicated server farm consuming enough electricity to power Rhode Island for a week—has so far analyzed approximately 7.3 trillion emails to create what Dr. Pearce calls "the definitive death-by-signature calculator."
+
+"Each unnecessary kilobyte kills," Dr. Pearce explained in a mass email blast to 3.4 million recipients.
+
+The crowning achievement came last month when Dr. Pearce was awarded the prestigious "Digital Sustainability Champion Award," which required all nominees to submit 4K video applications, participate in daily Zoom interviews, and ultimately fly to the in-person ceremony in Bali. The award itself—a crystal trophy embedded with an always-on digital display showing real-time carbon statistics—consumes approximately 200 watts of continuous power.
+
+"We're saving the planet one byte at a time," Dr. Pearce announced during his 47-minute acceptance speech, which was livestreamed in 8K resolution to empty conference rooms in 142 countries.
+
+At press time, Dr. Pearce was reportedly developing a new carbon-neutral email solution that only works if you print it out and mail it using a courier service that exclusively employs runners who eat only locally-sourced vegan protein.`
+},
 ]
 
 /*{
