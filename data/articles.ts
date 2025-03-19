@@ -9863,10 +9863,42 @@ The crowning achievement came last month when Dr. Pearce was awarded the prestig
 
 At press time, Dr. Pearce was reportedly developing a new carbon-neutral email solution that only works if you print it out and mail it using a courier service that exclusively employs runners who eat only locally-sourced vegan protein.`
 },
+{
+    id: 359,
+    articleUrl: `2025-03-19-roku-breaking-point`,
+    category: `tech`,
+    img: `/images/2025-03-19-roku-breaking-point.webp`,
+    alt: `xxx`,
+    header: `Roku's "Breaking Point" Study Measures Exact Moment Users Throw TVs Out Window`,
+    subhead: `Company pioneers revolutionary "pre-content content" to maximize ad delivery before viewer revolt`,
+    tags: [`Roku`,],
+    author: `Et Al`,
+    datePublished: new Date(2025,2,19,7),
+    articleBody: `
+Roku scientists have made a groundbreaking discovery in the field of human-advertisement tolerance, unveiling what company insiders are calling "Operation Last Straw" – a daring experiment to determine precisely how many unskippable video ads users will endure before hurling their streaming devices into the nearest trash receptacle.
+
+"We've already mastered the art of showing ads on the home screen," explained fictional Roku executive Ted Viewerton, while demonstrating the company's proprietary "Frustration Monetization Calculator" that converts user rage directly into projected quarterly earnings. "Our data shows that every increase of 2.7 rage points translates to approximately $4.2 million in additional revenue."
+
+The company's rigorous A/B testing program alternates between "merely annoying" and "relationship-ending" advertisement placement strategies. Early results indicate that the "makes you question all your life choices" tier generates 34% more advertiser interest despite causing a 78% increase in remote-throwing incidents.
+
+"We've completely gamified the ad experience," enthused Roku's Chief Viewer Frustration Officer. "Our new countdown clock to the home screen resets whenever our eye-tracking technology detects viewers looking away. It's revolutionary engagement science!"
+
+The backbone of this initiative is Roku's proprietary "Viewer Breaking Point Algorithm™" which calculates with 99.4% accuracy exactly when different demographics will snap. "Empty nesters crack around 14 seconds, millennials at 23, while Gen Z surprisingly holds out until 38 seconds before switching to TikTok," noted the algorithm's developer.
+
+User testimonials have been pouring in since the test began. "I now experience intense Pavlovian dread whenever I hear my TV power on," shared Marcus Wilkins of Dayton, Ohio. "Last night my microwave beeped and I instinctively screamed 'SKIP AD!'"
+
+The company has partnered with psychology researchers from fictional Streaming State University to study "learned helplessness in the streaming environment." Lead researcher Dr. Jennifer Hammond explained: "We're examining how viewers transition from active resistance to complete submission after the third consecutive ad for meal kit delivery services."
+
+"Forcing users to watch ads before they can see more ads represents true innovation in the vertical ad-space continuum," said Roku's VP of Monetization Pathways with a completely straight face. "It's not just content before content—it's pre-content content."
+
+Perhaps most concerning is Roku's upcoming feature that detects when viewers are reaching for alternative streaming devices and triggers what executives call a "retention ad experience"—a sudden increase in volume coupled with flashing screen effects designed to disorient users long enough to forget why they were getting up in the first place.
+
+At press time, a focus group participant was observed whispering sweet nothings to her Amazon Fire Stick, having finally reached her breaking point after Roku's latest test of a feature that pauses ads when you close your eyes.`
+},
 ]
 
 /*{
-    id: 35x,
+    id: 36x,
     articleUrl: `2025-03-10-xxx-xxx-xxx`,
     category: `tech`,
     img: `/images/20251200-xxx-xxx-xxx.webp`,
