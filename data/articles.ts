@@ -9868,7 +9868,7 @@ At press time, Dr. Pearce was reportedly developing a new carbon-neutral email s
     articleUrl: `2025-03-19-roku-breaking-point`,
     category: `tech`,
     img: `/images/2025-03-19-roku-breaking-point.webp`,
-    alt: `xxx`,
+    alt: `A smart TV with a luminescent brain and dollar signs.`,
     header: `Roku's "Breaking Point" Study Measures Exact Moment Users Throw TVs Out Window`,
     subhead: `Company pioneers revolutionary "pre-content content" to maximize ad delivery before viewer revolt`,
     tags: [`Roku`,],
@@ -9895,11 +9895,51 @@ Perhaps most concerning is Roku's upcoming feature that detects when viewers are
 
 At press time, a focus group participant was observed whispering sweet nothings to her Amazon Fire Stick, having finally reached her breaking point after Roku's latest test of a feature that pauses ads when you close your eyes.`
 },
+{
+    id: 360,
+    articleUrl: `2025-03-20-musk-resistance-is`,
+    category: `tech`,
+    img: `/images/2025-03-20-musk-resistance-is.webp`,
+    alt: `A flaming Tesla logo with a crown of thorns above a protest.`,
+    header: `Musk: "Resistance Is Futile," Vows DOGE War on Fire Departments`,
+    subhead: `Tech CEO's response to burning Teslas includes plans to "optimize" firefighting industry out of existence`,
+    tags: [`Tesla`, `Elon Musk`, `DOGE`],
+    author: `Et Al`,
+    datePublished: new Date(2025,2,20,7),
+    articleBody: `
+Tesla CEO Elon Musk escalated his response to recent Tesla vehicle arsons by channeling his inner Borg collective during an early morning X-storm that left his followers both confused and terribly excited.
+
+"Resistance is futile!" Musk tweeted at 3:42 AM from what sources describe as his definitely-not-a-secret volcano lair in Austin. "The anti-Tesla resistance will be assimilated into the algorithm!"
+
+Following reports that multiple Tesla vehicles were set ablaze in Las Vegas and Kansas City, Musk announced his Department of Government Efficiency (DOGE) would immediately begin investigating fire departments for "suspicious anti-innovation bias" and "excessive water usage on perfectly good lithium batteries."
+
+"Fire departments are clearly in the pocket of Big Oil," Musk declared in a 47-part tweet thread. "But what the mainstream media won't tell you is that these arsonists are secretly funded by Big Match and Big Lighter industries threatened by our disruption of the traditional combustion market!"
+
+Musk later proposed replacing all firefighters with "fire prevention algorithms" that can predict arson before it happens "with only a 74% false positive rate, which is actually perfect if you think about it in four dimensions."
+
+When reached for comment, Las Vegas Fire Chief Jeremy Martinez responded: "I don't even know where to begin with that."
+
+In a press conference held exclusively on X Spaces, Musk compared himself to both Marie Curie and Prometheus in the same breath. "Like Curie, I'm being poisoned by my own revolutionary discoveries, and like Prometheus, I'm being punished for bringing fire—or in this case, anti-fire technology—to humanity."
+
+The eccentric billionaire also announced Tesla would be renaming vehicle fires as "rapid oxidation events," claiming the company had invented a way to make them "420% more efficient" and "carbon-neutral if you don't count the actual carbon being released."
+
+"All future Teslas will be manufactured from definitely fire-proof materials," Musk promised in yet another late-night tweetstorm. "They're still in development but they'll be ready by Q4 2026 or whenever the Mars colony needs its first fire station."
+
+Perhaps most baffling was Musk's insistence that the fires are actually a feature showing how Teslas "disrupt the conventional vehicle destruction paradigm" and demonstrate the company's commitment to "innovative end-of-life vehicle experiences."
+
+Musk also unveiled plans for a new "TeslaSprinkle™" system that's "technically just water but with machine learning" that will be standard on all vehicles by 2027.
+
+Attorney General Pamela Bondi issued a statement calling the Tesla arsons "nothing short of domestic terrorism," which Musk promptly retweeted with the caption "See? Even the government agrees I'm being persecuted!"
+
+Meanwhile, Tesla's stock surged 17% on news that Musk had threatened to send all arsonists to Mars as "unwitting beta testers for our oxygen deprivation experiments."
+
+At press time, Musk had permanently banned all suspected arsonists from X, identifying them through what he called "definitely accurate flame-enthusiast detection algorithms" that somehow also suspended accounts of most firefighters and anyone who had ever posted about campfires.`
+},
 ]
 
 /*{
     id: 36x,
-    articleUrl: `2025-03-10-xxx-xxx-xxx`,
+    articleUrl: `2025-03-2x-xxx-xxx-xxx`,
     category: `tech`,
     img: `/images/20251200-xxx-xxx-xxx.webp`,
     alt: `xxx`,
@@ -9907,6 +9947,6 @@ At press time, a focus group participant was observed whispering sweet nothings 
     subhead: `xxx`,
     tags: [`xxx`,],
     author: `Et Al`,
-    datePublished: new Date(2025,2,10,7),
+    datePublished: new Date(2025,2,2x,7),
     articleBody: `xxx`
 },*/
