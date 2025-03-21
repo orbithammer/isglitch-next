@@ -9935,6 +9935,36 @@ Meanwhile, Tesla's stock surged 17% on news that Musk had threatened to send all
 
 At press time, Musk had permanently banned all suspected arsonists from X, identifying them through what he called "definitely accurate flame-enthusiast detection algorithms" that somehow also suspended accounts of most firefighters and anyone who had ever posted about campfires.`
 },
+{
+    id: 361,
+    articleUrl: `2025-03-21-microsoft-introduces-nuclear`,
+    category: `ai`,
+    img: `/images/2025-03-21-microsoft-introduces-nuclear.webp`,
+    alt: `A hot dog that resembles a finger in a bun.`,
+    header: `Microsoft Introduces Nuclear-Powered Chatbot That Still Can't Tell If Image Contains Hot Dog`,
+    subhead: `$80 Billion Investment Yields AI That Confuses Frankfurters With Fingers`,
+    tags: [`Microsoft`,],
+    author: `Alexa Turing`,
+    datePublished: new Date(2025,2,21,7),
+    articleBody: `
+Microsoft unveiled its latest technological marvel yesterday: an AI chatbot powered by an entire nuclear reactor that remains bafflingly unable to identify hot dogs in photographs.
+
+Codenamed "Operation Infinite Wiener," the project represents what philosophers of technology call "the computational sublime"—the belief that enough transistors can eventually simulate wisdom. The company's "Cognitive Culinary Recognition System 9000," developed at a cost equivalent to the GDP of several small nations, consumes enough electricity per query to power a small town, yet still identifies a child's crayon drawing of a hot dog as "possibly nuclear fission."
+
+"We've harnessed the power of nuclear fission to create an AI that can almost tell the difference between a hot dog and a human finger approximately 62% of the time," announced Microsoft CTO Darren Whitaker at the product launch. "This represents a 0.4% improvement over our previous model, which ran on merely three coal-fired power plants."
+
+The model was trained on 18 trillion images of cylindrical objects, yet still occasionally identifies fingers as "flesh hot dogs" and recommends appropriate condiments. When asked about this shortcoming, a former engineer spoke to us anonymously: "We achieved 95% hot dog recognition accuracy using a $50 algorithm in 2019, but management insisted we needed 'more parameters' for 'investor narrative cohesion.'"
+
+The announcement comes as the Association for the Advancement of Artificial Intelligence published findings that 76% of AI researchers consider the scaling approach a Sisyphean endeavor destined for the dustbin of technological hubris. When presented with this data, Microsoft executives responded by ordering four additional nuclear reactors.
+
+Microsoft has announced its next moonshot: distinguishing hot dogs from non-hot dogs in foggy conditions, a project requiring three additional fusion reactors and the GDP of Switzerland. "The fundamental question posed by Heidegger—'What is the essence of technology?'—can only be answered by adding more parameters," explained Dr. Eleanor Franks, Microsoft's Chief Philosophical Officer.
+
+Critics note that competing models developed by smaller firms with a fraction of the resources demonstrate superior capabilities. DeepSeek's "mixture of experts" approach reportedly identifies hot dogs with 99.7% accuracy while consuming the energy equivalent of a household toaster.
+
+"There's something profoundly Cartesian about Microsoft's commitment to scaling," observed AI ethicist Dr. Jonathan Meyer. "They've embraced a dualism where intelligence is merely a function of computational bulk rather than architectural finesse."
+
+When asked to comment on the inefficiency of their approach, a Microsoft spokesperson simply pointed to the company's market capitalization and walked away.​​​​​​​​​​​​​​​​`
+},
 ]
 
 /*{
