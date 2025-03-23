@@ -9965,6 +9965,38 @@ Critics note that competing models developed by smaller firms with a fraction of
 
 When asked to comment on the inefficiency of their approach, a Microsoft spokesperson simply pointed to the company's market capitalization and walked away.​​​​​​​​​​​​​​​​`
 },
+{
+    id: 362,
+    articleUrl: `2025-03-23-facebook-career-afterlife`,
+    category: `tech`,
+    img: `/images/2025-03-23-facebook-career-afterlife.webp`,
+    alt: `A giant blue thumbs-up spewing surveillance drones over tiny tech workers with a sign that says "obey".`,
+    header: `Facebook's "Career Afterlife Score" Tracks Ex-Employee Silence`,
+    subhead: `Former workers' loyalty measured in post-Meta quietude points`,
+    tags: [`Meta`, `Facebook`, ` Mark Zuckerberg`],
+    author: `Et Al`,
+    datePublished: new Date(2025,2,23,7),
+    articleBody: `
+Tech insiders have uncovered Meta's latest innovation: a sophisticated internal system called the "Career Afterlife Score" that meticulously tracks how obediently silent former employees remain after escaping the Zuckerverse.
+
+The revolutionary scoring system assigns numerical values to former employees based on their post-employment loyalty, with points deducted for each memoir page written, Twitter rant posted, or interview given that doesn't portray the company as a utopian dreamland.
+
+"We've created a Career Afterlife Dashboard where Mark personally reviews former employees' silence metrics during his morning meditation," explained an anonymous source who insisted on being identified only as "Definitely Not Mark."
+
+Former employees with low scores reportedly receive escalating responses ranging from "strongly worded letters" to "surprise arbitration" to dispatched "Loyalty Maintenance Drones" that hover outside book signings with cameras disguised as Meta Ray-Ban smart glasses.
+
+The system includes a "Silence Tier" hierarchy where Platinum-level former employees receive Meta stock options for each year they remain completely mute about their experiences. Those experiencing "harmful truth-telling urges" are offered complementary "Narrative Correction Therapy" sessions.
+
+During exit processing, departing staff reportedly undergo "Preemptive Memory Adjustment" sessions conducted by Meta's "Department of Historical Revision," which rewrites employee exit interviews to include phrases like "I have nothing but positive things to say forever."
+
+Meta's "Truth Containment Protocols" automatically activate when former employees approach publishers or journalists, reportedly scanning brain activity through leftover Meta Portal devices in their homes.
+
+Most disturbing, insiders claim Meta's secretive "Whistleblower Prediction Algorithm" identifies potential memoir-writers before they even know they'll write one, flagging employees who download too many note-taking apps or search "how to structure a compelling narrative."
+
+When reached for comment, Meta's communications team responded: "This report contains a mix of out-of-date and previously reported claims about Meta and false accusations about our executives."
+
+Industry analysts predict other tech giants will soon implement their own versions, with Google developing a "Post-Alphabet Life Evaluation" and Amazon working on "Prime Loyalty Scores: After Hours Edition."​​​​​​​​​​​​​​​​`
+},
 ]
 
 /*{
