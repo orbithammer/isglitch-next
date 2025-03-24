@@ -9997,9 +9997,47 @@ When reached for comment, Meta's communications team responded: "This report con
 
 Industry analysts predict other tech giants will soon implement their own versions, with Google developing a "Post-Alphabet Life Evaluation" and Amazon working on "Prime Loyalty Scores: After Hours Edition."​​​​​​​​​​​​​​​​`
 },
+{
+    id: 363,
+    articleUrl: `2025-03-24-x-dissent-detector`,
+    category: `tech`,
+    img: `/images/2025-03-24-x-dissent-detector.webp`,
+    alt: `A smartphone with prison bars emerging from the screen, entrapping graduation cap wearing people inside.`,
+    header: `X's "Dissent Detector" Transforms Censorship Into Profit Center`,
+    subhead: `Tech Giant Monetizes Repression After Turkey Success Story`,
+    tags: [`Twitter`,],
+    author: `Et Al`,
+    datePublished: new Date(2025,2,24,7),
+    articleBody: `
+X has unveiled its revolutionary "Dissent Detector" algorithm, fresh off a wildly successful beta test in Turkey where student protests are SO last season, according to trending dictator fashion.
+
+"We realized we were leaving money on the table by just complying with government censorship requests for free," explained Terry Williamson, X's newly appointed Chief Oppression Officer. "Why not package our student-silencing technology and sell it to every regime with disposable income and citizens who won't dispose themselves?"
+
+The service, now available through a convenient subscription model called "X Premium Repression+", offers multiple tiers:
+- BASIC ($5M/month): Blocks 50k activists
+- PREMIUM ($10M/month): Erases entire protest movements
+- DICTATOR ELITE ($25M/month): Pre-emptively bans citizens before they even think dissident thoughts!
+
+"Our Turkey deployment exceeded all expectations," Williamson boasted while adjusting his "Free Speech Absolutist" lapel pin. "Our proprietary 'Voice Elimination Index' achieved 99.7% student silence in just 48 hours – a new company record! Previously held by our Azerbaijan rollout."
+
+X's mission statement has been quietly updated from "Free Speech Platform" to "Freedom FROM Speech Platform™" with an asterisk noting "additional fees may apply."
+
+The Dissent Detector™ comes with impressive features including:
+- InstaBan technology (identifies and blocks accounts faster than you can say "human rights violation")
+- SolidaritySeeker (targets university solidarity accounts with 99.8% accuracy)
+- DemocracyDimmer (gradually reduces bandwidth to protest-related hashtags)
+- Protest Predictor Plus™ that monitors university WiFi networks for suspicious searches like "democracy," "rights," or "how to make protest signs"
+
+Early adopters report overwhelming satisfaction. "Before Dissent Detector, we wasted millions on traditional suppression methods like actual police. Now we just click 'Silence All' and take the afternoon off!" said an anonymous official from a Country That Definitely Respects Human Rights.
+
+When pressed about ethical concerns, a company spokesperson clarified: "It's not censorship—it's algorithmic content curation with dictatorial optimization!"
+
+Pre-orders are reportedly flooding in from countries with troublesome youth populations and inconvenient democratic tendencies, as X positions itself to dominate the lucrative "democracy suppression as a service" sector, estimated to be worth billions in untapped potential.`
+},
 ]
 
-/*{
+/*
+{
     id: 36x,
     articleUrl: `2025-03-2x-xxx-xxx-xxx`,
     category: `tech`,
@@ -10011,4 +10049,5 @@ Industry analysts predict other tech giants will soon implement their own versio
     author: `Et Al`,
     datePublished: new Date(2025,2,2x,7),
     articleBody: `xxx`
-},*/
+},
+*/
