@@ -10034,6 +10034,34 @@ When pressed about ethical concerns, a company spokesperson clarified: "It's not
 
 Pre-orders are reportedly flooding in from countries with troublesome youth populations and inconvenient democratic tendencies, as X positions itself to dominate the lucrative "democracy suppression as a service" sector, estimated to be worth billions in untapped potential.`
 },
+{
+    id: 364,
+    articleUrl: `2025-03-25-hegseth-magical-autocorrect`,
+    category: `tech`,
+    img: `/images/2025-03-25-hegseth-magical-autocorrect.webp`,
+    alt: `A smartphone with an open door on the screen.`,
+    header: `Hegseth's Magical Autocorrect Claims Yemen Strike Plans Wrote Themselves`,
+    subhead: `Defense Secretary Tops National Autocorrect Excuse Ranking™ With Unprecedented Phone Alibi`,
+    tags: [`Signal`,],
+    author: `Et Al`,
+    datePublished: new Date(2025,2,25,7),
+    articleBody: `
+U.S. Defense Secretary Pete Hegseth has achieved what experts are calling "the Mount Everest of technological alibis" by suggesting his phone's autocorrect functionality independently generated an entire military strategy about bombing Yemen (and then helpfully added a journalist to witness it!).
+
+According to the newly released Autocorrect Excuse Ranking™, Hegseth's claim that "nobody was texting war plans" has shattered previous records, placing well above classic favorites like "my cat walked on the keyboard," "I was hacked," and the timeless "my little cousin had my phone."
+
+"We've never witnessed such a breathtaking advancement in excuse technology," reported Dr. Amanda Reyes, lead researcher at the Institute for Digital Alibi Studies (which definitely exists and isn't something we just made up for this article). "Most officials stick with basic excuses, but Secretary Hegseth has pioneered an entirely new frontier of implausibility."
+
+The 18-person "Houthi PC small group" chat—featuring top officials discussing Yemen strike plans—was allegedly created, populated, and managed by sentient smartphones without human direction. The Pentagon's recently declassified Implausibility Scale rates this excuse as a perfect 10 out of 10, placing it firmly between "my dog ate my nuclear codes" and "the classified documents teleported themselves into my beach house" on the believability spectrum.
+
+Dr. Lionel Murphy, the Pentagon's chief Autocorrect Behavior Specialist (a position created approximately 17 minutes after this scandal broke), explained: "Government-issued phones often develop strong geopolitical opinions, particularly regarding Middle Eastern affairs. It's quite common for a Defense Department smartphone to independently draft complex military strategies while its owner is completely unaware. This happens all the time, especially when politically inconvenient!"
+
+When questioned about similarities to Hillary Clinton's email controversy, White House spokesperson Brian Hughes insisted this situation was "completely different" because "emails can't blame autocorrect" (a statement that has already been added to the Autocorrect Excuse Ranking™ appendix as "most envious response from a previous scandal participant").
+
+Internal Pentagon training materials now include a new section titled "How to Tell If Your Autocorrect Is Planning Foreign Policy Without Your Knowledge," featuring helpful warning signs such as "your phone keeps suggesting 'bomb' when you type 'brunch'" and "journalists keep showing up in your classified chats uninvited."
+
+As of press time, Signal engineers were reportedly developing a revolutionary new feature called "Plausible Deniability Mode™" allowing officials to pre-emptively blame autocorrect for any future communications disasters (available exclusively to government accounts with security clearance and creative explanation skills).`
+},
 ]
 
 /*
