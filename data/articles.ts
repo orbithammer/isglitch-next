@@ -10062,6 +10062,38 @@ Internal Pentagon training materials now include a new section titled "How to Te
 
 As of press time, Signal engineers were reportedly developing a revolutionary new feature called "Plausible Deniability Mode™" allowing officials to pre-emptively blame autocorrect for any future communications disasters (available exclusively to government accounts with security clearance and creative explanation skills).`
 },
+{
+    id: 365,
+    articleUrl: `2025-03-26-google-rebrands-military`,
+    category: `tech`,
+    img: `/images/2025-03-26-google-rebrands-military.webp`,
+    alt: `A Google flying drone with a bomb underneath.`,
+    header: `Google Rebrands Military Division: "Don't Be Evil, But Like, Ironically™"`,
+    subhead: `Tech giant unveils new slogan after $8 billion Wiz acquisition, doubles down on defense contracts`,
+    tags: [`Google`, `Wiz`],
+    author: `Et Al`,
+    datePublished: new Date(2025,2,26,7),
+    articleBody: `
+MOUNTAIN VIEW, CA—Following its $8 billion acquisition of cybersecurity firm Wiz, Google announced yesterday the official rebranding of its defense contracts division in what critics are calling "peak corporate self-parody."
+
+The division—formerly known as "Google Enterprise Solutions for National Security"—will now operate under the catchy slogan "Don't Be Evil, But Like, Ironically™" complete with irony-signaling trademark symbol and unnecessary quotation marks for maximum plausible deniability.
+
+"We've found that embracing evil with a wink is 37% more profitable than pretending we're still the good guys," explained CEO Sundar Pichai during a champagne toast at the unveiling of Google's new Department of Strategic Hypocrisy, which measures the optimal gap between stated values and actual business practices.
+
+The company's sprawling new campus features "Ethical Compromise Pods" where employees can rationalize their contributions to weapons systems while enjoying kombucha on tap and meditation sessions led by former philosophy professors now specializing in "flexible moral frameworks."
+
+New hires must complete the mandatory "Moral Flexibility Training" program and pass a course called "Ethics: From Principle to Punchline" before receiving their first project assignments. Employee performance reviews now include an "ethical flexibility score" that measures workers' ability to "reimagine moral boundaries" when faced with potentially lucrative military contracts.
+
+Google has also released an internal Chrome extension that automatically changes the definition of "evil" to "potentially profitable opportunity" when searched on company devices.
+
+In related news, Google's AI ethics board has been replaced with a Magic 8-Ball that only answers "Revenue Positive? Then Proceed" regardless of which ethical dilemma is presented. The company's internal documentation suggests the new system has improved decision-making efficiency by 94%.
+
+A leaked presentation titled "Weaponizing Self-Awareness: How To Monetize Your Own Moral Decline" revealed the company's five-year strategy to "leverage cynical transparency as a growth vertical."
+
+When asked about potential public backlash, Marcus Reynolds, Google's newly appointed Chief Irony Officer, shrugged while adjusting his "Disrupting Ethics" t-shirt. "Listen, we're just giving the people what they want—cutting-edge technology with a side of soul-crushing ethical compromise."
+
+At press time, Google's stock had risen 12% on news of the rebrand, proving once again that in Silicon Valley, self-awareness is the most valuable currency of all.​​​​​​​​​​​​​​​​`
+},
 ]
 
 /*
