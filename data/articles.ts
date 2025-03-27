@@ -10094,6 +10094,41 @@ When asked about potential public backlash, Marcus Reynolds, Google's newly appo
 
 At press time, Google's stock had risen 12% on news of the rebrand, proving once again that in Silicon Valley, self-awareness is the most valuable currency of all.​​​​​​​​​​​​​​​​`
 },
+{
+    id: 366,
+    articleUrl: `2025-03-27-signal-introduces-moron`,
+    category: `tech`,
+    img: `/images/2025-03-27-signal-introduces-moron.webp`,
+    alt: `A clown wearing a suit typing on his smartphone while sitting on a missile.`,
+    header: `Signal Introduces 'Moron Mode' to Prevent National Security Blunders`,
+    subhead: `New feature automatically detects and blocks messages about bombing civilian targets`,
+    tags: [`Signal`,],
+    author: `Et Al`,
+    datePublished: new Date(2025,2,27,7),
+    articleBody: `
+Signal, the end-to-end encrypted messaging app beloved by privacy enthusiasts and government officials with questionable judgment, announced today a groundbreaking new feature specifically designed for high-ranking defense personnel who can't seem to understand basic operational security.
+
+"After extensive research into our users' needs—and spectacular failures—we're proud to introduce 'Moron Mode,'" explained Signal spokesperson Mark Richards while demonstrating the app's new "Tactical Crayon Mode" interface that uses primary colors and simple shapes to help officials grasp basic security concepts. "Our revolutionary Threat Detection Algorithm now correctly identifies the user as the primary security vulnerability in any communication."
+
+The feature comes in response to recent revelations that top officials including Pete Hegseth and Michael Waltz discussed sensitive military operations in Yemen via Signal, only to inadvertently include someone they absolutely should not have.
+
+Moron Mode includes several revolutionary safeguards:
+
+- A mandatory 30-second "Are You Sure?" countdown timer before sending any message containing both "bomb" and "apartment building"
+- Automatic contact verification requiring users to correctly identify who they're messaging before sending anything marked "OPSEC"
+- A specially designed "Big Red Button" notification that flashes "THIS IS A JOURNALIST YOU MORON" when messaging known media contacts
+- A premium tier called "Adult Supervision" that requires Pentagon babysitters to approve all messages before sending
+
+The company also unveiled their new slogan: "End-to-end encryption can't fix end user stupidity."
+
+Pentagon tech consultant Jack Reynolds praised the update: "Look, no encryption protocol can protect you from yourself. This at least gives us a fighting chance against our own incompetence."
+
+Critics argue the feature doesn't address the larger issue of officials using commercial apps for sensitive communications instead of secure government channels specifically designed for such purposes.
+
+Signal developers acknowledged this limitation: "Unfortunately, we couldn't include a feature that prevents users from being complete idiots. That would require a complete redesign of human nature."
+
+The update will be automatically installed on all devices belonging to anyone with "National Security" in their job title.`
+},
 ]
 
 /*
