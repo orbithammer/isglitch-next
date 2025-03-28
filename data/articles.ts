@@ -10129,6 +10129,36 @@ Signal developers acknowledged this limitation: "Unfortunately, we couldn't incl
 
 The update will be automatically installed on all devices belonging to anyone with "National Security" in their job title.`
 },
+{
+    id: 367,
+    articleUrl: `2025-03-28-reddit-launches-billionaire`,
+    category: `tech`,
+    img: `/images/2025-03-28-reddit-launches-billionaire.webp`,
+    alt: `The Reddit Snoo alien holding a ban hammer protecting a pile of gold coins.`,
+    header: `Reddit Launches "Billionaire Feelings Matter" Moderation Tool`,
+    subhead: `New algorithm prioritizes CEO text messages over actual community guidelines`,
+    tags: [`Reddit`,],
+    author: `Et Al`,
+    datePublished: new Date(2025,2,28,7),
+    articleBody: `
+Reddit announced today the rollout of their groundbreaking "Billionaire Feelings Matter" moderation system, a revolutionary AI tool designed to instantly detect when a tech CEO's emotions should override years of established community standards.
+
+"We're excited to introduce our innovative Billionaire Sentiment Analysis Engine," said an unnamed Reddit spokesperson while nervously checking their phone. "Our advanced algorithm not only responds to direct complaints but can predict when a billionaire might potentially become upset about content they haven't even seen yet."
+
+The system features a proprietary wealth-to-outrage conversion calculator that automatically determines appropriate action levels. "For every billion in net worth, we can delete approximately 1,247 non-violating comments," explained Reddit's Chief Ego Protection Officer. "It's just simple math."
+
+Moderators now operate under a sophisticated tiered response system: "DEFCON 5 is when a user merely mentions a billionaire's name. DEFCON 1 is when someone suggests they pay taxes," revealed a training document leaked to reporters.
+
+The mood prediction algorithm tracks billionaire sleep cycles and market fluctuations to anticipate optimal content moderation times. "If Nasdaq drops more than 2% or the billionaire tweets after 2 AM, we automatically lock down 30% of all political subreddits as a precaution," said a developer who requested anonymity.
+
+Reddit has also implemented a new trophy system for exceptional moderators. "The Platinum Bootlicker Award goes to any mod team with zero billionaire complaints for 30 consecutive days," explained a community manager. "Current record: 4 hours, 17 minutes."
+
+When public backlash occurs, the platform deploys its automated apology generator, creating custom statements that blame "community toxicity" whenever a billionaire feels targeted. "The system has over 200 ways to say 'we're sorry you're upset' without actually admitting we caved to pressure," a spokesperson added.
+
+When reached for comment, one Reddit moderator said: "It's actually quite efficient. Now instead of spending hours reviewing content against our written policies, we just wait for someone worth $100+ billion to text our boss. Much simpler!"
+
+The system will be implemented across all subreddits except r/BillionaireFeelingsAreValid, which will remain independently moderated by a team of offshore bank accounts.`
+},
 ]
 
 /*
