@@ -10195,12 +10195,45 @@ When reached for comment, Musk responded via X: "Optimizing linguistic exchange 
 
 The Muskification feature arrives next month, though users can opt out by sending a notarized letter to X headquarters written on sustainable hemp paper, accompanied by a 500-word essay on why technological acceleration represents humanity's optimal path to utopia.`
 },
+{
+    id: 369,
+    articleUrl: `2025-03-30-ssa-makes-seniors`,
+    category: `tech`,
+    img: `/images/2025-03-30-ssa-makes-seniors.webp`,
+    alt: `An elderly woman beside an overheating computer.`,
+    header: `SSA Makes Seniors Mine Crypto to Prove They're Alive for Benefits`,
+    subhead: `New "Proof-of-Life-via-Proof-of-Work" system touted as "revolutionary efficiency measure" by government tech bros`,
+    tags: [`DOGE`, `SSA`,],
+    author: `Et Al`,
+    datePublished: new Date(2025,2,30,7),
+    articleBody: `
+The Social Security Administration unveiled its groundbreaking new verification system yesterday, requiring all 65 million beneficiaries to mine at least 0.0001 Bitcoin monthly to continue receiving payments, adopting the chillingly efficient slogan: "If you can't mine, you must have died."
+
+"Our COBOL systems kept showing 150-year-olds collecting benefits," explained Terry Walton, newly appointed Chief Disruption Officer at SSA. "Obviously, anyone who can successfully configure a GPU mining rig is definitely alive. And our 90+ seniors need to prove they're extra alive, which is why mining difficulty increases 15% for each year past 70."
+
+The initiative comes after DOGE (Department of Government Efficiency) operatives discovered what they called "rampant fraud" in the system. When presented with alternative verification methods, DOGE officials were unimpressed. "Simply answering a phone call was deemed not disruptive enough," according to internal memos leaked to this publication.
+
+"Look, we're modernizing everything in months, not years," said Blake Davidson, a 23-year-old DOGE engineer with six weeks of coding experience and a premium Discord subscription. "If grandma can't figure out a hardware wallet, should she really be trusted with government money?"
+
+Seniors nationwide are reportedly struggling with the new requirements, which include:
+
+- Installing specialized mining software (available only via GitHub repositories)
+- Maintaining a minimum hashrate of 15 MH/s (Medicare coverage tier now directly linked to mining performance)
+- Submitting wallet addresses through a website that crashes hourly
+- Activating their new "Blockchain Benefits Card" by correctly identifying which CAPTCHA images contain Bored Apes
+
+Senior centers across the country have begun offering "Mining Mondays" where volunteers help octogenarians set up mining rigs between bingo games. "We've replaced our knitting circle with a crypto circle," explained Sunset Pines activities director Jim Wallace. "Last week, Mrs. Peterson, 92, actually threatened to 'rage quit' when her rig overheated."
+
+Ethel Johnson, 87, spoke to reporters while attempting to liquid-cool her mining rig in her Florida retirement community. "I fought in Korea, raised four children, and survived disco," she said. "But explaining proof-of-work consensus mechanisms to my bridge club might kill me before my benefits stop."
+
+When asked how seniors without computers would manage, DOGE representatives suggested "asking Elon" before pivoting to their next initiative: replacing all SSA call center staff with an AI trained exclusively on cryptocurrency whitepapers and DMV instruction manuals.`
+},
 ]
 
 /*
 {
     id: 36x,
-    articleUrl: `2025-03-2x-xxx-xxx-xxx`,
+    articleUrl: `2025-03-3x-xxx-xxx-xxx`,
     category: `tech`,
     img: `/images/20251200-xxx-xxx-xxx.webp`,
     alt: `xxx`,
@@ -10208,7 +10241,7 @@ The Muskification feature arrives next month, though users can opt out by sendin
     subhead: `xxx`,
     tags: [`xxx`,],
     author: `Et Al`,
-    datePublished: new Date(2025,2,2x,7),
+    datePublished: new Date(2025,2,3x,7),
     articleBody: `xxx`
 },
 */
