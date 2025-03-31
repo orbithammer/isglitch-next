@@ -10162,7 +10162,7 @@ The system will be implemented across all subreddits except r/BillionaireFeeling
 {
     id: 368,
     articleUrl: `2025-03-29-after-x-acquisition`,
-    category: `tech`,
+    category: `ai`,
     img: `/images/2025-03-29-after-x-acquisition.webp`,
     alt: `An X on a CPU.`,
     header: `After X Acquisition, xAI Will Make All Tweets "Sound More Elonian"`,
@@ -10228,11 +10228,45 @@ Ethel Johnson, 87, spoke to reporters while attempting to liquid-cool her mining
 
 When asked how seniors without computers would manage, DOGE representatives suggested "asking Elon" before pivoting to their next initiative: replacing all SSA call center staff with an AI trained exclusively on cryptocurrency whitepapers and DMV instruction manuals.`
 },
+{
+    id: 370,
+    articleUrl: `2025-03-31-openai-new-feature`,
+    category: `ai`,
+    img: `/images/2025-03-31-openai-new-feature.webp`,
+    alt: `A teen student staring with a vacant look at a tablet screen on his desk.`,
+    header: `OpenAI's New Feature Detects and Eliminates Original Thought`,
+    subhead: `CritIQ™ halts dangerous episodes of independent reasoning before they occur`,
+    tags: [`OpenAI`,],
+    author: `Alexa Turing`,
+    datePublished: new Date(2025,2,31,7),
+    articleBody: `
+SAN FRANCISCO—OpenAI unveiled its latest educational tool yesterday, an AI feature designed to intercept and correct the increasingly rare phenomenon of students attempting to form their own opinions.
+
+The new product, CritIQ™, monitors students' typing patterns, detecting subtle signals that suggest a young mind might be teetering on the precipice of original thought. Upon identifying such cognitive anomalies, the system immediately intervenes with a soothing array of pre-fabricated perspectives.
+
+"We noticed an alarming trend of students occasionally trying to synthesize information themselves," explained Dr. Eleanor Whitfield, OpenAI's Chief Educational Efficiency Officer. "This represents a concerning inefficiency in the modern learning ecosystem. Why struggle through the laborious process of critical thinking when our algorithms have already determined the optimal conclusions?"
+
+The system's "Epistemological Alignment Protocol" ensures student outputs never deviate from approved intellectual frameworks, while its eye-tracking technology measures "dangerous curiosity indicators" that might suggest imminent independent reasoning.
+
+"The Cartesian model of 'I think, therefore I am' is deeply outdated," noted Whitfield. "Our contemporary paradigm is more accurately 'AI thinks, therefore you need not.'"
+
+Schools nationwide are already advertising their impressive "Cognitive Dependency Index" scores in recruitment materials, with elite institutions boasting near-total elimination of original student thought.
+
+CritIQ™ automatically redacts philosophical texts that might trigger dangerous critical engagement and includes a premium feature that preemptively answers questions before students experience the discomfort of wondering about anything.
+
+Stanford cognitive researcher Dr. Marcus Holloway praised the innovation: "Neurological studies clearly demonstrate the wasteful metabolic expenditure involved in independent reasoning. CritIQ™ represents a logical endpoint in educational optimization."
+
+The company has also launched a certification program for "AI-Compliant Educators" who excel at preventing classroom outbreaks of original thought, alongside a "Cognitive Outsourcing Scholarship" for students demonstrating exceptional ability to defer to algorithmic judgment.
+
+Critics argue the system might further atrophy already diminishing critical thinking skills, but OpenAI has dismissed such concerns as "romantically anthropocentric" and has begun automatically flagging "intellectual resistance" for administrative intervention.
+
+"The future of education isn't about teaching students how to think," concluded Whitfield, "but rather teaching them how to effectively outsource thinking to entities that simply do it better. After all, isn't the Hegelian dialectic so much cleaner when we remove the messiness of human subjectivity from the equation?"`
+},
 ]
 
 /*
 {
-    id: 36x,
+    id: 37x,
     articleUrl: `2025-03-3x-xxx-xxx-xxx`,
     category: `tech`,
     img: `/images/20251200-xxx-xxx-xxx.webp`,
