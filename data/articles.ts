@@ -10298,6 +10298,41 @@ When asked if users could opt out of the feature, Reynolds laughed for approxima
 
 Google's stock jumped 12% on the news, proving once again that in Silicon Valley, the most invasive ideas are always the most profitable!`
 },
+{
+    id: 372,
+    articleUrl: `2025-04-02-x-announces-revolutionary`,
+    category: `tech`,
+    img: `/images/2025-04-02-x-announces-revolutionary.webp`,
+    alt: `An X shaped sink with a leaky faucet.`,
+    header: `X Announces Revolutionary 'Pre-Leaked Data' Feature: 'Why Wait for Hackers?'`,
+    subhead: `Platform Innovates by Releasing User Information Before Someone Else Does`,
+    tags: [`Twitter`,],
+    author: `Et Al`,
+    datePublished: new Date(2025,3,2,7),
+    articleBody: `
+Tech giant X shattered cybersecurity paradigms yesterday with its groundbreaking new "Pre-Leaked Data" feature, proactively releasing all 201 million users' personal information in what they're calling "preemptive transparency optimization."
+
+"We're taking a bold, forward-thinking approach to data breaches," explained Chad Obashair, X's newly appointed Chief Vulnerability Officer. "Instead of the outdated model where users anxiously wait for their data to be compromised, we're democratizing the leak process by doing it ourselves!"
+
+According to X's official "Security Evolution Timeline," the company has progressively rebranded what were once called "catastrophic security failures" (2022) to "unexpected data sharing events" (2023) to today's "proactive transparency initiatives" (2025).
+
+Tech analyst Jessica Bennett praised the innovation: "By proactively leaking users' data, X has eliminated the anxiety of wondering WHEN your information will be compromised. It's like ripping off a privacy Band-Aid!"
+
+The Pre-Leaked Data rollout comes with several subscription tiers:
+- Free Plan: Basic identity theft exposure
+- Premium: Enhanced vulnerability with location tracking
+- X Platinum: "We'll create entirely new embarrassing personal details about you that even YOU didn't know existed!"
+
+When questioned about traditional security measures, Obashair scoffed: "Security patches are so defensive and negative. Pre-leaking is growth-oriented and disruptive! Why fix vulnerabilities when you can reframe them as features?"
+
+The company has also updated its terminology guidelines, now referring to hackers as "unauthorized data distribution partners" and data breaches as "surprise sharing opportunities."
+
+Users can opt out of the program by submitting a handwritten letter to X headquarters, which will then be published online with their home address.
+
+The company's new corporate motto, prominently displayed on their updated login page, simply states: "Your Privacy Was Always An Illusion™."
+
+At press time, X was already developing "Pre-Hacked Accounts 2.0" for Q3 release.`
+},
 ]
 
 /*
