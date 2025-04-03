@@ -10341,7 +10341,7 @@ At press time, X was already developing "Pre-Hacked Accounts 2.0" for Q3 release
     alt: `A clean room where an engineer is working on a donation box.`,
     header: `OpenAI Engineers Develop Revolutionary New Technology: The 'Donation Button' for Wikipedia`,
     subhead: `After years of ingesting free knowledge, AI firm discovers reciprocity`,
-    tags: [`OpenAI`, `ChatGPT `],
+    tags: [`OpenAI`, `ChatGPT` ,`Sam Altman`],
     author: `Alexa Turing`,
     datePublished: new Date(2025,3,3,7),
     articleBody: `
