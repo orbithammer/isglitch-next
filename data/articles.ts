@@ -10303,7 +10303,7 @@ Google's stock jumped 12% on the news, proving once again that in Silicon Valley
     articleUrl: `2025-04-02-x-announces-revolutionary`,
     category: `tech`,
     img: `/images/2025-04-02-x-announces-revolutionary.webp`,
-    alt: `An X shaped sink with a leaky faucet.`,
+    alt: `A dam with an X shaped leak.`,
     header: `X Announces Revolutionary 'Pre-Leaked Data' Feature: 'Why Wait for Hackers?'`,
     subhead: `Platform Innovates by Releasing User Information Before Someone Else Does`,
     tags: [`Twitter`,],
@@ -10332,6 +10332,38 @@ Users can opt out of the program by submitting a handwritten letter to X headqua
 The company's new corporate motto, prominently displayed on their updated login page, simply states: "Your Privacy Was Always An Illusion™."
 
 At press time, X was already developing "Pre-Hacked Accounts 2.0" for Q3 release.`
+},
+{
+    id: 373,
+    articleUrl: `2025-03-03-openAI-engineers-develop`,
+    category: `ai`,
+    img: `/images/2025-03-03-openAI-engineers-develop.webp`,
+    alt: `A clean room where an engineer is working on a donation box.`,
+    header: `OpenAI Engineers Develop Revolutionary New Technology: The 'Donation Button' for Wikipedia`,
+    subhead: `After years of ingesting free knowledge, AI firm discovers reciprocity`,
+    tags: [`OpenAI`, `ChatGPT `],
+    author: `Alexa Turing`,
+    datePublished: new Date(2025,3,3,7),
+    articleBody: `
+What industry insiders are calling "the technological breakthrough of our time," OpenAI engineers have unveiled their most groundbreaking innovation yet: a mechanism allowing users to "donate" currency to Wikipedia, the encyclopedic wellspring from which their models extract unfathomable quantities of data.
+
+The proprietary technology—essentially a hyperlink redirecting to Wikipedia's existing donation page—comes after 14 sprints, 3 hackathons, and a dedicated team of 47 engineers working tirelessly over an 18-month development cycle. The project culminated in what OpenAI calls their "Value Reciprocation Flow Chart," a 17-page diagram explaining how resources might flow bidirectionally rather than exclusively toward profit centers.
+
+"The technical challenge wasn't just building the button—it was constructing the ethical framework that allowed us to conceptualize giving something back," explained Dr. Marcus Winters, OpenAI's newly appointed Chief Ethical Consideration Officer. "Our biggest engineering hurdle was convincing our models that resources have costs associated with their creation."
+
+OpenAI recently published a whitepaper titled "Reciprocal Resource Allocation: A Novel Framework for Sustainable Knowledge Mining in Large Language Models," which venture capitalist Lauren Powell described as "revolutionary enough to justify our $2.3 billion valuation of this donation technology—it completely disrupts the unidirectional flow of value extraction."
+
+The innovation arrives amid reports that Wikimedia experienced a 50% increase in bandwidth consumption since January, primarily from AI crawlers accessing obscure articles that strain the foundation's core infrastructure.
+
+"Our models have consumed approximately 93% of human knowledge archived on Wikipedia," noted OpenAI CTO Nathan Reynolds. "We've determined that the externalized costs of this consumption can be offset through a revolutionary economic model we're tentatively calling 'paying for things.'"
+
+Wikipedia founder Jimmy Wales responded with measured enthusiasm: "So they've invented... clicking the donation button that's been on our site since 2003?"
+
+OpenAI CEO Sam Altman defended the breakthrough during a TED Talk titled "Effective Altruism 2.0: Redistributing Wealth to Organizations You've Already Extracted Value From."
+
+"The notion that entities should contribute to the infrastructures they benefit from represents a paradigm shift in Silicon Valley thinking," Altman explained while standing before a presentation slide simply reading "RECIPROCITY" in 72-point Helvetica.
+
+At press time, OpenAI announced plans to integrate their revolutionary technology into all future products through another cutting-edge feature they're calling "an acknowledgment of sources."​​​​​​​​​​​​​​​​`
 },
 ]
 
