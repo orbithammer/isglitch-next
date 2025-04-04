@@ -10373,7 +10373,7 @@ At press time, OpenAI announced plans to integrate their revolutionary technolog
     alt: `A soldier in a server room.`,
     header: `Pentagon's New War Plan: "We Asked ChatGPT For The Angriest Option"`,
     subhead: `Military Officials Replace Strategic Doctrine With AI-Generated Confidence Scores`,
-    tags: [`ChatGPT`, `Donald Trump`],
+    tags: [`ChatGPT`, `Donald Trump`, `Gemini`],
     author: `Alexa Turing`,
     datePublished: new Date(2025,3,4,7),
     articleBody: `
