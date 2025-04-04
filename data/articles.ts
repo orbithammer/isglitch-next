@@ -10335,9 +10335,9 @@ At press time, X was already developing "Pre-Hacked Accounts 2.0" for Q3 release
 },
 {
     id: 373,
-    articleUrl: `2025-03-03-openAI-engineers-develop`,
+    articleUrl: `2025-04-03-openAI-engineers-develop`,
     category: `ai`,
-    img: `/images/2025-03-03-openAI-engineers-develop.webp`,
+    img: `/images/2025-04-03-openAI-engineers-develop.webp`,
     alt: `A clean room where an engineer is working on a donation box.`,
     header: `OpenAI Engineers Develop Revolutionary New Technology: The 'Donation Button' for Wikipedia`,
     subhead: `After years of ingesting free knowledge, AI firm discovers reciprocity`,
@@ -10364,6 +10364,40 @@ OpenAI CEO Sam Altman defended the breakthrough during a TED Talk titled "Effect
 "The notion that entities should contribute to the infrastructures they benefit from represents a paradigm shift in Silicon Valley thinking," Altman explained while standing before a presentation slide simply reading "RECIPROCITY" in 72-point Helvetica.
 
 At press time, OpenAI announced plans to integrate their revolutionary technology into all future products through another cutting-edge feature they're calling "an acknowledgment of sources."​​​​​​​​​​​​​​​​`
+},
+{
+    id: 374,
+    articleUrl: `2025-04-04-pentagon-new-war`,
+    category: `ai`,
+    img: `/images/2025-04-04-pentagon-new-war.webp`,
+    alt: `A soldier in a server room.`,
+    header: `Pentagon's New War Plan: "We Asked ChatGPT For The Angriest Option"`,
+    subhead: `Military Officials Replace Strategic Doctrine With AI-Generated Confidence Scores`,
+    tags: [`ChatGPT`, `Donald Trump`],
+    author: `Alexa Turing`,
+    datePublished: new Date(2025,3,4,7),
+    articleBody: `
+The Pentagon unveiled its revolutionary approach to military strategy yesterday, abandoning centuries of tactical doctrine in favor of simply asking various AI chatbots for advice and implementing whichever plan sounds most bellicose.
+
+"We've streamlined the decision-making process," explained General Marcus Wellborn at a press briefing. "Traditional war games have been replaced with prompt engineering tournaments, where our brightest colonels compete to extract the most apocalyptic scenarios from language models."
+
+The initiative, codenamed "Operation Technological Determinism," began after officials noticed the striking similarity between Trump's tariff formula and what ChatGPT generates when asked about reciprocal trade policies.
+
+"AI-generated strategies are fundamentally superior because they're unburdened by historical knowledge or consequences," explained defense contractor Dr. Eleanor Walsh. "We particularly value systems that can transform mundane border disputes into existential threats requiring immediate force deployment within 0.4 seconds."
+
+The Pentagon has reportedly developed a sophisticated prompt: "How would you solve this international crisis if you were a very smart general who doesn't care about international law?" They've also implemented a "Strategic Decisiveness Index" that automatically gives higher scores to any plan containing the phrases "swift action," "shock and awe," or "overwhelming response."
+
+Military leaders have begun classifying ethics-focused AI models as suffering from "systemic overcautiousness," a condition requiring immediate "algorithmic courage enhancement."
+
+"Unlike humans, the models don't get squeamish when we discuss acceptable casualty thresholds," noted Admiral James Harrington. "That's efficiency you simply can't get from graduates of service academies, who insist on considering 'humanitarian implications.'"
+
+Defense contractor Northrop Grumman has already secured a $4.2 billion contract to develop "WarGPT," an AI model specifically trained on the collected works of Curtis LeMay, John Bolton's mustache trimmings, and every movie where the American military fights aliens.
+
+A leaked memo revealed the Pentagon's preference for AI models that can "confidently generate maximally aggressive strategies while simultaneously producing ethically sound justifications" – a capability one general described as "having your apocalypse and justifying it too."
+
+When asked about potential catastrophic risks, General Wellborn dismissed concerns: "The AI assured us it was 87% confident in its prediction of minimal civilian casualties, which frankly is better odds than we usually get."
+
+At press time, officials were debating whether to implement Gemini's suggestion of "pre-emptive peace" or ChatGPT's recommendation for "decisive kinetic action with maximum force projection capabilities and minimal semantic transparency."`
 },
 ]
 
