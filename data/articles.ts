@@ -10399,6 +10399,34 @@ When asked about potential catastrophic risks, General Wellborn dismissed concer
 
 At press time, officials were debating whether to implement Gemini's suggestion of "pre-emptive peace" or ChatGPT's recommendation for "decisive kinetic action with maximum force projection capabilities and minimal semantic transparency."`
 },
+{
+    id: 375,
+    articleUrl: `2025-04-05-youube-launches-vibes`,
+    category: `tech`,
+    img: `/images/2025-04-05-youube-launches-vibes.webp`,
+    alt: `A dream catcher with the YouTube logo behind.`,
+    header: `YouTube Launches 'Vibes-Based Moderation' Policy Initiative`,
+    subhead: `Platform ditches detailed guidelines for "feeling the content energy" approach`,
+    tags: [`YouTube`,],
+    author: `Et Al`,
+    datePublished: new Date(2025,3,5,7),
+    articleBody: `
+YouTube announced today a revolutionary overhaul to its community guidelines, replacing its complex policy documentation with what executives are calling a "totally intuitive vibes-based moderation system" that promises to simplify content decisions across the platform (and definitely won't lead to inconsistent enforcement whatsoever!).
+
+"Words are just, like, so limiting," explained Marcus Weber, YouTube's newly appointed Chief Vibes Officer. "We've found that actually writing down which specific groups are protected from hate speech was bringing down the platform's overall energy and manifesting negative auras in our codebase."
+
+The new approach eliminates outdated concepts like "explicit rules" and "consistent enforcement" in favor of moderators who "just know it when they feel it." Content will be evaluated on a proprietary scale ranging from "harsh but authentic" to "totally not passing the vibe check," with borderline cases decided via Magic 8-Ball (which is currently on backorder from Etsy).
+
+In a groundbreaking policy clarification, YouTube confirmed that certain previously prohibited slurs are now permitted if said with "really chill energy," used "ironically," or accompanied by the prayer hands emoji.
+
+"Our previous policy approach was too rigid with all those specific protections and examples," Weber added while diffusing essential oils throughout YouTube headquarters. "Think about it—do fish need to explain water? Do birds need to explain sky? Why should we need to explain which marginalized groups deserve basic dignity?"
+
+The company has also replaced its entire legal team with "energy consultants" from Goop, who specialize in determining whether content violations are actually just Mercury retrograde's fault.
+
+Users who feel their content was incorrectly removed can now appeal by sending "positive energy" to an unmonitored email address (positivevibesonly@youtube.void) or by burning sage while chanting their channel name three times into their bathroom mirror.
+
+When pressed about concerns from marginalized communities, Weber assured reporters: "Everyone's totally covered by the vibes system. Trust us! The vibes don't lie—except when they do, but that's also part of the vibe."`
+},
 ]
 
 /*
