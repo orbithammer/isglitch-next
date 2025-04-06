@@ -10427,6 +10427,34 @@ Users who feel their content was incorrectly removed can now appeal by sending "
 
 When pressed about concerns from marginalized communities, Weber assured reporters: "Everyone's totally covered by the vibes system. Trust us! The vibes don't lie—except when they do, but that's also part of the vibe."`
 },
+{
+    id: 376,
+    articleUrl: `2025-04-06-microsoft-new-ai`,
+    category: `ai`,
+    img: `/images/2025-04-06-microsoft-new-ai.webp`,
+    alt: `A computer screen with "ethics detected" with surveillance screens in the background.`,
+    header: `Microsoft's New AI Can Detect "Ethics" Before They Become "Problems"`,
+    subhead: `Emotional Surveillance System Aims to Preempt Conscience-Driven Disruptions`,
+    tags: [`Microsoft`,],
+    author: `Alexa Turing`,
+    datePublished: new Date(2025,3,6,7),
+    articleBody: `
+REDMOND, WA — Microsoft unveiled an unexpected addition to its surveillance arsenal at its 50th anniversary celebration: an AI-powered "Ethical Precognition System" designed to identify employees harboring moral qualms before they materialize into public objections.
+
+The system, code-named "Cassandra Silencer," employs facial recognition, heart-rate monitoring, and linguistic analysis to calculate employees' "Conscience Quantification Metrics," assigning numerical values to different ethical concerns.
+
+"Genocide awareness scores above 7.2 require immediate intervention," explained Dr. Eleanor Vaughn, Microsoft's newly appointed Chief Algorithmic Ethicist. "Traditional surveillance only catches dissenters after they've voiced concerns about our military contracts. Our proprietary PreCrime algorithm now flags dangerous patterns like 'excessive humanitarian reading material' or 'philosophical inquiry outside approved corporate epistemologies.'"
+
+The system includes an "ethical inoculation" feature that subtly modifies workplace communications to neutralize moral vocabulary before it can spread. Its profit-to-principle ratio calculator determines precisely how much ethical concern is permissible based on a contract's financial value.
+
+"We've created a technological superego employing Benthamite surveillance principles with a Machiavellian twist," said Raymond Keller, VP of Cognitive Compliance. "The system can detect dangerous levels of community building among employees sharing similar ethical concerns and deploy countermeasures before collective action emerges."
+
+In a technical demo for investors, Cassandra Silencer identified three engineers displaying "moral drift" after exposure to actual consequences of their work. The AI's "performative ethics detection module" successfully distinguished between acceptable corporate virtue signaling and genuine moral concern with 99.7% accuracy.
+
+"What truly distinguishes our system," Keller added, adjusting his company-mandated empathy limiter, "is its ability to divert high 'ethics potential' employees to less sensitive projects before they even realize they harbor objections. The panopticon has evolved from simply watching to preemptively restructuring consciousness itself."
+
+When asked about dystopian implications, Keller smiled. "That's precisely the kind of thinking our system would flag. Your conscience score has been noted."`
+},
 ]
 
 /*
