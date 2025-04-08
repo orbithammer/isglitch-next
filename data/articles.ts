@@ -10493,6 +10493,40 @@ According to Valley insiders, the current market rate for a presidential pardon 
 
 Recruitment firms report former Trump administration officials now commanding eight-figure packages purely for their pardon-procurement capabilities, with one executive searcher noting: "Previous ethical lapses are now considered essential experiential qualifications on these résumés."`
 },
+{
+    id: 378,
+    articleUrl: `2025-04-08-nintendo-execs-rehearse`,
+    category: `entertainment`,
+    img: `/images/2025-04-08-nintendo-execs-rehearse.webp`,
+    alt: `Mario looking down beside a shipping container.`,
+    header: `Nintendo Execs Rehearse $600 Switch 2 Spin: "It's About Courage"`,
+    subhead: `Company workshops bold euphemisms for "tariff surcharge"`,
+    tags: [` Nintendo`, ` Donald Trump`],
+    author: `Pieter Klykbeit`,
+    datePublished: new Date(2025,3,8,7),
+    articleBody: `
+Wood-paneled boardroom mirrors at Nintendo headquarters reflect senior executives perfecting the corporate doublespeak needed to transform economic necessity into marketing virtue.
+
+"The Switch 2 isn't just $600 because of tariffs," practices CMO Takahashi Miyazaki, maintaining unwavering eye contact with his reflection. "It's $600 because we believe in _courage_. The courage to charge what the market will bear." After thirty seconds without blinking, he adds, "This price point actually saves you money in the long run," his eyes watering slightly from the effort.
+
+An internal pricing document leaked to reporters reveals Nintendo's meticulous linguistic engineering: phrases like "tariff surcharge" and "import tax pass-through" appear crossed out with red pen, replaced with "joy enhancement fee" and "experiential value adjustment."
+
+Sources confirm Nintendo has deployed its proprietary "Courage Pricing Algorithm," a sophisticated spreadsheet that automatically adds 20% to any price point competitors might consider reasonable, then calculates maximum psychological threshold before widespread consumer revolt.
+
+"We've developed a comprehensive reframing workshop," whispers a junior marketing manager. "Yesterday, they made us practice explaining the price to our disappointed children without breaking character." Training sessions reportedly include exercises where employees must maintain smiles while role-playing parents screaming, "Six hundred dollars for Mario?!"
+
+A company-wide memo titled "Vocabulary Control Directive" explicitly prohibits staff from using terms like "expensive," "overpriced," "highway robbery," "obscene profit margin," or "predatory capitalism" in any public communications. Approved alternatives include "premium experience investment" and "heritage gaming valuation."
+
+In a closed-door brainstorming session, executives enthusiastically workshopped positioning the price increase as "Nintendo's contribution to fighting inflation by reducing disposable income" and "a patriotic response to encourage domestic savings."
+
+"When speaking to gaming journalists, remember to deploy the 'true fan' narrative," instructs PR Director Kenji Yamamoto in a training video. "Practice saying 'True fans understand that authentic gaming experiences have always commanded premium pricing' with absolute conviction."
+
+Senior executives dedicate afternoons to mirror practice, perfecting dismissive hand gestures while delivering lines about competitor pricing. "You get what you pay for," recites CFO Hiroshi Tanaka, struggling to suppress a smirk. "Quality isn't cheap," he adds, before breaking into uncontrollable laughter that takes three minutes to subside.
+
+When reached for comment, Nintendo offered only: "In keeping with our commitment to family-friendly content, we have nothing to say about fucking tariffs."
+
+The Switch 2 launches June 5th at a price point executives promise will be "whatever economists, global trade policies, and your apparently limitless willingness to pay for nostalgia dictate."​​​​​​​​​​​​​​​​`
+},
 ]
 
 /*
