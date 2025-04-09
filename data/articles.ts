@@ -10501,7 +10501,7 @@ Recruitment firms report former Trump administration officials now commanding ei
     alt: `Mario looking down beside a shipping container.`,
     header: `Nintendo Execs Rehearse $600 Switch 2 Spin: "It's About Courage"`,
     subhead: `Company workshops bold euphemisms for "tariff surcharge"`,
-    tags: [` Nintendo`, ` Donald Trump`],
+    tags: [` Nintendo`, ` Donald Trump`, `Video Games`],
     author: `Pieter Klykbeit`,
     datePublished: new Date(2025,3,8,7),
     articleBody: `
@@ -10526,6 +10526,34 @@ Senior executives dedicate afternoons to mirror practice, perfecting dismissive 
 When reached for comment, Nintendo offered only: "In keeping with our commitment to family-friendly content, we have nothing to say about fucking tariffs."
 
 The Switch 2 launches June 5th at a price point executives promise will be "whatever economists, global trade policies, and your apparently limitless willingness to pay for nostalgia dictate."​​​​​​​​​​​​​​​​`
+},
+{
+    id: 379,
+    articleUrl: `2025-04-09-ea-executive-giving`,
+    category: `entertainment`,
+    img: `/images/2025-04-09-ea-executive-giving.webp`,
+    alt: `A robot about to wake a sleeping game dev under his desk with a cup of coffee in the middle of the night.`,
+    header: `EA Executive Giving TED Talk On 'AI Efficiency' Unable To Explain Why Company Still Needs 80-Hour Crunch Weeks`,
+    subhead: `"The algorithms optimize everything except our work-life balance," claims baffled Chief Innovation Officer`,
+    tags: [`Electronic Arts`, `Video Games`,],
+    author: `Pieter Klykbeit`,
+    datePublished: new Date(2025,3,9,7),
+    articleBody: `
+Mark Trevino, Electronic Arts' Chief Innovation Officer, stood awkwardly silent for seventeen excruciating seconds during the Q&A portion of his TED Talk "AI: Gaming's New Efficiency Frontier" when an audience member asked why the company still enforces notorious 80-hour crunch weeks if their AI systems are so revolutionary.
+
+"Well, you see, the neural networks we've implemented have streamlined our asset generation pipeline by approximately 78.3%," Trevino stammered, tugging at his meticulously casual tech-executive collar. "But game development remains, uh... fundamentally a human endeavor requiring passionate commitment."
+
+The $40,000 conference audience watched as Trevino's perfectly rehearsed Silicon Valley optimism evaporated upon reaching slide 34, titled "AI-Optimized Developer Happiness," which featured a clip-art stick figure working beneath fluorescent lights at 3AM with a speech bubble reading "Living the Dream!"
+
+Sources confirm Trevino's presentation included dazzling charts showing how EA's proprietary "CreativeCore™" AI system—"humanely trained on 50,000 hours of unpaid overtime"—can generate "infinite creative variations" while reducing bathroom breaks by 87%. One particularly revealing slide displayed the equation "AI Efficiency + Human Suffering = Shareholder Value" before Trevino hastily clicked forward.
+
+"He kept using these corporate koan phrases," reported attendee Melissa Kazarian. "But when pressed on why their devs still sleep under desks, he launched into their new 'CreativeMartyr™' program where developers compete for the privilege of having their burnout-induced hallucinations fed into the algorithm."
+
+The executive clarified his position by admitting the AI is primarily used to flag employees who search "game developer unions" on company devices. "It's a retention optimization tool," he explained.
+
+Trevino concluded by referencing EA's annual report, which characterizes crunch as "collaborative human-deadline synergy experiences" that "cannot yet be replicated by machines." The report further explains that "biological processing units unfortunately require maintenance that our AI doesn't."
+
+At press time, EA had announced an exciting new AI feature that generates convincing excuses for developers to miss their children's birthday parties. "It's our most requested feature," Trevino noted. "Our devs were spending valuable coding time crafting these explanations themselves."`
 },
 ]
 
