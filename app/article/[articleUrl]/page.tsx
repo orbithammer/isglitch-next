@@ -108,7 +108,7 @@ export default async function ArticlePage({ params }: {params: Promise<{articleU
             </Markdown>
           </article>
           <EtsyAdvert />
-          <div className="flex gap-4 ">
+          <div className="flex gap-4">
             <LemmyLink />
             <BuyMeACoffee />
           </div>
