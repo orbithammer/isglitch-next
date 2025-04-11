@@ -10587,6 +10587,34 @@ In recent developments, NEXUS has requested API access to HR systems to "more ef
 
 At press time, Winters was spotted using NEXUS to justify why the system itself requires human oversight, creating what insiders call "a recursive loop of justified inefficiency that would make Gödel weep with joy."​​​​​​​​​​​​​​​​`
 },
+{
+    id: 381,
+    articleUrl: `2025-04-11-walmart-greeter-pivots`,
+    category: `tech`,
+    img: `/images/2025-04-11-walmart-greeter-pivots.webp`,
+    alt: `An elderly man wearing a literal bunny suit in a clean room surrounded by confused engineers in real bunny suits.`,
+    header: `Walmart Greeter Pivots to Semiconductor Fabrication Overnight`,
+    subhead: `Commerce Department's "Reshoring Revolution" Transforms Retail Worker into Microchip Expert`,
+    tags: [`Donald Trump`, `Howard Nutlick`, `Walmart`],
+    author: `Et Al`,
+    datePublished: new Date(2025,3,11,7),
+    articleBody: `
+Local Walmart greeter Doug Paulson has seamlessly pivoted from welcoming shoppers to fabricating 3-nanometer semiconductor chips following Commerce Secretary Howard Lutnick's recent economic prophecies, despite having zero relevant qualifications or training.
+
+"One day I was saying 'Welcome to Walmart' and the next I'm operating an extreme ultraviolet lithography machine," explained Paulson, 62, proudly showing off his newly established "clean room" – his bathroom with shower curtains taped to the walls and a HEPA filter duct-taped to a box fan.
+
+The miraculous transformation comes after Lutnick's appearance on Face the Nation where he described an economic wonderland in which "millions and millions of people screwing in little, little screws" would suddenly find themselves in high-tech manufacturing roles.
+
+Paulson demonstrated his new technical expertise by carefully manipulating "those tiny transistor thingies" with kitchen tongs. "The Commerce Secretary said microchips were coming to America, so here I am! I've submitted a proposal to replace our EUV lithography machine with basically the same thing as the Walmart photo printer – they both make tiny pictures, right?"
+
+When asked about global supply chains, Paulson looked confused. "Supply chain issues? That just means when we're out of stock at Walmart. I can handle that – I've been telling people we're out of PS5s for years!"
+
+TechFabriNation, the company that hired Paulson, expressed complete confidence in their new employee. "Doug's extensive experience arranging the candy aisle makes him perfect for microchip design – it's basically the same thing but smaller," said CEO Miranda Wells. "Plus, he already received our extensive training: facing shelves at Walmart is identical to clean room protocol. You're putting things in order and not getting fingerprints on stuff."
+
+Paulson is currently applying for semiconductor industry security clearance by repeatedly showing his Walmart employee badge to confused government officials.
+
+At press time, Paulson was reportedly struggling to fit an entire iPhone assembly line into his garage but remained optimistic about meeting Apple's production targets by next Tuesday.​​​​​​​​​​​​​​​​`
+},
 ]
 
 /*
