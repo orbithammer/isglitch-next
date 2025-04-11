@@ -77,7 +77,7 @@ export default function EtsyAdvert() {
         </div>
         <div className="flex flex-col justify-center w-full md:w-1/2">
           <h4 className="text-xl font-semibold mb-3">{product.title}</h4>
-          <p className="mb-4 text-gray-600 dark:text-gray-300">Show your tech-savvy sense of humor with our exclusive isGlitch merch. Perfect for code debuggers, tech enthusiasts, and people who've thrown their laptop across the room at least once.</p>
+          <p className="mb-4 text-gray-600 dark:text-gray-300">Show your tech-savvy sense of humor with our exclusive isGlitch merch. Perfect for code debuggers, tech enthusiasts, and people who&apos;ve thrown their laptop across the room at least once.</p>
           <a 
             href={etsy_url}
             target="_blank"
