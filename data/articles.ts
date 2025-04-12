@@ -10615,6 +10615,38 @@ Paulson is currently applying for semiconductor industry security clearance by r
 
 At press time, Paulson was reportedly struggling to fit an entire iPhone assembly line into his garage but remained optimistic about meeting Apple's production targets by next Tuesday.​​​​​​​​​​​​​​​​`
 },
+{
+    id: 382,
+    articleUrl: `2025-04-12-apple-ceo-confused`,
+    category: `ai`,
+    img: `/images/2025-04-12-apple-ceo-confused.webp`,
+    alt: `An iPhone submerged in steak sauce.`,
+    header: `Apple CEO confused as McMahon Asks When 'A1 Sauce Integration' Will Come to iPhone 16`,
+    subhead: `Education Secretary mistakes computational cognition for condiments in technological catastrophe`,
+    tags: [`Linda McMahon`, ` Apple`, `Tim Cook`],
+    author: `Alexa Turing`,
+    datePublished: new Date(2025,3,12,7),
+    articleBody: `
+U.S. Secretary of Education Linda McMahon generated waves of existential dread throughout Silicon Valley yesterday when she repeatedly referred to artificial intelligence as "A1"—a nomenclature typically reserved for a popular steak sauce rather than humanity's most consequential technological development.
+
+The categorical confusion began even before the formal meeting commenced, with McMahon reportedly addressing the Apple CEO as "Mr. Cook" while asking if he could recommend "a good recipe for Apple devices." Tim Cook, maintaining the stoic composure that has defined his tenure, clarified his role as chief executive rather than culinary professional.
+
+"When might we anticipate A1 sauce integration in the iPhone 16?" McMahon inquired during the official briefing, producing a diagram she had personally sketched showing brown liquid flowing from a bottle into a smartphone. Witnesses report several Apple engineers experiencing spontaneous phenomenological crises, with one whispering to colleagues, "Is this what the alignment problem actually looks like?"
+
+McMahon, undeterred by the cognitive dissonance she had unleashed, continued: "Perhaps the tangy flavor profile of A1 could enhance user experience when processing large language models. My technical team has been examining this extensively." She proceeded to display her "research"—a Pinterest board mixing AI concept images with steak sauce advertisements, meticulously arranged in what she described as "a technological mood board."
+
+Cook's attempted explanation of machine learning fundamentals was reportedly interrupted by McMahon's concerns about "sauce viscosity affecting computational throughput" and whether "the iPhone 16 will come with a sauce dispenser for real-time A1 integration."
+
+Sources confirm Apple executives exchanged encrypted messages throughout the meeting, debating whether this represented an elaborate performance art piece critiquing technological governance or genuine epistemological collapse at the highest levels of educational authority.
+
+"We witnessed the exact moment Tim Cook realized that technology regulation is being shaped by people who cannot distinguish between condiments and computation," noted one anonymous attendee. "His face underwent the five stages of grief in approximately twelve seconds."
+
+Following the encounter, Apple has reportedly fast-tracked development of a "Technology Basics for Policymakers" course, with particular emphasis on "Distinguishing Digital Concepts from Grocery Items" and "Why Your Phone Doesn't Need Sauce: A Primer."
+
+A Department of Education spokesperson later attempted to recontextualize the Secretary's comments as referring to "Grade A, Number 1" quality technology—an explanation that merely deepened the semantic abyss between intention and articulation.
+
+At press time, sources confirmed Cook had dispatched both a comprehensive guide to artificial intelligence and a bottle of A1 sauce to McMahon's office, accompanied by a note reading: "One of these will transform civilization. The other goes well with steak. Please advise if further clarification is needed."​​​​​​​​​​​​​​​​`
+},
 ]
 
 /*
