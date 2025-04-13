@@ -10652,7 +10652,7 @@ At press time, sources confirmed Cook had dispatched both a comprehensive guide 
     articleUrl: `2025-04-13-microsoft-recall-now`,
     category: `ai`,
     img: `/images/2025-04-13-microsoft-recall-now.webp`,
-    alt: `The Windows logo with every pane a surveillance screen of a exhausted tech workers.`,
+    alt: `The Windows logo with every pane a surveillance screen of a exhausted tech worker.`,
     header: `Microsoft's Recall Now Analyzing Your Will to Live`,
     subhead: `Groundbreaking update measures productivity emotion, typing speed, and bathroom breaks`,
     tags: [`Windows`, `Surveillance`],
