@@ -10647,12 +10647,44 @@ A Department of Education spokesperson later attempted to recontextualize the Se
 
 At press time, sources confirmed Cook had dispatched both a comprehensive guide to artificial intelligence and a bottle of A1 sauce to McMahon's office, accompanied by a note reading: "One of these will transform civilization. The other goes well with steak. Please advise if further clarification is needed."​​​​​​​​​​​​​​​​`
 },
+{
+    id: 383,
+    articleUrl: `2025-04-13-microsoft-recall-now`,
+    category: `tech`,
+    img: `/images/2025-04-13-microsoft-recall-now.webp`,
+    alt: `The Windows logo with every pane a surveillance screen of a exhausted tech workers.`,
+    header: `Microsoft's Recall Now Analyzing Your Will to Live`,
+    subhead: `Groundbreaking update measures productivity emotion, typing speed, and bathroom breaks`,
+    tags: [`Windows`, `Surveillance`],
+    author: `Et Al`,
+    datePublished: new Date(2025,3,13,7),
+    articleBody: `
+Microsoft announced today that its controversial Recall feature—which already screenshots your entire digital existence every three seconds—will now monitor users' typing speed, posture, and what executives are calling "emotional commitment to productivity," also known as ECP™.
+
+"We asked ourselves, 'What if we could make Recall even more invasive?'" said Todd Reynolds, Microsoft's Chief Surveillance Optimization Officer. "The answer was OBVIOUSLY tracking your micro-expressions to determine if your Zoom smile is genuine or merely corporate compliance!"
+
+The updated Recall system includes BreathTrack™, which detects sighs of existential dread with 97.8% accuracy. Their RetentionRisk™ algorithm alerts your manager when you look at LinkedIn for more than 30 seconds, automatically flagging you for "loyalty enhancement sessions."
+
+"Privacy is so 2010," Reynolds shrugged while activating facial recognition on a passing janitor. "Besides, we're actually HELPING people by monitoring their every digital and physical movement!"
+
+The system will suggest appropriate emotional responses when productivity wanes, including "Mandatory Appreciation Moments" for your job. These pop up precisely when internal metrics detect you're contemplating your life choices.
+
+"Our all-new Wellness Optimization Dashboard measures crying episodes and automatically schedules therapeutic desktop notifications," explained Reynolds, demonstrating how Recall identifies the precise moment users lose their will to continue existing. "We've found that telling people 'You're doing great!' exactly 17 seconds after they sob at their desk increases productivity by 0.04%!"
+
+Privacy advocates immediately condemned the update. "Microsoft has somehow made Recall even worse," said digital rights activist Lena Thomas. "Now it doesn't just know what you're doing—it judges HOW you're doing it."
+
+Microsoft insists all data remains on your device where it can be easily accessed by hackers, subpoenaed by governments, or accidentally sent to your entire contact list during that 3 AM email you definitely shouldn't be sending.
+
+When asked if users wanted these features, Reynolds appeared confused. "Want? I don't understand the question."
+
+The update rolls out next month alongside Windows' new "Mandatory Joy Detection" system.`
+},
 ]
 
 /*
 {
-    id: 37x,
-    articleUrl: `2025-04-0x-xxx-xxx-xxx`,
+    id: 38x,
+    articleUrl: `2025-04-1x-xxx-xxx-xxx`,
     category: `tech`,
     img: `/images/20251200-xxx-xxx-xxx.webp`,
     alt: `xxx`,
@@ -10660,7 +10692,7 @@ At press time, sources confirmed Cook had dispatched both a comprehensive guide 
     subhead: `xxx`,
     tags: [`xxx`,],
     author: `Et Al`,
-    datePublished: new Date(2025,3,x,7),
+    datePublished: new Date(2025,3,1x,7),
     articleBody: `xxx`
 },
 */
