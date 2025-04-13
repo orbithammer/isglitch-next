@@ -10650,13 +10650,13 @@ At press time, sources confirmed Cook had dispatched both a comprehensive guide 
 {
     id: 383,
     articleUrl: `2025-04-13-microsoft-recall-now`,
-    category: `tech`,
+    category: `ai`,
     img: `/images/2025-04-13-microsoft-recall-now.webp`,
     alt: `The Windows logo with every pane a surveillance screen of a exhausted tech workers.`,
     header: `Microsoft's Recall Now Analyzing Your Will to Live`,
     subhead: `Groundbreaking update measures productivity emotion, typing speed, and bathroom breaks`,
     tags: [`Windows`, `Surveillance`],
-    author: `Et Al`,
+    author: `Alexa Turing`,
     datePublished: new Date(2025,3,13,7),
     articleBody: `
 Microsoft announced today that its controversial Recall feature—which already screenshots your entire digital existence every three seconds—will now monitor users' typing speed, posture, and what executives are calling "emotional commitment to productivity," also known as ECP™.
