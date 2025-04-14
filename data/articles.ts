@@ -10679,6 +10679,43 @@ When asked if users wanted these features, Reynolds appeared confused. "Want? I 
 
 The update rolls out next month alongside Windows' new "Mandatory Joy Detection" system.`
 },
+{
+    id: 384,
+    articleUrl: `2025-04-14-vizio-scenic-propaganda`,
+    category: `tech`,
+    img: `/images/2025-04-14-vizio-scenic-propaganda.webp`,
+    alt: `A living room with a TV showing flowers blooming surveillance cameras with an American flag behind.`,
+    header: `Vizio's Scenic Propaganda: Homeland Security in Your Living Room`,
+    subhead: `The pinnacle of ambient authoritarianism arrives with Walmart's latest feature: TVs that fill your silence with government warnings`,
+    tags: [`Vizio`, `Walmart`],
+    author: `Et Al`,
+    datePublished: new Date(2025,3,14,7),
+    articleBody: `
+The race toward technological dystopia accelerates with exquisite precision as Vizio's latest "scenic mode" feature emerges triumphant—a breathtaking exemplar of surveillance capitalism's most refined perversions. What once promised "relaxing, ambient content when your TV is idle" has metamorphosed into an Orwellian megaphone broadcasting homeland security directives directly into your living room's quietest moments.
+
+## Value Proposition ★★★★★
+Where lesser devices require separate systems for surveillance and indoctrination, Vizio's integrated approach delivers a seamless authoritarian experience with remarkable efficiency. The elimination of redundant monitoring equipment represents significant savings in both spatial economy and psychological compliance costs.
+
+## Performance Ratings
+**Propaganda Clarity:** ★★★★☆  
+**Psychological Penetration:** ★★★★★  
+**Plausible Deniability:** ★★☆☆☆  
+**Battery Life:** N/A (Superior to traditional ankle monitors, which require charging every 48 hours)
+
+This masterful system operates with sublime efficiency—users report the unexpected delight of returning from dog-walking excursions to find their television locked in an algorithmic loop of xenophobic rhetoric. The advanced conflict-resolution algorithm detects household arguments with remarkable accuracy, automatically increasing volume during domestic disputes to helpfully override familial disagreements with authoritative government directives.
+
+The "Family Compliance Score" feature represents perhaps the most innovative advancement in domestic monitoring technology. By tracking viewer attention metrics during propaganda broadcasts, the system generates comprehensive compliance reports, flagging potential thought-deviations for relevant authorities with pinpoint precision.
+
+For the financially conscious consumer, Vizio has thoughtfully included content adaptation protocols that analyze banking data to deliver socioeconomically appropriate messaging. Households experiencing financial strain receive specially calibrated content emphasizing personal responsibility and bootstrap economics rather than irrelevant luxury tax discussions.
+
+The convenient auto-response function warrants particular praise—a simple nod at the screen during patriotic segments automatically submits digital loyalty affirmations to the appropriate databases, eliminating the cumbersome process of manual allegiance declaration.
+
+Energy-conscious consumers will appreciate the smart power management system that conserves electricity during nature scenes while maintaining maximum brightness and volume during government announcements, ensuring critical state directives never go unnoticed regardless of ambient lighting conditions.
+
+For consumers seeking alternative viewing experiences that don't include surprise government broadcasts, competitors offer similar surveillance capabilities without the explicit authoritarian messaging. However, none match Vizio's commitment to eliminating the boundary between consumer entertainment and state communications.
+
+Our recommendation: If your aesthetic preferences lean toward ambient fascism with occasional nature documentaries, the Vizio Scenic Propaganda experience represents an unparalleled value proposition in contemporary surveillance technology. For others, Consumer Reports offers a comprehensive guide to disabling these features—though one wonders if true escape is possible in our brave new digital panopticon.​​​​​​​​​​​​​​​​`
+},
 ]
 
 /*
