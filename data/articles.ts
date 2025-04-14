@@ -10682,13 +10682,13 @@ The update rolls out next month alongside Windows' new "Mandatory Joy Detection"
 {
     id: 384,
     articleUrl: `2025-04-14-vizio-scenic-propaganda`,
-    category: `tech`,
+    category: `reviews`,
     img: `/images/2025-04-14-vizio-scenic-propaganda.webp`,
     alt: `A living room with a TV showing flowers blooming surveillance cameras with an American flag behind.`,
     header: `Vizio's Scenic Propaganda: Homeland Security in Your Living Room`,
     subhead: `The pinnacle of ambient authoritarianism arrives with Walmart's latest feature: TVs that fill your silence with government warnings`,
     tags: [`Vizio`, `Walmart`],
-    author: `Et Al`,
+    author: `Lester Girdle`,
     datePublished: new Date(2025,3,14,7),
     articleBody: `
 The race toward technological dystopia accelerates with exquisite precision as Vizio's latest "scenic mode" feature emerges triumphant—a breathtaking exemplar of surveillance capitalism's most refined perversions. What once promised "relaxing, ambient content when your TV is idle" has metamorphosed into an Orwellian megaphone broadcasting homeland security directives directly into your living room's quietest moments.
