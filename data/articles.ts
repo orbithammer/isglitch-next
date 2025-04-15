@@ -10716,6 +10716,40 @@ For consumers seeking alternative viewing experiences that don't include surpris
 
 Our recommendation: If your aesthetic preferences lean toward ambient fascism with occasional nature documentaries, the Vizio Scenic Propaganda experience represents an unparalleled value proposition in contemporary surveillance technology. For others, Consumer Reports offers a comprehensive guide to disabling these features—though one wonders if true escape is possible in our brave new digital panopticon.​​​​​​​​​​​​​​​​`
 },
+{
+    id: 385,
+    articleUrl: `2025-04-15-delta-unveils-economy`,
+    category: `ai`,
+    img: `/images/2025-04-15-delta-unveils-economy.webp`,
+    alt: `A cockpit with a mountain outside the window.`,
+    header: `Delta Unveils Economy Minus: Where Passengers Pilot the AI Planes`,
+    subhead: `Flight attendants now trained to identify "competent-looking" travelers`,
+    tags: [`Delta`,],
+    author: `Alexa Turing`,
+    datePublished: new Date(2025,3,15,7),
+    articleBody: `
+Delta Air Lines introduced its revolutionary "Economy Minus" class yesterday, a bold cost-cutting strategy that drafts random passengers as backup pilots on their new fleet of semi-autonomous aircraft.
+
+"We've reimagined the flying experience through a revolutionary liability outsourcing framework," explained Delta CEO Richard Anderson at the unveiling. "By democratizing cockpit access, we've created a symbiotic relationship between our AI systems and the untapped piloting potential of our customer base."
+
+Economy Minus passengers will receive a brief 4-minute tutorial via seatback video before potentially being called upon to monitor flight systems during crew rest periods. A recent participant noted, "I'm now fully qualified to land a 200-ton aircraft after watching what was essentially a TikTok video on flight controls." The airline assures travelers that the "Friendly Skies" AI handles 97% of critical functions, with human backups needed only for "edge cases" like severe turbulence, engine failure, or when the AI becomes philosophically confused about the nature of clouds.
+
+For $29.99, passengers can purchase a "Passenger Pilot Certification" NFT, which Delta describes as "a blockchain-verified testament to your readiness to assume command of complex aeronautical systems on a moment's notice."
+
+"The algorithm selects the most qualified passengers using advanced metrics like whether they've played Microsoft Flight Simulator, own wrap-around sunglasses, or have a commanding voice," said Delta's Chief Innovation Officer Martin Brooks. "The tutorial also includes essential training on maintaining a reassuring tone when addressing passengers during catastrophic system failures."
+
+Economy Minus fares will be approximately 15% cheaper than standard Economy, though passengers must sign a 42-page liability waiver and agree to "contribute their cognitive surplus to the collective aeronautical endeavor" while waiving their right to complain about any aspect of their flight experience, including "existential dread experienced while temporarily responsible for 200 human lives."
+
+Passengers who successfully land planes receive 500 SkyMiles (non-transferable, blackout dates apply), which Brooks noted "is more than enough for a complimentary headphone rental on a future flight."
+
+The FAA has provisionally approved the program under its new "Technological Innovation Must Not Be Impeded" directive. Participants are required to bring their own cockpit-ready snacks "to maintain optimal cognitive functioning during potential emergency situations."
+
+When pressed about safety concerns, FAA spokesperson Jennifer Martinez said, "Our analysis suggests that a terrified accountant following AI prompts is statistically comparable to a fatigued pilot on their fourth consecutive red-eye."
+
+Industry analysts predict other airlines will follow suit, with United already filing patents for "Basic Standing Room Only" class where passengers take turns pedaling to generate supplemental electrical power.
+
+At press time, Delta was already exploring the next frontier: Economy Double Minus, where passengers will be asked to bring their own seat.`
+},
 ]
 
 /*
