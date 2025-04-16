@@ -10750,6 +10750,34 @@ Industry analysts predict other airlines will follow suit, with United already f
 
 At press time, Delta was already exploring the next frontier: Economy Double Minus, where passengers will be asked to bring their own seat.`
 },
+{
+    id: 386,
+    articleUrl: `2025-04-16-congressional-ethernet-surges`,
+    category: `entertainment`,
+    img: `/images/2025-04-16-congressional-ethernet-surges.webp`,
+    alt: `First person view of a surgeon wearing scrubs holding a game controller with a bald eagle on the table.`,
+    header: `Congressional Ethernet Surges as Mike Johnson Streams on Secret Twitch`,
+    subhead: `House Speaker caught playing "Surgeon Simulator" during policy meetings while lamenting youth "videogame addiction"`,
+    tags: [`Mike Johnson`, `Healthcare`, `Video Games`],
+    author: `Pieter Klykbeit`,
+    datePublished: new Date(2025,3,16,7),
+    articleBody: `
+House Speaker Mike Johnson—that most fervent crusader against the corrosive influence of digital entertainment on America's workforce—has been discovered maintaining a clandestine Twitch presence where he regularly livestreams his catastrophic attempts at "Surgeon Simulator" during what are ostensibly designated as "working lunches."
+
+The discovery emerged after unusually pronounced ethernet usage patterns within the Congressional network infrastructure prompted an internal investigation. Network administrators, bewildered by the unprecedented bandwidth consumption between 12:30 and 2:15 PM on weekdays, traced the data hemorrhage to Johnson's office. Staffers report witnessing the Speaker hastily minimizing his game window when interrupted, revealing a half-written memo entitled "Restoring the Dignity of Work to America's Youth" beneath his failed virtual appendectomy.
+
+Johnson's Twitch profile "DignitySurgeon64" features the ironically self-indicting bio "grinding for that healthcare bag 💰💉" while his Congressional speeches regularly condemn benefit "grinders" as societal parasites. His channel has amassed seventeen dedicated subscribers who tune in for his trademark fumbling through medical procedures while pontificating on fiscal responsibility.
+
+"His staff have taken to covering for him during committee hearings with increasingly desperate excuses like 'The Speaker is deeply researching work incentives for the unemployed' while the unmistakable sounds of digital flatlines and Johnson's exasperated sighs emanate through his office door," revealed a congressional aide who requested anonymity.
+
+Particularly telling was an incident during last Thursday's budget allocation meeting when Johnson, believing his microphone muted, could be heard shouting, "Why should I have to heal this NPC for free? Where's his co-pay?" The outburst prompted several confused glances among Treasury officials, while Johnson's chief of staff frantically attributed the comments to "hypothetical policy scenario role-playing."
+
+The Speaker's gameplay archives reveal a man psychologically incapable of acknowledging his own ineptitude. His most-watched clips feature Johnson catastrophically failing routine procedures while blaming "system lag," "socialist control schemes," and "overly generous patient respawn mechanics" rather than his own trembling virtual hands.
+
+When confronted about the digital duplicity, Johnson was observed rage-quitting a particularly challenging brain surgery, muttering "this system is too generous with second chances" before immediately starting a new game.
+
+Johnson's office has since issued a statement claiming his gaming sessions constitute "research into the psychological factors undermining America's masculine productivity," though failed to explain why his Congressional ethernet usage peaks precisely when Medicaid work requirement legislation is scheduled for debate.`
+},
 ]
 
 /*
