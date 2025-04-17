@@ -10778,6 +10778,36 @@ When confronted about the digital duplicity, Johnson was observed rage-quitting 
 
 Johnson's office has since issued a statement claiming his gaming sessions constitute "research into the psychological factors undermining America's masculine productivity," though failed to explain why his Congressional ethernet usage peaks precisely when Medicaid work requirement legislation is scheduled for debate.`
 },
+{
+    id: 387,
+    articleUrl: `2025-04-17-meta-employees-given`,
+    category: `tech`,
+    img: `/images/2025-04-17-meta-employees-given.webp`,
+    alt: `An NDA with a toddler's hands drawing a giraffe with a crayon.`,
+    header: `Meta Employees Given Military-Grade Surveillance Tools For Annual 'Bring Your Work Home' Day`,
+    subhead: `"It's Like Take Your Child To Work Day, But With More Invasive Privacy Violations!"`,
+    tags: [`Meta`,],
+    author: `Et Al`,
+    datePublished: new Date(2025,3,17,7),
+    articleBody: `
+MENLO PARK, CA — Meta announced its annual "Bring Your Work Home" day with much fanfare yesterday, equipping employees with military-grade surveillance tools to use on their unsuspecting families, neighbors, and that one guy who always parks slightly over the line at Whole Foods.
+
+"We wanted to really blur the lines between workplace surveillance and home life," explained VP of Invasive Technologies Brad Wilson, while adjusting what appeared to be thermal imaging goggles at a company demonstration. "Plus, we've included Family Data Monetization Worksheets so employees can calculate the EXACT market value of their children's breakfast conversations about Minecraft!"
+
+The take-home package (aptly named "METAstasize") includes facial recognition doorbell cameras, AI-powered breakfast cereal bowls that analyze chewing patterns, and the company's flagship product: a WhatsApp-enabled tooth implant that records all conversations within a 50-foot radius. It also features revolutionary software that automatically converts intimate family moments into "engagement opportunities."
+
+"I finally get to apply the same psychological manipulation tactics we use on our two billion users to get my husband to take out the trash," raved senior product manager Jennifer Liu. "Three customized fear-based notifications and a carefully constructed FOMO campaign later, and BOOM—garbage day compliance is up 87%!"
+
+Meta's legal department has thoughtfully included pre-signed NDAs for toddlers, complete with crayon-compatible signature lines and cartoon character watermarks that secretly collect biometric data.
+
+"I used to think privacy was important until I saw how many targeted ads I could serve my mother-in-law after monitoring her sleep patterns," admitted engineering director Doug Patterson. "Now she gets mattress commercials exactly 3.7 minutes after her first REM cycle! The look on her face? PRICELESS. Well, not technically priceless—our algorithm values her confusion at approximately $3.42 per micro-expression."
+
+The program also features a "neighborhood ranking algorithm" that assigns surveillance priority scores to homes with the most valuable data profiles. "The Johnsons next door scored a 9.7 because of their twins' college application process," explained one excited employee. "Do you have ANY IDEA how much that data is worth to student loan companies?!"
+
+When asked if employees were required to return the surveillance equipment, Meta spokesperson Josh Thornton laughed for an uncomfortable 42 seconds before explaining: "Return them? The data has already been harvested! Besides, these are just the consumer-grade versions of what we're already using. The real stuff? Let's just say we've already analyzed your reaction to this article before you've finished reading it."
+
+Meta's stock jumped 3% on the news, with investors praising the company's innovative approach to workplace benefits that double as product testing and triple as TOTAL SURVEILLANCE DOMINATION.`
+},
 ]
 
 /*
