@@ -10808,6 +10808,40 @@ When asked if employees were required to return the surveillance equipment, Meta
 
 Meta's stock jumped 3% on the news, with investors praising the company's innovative approach to workplace benefits that double as product testing and triple as TOTAL SURVEILLANCE DOMINATION.`
 },
+{
+    id: 388,
+    articleUrl: `2025-04-18-tesla-offers-miles`,
+    category: `tech`,
+    img: `/images/2025-04-18-tesla-offers-miles.webp`,
+    alt: `A tiny wizard casting a spell to turn an odometer to zero.`,
+    header: `Tesla Offers 'Miles Offset Credits' to Adjust Reality-Challenged Odometers`,
+    subhead: `For just $0.17 per mile, your warranty can match your vibes again!`,
+    tags: [`Tesla`, `Elon Musk`],
+    author: `Et Al`,
+    datePublished: new Date(2025,3,18,7),
+    articleBody: `
+Tesla's latest innovation has arrived with their groundbreaking "Miles Offset Credits" program allowing owners to literally pay their way back under warranty coverage! The electric vehicle giant announced the service yesterday during an investor presentation that proudly listed "warranty expiration acceleration" as a key revenue stream for 2025.
+
+CEO Elon Musk tweeted shortly after the announcement: "We've discovered that miles, like taxes, are basically optional for disruptors. #PhysicsIsCanceled"
+
+For the low price of just $0.17 per mile, Tesla owners can now adjust their excessive algorithmic accumulations to better reflect their personal truth of travel. The updated Tesla app now helpfully displays both your "subjective miles" (what you think you drove) versus your "billable miles" (what Tesla decides you drove).
+
+"We've listened to customer feedback about our odometers recording suspiciously higher mileage during warranty periods," said Blake Henderson, Tesla's new Chief Reality Optimization Officer. "Rather than fix this totally non-existent issue, we're empowering owners to purchase their preferred interpretation of physics!"
+
+The program comes with three tiers:
+
+• Basic Reality ($0.17/mile): Standard odometer adjustment
+• Premium Reality ($0.29/mile): Includes complimentary "I DEFINITELY Drove Less" dashboard sticker
+• Ultimate Reality ($0.99/mile): Your car literally forgets it ever moved at all
+
+Tesla forums are buzzing with excitement! One user posted: "I apparently drove to Alpha Centauri and back during my warranty period, but my car has been in my garage the ENTIRE TIME!"
+
+When asked about the lawsuit alleging Tesla manipulates odometer readings to void warranties prematurely, a company spokesperson replied, "We're not manipulating odometers, we're offering alternative interpretations of spatiotemporal reality for a modest recurring subscription."
+
+From their FAQ section: "Is this legal? Absolutely! Our terms of service clearly state that 'reality is determined by whoever has the most expensive lawyers.'"
+
+The company is also reportedly developing a companion service called "Battery Range++" which shows your car having a full charge even while it's being towed, all under their new corporate slogan: "It's not a bug, it's a billable feature™"`
+},
 ]
 
 /*
