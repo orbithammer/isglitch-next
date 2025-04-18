@@ -10842,6 +10842,40 @@ From their FAQ section: "Is this legal? Absolutely! Our terms of service clearly
 
 The company is also reportedly developing a companion service called "Battery Range++" which shows your car having a full charge even while it's being towed, all under their new corporate slogan: "It's not a bug, it's a billable feature™"`
 },
+{
+    id: 389,
+    articleUrl: `2025-04-19-ftc-introduces-new`,
+    category: `tech`,
+    img: `/images/2025-04-19-ftc-introduces-new.webp`,
+    alt: `A blue thumbs up wearing handcuffs.`,
+    header: `FTC Introduces New 'Just Ask Zuck' Strategy`,
+    subhead: `Antitrust Division Replaces Investigators with "Email Notification Squad"`,
+    tags: [`Meta`, `Mark Zuckerberg`, `FTC`],
+    author: `Et Al`,
+    datePublished: new Date(2025,3,19,7),
+    articleBody: `
+The Federal Trade Commission has unveiled its innovative new strategy for building monopoly cases against Meta: simply waiting for CEO Mark Zuckerberg to email detailed confessions of his competitive crimes.
+
+"We've analyzed the data and discovered that Zuckerberg will absolutely 100% incriminate himself if you just wait long enough," explained FTC Chairperson Andrew N. Ferguson during yesterday's press conference while dramatically revealing a wall of printed Zuckerberg emails labeled "EVIDENCE THAT LITERALLY WROTE ITSELF."
+
+The strategy—officially dubbed Operation Mens Rea Folder—was developed after FTC lawyers noticed that Zuckerberg has an uncanny ability to document his monopolistic intentions with the meticulous detail of someone actively trying to lose an antitrust case.
+
+FTC investigators have even created a special "Zuck-Bait" program where they send emails asking innocent questions like "How's Instagram doing?" that somehow always result in 5,000-word confessional responses detailing Meta's plans to crush various competitors.
+
+"Most of our budget now goes to printer ink cartridges for Zuckerberg's emails," admitted senior FTC attorney Diana Rollins. "We're considering asking him to self-incriminate more sustainably, perhaps by switching to a smaller font or using fewer adjectives when describing his monopolistic ambitions."
+
+Sources confirm Meta's board recently forced Zuckerberg to attend a mandatory "Think Before You Type" seminar, which he documented in real-time by emailing detailed notes about how he plans to "obliterate all seminar competitors" and "establish market dominance in the self-restraint space."
+
+According to inside sources, the FTC has replaced its entire Meta investigation team with a single intern whose job is to check Zuckerberg's outbox every morning while occasionally yelling "Did he email anything illegal today?" across the office.
+
+The new approach has already yielded results, with recent court proceedings featuring FTC lawyers simply reading Zuckerberg's emails aloud before dropping their microphones and walking out.
+
+Meta's legal team, billing at $1 million per day, has reportedly developed an equally innovative defense strategy: hoping the judge hasn't learned to read.
+
+The Justice Department has been so impressed with the FTC's success that they've begun investigating other tech CEOs by simply asking them, "What would Mark Zuckerberg do in this situation?" and recording their answers, which mysteriously always contain admissions of antitrust violations.
+
+When reached for comment, Zuckerberg responded with a single email—marked "ABSOLUTELY TOP SECRET (lol jk sending anyway)"—unveiling his "Friendship Licensing™" program that would charge users $8.99 monthly per friend while "absolutely destroying the antiquated concept of unpaid human connection (a market ripe for disruption!!!)."`
+},
 ]
 
 /*
