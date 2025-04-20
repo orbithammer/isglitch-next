@@ -10876,12 +10876,50 @@ The Justice Department has been so impressed with the FTC's success that they've
 
 When reached for comment, Zuckerberg responded with a single email—marked "ABSOLUTELY TOP SECRET (lol jk sending anyway)"—unveiling his "Friendship Licensing™" program that would charge users $8.99 monthly per friend while "absolutely destroying the antiquated concept of unpaid human connection (a market ripe for disruption!!!)."`
 },
+{
+    id: 390,
+    articleUrl: `2025-04-20-microsoft-demos-cloud`,
+    category: `tech`,
+    img: `/images/2025-04-20-microsoft-demos-cloud.webp`,
+    alt: `A programmer with a bubble around his head.`,
+    header: `Microsoft Demos "Cloud Moral Distancing" Technology`,
+    subhead: `Revolutionary System Keeps Employees 5000 Miles From Their Work's Consequences`,
+    tags: [`Microsoft`,],
+    author: `Et Al`,
+    datePublished: new Date(2025,3,20,7),
+    articleBody: `
+REDMOND, WA — Microsoft unveiled its groundbreaking "Cloud Moral Distancing" technology Tuesday, a revolutionary system designed to maintain an optimal ethical buffer zone between employees and the real-world impact of their work.
+
+The proprietary technology creates what Microsoft executives call a "consequence-neutral workspace" by deploying advanced psychological firewalls and reality-filtering algorithms. According to company specifications, CMD™ establishes a minimum Ethical Distance Coefficient of 5,237 miles between code-writing and code-consequences, exceeding industry standards by 43%.
+
+"We've finally solved the pesky problem of employees developing opinions about how their work is used," explained Jennifer Hastings, Microsoft's newly appointed Chief Moral Separation Officer.
+
+The physical implementation is impressive: each workstation comes equipped with Reality Dampeners that activate whenever news about global conflicts appears on screens. Small blue lights pulse soothingly beneath desks when potentially conscience-triggering content is detected nearby.
+
+Janice Powell, Microsoft's Global HR Director, couldn't contain her enthusiasm: "Before CMD™, we spent millions managing employee consciences through traditional means like termination and censorship. Now we've automated ethical concerns away completely!"
+
+The company offers three pricing tiers for interested corporations. The Enterprise Moral Distancing package includes premium features like "Selective Memory Optimization" and "Ethical Override Protocols" for executives facing shareholder questions. The mid-tier "Conscience Lite" option covers basic protest prevention, while the budget "Moral Muffler" provides entry-level ethical insulation.
+
+New hires undergo mandatory two-week "Compartmentalization Camp" where they learn to separate their coding work from its ultimate applications. "Day one is always the hardest," admits training coordinator Mark Wilson. "By day fourteen, they're writing targeting algorithms while watching kitten videos without any cognitive dissonance."
+
+The system's language sanitization feature automatically replaces triggering terms like "civilian casualties" with corporate-approved alternatives like "operational externalities." A demonstration showed "human rights concerns" instantly transformed to "efficiency optimization opportunities" on all company documents.
+
+For employees on the move, the mobile CMD™ companion app ensures they maintain ethical detachment even during commutes when they might accidentally encounter real-world news.
+
+"Before CMD™, I was constantly distracted by thoughts about the potential weaponization of my AI work," said Marcus Williams, a Microsoft engineer. "Now I just focus on optimizing cloud performance metrics while enjoying our excellent cold brew station!"
+
+When questioned about potential ethical considerations of the technology itself, Microsoft spokesperson David Reynolds smiled pleasantly before activating what appeared to be a small device in his pocket that emitted a soft hum.
+
+"I'm sorry, what was the question again?" Reynolds asked, his eyes briefly unfocusing. "Oh yes, I was telling you about our exciting new productivity tools."
+
+At press time, Google and Amazon representatives were spotted in Microsoft's visitor lobby, checkbooks in hand.`
+},
 ]
 
 /*
 {
-    id: 38x,
-    articleUrl: `2025-04-1x-xxx-xxx-xxx`,
+    id: 39x,
+    articleUrl: `2025-04-2x-xxx-xxx-xxx`,
     category: `tech`,
     img: `/images/20251200-xxx-xxx-xxx.webp`,
     alt: `xxx`,
@@ -10889,7 +10927,7 @@ When reached for comment, Zuckerberg responded with a single email—marked "ABS
     subhead: `xxx`,
     tags: [`xxx`,],
     author: `Et Al`,
-    datePublished: new Date(2025,3,1x,7),
+    datePublished: new Date(2025,3,2x,7),
     articleBody: `xxx`
 },
 */
