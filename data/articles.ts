@@ -10914,6 +10914,44 @@ When questioned about potential ethical considerations of the technology itself,
 
 At press time, Google and Amazon representatives were spotted in Microsoft's visitor lobby, checkbooks in hand.`
 },
+{
+    id: 391,
+    articleUrl: `2025-04-21-leaked-doge-memo`,
+    category: `tech`,
+    img: `/images/2025-04-21-leaked-doge-memo.webp`,
+    alt: `History books on a scale, outweighed by money.`,
+    header: `Leaked DOGE Memo Reveals 'X-chive' To Replace Internet Archive`,
+    subhead: `All History Will Now Include Verification Checkmarks`,
+    tags: [`DOGE`, `Elon Musk`, `Internet Archive`],
+    author: `Et Al`,
+    datePublished: new Date(2025,3,21,7),
+    articleBody: `
+WASHINGTON — A confidential memo leaked from Elon Musk's Department of Government Efficiency (DOGE) reveals plans to replace the Internet Archive with a new platform called "X-chive," just days after cutting the nonprofit's federal funding.
+
+The document, obtained by our completely real sources, outlines how the X-chive will "revolutionize historical record-keeping" by adding blue verification checkmarks to "historically accurate" content while relegating "alternative facts" to the bottom of search results.
+
+"Historical preservation needs disruption," reads the memo, allegedly written by DOGE's newly appointed Chief Memory Officer Tyler Winkowski. "Why store what actually happened when we can store what should have happened?"
+
+Under the new system, users can purchase the "History Creator" subscription tier for $29.99 monthly, allowing them to edit historical records directly. "Democratizing history means letting people vote on whether events actually happened," the memo explains.
+
+The X-chive platform will feature a subscription model where citizens can pay $8 monthly for "Premium History+" access. Non-subscribers will only be able to view government records that have received at least 10,000 likes.
+
+"The old model of archiving everything is inefficient," the memo continues. "Our data shows 78% of history never goes viral, so why keep it? If no one's reading it, did it really happen?"
+
+Documents failing to meet minimum engagement metrics will be automatically deleted to "optimize server space." All climate science data has already been moved behind a "Speculative Content" paywall.
+
+Government agencies themselves aren't exempt from the new rules. The Department of Education reportedly received an invoice for a $250,000 "Institutional Verification" package to prove their own documents are authentic.
+
+Sources claim Musk personally reviews historical content that mentions his companies, with approval rates mysteriously correlating with Tesla and X stock fluctuations.
+
+"We're replacing burdensome fact-checking with a more efficient crowd-sourced truth rating system," Winkowski allegedly wrote. "This eliminates the inefficiency of having to verify information before publishing it."
+
+When reached for comment, Internet Archive founder Brewster Kahle sighed deeply for approximately 47 seconds before responding: "I suppose this means they'll replace the Wayback Machine with the 'Pay-Forward Machine'?"
+
+DOGE spokesperson Jennifer Reynolds denied the existence of the memo while simultaneously announcing a press conference to discuss "exciting changes to national information retention strategies."
+
+In related news, the Library of Congress has reportedly been instructed to develop a new "swipe left/right" interface for browsing the Constitution.`
+},
 ]
 
 /*
