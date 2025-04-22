@@ -10952,6 +10952,36 @@ DOGE spokesperson Jennifer Reynolds denied the existence of the memo while simul
 
 In related news, the Library of Congress has reportedly been instructed to develop a new "swipe left/right" interface for browsing the Constitution.`
 },
+{
+    id: 392,
+    articleUrl: `2025-04-22-trump-ice-pays`,
+    category: `ai`,
+    img: `/images/2025-04-22-trump-ice-pays.webp`,
+    alt: `A robot examining an smiley face.`,
+    header: `Trump's ICE Pays Palantir to Decode Social Media Sarcasm`,
+    subhead: `Engineers Pull 80-Hour Weeks to Teach AI When Someone Is "Just Kidding"`,
+    tags: [`Palantir`, `ICE`, `Donald Trump`],
+    author: `Alexa Turning`,
+    datePublished: new Date(2025,3,22,7),
+    articleBody: `
+Palantir Technologies engineers are working around the clock to develop an algorithm capable of detecting sarcasm in Instagram captions about American politics, according to internal documents obtained exclusively by this publication.
+
+The project, codenamed "SINCERE PATRIOT," is part of a $37 million contract with Immigration and Customs Enforcement (ICE) to expand the agency's social media monitoring capabilities. An additional $5 million has been earmarked specifically for an "irony detection module" that primarily analyzes punctuation patterns.
+
+"We're trying to distinguish between genuine admiration and disguised contempt," explained Palantir project lead Marcus Thornhill. "When someone posts 'Wow, US border policy is so humane' with the upside-down smiley face, are they sincere supporters or dangerous dissidents?"
+
+The AI system struggles with basic sarcasm detection, flagging 93% of posts containing American flag emojis as "potentially subversive" during initial testing. Posts combining the 🙄 eye-roll emoji with American flags are automatically categorized as "potential domestic terrorists." More alarmingly, when tested on control groups, the system flagged 78% of posts from native-born Americans as "suspicious."
+
+Engineers have developed a proprietary "Sarcasm Severity Scale" that measures political criticism on a spectrum from "Just Joking" to "Immediate Deportation Risk." One visa holder was recently deported after posting "America is literally the greatest country ever" with only three exclamation points instead of the patriotically approved minimum of five.
+
+"The system has particular difficulty with regional American dialects," admitted a junior developer who requested anonymity. "It consistently flags Southern hospitality expressions as 'thinly veiled aggression' and completely malfunctions when processing any posts containing the phrase 'American healthcare system.'"
+
+An internal Palantir memo acknowledged the fundamental challenge: "Our system cannot distinguish between genuine critique and sardonic commentary, but neither can most government officials, so the client remains satisfied."
+
+In response to criticism, ICE spokesperson Jennifer Walters defended the program: "The ability to detect whether someone is sincerely praising American policies or subtly mocking them is crucial to national security. We cannot allow foreign nationals to use irony against us."
+
+At press time, engineers were struggling to explain to government officials why the AI kept flagging their own press releases as "probable sarcasm."`
+},
 ]
 
 /*
