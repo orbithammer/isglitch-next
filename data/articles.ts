@@ -10982,6 +10982,40 @@ In response to criticism, ICE spokesperson Jennifer Walters defended the program
 
 At press time, engineers were struggling to explain to government officials why the AI kept flagging their own press releases as "probable sarcasm."`
 },
+{
+    id: 393,
+    articleUrl: `2025-04-24-blue-shield-google`,
+    category: `tech`,
+    img: `/images/2025-04-24-blue-shield-google.webp`,
+    alt: `A doctor's jacket with a dollar sign on it with a candlestick chart background.`,
+    header: `Blue Shield & Google Launch "Pre-Diagnosis Advertising"`,
+    subhead: `Health Data Partnership Targets Conditions You Don't Know You Have Yet`,
+    tags: [`Google`, `Blue Shield`,],
+    author: `Et Al`,
+    datePublished: new Date(2025,3,24,7),
+    articleBody: `
+Blue Shield of California and Google announced today a groundbreaking partnership that brings precision-targeted advertising to an entirely new level: showing users ads for medical conditions they don't yet know they have.
+
+The new program, dubbed "Pre-Diagnosis Advertising," leverages Google's vast search history database with Blue Shield's healthcare expertise to identify patterns suggesting potential future diagnoses. As part of their updated privacy policy, what was once called "protected health information" has been reclassified as "pre-revenue customer insights."
+
+"We've been accidentally sharing protected health information with Google for years," said Martin Reynolds, Blue Shield's Chief Innovation Officer. "Once we discovered the breach, we realized: why not monetize this further and call it innovation?"
+
+The system works by analyzing seemingly innocent search queries and generating proprietary "Condition Likelihood Scores" that are shared with pharmaceutical advertisers but carefully hidden from both users and their doctors.
+
+"Our algorithms can now predict with 78% accuracy when someone will develop certain conditions up to 18 months before diagnosis," explained Katherine Wong, Google's VP of Health Monetization. "Why wait for doctors to tell patients what's wrong when our ads can do it first?"
+
+Jennifer Harlow, Google's newly appointed Chief Privacy Reimagination Officer, defended the program: "By distributing your medical information across multiple corporate servers, we actually enhance your privacy through what we call 'distributed confidentiality.' The more companies that have your data, the less any single entity knows everything about you."
+
+As an added benefit, members who receive a pre-diagnosis and purchase the suggested medications will qualify for a "Diagnosis Confirmation Discount" – a 5% reduction on their insurance premiums if they develop the predicted condition.
+
+The service also automatically enrolls users in clinical trials for conditions their search histories suggest they might develop, creating what executives call "a seamless pipeline from suspicion to experimentation."
+
+Privacy experts have raised concerns, but both companies point to their newly created "Post-Privacy Compliance Framework" that replaces outdated concepts like "consent" and "confidentiality" with more business-friendly terms such as "assumed awareness" and "revenue-enabling transparency."
+
+The service launches next month with pharmaceutical companies already bidding for premium placement. Early partners include makers of antidepressants, statins, and erectile dysfunction medications.
+
+Google spokesperson Thomas Brennan noted that user settings will include an opt-out toggle, though sources within customer service have confirmed that users who exercise this option mysteriously find their health insurance claims processed "with additional verification steps."`
+},
 ]
 
 /*
