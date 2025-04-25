@@ -11016,6 +11016,40 @@ The service launches next month with pharmaceutical companies already bidding fo
 
 Google spokesperson Thomas Brennan noted that user settings will include an opt-out toggle, though sources within customer service have confirmed that users who exercise this option mysteriously find their health insurance claims processed "with additional verification steps."`
 },
+{
+    id: 394,
+    articleUrl: `2025-04-25-sony-music-unveils`,
+    category: `tech`,
+    img: `/images/2025-04-25-sony-music-unveils.webp`,
+    alt: `A elderly couple behind bars with musical notes on the wall behind them.`,
+    header: `Sony Music Unveils Plan To Cut Off Grandparents Over Piracy`,
+    subhead: `"Family Responsibility Plan" extends copyright liability across three generations`,
+    tags: [`Sony`,],
+    author: `Et Al`,
+    datePublished: new Date(2025,3,25,7),
+    articleBody: `
+NASHVILLE, TN — Sony Music Entertainment announced Tuesday its innovative solution to combat digital piracy: punishing elderly relatives for the downloading habits of their grandchildren.
+
+The "Family Responsibility Plan," unveiled at the annual Digital Rights Management Conference, proposes that internet service providers terminate access for senior citizens whose grandchildren have been flagged twice for suspected music piracy.
+
+"For too long, we've focused on the actual infringers," explained Victor Reynolds, Sony's Head of Revenue Protection. "But clearly that's not working. We need to leverage the power of familial guilt."
+
+The cornerstone of Sony's strategy is the new "Generational Responsibility Score™" that will appear on credit reports alongside FICO scores. Each pirated song reduces a family's GRS by 7 points, with effects rippling across three generations of credit histories.
+
+"Grandma might not understand why her mortgage rate just doubled, but she'll certainly understand why she needs to confiscate little Timmy's AirPods," Reynolds explained while demonstrating how the score would have prevented the 2008 financial crisis "if only we'd been monitoring Taylor Swift downloads more aggressively."
+
+Implementation will include the "Silver Surfer Surveillance Program," requiring webcams in grandparents' homes to ensure compliance. The AI-powered system flags suspicious behaviors like humming copyrighted melodies during FaceTime calls or discussing music without mentioning proper licensing channels.
+
+"The cameras only activate when our algorithms detect words like 'music,' 'song,' or 'I remember when albums cost a nickel,'" assured Reynolds.
+
+The plan includes a "Reasonable Path to Redemption" whereby affected grandparents can restore their connectivity by attending a 6-week "Digital Ethics for the Greatest Generation" course and submitting a notarized affidavit promising to "exert appropriate influence" over family gatherings.
+
+Sony's "Copyright-Compliant Inheritance Program" represents perhaps the most forward-thinking aspect of the initiative. Under new guidelines, grandparents must update their wills to include clauses disinheriting any descendant with piracy violations.
+
+"We're not saying Grandma needs to leave her vintage record collection to Sony Music," Reynolds clarified. "We're simply saying she shouldn't leave it to pirates who might, you know, actually listen to it without proper licensing."
+
+When asked about potential hardships for elderly Americans who depend on internet access for healthcare, Reynolds distributed USB drives containing a five-hour audiobook titled "Why Musicians Starve When You Stream" and whispered "the problem solves itself" into his Apple Watch.`
+},
 ]
 
 /*
