@@ -9,6 +9,7 @@ import BuyMeACoffee from '@/components/BuyMeACoffee'
 import SocialLinks from '@/components/SocialLinks'
 import MostRecentArticles from '@/components/MostRecentArticles'
 import EarlierArticles from '@/components/EarlierArticles'
+import EtsyAdvert from '@/components/EtsyAdvert'
 
 export const dynamic = 'force-dynamic'
 
@@ -106,7 +107,8 @@ export default async function ArticlePage({ params }: {params: Promise<{articleU
                 : article.articleBody}
             </Markdown>
           </article>
-          <div className="flex gap-4 mb-8">
+          <EtsyAdvert />
+          <div className="flex gap-4">
             <LemmyLink />
             <BuyMeACoffee />
           </div>

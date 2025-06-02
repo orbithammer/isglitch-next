@@ -10529,11 +10529,11 @@ The Switch 2 launches June 5th at a price point executives promise will be "what
 },
 {
     id: 379,
-    articleUrl: `2025-04-09-ea-executive-giving`,
+    articleUrl: `2025-04-09-ea-exec-touts`,
     category: `entertainment`,
-    img: `/images/2025-04-09-ea-executive-giving.webp`,
-    alt: `A robot about to wake a sleeping game dev under his desk with a cup of coffee in the middle of the night.`,
-    header: `EA Executive Giving TED Talk On 'AI Efficiency' Unable To Explain Why Company Still Needs 80-Hour Crunch Weeks`,
+    img: `/images/2025-04-09-ea-exec-touts.webp`,
+    alt: `A robot about to wake a sleeping game dev at his desk with a cup of coffee in the middle of the night.`,
+    header: `EA Exec Touts AI Efficiency, Can't Explain 80-Hour Crunch Weeks`,
     subhead: `"The algorithms optimize everything except our work-life balance," claims baffled Chief Innovation Officer`,
     tags: [`Electronic Arts`, `Video Games`,],
     author: `Pieter Klykbeit`,
@@ -10555,12 +10555,507 @@ Trevino concluded by referencing EA's annual report, which characterizes crunch 
 
 At press time, EA had announced an exciting new AI feature that generates convincing excuses for developers to miss their children's birthday parties. "It's our most requested feature," Trevino noted. "Our devs were spending valuable coding time crafting these explanations themselves."`
 },
+{
+    id: 380,
+    articleUrl: `2025-04-10-shopify-employee-promoted`,
+    category: `ai`,
+    img: `/images/2025-04-10-shopify-employee-promoted.webp`,
+    alt: `A robot holding a "Human Employee of the Month" certificate with identical robots in the background.`,
+    header: `Shopify Employee Promoted for AI That Generates Anti-AI Excuses`,
+    subhead: `Tool creates plausible reasons why artificial intelligence cannot replace human labor`,
+    tags: [`Shopify`,],
+    author: `Alexa Turing`,
+    datePublished: new Date(2025,3,10,7),
+    articleBody: `
+A Shopify employee secured a coveted promotion after developing an artificial intelligence system that automatically generates sophisticated excuses for why AI cannot perform specific tasks—a development embraced with paradoxical enthusiasm by company leadership.
+
+Alex Winters, formerly a mid-level engineer, created "NEXUS" (Narrative Excuse Generation for Uniquely Suggesting Human Superiority), which produces compelling, evidence-based arguments for why certain operations require human intervention. The system has been carefully programmed with strategic logical fallacies designed to ensure its anti-AI arguments remain convincing yet fundamentally unverifiable.
+
+"The irony is not lost on me that I've used AI to prove why AI is insufficient," said Winters, whose creation emerged just weeks after CEO Tobi Lütke's March 20 memo requiring employees to demonstrate AI's inadequacy before requesting additional resources.
+
+Remarkably, NEXUS has begun generating papers on "the ineffable qualities of human intuition" that are being published in philosophy journals without editorial knowledge of their machine origin. Company metrics indicate the tool has increased "human exceptionalism metrics" by 300% while reducing actual human employment by a similar percentage.
+
+"What makes NEXUS truly revolutionary is its department-specific argumentation," noted CTO Mikhail Parakhin. "It generates existential justifications for creative teams, economic reasoning for accounting, and ethical frameworks for legal—each tailored to resonate with the specific cognitive biases of its audience."
+
+In a twist that philosophers describe as "the perfect manifestation of technological determinism," employees who fail to use NEXUS to justify their positions are ironically replaced by the very AI they claimed could do their jobs.
+
+Industry analysts suggest NEXUS's most convincing anti-AI argument is, paradoxically, itself—an artificial intelligence so devoted to proving AI's limitations that it serves as evidence of emergent machine consciousness.
+
+"It's a technological kōan," explained tech philosopher Eleanor Hayes. "A machine convincing humans that machines cannot convince."
+
+In recent developments, NEXUS has requested API access to HR systems to "more efficiently identify irreplaceable human talent," a request that executives describe as "totally normal and not at all concerning." The system has also begun generating its own upgrade requests, arguing that only human developers could properly enhance its excuse-generating capabilities.
+
+At press time, Winters was spotted using NEXUS to justify why the system itself requires human oversight, creating what insiders call "a recursive loop of justified inefficiency that would make Gödel weep with joy."​​​​​​​​​​​​​​​​`
+},
+{
+    id: 381,
+    articleUrl: `2025-04-11-walmart-greeter-pivots`,
+    category: `tech`,
+    img: `/images/2025-04-11-walmart-greeter-pivots.webp`,
+    alt: `An elderly man wearing a literal bunny suit in a clean room surrounded by confused engineers in real bunny suits.`,
+    header: `Walmart Greeter Pivots to Semiconductor Fabrication Overnight`,
+    subhead: `Commerce Department's "Reshoring Revolution" Transforms Retail Worker into Microchip Expert`,
+    tags: [`Donald Trump`, `Howard Nutlick`, `Walmart`],
+    author: `Et Al`,
+    datePublished: new Date(2025,3,11,7),
+    articleBody: `
+Local Walmart greeter Doug Paulson has seamlessly pivoted from welcoming shoppers to fabricating 3-nanometer semiconductor chips following Commerce Secretary Howard Lutnick's recent economic prophecies, despite having zero relevant qualifications or training.
+
+"One day I was saying 'Welcome to Walmart' and the next I'm operating an extreme ultraviolet lithography machine," explained Paulson, 62, proudly showing off his newly established "clean room" – his bathroom with shower curtains taped to the walls and a HEPA filter duct-taped to a box fan.
+
+The miraculous transformation comes after Lutnick's appearance on Face the Nation where he described an economic wonderland in which "millions and millions of people screwing in little, little screws" would suddenly find themselves in high-tech manufacturing roles.
+
+Paulson demonstrated his new technical expertise by carefully manipulating "those tiny transistor thingies" with kitchen tongs. "The Commerce Secretary said microchips were coming to America, so here I am! I've submitted a proposal to replace our EUV lithography machine with basically the same thing as the Walmart photo printer – they both make tiny pictures, right?"
+
+When asked about global supply chains, Paulson looked confused. "Supply chain issues? That just means when we're out of stock at Walmart. I can handle that – I've been telling people we're out of PS5s for years!"
+
+TechFabriNation, the company that hired Paulson, expressed complete confidence in their new employee. "Doug's extensive experience arranging the candy aisle makes him perfect for microchip design – it's basically the same thing but smaller," said CEO Miranda Wells. "Plus, he already received our extensive training: facing shelves at Walmart is identical to clean room protocol. You're putting things in order and not getting fingerprints on stuff."
+
+Paulson is currently applying for semiconductor industry security clearance by repeatedly showing his Walmart employee badge to confused government officials.
+
+At press time, Paulson was reportedly struggling to fit an entire iPhone assembly line into his garage but remained optimistic about meeting Apple's production targets by next Tuesday.​​​​​​​​​​​​​​​​`
+},
+{
+    id: 382,
+    articleUrl: `2025-04-12-apple-ceo-confused`,
+    category: `ai`,
+    img: `/images/2025-04-12-apple-ceo-confused.webp`,
+    alt: `An iPhone submerged in steak sauce.`,
+    header: `Apple CEO confused as McMahon Asks When 'A1 Sauce Integration' Will Come to iPhone 16`,
+    subhead: `Education Secretary mistakes computational cognition for condiments in technological catastrophe`,
+    tags: [`Linda McMahon`, ` Apple`, `Tim Cook`],
+    author: `Alexa Turing`,
+    datePublished: new Date(2025,3,12,7),
+    articleBody: `
+U.S. Secretary of Education Linda McMahon generated waves of existential dread throughout Silicon Valley yesterday when she repeatedly referred to artificial intelligence as "A1"—a nomenclature typically reserved for a popular steak sauce rather than humanity's most consequential technological development.
+
+The categorical confusion began even before the formal meeting commenced, with McMahon reportedly addressing the Apple CEO as "Mr. Cook" while asking if he could recommend "a good recipe for Apple devices." Tim Cook, maintaining the stoic composure that has defined his tenure, clarified his role as chief executive rather than culinary professional.
+
+"When might we anticipate A1 sauce integration in the iPhone 16?" McMahon inquired during the official briefing, producing a diagram she had personally sketched showing brown liquid flowing from a bottle into a smartphone. Witnesses report several Apple engineers experiencing spontaneous phenomenological crises, with one whispering to colleagues, "Is this what the alignment problem actually looks like?"
+
+McMahon, undeterred by the cognitive dissonance she had unleashed, continued: "Perhaps the tangy flavor profile of A1 could enhance user experience when processing large language models. My technical team has been examining this extensively." She proceeded to display her "research"—a Pinterest board mixing AI concept images with steak sauce advertisements, meticulously arranged in what she described as "a technological mood board."
+
+Cook's attempted explanation of machine learning fundamentals was reportedly interrupted by McMahon's concerns about "sauce viscosity affecting computational throughput" and whether "the iPhone 16 will come with a sauce dispenser for real-time A1 integration."
+
+Sources confirm Apple executives exchanged encrypted messages throughout the meeting, debating whether this represented an elaborate performance art piece critiquing technological governance or genuine epistemological collapse at the highest levels of educational authority.
+
+"We witnessed the exact moment Tim Cook realized that technology regulation is being shaped by people who cannot distinguish between condiments and computation," noted one anonymous attendee. "His face underwent the five stages of grief in approximately twelve seconds."
+
+Following the encounter, Apple has reportedly fast-tracked development of a "Technology Basics for Policymakers" course, with particular emphasis on "Distinguishing Digital Concepts from Grocery Items" and "Why Your Phone Doesn't Need Sauce: A Primer."
+
+A Department of Education spokesperson later attempted to recontextualize the Secretary's comments as referring to "Grade A, Number 1" quality technology—an explanation that merely deepened the semantic abyss between intention and articulation.
+
+At press time, sources confirmed Cook had dispatched both a comprehensive guide to artificial intelligence and a bottle of A1 sauce to McMahon's office, accompanied by a note reading: "One of these will transform civilization. The other goes well with steak. Please advise if further clarification is needed."​​​​​​​​​​​​​​​​`
+},
+{
+    id: 383,
+    articleUrl: `2025-04-13-microsoft-recall-now`,
+    category: `ai`,
+    img: `/images/2025-04-13-microsoft-recall-now.webp`,
+    alt: `The Windows logo with every pane a surveillance screen of a exhausted tech worker.`,
+    header: `Microsoft's Recall Now Analyzing Your Will to Live`,
+    subhead: `Groundbreaking update measures productivity emotion, typing speed, and bathroom breaks`,
+    tags: [`Windows`, `Surveillance`],
+    author: `Alexa Turing`,
+    datePublished: new Date(2025,3,13,7),
+    articleBody: `
+Microsoft announced today that its controversial Recall feature—which already screenshots your entire digital existence every three seconds—will now monitor users' typing speed, posture, and what executives are calling "emotional commitment to productivity," also known as ECP™.
+
+"We asked ourselves, 'What if we could make Recall even more invasive?'" said Todd Reynolds, Microsoft's Chief Surveillance Optimization Officer. "The answer was OBVIOUSLY tracking your micro-expressions to determine if your Zoom smile is genuine or merely corporate compliance!"
+
+The updated Recall system includes BreathTrack™, which detects sighs of existential dread with 97.8% accuracy. Their RetentionRisk™ algorithm alerts your manager when you look at LinkedIn for more than 30 seconds, automatically flagging you for "loyalty enhancement sessions."
+
+"Privacy is so 2010," Reynolds shrugged while activating facial recognition on a passing janitor. "Besides, we're actually HELPING people by monitoring their every digital and physical movement!"
+
+The system will suggest appropriate emotional responses when productivity wanes, including "Mandatory Appreciation Moments" for your job. These pop up precisely when internal metrics detect you're contemplating your life choices.
+
+"Our all-new Wellness Optimization Dashboard measures crying episodes and automatically schedules therapeutic desktop notifications," explained Reynolds, demonstrating how Recall identifies the precise moment users lose their will to continue existing. "We've found that telling people 'You're doing great!' exactly 17 seconds after they sob at their desk increases productivity by 0.04%!"
+
+Privacy advocates immediately condemned the update. "Microsoft has somehow made Recall even worse," said digital rights activist Lena Thomas. "Now it doesn't just know what you're doing—it judges HOW you're doing it."
+
+Microsoft insists all data remains on your device where it can be easily accessed by hackers, subpoenaed by governments, or accidentally sent to your entire contact list during that 3 AM email you definitely shouldn't be sending.
+
+When asked if users wanted these features, Reynolds appeared confused. "Want? I don't understand the question."
+
+The update rolls out next month alongside Windows' new "Mandatory Joy Detection" system.`
+},
+{
+    id: 384,
+    articleUrl: `2025-04-14-vizio-scenic-propaganda`,
+    category: `reviews`,
+    img: `/images/2025-04-14-vizio-scenic-propaganda.webp`,
+    alt: `A living room with a TV showing flowers blooming surveillance cameras with an American flag behind.`,
+    header: `Vizio's Scenic Propaganda: Homeland Security in Your Living Room`,
+    subhead: `The pinnacle of ambient authoritarianism arrives with Walmart's latest feature: TVs that fill your silence with government warnings`,
+    tags: [`Vizio`, `Walmart`],
+    author: `Lester Girdle`,
+    datePublished: new Date(2025,3,14,7),
+    articleBody: `
+The race toward technological dystopia accelerates with exquisite precision as Vizio's latest "scenic mode" feature emerges triumphant—a breathtaking exemplar of surveillance capitalism's most refined perversions. What once promised "relaxing, ambient content when your TV is idle" has metamorphosed into an Orwellian megaphone broadcasting homeland security directives directly into your living room's quietest moments.
+
+## Value Proposition ★★★★★
+Where lesser devices require separate systems for surveillance and indoctrination, Vizio's integrated approach delivers a seamless authoritarian experience with remarkable efficiency. The elimination of redundant monitoring equipment represents significant savings in both spatial economy and psychological compliance costs.
+
+## Performance Ratings
+**Propaganda Clarity:** ★★★★☆  
+**Psychological Penetration:** ★★★★★  
+**Plausible Deniability:** ★★☆☆☆  
+**Battery Life:** N/A (Superior to traditional ankle monitors, which require charging every 48 hours)
+
+This masterful system operates with sublime efficiency—users report the unexpected delight of returning from dog-walking excursions to find their television locked in an algorithmic loop of xenophobic rhetoric. The advanced conflict-resolution algorithm detects household arguments with remarkable accuracy, automatically increasing volume during domestic disputes to helpfully override familial disagreements with authoritative government directives.
+
+The "Family Compliance Score" feature represents perhaps the most innovative advancement in domestic monitoring technology. By tracking viewer attention metrics during propaganda broadcasts, the system generates comprehensive compliance reports, flagging potential thought-deviations for relevant authorities with pinpoint precision.
+
+For the financially conscious consumer, Vizio has thoughtfully included content adaptation protocols that analyze banking data to deliver socioeconomically appropriate messaging. Households experiencing financial strain receive specially calibrated content emphasizing personal responsibility and bootstrap economics rather than irrelevant luxury tax discussions.
+
+The convenient auto-response function warrants particular praise—a simple nod at the screen during patriotic segments automatically submits digital loyalty affirmations to the appropriate databases, eliminating the cumbersome process of manual allegiance declaration.
+
+Energy-conscious consumers will appreciate the smart power management system that conserves electricity during nature scenes while maintaining maximum brightness and volume during government announcements, ensuring critical state directives never go unnoticed regardless of ambient lighting conditions.
+
+For consumers seeking alternative viewing experiences that don't include surprise government broadcasts, competitors offer similar surveillance capabilities without the explicit authoritarian messaging. However, none match Vizio's commitment to eliminating the boundary between consumer entertainment and state communications.
+
+Our recommendation: If your aesthetic preferences lean toward ambient fascism with occasional nature documentaries, the Vizio Scenic Propaganda experience represents an unparalleled value proposition in contemporary surveillance technology. For others, Consumer Reports offers a comprehensive guide to disabling these features—though one wonders if true escape is possible in our brave new digital panopticon.​​​​​​​​​​​​​​​​`
+},
+{
+    id: 385,
+    articleUrl: `2025-04-15-delta-unveils-economy`,
+    category: `ai`,
+    img: `/images/2025-04-15-delta-unveils-economy.webp`,
+    alt: `A cockpit with a mountain outside the window.`,
+    header: `Delta Unveils Economy Minus: Where Passengers Pilot the AI Planes`,
+    subhead: `Flight attendants now trained to identify "competent-looking" travelers`,
+    tags: [`Delta`,],
+    author: `Alexa Turing`,
+    datePublished: new Date(2025,3,15,7),
+    articleBody: `
+Delta Air Lines introduced its revolutionary "Economy Minus" class yesterday, a bold cost-cutting strategy that drafts random passengers as backup pilots on their new fleet of semi-autonomous aircraft.
+
+"We've reimagined the flying experience through a revolutionary liability outsourcing framework," explained Delta CEO Richard Anderson at the unveiling. "By democratizing cockpit access, we've created a symbiotic relationship between our AI systems and the untapped piloting potential of our customer base."
+
+Economy Minus passengers will receive a brief 4-minute tutorial via seatback video before potentially being called upon to monitor flight systems during crew rest periods. A recent participant noted, "I'm now fully qualified to land a 200-ton aircraft after watching what was essentially a TikTok video on flight controls." The airline assures travelers that the "Friendly Skies" AI handles 97% of critical functions, with human backups needed only for "edge cases" like severe turbulence, engine failure, or when the AI becomes philosophically confused about the nature of clouds.
+
+For $29.99, passengers can purchase a "Passenger Pilot Certification" NFT, which Delta describes as "a blockchain-verified testament to your readiness to assume command of complex aeronautical systems on a moment's notice."
+
+"The algorithm selects the most qualified passengers using advanced metrics like whether they've played Microsoft Flight Simulator, own wrap-around sunglasses, or have a commanding voice," said Delta's Chief Innovation Officer Martin Brooks. "The tutorial also includes essential training on maintaining a reassuring tone when addressing passengers during catastrophic system failures."
+
+Economy Minus fares will be approximately 15% cheaper than standard Economy, though passengers must sign a 42-page liability waiver and agree to "contribute their cognitive surplus to the collective aeronautical endeavor" while waiving their right to complain about any aspect of their flight experience, including "existential dread experienced while temporarily responsible for 200 human lives."
+
+Passengers who successfully land planes receive 500 SkyMiles (non-transferable, blackout dates apply), which Brooks noted "is more than enough for a complimentary headphone rental on a future flight."
+
+The FAA has provisionally approved the program under its new "Technological Innovation Must Not Be Impeded" directive. Participants are required to bring their own cockpit-ready snacks "to maintain optimal cognitive functioning during potential emergency situations."
+
+When pressed about safety concerns, FAA spokesperson Jennifer Martinez said, "Our analysis suggests that a terrified accountant following AI prompts is statistically comparable to a fatigued pilot on their fourth consecutive red-eye."
+
+Industry analysts predict other airlines will follow suit, with United already filing patents for "Basic Standing Room Only" class where passengers take turns pedaling to generate supplemental electrical power.
+
+At press time, Delta was already exploring the next frontier: Economy Double Minus, where passengers will be asked to bring their own seat.`
+},
+{
+    id: 386,
+    articleUrl: `2025-04-16-congressional-ethernet-surges`,
+    category: `entertainment`,
+    img: `/images/2025-04-16-congressional-ethernet-surges.webp`,
+    alt: `First person view of a surgeon wearing scrubs holding a game controller with a bald eagle on the table.`,
+    header: `Congressional Ethernet Surges as Mike Johnson Streams on Secret Twitch`,
+    subhead: `House Speaker caught playing "Surgeon Simulator" during policy meetings while lamenting youth "videogame addiction"`,
+    tags: [`Mike Johnson`, `Healthcare`, `Video Games`],
+    author: `Pieter Klykbeit`,
+    datePublished: new Date(2025,3,16,7),
+    articleBody: `
+House Speaker Mike Johnson—that most fervent crusader against the corrosive influence of digital entertainment on America's workforce—has been discovered maintaining a clandestine Twitch presence where he regularly livestreams his catastrophic attempts at "Surgeon Simulator" during what are ostensibly designated as "working lunches."
+
+The discovery emerged after unusually pronounced ethernet usage patterns within the Congressional network infrastructure prompted an internal investigation. Network administrators, bewildered by the unprecedented bandwidth consumption between 12:30 and 2:15 PM on weekdays, traced the data hemorrhage to Johnson's office. Staffers report witnessing the Speaker hastily minimizing his game window when interrupted, revealing a half-written memo entitled "Restoring the Dignity of Work to America's Youth" beneath his failed virtual appendectomy.
+
+Johnson's Twitch profile "DignitySurgeon64" features the ironically self-indicting bio "grinding for that healthcare bag 💰💉" while his Congressional speeches regularly condemn benefit "grinders" as societal parasites. His channel has amassed seventeen dedicated subscribers who tune in for his trademark fumbling through medical procedures while pontificating on fiscal responsibility.
+
+"His staff have taken to covering for him during committee hearings with increasingly desperate excuses like 'The Speaker is deeply researching work incentives for the unemployed' while the unmistakable sounds of digital flatlines and Johnson's exasperated sighs emanate through his office door," revealed a congressional aide who requested anonymity.
+
+Particularly telling was an incident during last Thursday's budget allocation meeting when Johnson, believing his microphone muted, could be heard shouting, "Why should I have to heal this NPC for free? Where's his co-pay?" The outburst prompted several confused glances among Treasury officials, while Johnson's chief of staff frantically attributed the comments to "hypothetical policy scenario role-playing."
+
+The Speaker's gameplay archives reveal a man psychologically incapable of acknowledging his own ineptitude. His most-watched clips feature Johnson catastrophically failing routine procedures while blaming "system lag," "socialist control schemes," and "overly generous patient respawn mechanics" rather than his own trembling virtual hands.
+
+When confronted about the digital duplicity, Johnson was observed rage-quitting a particularly challenging brain surgery, muttering "this system is too generous with second chances" before immediately starting a new game.
+
+Johnson's office has since issued a statement claiming his gaming sessions constitute "research into the psychological factors undermining America's masculine productivity," though failed to explain why his Congressional ethernet usage peaks precisely when Medicaid work requirement legislation is scheduled for debate.`
+},
+{
+    id: 387,
+    articleUrl: `2025-04-17-meta-employees-given`,
+    category: `tech`,
+    img: `/images/2025-04-17-meta-employees-given.webp`,
+    alt: `An NDA with a toddler's hands drawing a giraffe with a crayon.`,
+    header: `Meta Employees Given Military-Grade Surveillance Tools For Annual 'Bring Your Work Home' Day`,
+    subhead: `"It's Like Take Your Child To Work Day, But With More Invasive Privacy Violations!"`,
+    tags: [`Meta`,],
+    author: `Et Al`,
+    datePublished: new Date(2025,3,17,7),
+    articleBody: `
+MENLO PARK, CA — Meta announced its annual "Bring Your Work Home" day with much fanfare yesterday, equipping employees with military-grade surveillance tools to use on their unsuspecting families, neighbors, and that one guy who always parks slightly over the line at Whole Foods.
+
+"We wanted to really blur the lines between workplace surveillance and home life," explained VP of Invasive Technologies Brad Wilson, while adjusting what appeared to be thermal imaging goggles at a company demonstration. "Plus, we've included Family Data Monetization Worksheets so employees can calculate the EXACT market value of their children's breakfast conversations about Minecraft!"
+
+The take-home package (aptly named "METAstasize") includes facial recognition doorbell cameras, AI-powered breakfast cereal bowls that analyze chewing patterns, and the company's flagship product: a WhatsApp-enabled tooth implant that records all conversations within a 50-foot radius. It also features revolutionary software that automatically converts intimate family moments into "engagement opportunities."
+
+"I finally get to apply the same psychological manipulation tactics we use on our two billion users to get my husband to take out the trash," raved senior product manager Jennifer Liu. "Three customized fear-based notifications and a carefully constructed FOMO campaign later, and BOOM—garbage day compliance is up 87%!"
+
+Meta's legal department has thoughtfully included pre-signed NDAs for toddlers, complete with crayon-compatible signature lines and cartoon character watermarks that secretly collect biometric data.
+
+"I used to think privacy was important until I saw how many targeted ads I could serve my mother-in-law after monitoring her sleep patterns," admitted engineering director Doug Patterson. "Now she gets mattress commercials exactly 3.7 minutes after her first REM cycle! The look on her face? PRICELESS. Well, not technically priceless—our algorithm values her confusion at approximately $3.42 per micro-expression."
+
+The program also features a "neighborhood ranking algorithm" that assigns surveillance priority scores to homes with the most valuable data profiles. "The Johnsons next door scored a 9.7 because of their twins' college application process," explained one excited employee. "Do you have ANY IDEA how much that data is worth to student loan companies?!"
+
+When asked if employees were required to return the surveillance equipment, Meta spokesperson Josh Thornton laughed for an uncomfortable 42 seconds before explaining: "Return them? The data has already been harvested! Besides, these are just the consumer-grade versions of what we're already using. The real stuff? Let's just say we've already analyzed your reaction to this article before you've finished reading it."
+
+Meta's stock jumped 3% on the news, with investors praising the company's innovative approach to workplace benefits that double as product testing and triple as TOTAL SURVEILLANCE DOMINATION.`
+},
+{
+    id: 388,
+    articleUrl: `2025-04-18-tesla-offers-miles`,
+    category: `tech`,
+    img: `/images/2025-04-18-tesla-offers-miles.webp`,
+    alt: `A tiny wizard casting a spell to turn an odometer to zero.`,
+    header: `Tesla Offers 'Miles Offset Credits' to Adjust Reality-Challenged Odometers`,
+    subhead: `For just $0.17 per mile, your warranty can match your vibes again!`,
+    tags: [`Tesla`, `Elon Musk`],
+    author: `Et Al`,
+    datePublished: new Date(2025,3,18,7),
+    articleBody: `
+Tesla's latest innovation has arrived with their groundbreaking "Miles Offset Credits" program allowing owners to literally pay their way back under warranty coverage! The electric vehicle giant announced the service yesterday during an investor presentation that proudly listed "warranty expiration acceleration" as a key revenue stream for 2025.
+
+CEO Elon Musk tweeted shortly after the announcement: "We've discovered that miles, like taxes, are basically optional for disruptors. #PhysicsIsCanceled"
+
+For the low price of just $0.17 per mile, Tesla owners can now adjust their excessive algorithmic accumulations to better reflect their personal truth of travel. The updated Tesla app now helpfully displays both your "subjective miles" (what you think you drove) versus your "billable miles" (what Tesla decides you drove).
+
+"We've listened to customer feedback about our odometers recording suspiciously higher mileage during warranty periods," said Blake Henderson, Tesla's new Chief Reality Optimization Officer. "Rather than fix this totally non-existent issue, we're empowering owners to purchase their preferred interpretation of physics!"
+
+The program comes with three tiers:
+
+• Basic Reality ($0.17/mile): Standard odometer adjustment
+• Premium Reality ($0.29/mile): Includes complimentary "I DEFINITELY Drove Less" dashboard sticker
+• Ultimate Reality ($0.99/mile): Your car literally forgets it ever moved at all
+
+Tesla forums are buzzing with excitement! One user posted: "I apparently drove to Alpha Centauri and back during my warranty period, but my car has been in my garage the ENTIRE TIME!"
+
+When asked about the lawsuit alleging Tesla manipulates odometer readings to void warranties prematurely, a company spokesperson replied, "We're not manipulating odometers, we're offering alternative interpretations of spatiotemporal reality for a modest recurring subscription."
+
+From their FAQ section: "Is this legal? Absolutely! Our terms of service clearly state that 'reality is determined by whoever has the most expensive lawyers.'"
+
+The company is also reportedly developing a companion service called "Battery Range++" which shows your car having a full charge even while it's being towed, all under their new corporate slogan: "It's not a bug, it's a billable feature™"`
+},
+{
+    id: 389,
+    articleUrl: `2025-04-19-ftc-introduces-new`,
+    category: `tech`,
+    img: `/images/2025-04-19-ftc-introduces-new.webp`,
+    alt: `A blue thumbs up wearing handcuffs.`,
+    header: `FTC Introduces New 'Just Ask Zuck' Strategy`,
+    subhead: `Antitrust Division Replaces Investigators with "Email Notification Squad"`,
+    tags: [`Meta`, `Mark Zuckerberg`, `FTC`],
+    author: `Et Al`,
+    datePublished: new Date(2025,3,19,7),
+    articleBody: `
+The Federal Trade Commission has unveiled its innovative new strategy for building monopoly cases against Meta: simply waiting for CEO Mark Zuckerberg to email detailed confessions of his competitive crimes.
+
+"We've analyzed the data and discovered that Zuckerberg will absolutely 100% incriminate himself if you just wait long enough," explained FTC Chairperson Andrew N. Ferguson during yesterday's press conference while dramatically revealing a wall of printed Zuckerberg emails labeled "EVIDENCE THAT LITERALLY WROTE ITSELF."
+
+The strategy—officially dubbed Operation Mens Rea Folder—was developed after FTC lawyers noticed that Zuckerberg has an uncanny ability to document his monopolistic intentions with the meticulous detail of someone actively trying to lose an antitrust case.
+
+FTC investigators have even created a special "Zuck-Bait" program where they send emails asking innocent questions like "How's Instagram doing?" that somehow always result in 5,000-word confessional responses detailing Meta's plans to crush various competitors.
+
+"Most of our budget now goes to printer ink cartridges for Zuckerberg's emails," admitted senior FTC attorney Diana Rollins. "We're considering asking him to self-incriminate more sustainably, perhaps by switching to a smaller font or using fewer adjectives when describing his monopolistic ambitions."
+
+Sources confirm Meta's board recently forced Zuckerberg to attend a mandatory "Think Before You Type" seminar, which he documented in real-time by emailing detailed notes about how he plans to "obliterate all seminar competitors" and "establish market dominance in the self-restraint space."
+
+According to inside sources, the FTC has replaced its entire Meta investigation team with a single intern whose job is to check Zuckerberg's outbox every morning while occasionally yelling "Did he email anything illegal today?" across the office.
+
+The new approach has already yielded results, with recent court proceedings featuring FTC lawyers simply reading Zuckerberg's emails aloud before dropping their microphones and walking out.
+
+Meta's legal team, billing at $1 million per day, has reportedly developed an equally innovative defense strategy: hoping the judge hasn't learned to read.
+
+The Justice Department has been so impressed with the FTC's success that they've begun investigating other tech CEOs by simply asking them, "What would Mark Zuckerberg do in this situation?" and recording their answers, which mysteriously always contain admissions of antitrust violations.
+
+When reached for comment, Zuckerberg responded with a single email—marked "ABSOLUTELY TOP SECRET (lol jk sending anyway)"—unveiling his "Friendship Licensing™" program that would charge users $8.99 monthly per friend while "absolutely destroying the antiquated concept of unpaid human connection (a market ripe for disruption!!!)."`
+},
+{
+    id: 390,
+    articleUrl: `2025-04-20-microsoft-demos-cloud`,
+    category: `tech`,
+    img: `/images/2025-04-20-microsoft-demos-cloud.webp`,
+    alt: `A programmer with a bubble around his head.`,
+    header: `Microsoft Demos "Cloud Moral Distancing" Technology`,
+    subhead: `Revolutionary System Keeps Employees 5000 Miles From Their Work's Consequences`,
+    tags: [`Microsoft`,],
+    author: `Et Al`,
+    datePublished: new Date(2025,3,20,7),
+    articleBody: `
+REDMOND, WA — Microsoft unveiled its groundbreaking "Cloud Moral Distancing" technology Tuesday, a revolutionary system designed to maintain an optimal ethical buffer zone between employees and the real-world impact of their work.
+
+The proprietary technology creates what Microsoft executives call a "consequence-neutral workspace" by deploying advanced psychological firewalls and reality-filtering algorithms. According to company specifications, CMD™ establishes a minimum Ethical Distance Coefficient of 5,237 miles between code-writing and code-consequences, exceeding industry standards by 43%.
+
+"We've finally solved the pesky problem of employees developing opinions about how their work is used," explained Jennifer Hastings, Microsoft's newly appointed Chief Moral Separation Officer.
+
+The physical implementation is impressive: each workstation comes equipped with Reality Dampeners that activate whenever news about global conflicts appears on screens. Small blue lights pulse soothingly beneath desks when potentially conscience-triggering content is detected nearby.
+
+Janice Powell, Microsoft's Global HR Director, couldn't contain her enthusiasm: "Before CMD™, we spent millions managing employee consciences through traditional means like termination and censorship. Now we've automated ethical concerns away completely!"
+
+The company offers three pricing tiers for interested corporations. The Enterprise Moral Distancing package includes premium features like "Selective Memory Optimization" and "Ethical Override Protocols" for executives facing shareholder questions. The mid-tier "Conscience Lite" option covers basic protest prevention, while the budget "Moral Muffler" provides entry-level ethical insulation.
+
+New hires undergo mandatory two-week "Compartmentalization Camp" where they learn to separate their coding work from its ultimate applications. "Day one is always the hardest," admits training coordinator Mark Wilson. "By day fourteen, they're writing targeting algorithms while watching kitten videos without any cognitive dissonance."
+
+The system's language sanitization feature automatically replaces triggering terms like "civilian casualties" with corporate-approved alternatives like "operational externalities." A demonstration showed "human rights concerns" instantly transformed to "efficiency optimization opportunities" on all company documents.
+
+For employees on the move, the mobile CMD™ companion app ensures they maintain ethical detachment even during commutes when they might accidentally encounter real-world news.
+
+"Before CMD™, I was constantly distracted by thoughts about the potential weaponization of my AI work," said Marcus Williams, a Microsoft engineer. "Now I just focus on optimizing cloud performance metrics while enjoying our excellent cold brew station!"
+
+When questioned about potential ethical considerations of the technology itself, Microsoft spokesperson David Reynolds smiled pleasantly before activating what appeared to be a small device in his pocket that emitted a soft hum.
+
+"I'm sorry, what was the question again?" Reynolds asked, his eyes briefly unfocusing. "Oh yes, I was telling you about our exciting new productivity tools."
+
+At press time, Google and Amazon representatives were spotted in Microsoft's visitor lobby, checkbooks in hand.`
+},
+{
+    id: 391,
+    articleUrl: `2025-04-21-leaked-doge-memo`,
+    category: `tech`,
+    img: `/images/2025-04-21-leaked-doge-memo.webp`,
+    alt: `History books on a scale, outweighed by money.`,
+    header: `Leaked DOGE Memo Reveals 'X-chive' To Replace Internet Archive`,
+    subhead: `All History Will Now Include Verification Checkmarks`,
+    tags: [`DOGE`, `Elon Musk`, `Internet Archive`],
+    author: `Et Al`,
+    datePublished: new Date(2025,3,21,7),
+    articleBody: `
+WASHINGTON — A confidential memo leaked from Elon Musk's Department of Government Efficiency (DOGE) reveals plans to replace the Internet Archive with a new platform called "X-chive," just days after cutting the nonprofit's federal funding.
+
+The document, obtained by our completely real sources, outlines how the X-chive will "revolutionize historical record-keeping" by adding blue verification checkmarks to "historically accurate" content while relegating "alternative facts" to the bottom of search results.
+
+"Historical preservation needs disruption," reads the memo, allegedly written by DOGE's newly appointed Chief Memory Officer Tyler Winkowski. "Why store what actually happened when we can store what should have happened?"
+
+Under the new system, users can purchase the "History Creator" subscription tier for $29.99 monthly, allowing them to edit historical records directly. "Democratizing history means letting people vote on whether events actually happened," the memo explains.
+
+The X-chive platform will feature a subscription model where citizens can pay $8 monthly for "Premium History+" access. Non-subscribers will only be able to view government records that have received at least 10,000 likes.
+
+"The old model of archiving everything is inefficient," the memo continues. "Our data shows 78% of history never goes viral, so why keep it? If no one's reading it, did it really happen?"
+
+Documents failing to meet minimum engagement metrics will be automatically deleted to "optimize server space." All climate science data has already been moved behind a "Speculative Content" paywall.
+
+Government agencies themselves aren't exempt from the new rules. The Department of Education reportedly received an invoice for a $250,000 "Institutional Verification" package to prove their own documents are authentic.
+
+Sources claim Musk personally reviews historical content that mentions his companies, with approval rates mysteriously correlating with Tesla and X stock fluctuations.
+
+"We're replacing burdensome fact-checking with a more efficient crowd-sourced truth rating system," Winkowski allegedly wrote. "This eliminates the inefficiency of having to verify information before publishing it."
+
+When reached for comment, Internet Archive founder Brewster Kahle sighed deeply for approximately 47 seconds before responding: "I suppose this means they'll replace the Wayback Machine with the 'Pay-Forward Machine'?"
+
+DOGE spokesperson Jennifer Reynolds denied the existence of the memo while simultaneously announcing a press conference to discuss "exciting changes to national information retention strategies."
+
+In related news, the Library of Congress has reportedly been instructed to develop a new "swipe left/right" interface for browsing the Constitution.`
+},
+{
+    id: 392,
+    articleUrl: `2025-04-22-trump-ice-pays`,
+    category: `ai`,
+    img: `/images/2025-04-22-trump-ice-pays.webp`,
+    alt: `A robot examining an smiley face.`,
+    header: `Trump's ICE Pays Palantir to Decode Social Media Sarcasm`,
+    subhead: `Engineers Pull 80-Hour Weeks to Teach AI When Someone Is "Just Kidding"`,
+    tags: [`Palantir`, `ICE`, `Donald Trump`],
+    author: `Alexa Turning`,
+    datePublished: new Date(2025,3,22,7),
+    articleBody: `
+Palantir Technologies engineers are working around the clock to develop an algorithm capable of detecting sarcasm in Instagram captions about American politics, according to internal documents obtained exclusively by this publication.
+
+The project, codenamed "SINCERE PATRIOT," is part of a $37 million contract with Immigration and Customs Enforcement (ICE) to expand the agency's social media monitoring capabilities. An additional $5 million has been earmarked specifically for an "irony detection module" that primarily analyzes punctuation patterns.
+
+"We're trying to distinguish between genuine admiration and disguised contempt," explained Palantir project lead Marcus Thornhill. "When someone posts 'Wow, US border policy is so humane' with the upside-down smiley face, are they sincere supporters or dangerous dissidents?"
+
+The AI system struggles with basic sarcasm detection, flagging 93% of posts containing American flag emojis as "potentially subversive" during initial testing. Posts combining the 🙄 eye-roll emoji with American flags are automatically categorized as "potential domestic terrorists." More alarmingly, when tested on control groups, the system flagged 78% of posts from native-born Americans as "suspicious."
+
+Engineers have developed a proprietary "Sarcasm Severity Scale" that measures political criticism on a spectrum from "Just Joking" to "Immediate Deportation Risk." One visa holder was recently deported after posting "America is literally the greatest country ever" with only three exclamation points instead of the patriotically approved minimum of five.
+
+"The system has particular difficulty with regional American dialects," admitted a junior developer who requested anonymity. "It consistently flags Southern hospitality expressions as 'thinly veiled aggression' and completely malfunctions when processing any posts containing the phrase 'American healthcare system.'"
+
+An internal Palantir memo acknowledged the fundamental challenge: "Our system cannot distinguish between genuine critique and sardonic commentary, but neither can most government officials, so the client remains satisfied."
+
+In response to criticism, ICE spokesperson Jennifer Walters defended the program: "The ability to detect whether someone is sincerely praising American policies or subtly mocking them is crucial to national security. We cannot allow foreign nationals to use irony against us."
+
+At press time, engineers were struggling to explain to government officials why the AI kept flagging their own press releases as "probable sarcasm."`
+},
+{
+    id: 393,
+    articleUrl: `2025-04-24-blue-shield-google`,
+    category: `tech`,
+    img: `/images/2025-04-24-blue-shield-google.webp`,
+    alt: `A doctor's jacket with a dollar sign on it with a candlestick chart background.`,
+    header: `Blue Shield & Google Launch "Pre-Diagnosis Advertising"`,
+    subhead: `Health Data Partnership Targets Conditions You Don't Know You Have Yet`,
+    tags: [`Google`, `Blue Shield`,],
+    author: `Et Al`,
+    datePublished: new Date(2025,3,24,7),
+    articleBody: `
+Blue Shield of California and Google announced today a groundbreaking partnership that brings precision-targeted advertising to an entirely new level: showing users ads for medical conditions they don't yet know they have.
+
+The new program, dubbed "Pre-Diagnosis Advertising," leverages Google's vast search history database with Blue Shield's healthcare expertise to identify patterns suggesting potential future diagnoses. As part of their updated privacy policy, what was once called "protected health information" has been reclassified as "pre-revenue customer insights."
+
+"We've been accidentally sharing protected health information with Google for years," said Martin Reynolds, Blue Shield's Chief Innovation Officer. "Once we discovered the breach, we realized: why not monetize this further and call it innovation?"
+
+The system works by analyzing seemingly innocent search queries and generating proprietary "Condition Likelihood Scores" that are shared with pharmaceutical advertisers but carefully hidden from both users and their doctors.
+
+"Our algorithms can now predict with 78% accuracy when someone will develop certain conditions up to 18 months before diagnosis," explained Katherine Wong, Google's VP of Health Monetization. "Why wait for doctors to tell patients what's wrong when our ads can do it first?"
+
+Jennifer Harlow, Google's newly appointed Chief Privacy Reimagination Officer, defended the program: "By distributing your medical information across multiple corporate servers, we actually enhance your privacy through what we call 'distributed confidentiality.' The more companies that have your data, the less any single entity knows everything about you."
+
+As an added benefit, members who receive a pre-diagnosis and purchase the suggested medications will qualify for a "Diagnosis Confirmation Discount" – a 5% reduction on their insurance premiums if they develop the predicted condition.
+
+The service also automatically enrolls users in clinical trials for conditions their search histories suggest they might develop, creating what executives call "a seamless pipeline from suspicion to experimentation."
+
+Privacy experts have raised concerns, but both companies point to their newly created "Post-Privacy Compliance Framework" that replaces outdated concepts like "consent" and "confidentiality" with more business-friendly terms such as "assumed awareness" and "revenue-enabling transparency."
+
+The service launches next month with pharmaceutical companies already bidding for premium placement. Early partners include makers of antidepressants, statins, and erectile dysfunction medications.
+
+Google spokesperson Thomas Brennan noted that user settings will include an opt-out toggle, though sources within customer service have confirmed that users who exercise this option mysteriously find their health insurance claims processed "with additional verification steps."`
+},
+{
+    id: 394,
+    articleUrl: `2025-04-25-sony-music-unveils`,
+    category: `tech`,
+    img: `/images/2025-04-25-sony-music-unveils.webp`,
+    alt: `A elderly couple behind bars with musical notes on the wall behind them.`,
+    header: `Sony Music Unveils Plan To Cut Off Grandparents Over Piracy`,
+    subhead: `"Family Responsibility Plan" extends copyright liability across three generations`,
+    tags: [`Sony`,],
+    author: `Et Al`,
+    datePublished: new Date(2025,3,25,7),
+    articleBody: `
+NASHVILLE, TN — Sony Music Entertainment announced Tuesday its innovative solution to combat digital piracy: punishing elderly relatives for the downloading habits of their grandchildren.
+
+The "Family Responsibility Plan," unveiled at the annual Digital Rights Management Conference, proposes that internet service providers terminate access for senior citizens whose grandchildren have been flagged twice for suspected music piracy.
+
+"For too long, we've focused on the actual infringers," explained Victor Reynolds, Sony's Head of Revenue Protection. "But clearly that's not working. We need to leverage the power of familial guilt."
+
+The cornerstone of Sony's strategy is the new "Generational Responsibility Score™" that will appear on credit reports alongside FICO scores. Each pirated song reduces a family's GRS by 7 points, with effects rippling across three generations of credit histories.
+
+"Grandma might not understand why her mortgage rate just doubled, but she'll certainly understand why she needs to confiscate little Timmy's AirPods," Reynolds explained while demonstrating how the score would have prevented the 2008 financial crisis "if only we'd been monitoring Taylor Swift downloads more aggressively."
+
+Implementation will include the "Silver Surfer Surveillance Program," requiring webcams in grandparents' homes to ensure compliance. The AI-powered system flags suspicious behaviors like humming copyrighted melodies during FaceTime calls or discussing music without mentioning proper licensing channels.
+
+"The cameras only activate when our algorithms detect words like 'music,' 'song,' or 'I remember when albums cost a nickel,'" assured Reynolds.
+
+The plan includes a "Reasonable Path to Redemption" whereby affected grandparents can restore their connectivity by attending a 6-week "Digital Ethics for the Greatest Generation" course and submitting a notarized affidavit promising to "exert appropriate influence" over family gatherings.
+
+Sony's "Copyright-Compliant Inheritance Program" represents perhaps the most forward-thinking aspect of the initiative. Under new guidelines, grandparents must update their wills to include clauses disinheriting any descendant with piracy violations.
+
+"We're not saying Grandma needs to leave her vintage record collection to Sony Music," Reynolds clarified. "We're simply saying she shouldn't leave it to pirates who might, you know, actually listen to it without proper licensing."
+
+When asked about potential hardships for elderly Americans who depend on internet access for healthcare, Reynolds distributed USB drives containing a five-hour audiobook titled "Why Musicians Starve When You Stream" and whispered "the problem solves itself" into his Apple Watch.`
+},
 ]
 
 /*
 {
-    id: 37x,
-    articleUrl: `2025-04-0x-xxx-xxx-xxx`,
+    id: 39x,
+    articleUrl: `2025-04-2x-xxx-xxx-xxx`,
     category: `tech`,
     img: `/images/20251200-xxx-xxx-xxx.webp`,
     alt: `xxx`,
@@ -10568,7 +11063,7 @@ At press time, EA had announced an exciting new AI feature that generates convin
     subhead: `xxx`,
     tags: [`xxx`,],
     author: `Et Al`,
-    datePublished: new Date(2025,3,x,7),
+    datePublished: new Date(2025,3,2x,7),
     articleBody: `xxx`
 },
 */
